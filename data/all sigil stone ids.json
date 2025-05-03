@@ -1,0 +1,272 @@
+[
+  {
+    "Effect": "Absorb Agility, Absorb Endurance",
+    "Descendent ID": "00041FB1",
+    "Subjacent ID": "00041FB2",
+    "Latent ID": "00041FB3",
+    "Ascendent ID": "00041FB4",
+    "Transcendent ID": "00041FB5",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Absorb Endurance, Absorb Fatigue",
+    "Descendent ID": "00041FB7",
+    "Subjacent ID": "00041FB8",
+    "Latent ID": "00041FB9",
+    "Ascendent ID": "00041FBA",
+    "Transcendent ID": "00041FBB",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Absorb Fatigue, Absorb Health",
+    "Descendent ID": "00041FC3",
+    "Subjacent ID": "00041FC4",
+    "Latent ID": "00041FC5",
+    "Ascendent ID": "00041FC6",
+    "Transcendent ID": "00041FC7",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Absorb Health, Absorb Intelligence",
+    "Descendent ID": "00041FC9",
+    "Subjacent ID": "00041FCA",
+    "Latent ID": "00041FCB",
+    "Ascendent ID": "00041FCC",
+    "Transcendent ID": "00041FCD",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Absorb Intelligence, Absorb Magicka",
+    "Descendent ID": "00041FAB",
+    "Subjacent ID": "00041FAC",
+    "Latent ID": "00041FAD",
+    "Ascendent ID": "00041FAE",
+    "Transcendent ID": "00041FAF",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Absorb Magicka, Absorb Speed",
+    "Descendent ID": "00041FCF",
+    "Subjacent ID": "00041FD0",
+    "Latent ID": "00041FD1",
+    "Ascendent ID": "00041FD2",
+    "Transcendent ID": "00041FD3",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Absorb Speed, Absorb Strength",
+    "Descendent ID": "00041FBD",
+    "Subjacent ID": "00041FBE",
+    "Latent ID": "00041FBF",
+    "Ascendent ID": "00041FC0",
+    "Transcendent ID": "00041FC1",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Absorb Strength, Burden",
+    "Descendent ID": "00041FA5",
+    "Subjacent ID": "00041FA7",
+    "Latent ID": "00041FA4",
+    "Ascendent ID": "00041FA6",
+    "Transcendent ID": "00041FA9",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Burden, Damage Fatigue",
+    "Descendent ID": "00041FD5",
+    "Subjacent ID": "00041FD6",
+    "Latent ID": "00041FD7",
+    "Ascendent ID": "00041FD8",
+    "Transcendent ID": "00041FD9",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Damage Fatigue, Damage Health",
+    "Descendent ID": "00041FF9",
+    "Subjacent ID": "00041FFA",
+    "Latent ID": "00041FFB",
+    "Ascendent ID": "00041FFC",
+    "Transcendent ID": "00041FFD",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Damage Health, Damage Magicka",
+    "Descendent ID": "00041FFF",
+    "Subjacent ID": "00042000",
+    "Latent ID": "00042001",
+    "Ascendent ID": "00042002",
+    "Transcendent ID": "00042003",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Damage Magicka, Demoralize",
+    "Descendent ID": "00042005",
+    "Subjacent ID": "00042006",
+    "Latent ID": "00042007",
+    "Ascendent ID": "00042008",
+    "Transcendent ID": "00042009",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Demoralize, Disintegrate Armor",
+    "Descendent ID": "0004200B",
+    "Subjacent ID": "0004200C",
+    "Latent ID": "0004200D",
+    "Ascendent ID": "0004200E",
+    "Transcendent ID": "0004200F",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Disintegrate Armor, Disintegrate Weapon",
+    "Descendent ID": "00042011",
+    "Subjacent ID": "00042012",
+    "Latent ID": "00042013",
+    "Ascendent ID": "00042014",
+    "Transcendent ID": "00042015",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Disintegrate Weapon, Disintegrate Weapon",
+    "Descendent ID": "00042017",
+    "Subjacent ID": "00042018",
+    "Latent ID": "00042019",
+    "Ascendent ID": "0004201A",
+    "Transcendent ID": "0004201B",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Disintegrate Weapon, Dispel",
+    "Descendent ID": "0004201D",
+    "Subjacent ID": "0004201E",
+    "Latent ID": "0004201F",
+    "Ascendent ID": "00042020",
+    "Transcendent ID": "00042021",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Dispel, Fire Damage",
+    "Descendent ID": "00042023",
+    "Subjacent ID": "00042024",
+    "Latent ID": "00042025",
+    "Ascendent ID": "00042026",
+    "Transcendent ID": "00042027",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Fire Damage, Fire Damage",
+    "Descendent ID": "00042053",
+    "Subjacent ID": "00042054",
+    "Latent ID": "00042055",
+    "Ascendent ID": "00042056",
+    "Transcendent ID": "00042057",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Fire Damage, Fire Damage",
+    "Descendent ID": "0004206B",
+    "Subjacent ID": "0004206C",
+    "Latent ID": "0004206D",
+    "Ascendent ID": "0004206E",
+    "Transcendent ID": "0004206F",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Fire Damage, Frost Damage",
+    "Descendent ID": "0004204D",
+    "Subjacent ID": "0004204E",
+    "Latent ID": "0004204F",
+    "Ascendent ID": "00042050",
+    "Transcendent ID": "00042051",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Frost Damage, Frost Damage",
+    "Descendent ID": "0004205F",
+    "Subjacent ID": "00042061",
+    "Latent ID": "00042060",
+    "Ascendent ID": "00042062",
+    "Transcendent ID": "00042063",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Frost Damage, Frost Damage",
+    "Descendent ID": "00042059",
+    "Subjacent ID": "0004205A",
+    "Latent ID": "0004205B",
+    "Ascendent ID": "0004205C",
+    "Transcendent ID": "0004205D",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Frost Damage, Shock Damage",
+    "Descendent ID": "00042065",
+    "Subjacent ID": "00042066",
+    "Latent ID": "00042067",
+    "Ascendent ID": "00042068",
+    "Transcendent ID": "00042069",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Shock Damage, Shock Damage",
+    "Descendent ID": "00042083",
+    "Subjacent ID": "00042084",
+    "Latent ID": "00042085",
+    "Ascendent ID": "00042086",
+    "Transcendent ID": "00042087",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Shock Damage, Shock Damage",
+    "Descendent ID": "00042077",
+    "Subjacent ID": "00042078",
+    "Latent ID": "00042079",
+    "Ascendent ID": "0004207A",
+    "Transcendent ID": "0004207B",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Shock Damage, Silence",
+    "Descendent ID": "0004207D",
+    "Subjacent ID": "0004207E",
+    "Latent ID": "0004207F",
+    "Ascendent ID": "00042080",
+    "Transcendent ID": "00042081",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Silence, Silence",
+    "Descendent ID": "00042090",
+    "Subjacent ID": "00042091",
+    "Latent ID": "00042092",
+    "Ascendent ID": "00042093",
+    "Transcendent ID": "00042094",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Silence, Soul Trap",
+    "Descendent ID": "00042089",
+    "Subjacent ID": "0004208B",
+    "Latent ID": "0004208C",
+    "Ascendent ID": "0004208D",
+    "Transcendent ID": "0004208E",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Soul Trap, Turn Undead",
+    "Descendent ID": "00042096",
+    "Subjacent ID": "00042097",
+    "Latent ID": "00042098",
+    "Ascendent ID": "00042099",
+    "Transcendent ID": "0004209A",
+    "Section": "All Sigil Stone IDs"
+  },
+  {
+    "Effect": "Turn Undead, Fortify Agility",
+    "Descendent ID": "0004209C",
+    "Subjacent ID": "0004209D",
+    "Latent ID": "0004209E",
+    "Ascendent ID": "0004209F",
+    "Transcendent ID": "0004209B",
+    "Section": "All Sigil Stone IDs"
+  }
+]

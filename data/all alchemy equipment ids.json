@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "Apprentice Alembic",
+    "Equipment ID": "0006E310",
+    "Copy Paste Cheat": "player.additem 0006E310 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Apprentice Calcinator",
+    "Equipment ID": "0006E311",
+    "Copy Paste Cheat": "player.additem 0006E311 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Apprentice Mortar & Pestle",
+    "Equipment ID": "0006E312",
+    "Copy Paste Cheat": "player.additem 0006E312 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Apprentice Retort",
+    "Equipment ID": "0006E313",
+    "Copy Paste Cheat": "player.additem 0006E313 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Expert Alembic",
+    "Equipment ID": "0006EE5C",
+    "Copy Paste Cheat": "player.additem 0006EE5C 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Expert Calcinator",
+    "Equipment ID": "0006EE5E",
+    "Copy Paste Cheat": "player.additem 0006EE5E 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Expert Mortar & Pestle",
+    "Equipment ID": "0006EE60",
+    "Copy Paste Cheat": "player.additem 0006EE60 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Expert Retort",
+    "Equipment ID": "0006EE62",
+    "Copy Paste Cheat": "player.additem 0006EE62 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Journeyman Alembic",
+    "Equipment ID": "0006EE52",
+    "Copy Paste Cheat": "player.additem 0006EE52 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Journeyman Calcinator",
+    "Equipment ID": "0006EE55",
+    "Copy Paste Cheat": "player.additem 0006EE55 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Journeyman Mortar & Pestle",
+    "Equipment ID": "0006EE57",
+    "Copy Paste Cheat": "player.additem 0006EE57 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Journeyman Retort",
+    "Equipment ID": "0006EE59",
+    "Copy Paste Cheat": "player.additem 0006EE59 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Master Alembic",
+    "Equipment ID": "0006EE64",
+    "Copy Paste Cheat": "player.additem 0006EE64 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Master Calcinator",
+    "Equipment ID": "0006EE66",
+    "Copy Paste Cheat": "player.additem 0006EE66 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Master Mortar & Pestle",
+    "Equipment ID": "0006EE68",
+    "Copy Paste Cheat": "player.additem 0006EE68 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Master Retort",
+    "Equipment ID": "0006EE6A",
+    "Copy Paste Cheat": "player.additem 0006EE6A 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Novice Alembic",
+    "Equipment ID": "00010604",
+    "Copy Paste Cheat": "player.additem 00010604 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Novice Calcinator",
+    "Equipment ID": "0001057D",
+    "Copy Paste Cheat": "player.additem 0001057D 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Novice Mortar & Pestle",
+    "Equipment ID": "000C7968",
+    "Copy Paste Cheat": "player.additem 000C7968 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Novice Mortar & Pestle",
+    "Equipment ID": "000105E3",
+    "Copy Paste Cheat": "player.additem 000105E3 1",
+    "Section": "All Alchemy Equipment IDs"
+  },
+  {
+    "Name": "Novice Retort",
+    "Equipment ID": "00000C4F",
+    "Copy Paste Cheat": "player.additem 00000C4F 1",
+    "Section": "All Alchemy Equipment IDs"
+  }
+]

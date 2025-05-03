@@ -1,0 +1,67 @@
+[
+  {
+    "Command": "completequestQuestID",
+    "Description": "Completes quest",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "caqs",
+    "Description": "Completes all quest stages (will likely crash your game)",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "GetStageQuestID",
+    "Description": "Shows quest stage forQuestID",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "player.completequestQuestID",
+    "Description": "Removes quest from list. (Does not complete it)",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "ShowQuestTargets",
+    "Description": "Shows active quests ID and stage",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "SetStageQuestIDStageID",
+    "Description": "AdvancesQuestIDtoStageID. Useful for bugged quests. Only works if you use “Altar.Cheat.AllowSetStage true” command beforehand",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "showfullquestlogQuestID",
+    "Description": "Shows all log entries forQuestID",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "showquestlog",
+    "Description": "Show quest log",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "showquestlog 0",
+    "Description": "Show current quest log",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "showquestlog 1",
+    "Description": "Show completed quest log",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "sq",
+    "Description": "Show all quests and stage",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "sqt",
+    "Description": "Show current quest",
+    "Section": "All Quest Commands"
+  },
+  {
+    "Command": "movetoqt",
+    "Description": "Teleport to quest target",
+    "Section": "All Quest Commands"
+  }
+]

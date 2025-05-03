@@ -1,0 +1,5667 @@
+[
+  {
+    "Name": "A Stranger",
+    "NPC ID": "0000A2A5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Abhuki",
+    "NPC ID": "000389B8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Achille",
+    "NPC ID": "000A3166",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Adamus Phillida",
+    "NPC ID": "0002FB2B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Adamus Phillida’s Bodyguard",
+    "NPC ID": "001778DC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Adanrel",
+    "NPC ID": "0001FB56",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Adoring Fan",
+    "NPC ID": "000AED40",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Adosi Serethi",
+    "NPC ID": "0002F865",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Adrian Decanius",
+    "NPC ID": "00016057",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Adrienne Berene",
+    "NPC ID": "0002950A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Adventurer",
+    "NPC ID": "0018ABFB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aelwin Merowald",
+    "NPC ID": "00185FE0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aengvir",
+    "NPC ID": "000514C4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aenvir",
+    "NPC ID": "00035726",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Afflicted Brethren",
+    "NPC ID": "00098254",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Agarmir",
+    "NPC ID": "0001FC54",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Agata",
+    "NPC ID": "0002D028",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Agnar the Unwavering",
+    "NPC ID": "000C55E5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Agnete the Pickled",
+    "NPC ID": "00028F9B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Agronak gro",
+    "NPC ID": "00037FF8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ah",
+    "NPC ID": "000293D5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ahdarji",
+    "NPC ID": "00034E87",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ajum",
+    "NPC ID": "000356CD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Akaviri Commander Mishaxhi",
+    "NPC ID": "0001C48D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alawen",
+    "NPC ID": "0003C15F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alban Corinis",
+    "NPC ID": "0004F125",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alban Justinius",
+    "NPC ID": "0002DF5F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alberic Litte",
+    "NPC ID": "000222B8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aldos Othran",
+    "NPC ID": "000034DE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aleron Loche",
+    "NPC ID": "0000A110",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alessia Ottus",
+    "NPC ID": "0001D346",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alga",
+    "NPC ID": "00035EC4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Algot the Northerner",
+    "NPC ID": "0001D344",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alix Lencolia",
+    "NPC ID": "0018D2B4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alonzo",
+    "NPC ID": "0008595D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aloys Bincal",
+    "NPC ID": "00031867",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alval Uvani",
+    "NPC ID": "00030196",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Alves Uvenim",
+    "NPC ID": "0002D027",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Amantius Allectus",
+    "NPC ID": "000097A5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ambroise Canne",
+    "NPC ID": "00028E75",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Amir",
+    "NPC ID": "00026B4C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Amkaos",
+    "NPC ID": "0003CD19",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Amminus Gregori",
+    "NPC ID": "000A369F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Amusei",
+    "NPC ID": "0003563B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ancotar",
+    "NPC ID": "0002F86D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ancus Afranius",
+    "NPC ID": "0001D354",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Andragil",
+    "NPC ID": "0000A10B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Andre Labouche",
+    "NPC ID": "000C56E4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Andreas Draconis",
+    "NPC ID": "00030FDB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Anedhel",
+    "NPC ID": "00026B36",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Angalmo",
+    "NPC ID": "000234BB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Angalsama",
+    "NPC ID": "00026ADB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Angelie",
+    "NPC ID": "0001FC51",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Anguilon",
+    "NPC ID": "0000A299",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Antoine Branck",
+    "NPC ID": "000488F3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Antoinetta Marie",
+    "NPC ID": "00023E36",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Antus Flonius",
+    "NPC ID": "00067418",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Antus Odiil",
+    "NPC ID": "000222A0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Anvil Guard",
+    "NPC ID": "0000A0AE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Anvil Jailor",
+    "NPC ID": "0000BE55",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Anvil Soldier",
+    "NPC ID": "00026EB4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arcturus",
+    "NPC ID": "000A3163",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ardaline",
+    "NPC ID": "0002D01B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Areldil",
+    "NPC ID": "0001FDD5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arena Champion",
+    "NPC ID": "000274CC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arena Contestant",
+    "NPC ID": "00082DE5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arena Mouth",
+    "NPC ID": "00046653",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arentus Falvius",
+    "NPC ID": "00035EB9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Argonian Chieftain",
+    "NPC ID": "0000556D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Argonian Shaman",
+    "NPC ID": "00005569",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Argonian Tribesman",
+    "NPC ID": "00005560",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ariela Doran",
+    "NPC ID": "000222B0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arielle Jurard",
+    "NPC ID": "0002FD6E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ariente",
+    "NPC ID": "0006BD2B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arkana",
+    "NPC ID": "00027066",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arkved",
+    "NPC ID": "0001EC12",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Armand Christophe",
+    "NPC ID": "00034870",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arnora",
+    "NPC ID": "0005383F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arnora Auria",
+    "NPC ID": "00035ECD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arquen",
+    "NPC ID": "00036308",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arterion",
+    "NPC ID": "00035A18",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arvena Thelas",
+    "NPC ID": "0003571D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Arvin Dalvilu",
+    "NPC ID": "0001ECC9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aryarie",
+    "NPC ID": "0002D01D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ascended Immortal",
+    "NPC ID": "000C526B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ashanta",
+    "NPC ID": "00009C39",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ashni",
+    "NPC ID": "0009700C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ashtus Chenius",
+    "NPC ID": "0001E783",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Assassin",
+    "NPC ID": "00014A27",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Astante",
+    "NPC ID": "00059D2F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Astav Wirich",
+    "NPC ID": "00026093",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Astia Inventius",
+    "NPC ID": "0000A29E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Astinia Atius",
+    "NPC ID": "0001FDD1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Atahba",
+    "NPC ID": "000479F7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Athragar",
+    "NPC ID": "000234BA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Athrelor",
+    "NPC ID": "0002D6FD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Atraena",
+    "NPC ID": "0002F876",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Audens Avidius",
+    "NPC ID": "00026D9A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Augusta Calidia",
+    "NPC ID": "0002F874",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aviera Nirol",
+    "NPC ID": "0008ADCC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Avrus Adas",
+    "NPC ID": "00034E6A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ayisha",
+    "NPC ID": "0008521C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ayleid Guardian",
+    "NPC ID": "00014F16",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aymar Douar",
+    "NPC ID": "00026B7B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Azani Blackheart",
+    "NPC ID": "0002C623",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Azura’s Voce for Recording",
+    "NPC ID": "0002C6C0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Azzan",
+    "NPC ID": "00024166",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Baenlin",
+    "NPC ID": "00023F0B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Baeralorn",
+    "NPC ID": "0000A28C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bandit",
+    "NPC ID": "000055BD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bandit Bowman",
+    "NPC ID": "00069AD2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bandit Hedge Wizard",
+    "NPC ID": "00069AD4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bandit Ringleader",
+    "NPC ID": "00009ABE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Banus Alor",
+    "NPC ID": "0003630A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Baragon",
+    "NPC ID": "000A3167",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Barthel Gernand",
+    "NPC ID": "0003186C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Basil Ernarde",
+    "NPC ID": "0001EC0E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Batul gra",
+    "NPC ID": "0002D6FB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Baurion",
+    "NPC ID": "0003001D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Baurus",
+    "NPC ID": "00023F2A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bazur gro",
+    "NPC ID": "000034DD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Beatrice Gene",
+    "NPC ID": "000982F9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Beewos",
+    "NPC ID": "00026ADA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Beirir",
+    "NPC ID": "0001ECCF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bejeen",
+    "NPC ID": "00034E84",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Belgarr",
+    "NPC ID": "00025264",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Belisarius",
+    "NPC ID": "00037572",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Belisarius Arius",
+    "NPC ID": "00036309",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Beran Sintav",
+    "NPC ID": "00016065",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Berich Inian",
+    "NPC ID": "00028036",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bernadette Peneles",
+    "NPC ID": "000294AF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Betto Plotius",
+    "NPC ID": "00034E89",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Biene Amelion",
+    "NPC ID": "000091F5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bittneld the Curse",
+    "NPC ID": "000234A7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bjalfi the Contemptible",
+    "NPC ID": "00185FE3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Black Bow Bandit",
+    "NPC ID": "000908AC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Black Bow Ringleader",
+    "NPC ID": "000908B6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Black Brugo",
+    "NPC ID": "0008595A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Black Rock Captain",
+    "NPC ID": "000CA18E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Black Rock Pirate",
+    "NPC ID": "000CA18D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Blackwood Company Guard",
+    "NPC ID": "00001734",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Blackwood Company Member",
+    "NPC ID": "0003B302",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Blanche Mastien",
+    "NPC ID": "000B11D6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bleak Mine Guard",
+    "NPC ID": "0001EC4C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bleak Mine Guard Captain",
+    "NPC ID": "0001EC4B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Blind Moth Prelate",
+    "NPC ID": "0014C46E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Blind Moth Priest",
+    "NPC ID": "0014C466",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bloodcrust Vampire",
+    "NPC ID": "0004872A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Blue Team Combatant",
+    "NPC ID": "0002ACD2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Blue Team Gladiator",
+    "NPC ID": "0014683C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Boderi Farano",
+    "NPC ID": "00034EB3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Boethia’s Chosen",
+    "NPC ID": "000A2ADD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Boethia’s Voice for Recording",
+    "NPC ID": "0009F98A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bogrum Gro",
+    "NPC ID": "0000A082",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Boldon",
+    "NPC ID": "0002D6F6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bolor Savel",
+    "NPC ID": "00016483",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bongond",
+    "NPC ID": "000234B6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Borba gra",
+    "NPC ID": "000034C4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Borissean",
+    "NPC ID": "00034EB0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Boromir",
+    "NPC ID": "0002319F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Boroneth",
+    "NPC ID": "00098252",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bosmer Thief",
+    "NPC ID": "0001BC2A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bothiel",
+    "NPC ID": "00034EB7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bradon Lirrian",
+    "NPC ID": "00035EC6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brag gro",
+    "NPC ID": "00027F95",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bralsa Andaren",
+    "NPC ID": "0003E92F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Branwen",
+    "NPC ID": "000A713B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bravil Jailor",
+    "NPC ID": "0000A17D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bremman Senyan",
+    "NPC ID": "00031BC7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brielus Gawey",
+    "NPC ID": "0006845A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Britta Invel",
+    "NPC ID": "0001C166",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brodras",
+    "NPC ID": "00034E72",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brokil gro",
+    "NPC ID": "0000A085",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bronsila Kvinchal",
+    "NPC ID": "000477DB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brooke",
+    "NPC ID": "000231A0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brotch Calus",
+    "NPC ID": "0002991E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brother Hjar",
+    "NPC ID": "000982FC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brother Holger",
+    "NPC ID": "000982FE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brother Hridi",
+    "NPC ID": "000982FD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brother Martin",
+    "NPC ID": "00033907",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brother Piner",
+    "NPC ID": "000223AD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bruccius the Orphan",
+    "NPC ID": "00015D85",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bruce",
+    "NPC ID": "00025237",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brucetus Festinius",
+    "NPC ID": "0002AF42",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bruma Guard",
+    "NPC ID": "0004630B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bruma Investigator Guard",
+    "NPC ID": "00037F74",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bruma Jailor",
+    "NPC ID": "000362ED",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bruma Militia",
+    "NPC ID": "000272C5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bruma Soldier",
+    "NPC ID": "000277A5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bruscius Longus",
+    "NPC ID": "0005D517",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bugak gro",
+    "NPC ID": "00037C33",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bumph gra",
+    "NPC ID": "00035EC2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Bur",
+    "NPC ID": "0009786B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Burd",
+    "NPC ID": "00035EBE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Burz gro",
+    "NPC ID": "00024167",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Caelia Draconis",
+    "NPC ID": "00030FD9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Caenlin",
+    "NPC ID": "00073279",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Caenlorn",
+    "NPC ID": "0000A27D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Caldwyn",
+    "NPC ID": "00027E03",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Calindil",
+    "NPC ID": "00015EA9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Callia Bincal",
+    "NPC ID": "00031869",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Camilla Lollia",
+    "NPC ID": "000038B5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Caminalda",
+    "NPC ID": "0002DC08",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Camonna Tong Thug",
+    "NPC ID": "00009236",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Candice Corgine",
+    "NPC ID": "000243C8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Captain Baszone Patneim",
+    "NPC ID": "00094BE8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Captain Gepard Montrose",
+    "NPC ID": "00095331",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Captain Renault",
+    "NPC ID": "0002349F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Captain Steffan",
+    "NPC ID": "00020078",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carahil",
+    "NPC ID": "0002CD1E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carandial",
+    "NPC ID": "0000A108",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Caranya",
+    "NPC ID": "00034EAD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cargas Laftrius",
+    "NPC ID": "0001E796",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carius Runellius",
+    "NPC ID": "00037F73",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carmalo Truiand",
+    "NPC ID": "00035C83",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carmana Sintav",
+    "NPC ID": "0001605A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carmen Litte",
+    "NPC ID": "000222AE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Caroline",
+    "NPC ID": "00037575",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carsten",
+    "NPC ID": "000039AE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cartrus Gavinius",
+    "NPC ID": "0001E10E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carwen",
+    "NPC ID": "0001FB57",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Casta Flavus",
+    "NPC ID": "000A9487",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Casta Scribonia",
+    "NPC ID": "000222AC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cat",
+    "NPC ID": "000479F5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Caula Allectus",
+    "NPC ID": "0001D34C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Celedaen",
+    "NPC ID": "000355F8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Chana Mona",
+    "NPC ID": "0000A08C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Chanel",
+    "NPC ID": "000222BA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Chapel Guard",
+    "NPC ID": "0001E831",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cheydinhal Gate Guard",
+    "NPC ID": "00031C31",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cheydinhal Guard",
+    "NPC ID": "000055C2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cheydinhal Jailor",
+    "NPC ID": "000055D6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cheydinhal Soldier",
+    "NPC ID": "00026F0D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Chorrol Guard",
+    "NPC ID": "000222BB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Chorrol Jailor",
+    "NPC ID": "00028C80",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Chorrol Soldier",
+    "NPC ID": "000270F6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Christophe Marane",
+    "NPC ID": "0002DC04",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cicero Verus",
+    "NPC ID": "00015EA7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ciindil",
+    "NPC ID": "0001ECD8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cingaer",
+    "NPC ID": "00002E95",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cingor",
+    "NPC ID": "00034E86",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cirroc",
+    "NPC ID": "00035EB8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "City",
+    "NPC ID": "0000A109",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Claude Maric",
+    "NPC ID": "0002AF05",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Claudette Perrick",
+    "NPC ID": "00015EAB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Claudius Arcadia",
+    "NPC ID": "00071D4B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Clesa",
+    "NPC ID": "0003E0DF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Colin Stedrine",
+    "NPC ID": "000982F8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Collatinus Vedius",
+    "NPC ID": "0002B529",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Conjurer",
+    "NPC ID": "0004B92D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Conjurer Adept",
+    "NPC ID": "00009AC0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Contumeliorus Florius",
+    "NPC ID": "000222B7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Corrick Northwode",
+    "NPC ID": "00189D01",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Corrupted Clone",
+    "NPC ID": "00073A2F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Corvus Umbranox",
+    "NPC ID": "0000C22D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cosmus the Cheat",
+    "NPC ID": "00015D81",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Count Andel Indarys",
+    "NPC ID": "000034CA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Count Marius Caro",
+    "NPC ID": "00034E6D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Count Regulus Terentius",
+    "NPC ID": "0000A08E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Count Tyrone Rugen",
+    "NPC ID": "0002B7D0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Count’s Bodyguard",
+    "NPC ID": "000055D4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Countess Alessia Caro",
+    "NPC ID": "00034E8C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Countess Arriana Valga",
+    "NPC ID": "000234AA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Countess Millona Umbranox",
+    "NPC ID": "0000A288",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Countess Narina Carvain",
+    "NPC ID": "00035EBB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Countess’ Bodyguard",
+    "NPC ID": "0003597A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Countess’s Bodyguard",
+    "NPC ID": "0000C0F3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Courier",
+    "NPC ID": "000BE330",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Curtis",
+    "NPC ID": "0001D34A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cylben Dolovas",
+    "NPC ID": "000947BB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cyronin Sintav",
+    "NPC ID": "00016059",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Cyrus",
+    "NPC ID": "0001DB3E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Daenlin",
+    "NPC ID": "0000A089",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dagail",
+    "NPC ID": "0002CD22",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dairihill",
+    "NPC ID": "0000A289",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Damian Magius",
+    "NPC ID": "0001DFB1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Danus Artellian",
+    "NPC ID": "00028FB9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dar Jee",
+    "NPC ID": "00034E76",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dar",
+    "NPC ID": "000280C9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dark Brotherhood Murderer",
+    "NPC ID": "00086753",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "DAVaerminaVoice",
+    "NPC ID": "0008ADCA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Davela Hlaren",
+    "NPC ID": "0003AB4E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Davide Surilie",
+    "NPC ID": "000294BF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Argonian Agent",
+    "NPC ID": "0003558B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Bandit",
+    "NPC ID": "0006BFA4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Captain",
+    "NPC ID": "00095A40",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Captive",
+    "NPC ID": "00064C1D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Crewmember",
+    "NPC ID": "00095A41",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Marauder",
+    "NPC ID": "00065E39",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Meat",
+    "NPC ID": "000980E0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Scholar",
+    "NPC ID": "000C8808",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dead Treasure Hunter",
+    "NPC ID": "000CA005",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Decentius Opsius",
+    "NPC ID": "00034E8B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Deeh the Scalawag",
+    "NPC ID": "00015D89",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Deetsan",
+    "NPC ID": "0002D021",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Deetum",
+    "NPC ID": "000514C5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Degil",
+    "NPC ID": "000B11D4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Delmar",
+    "NPC ID": "00034EB4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Delos Fandas",
+    "NPC ID": "00015EA2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Delphine Jend",
+    "NPC ID": "0002CB2D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Demetrius",
+    "NPC ID": "0005D545",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Denel",
+    "NPC ID": "00035F52",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dennilwen",
+    "NPC ID": "00002E9B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Denyiir",
+    "NPC ID": "00025266",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "derek",
+    "NPC ID": "000342C3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dervera Romalen",
+    "NPC ID": "000034C0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dewey Decimal",
+    "NPC ID": "00025350",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dhola",
+    "NPC ID": "00085110",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Didier Aumilie",
+    "NPC ID": "0000A281",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dion",
+    "NPC ID": "00028FB2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Diram Serethi",
+    "NPC ID": "0002F864",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Doorkeeper",
+    "NPC ID": "0001F106",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dorian",
+    "NPC ID": "0001FDD3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dovesi Dran",
+    "NPC ID": "000277D2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dovyn Aren",
+    "NPC ID": "0001605C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dralora Athram",
+    "NPC ID": "0001FC56",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dranas Lerano",
+    "NPC ID": "00035728",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dranas Llethro",
+    "NPC ID": "000477EC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Drarana Thelis",
+    "NPC ID": "0000BEA7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dredena Hlavel",
+    "NPC ID": "0001ECD6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dreet",
+    "NPC ID": "00009C3A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Drels Theran",
+    "NPC ID": "0000A093",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Archer",
+    "NPC ID": "00014686",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Caitiff",
+    "NPC ID": "00000FCE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Captain",
+    "NPC ID": "0003ABAD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Churl",
+    "NPC ID": "00000FCB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Feydnaz",
+    "NPC ID": "0000C57C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Hatred Keeper",
+    "NPC ID": "00014D61",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Kynmarcher",
+    "NPC ID": "00000FD8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Kynreeve",
+    "NPC ID": "00000FD5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Kynval",
+    "NPC ID": "00000FD1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Lord",
+    "NPC ID": "0003B3DC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Markynaz",
+    "NPC ID": "00000FDB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Scout",
+    "NPC ID": "00014C59",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Sigil Keeper",
+    "NPC ID": "00093EF0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dremora Valkynaz",
+    "NPC ID": "00000FC8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dro’Nahrahe",
+    "NPC ID": "0000A08F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dro’shanji",
+    "NPC ID": "0002CA36",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Druja",
+    "NPC ID": "000293EE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dubok gro",
+    "NPC ID": "0002C7C5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dul gro",
+    "NPC ID": "00016056",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dulfish gro",
+    "NPC ID": "000034D4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dumania Jirich",
+    "NPC ID": "0000A287",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dynari Amnis",
+    "NPC ID": "0001FC57",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Earana",
+    "NPC ID": "000224E2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Edgar Vautrine",
+    "NPC ID": "00015E9D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Edla Dark",
+    "NPC ID": "00035ECF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eduard Denile",
+    "NPC ID": "00034597",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eduard Hodge",
+    "NPC ID": "00074A94",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eduard Retiene",
+    "NPC ID": "000327BA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eilonwy",
+    "NPC ID": "0002D023",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eitar",
+    "NPC ID": "00034E82",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Elante of Alinor",
+    "NPC ID": "00003435",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eldamil",
+    "NPC ID": "0003C806",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eletta",
+    "NPC ID": "000352B3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Elidor",
+    "NPC ID": "00027F93",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Elisa Pierrane",
+    "NPC ID": "00016063",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Elragail",
+    "NPC ID": "0001FDD0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Else God",
+    "NPC ID": "00028F96",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Elsynia",
+    "NPC ID": "0003E183",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Emfrid",
+    "NPC ID": "000234B7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Emperor Uriel Septim",
+    "NPC ID": "00023F2E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Engorm",
+    "NPC ID": "0001C150",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Enilroth",
+    "NPC ID": "00036307",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Enrion",
+    "NPC ID": "00009C3B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Er",
+    "NPC ID": "0001ECB1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eridor",
+    "NPC ID": "000039A6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Erina Jeranus",
+    "NPC ID": "00028F90",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Erissare Arenim",
+    "NPC ID": "0002C0EB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Erline Lirrian",
+    "NPC ID": "00035EC7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ernest",
+    "NPC ID": "0003E0DE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ernest Manis",
+    "NPC ID": "0001FDCF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eronor",
+    "NPC ID": "000223AF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Errandil",
+    "NPC ID": "000034C8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Erthor",
+    "NPC ID": "0002D6E6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Estelle Renoit",
+    "NPC ID": "000234B0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Etira Moslin",
+    "NPC ID": "000280C7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eugal Belette",
+    "NPC ID": "000222AD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Evangeline Beanique",
+    "NPC ID": "0014C715",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eyja",
+    "NPC ID": "0003E193",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fadus Calidius",
+    "NPC ID": "000293DB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Faelian",
+    "NPC ID": "0002F875",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fafnir",
+    "NPC ID": "000837D0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Falanu Hlaalu",
+    "NPC ID": "00028E73",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Falcar",
+    "NPC ID": "0002CD21",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fallen Knight of the Thorn",
+    "NPC ID": "00071B91",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Farwil Indarys",
+    "NPC ID": "00031BC5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fathis Aren",
+    "NPC ID": "0000A090",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fathis Ules",
+    "NPC ID": "0002BA47",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Faurinthil",
+    "NPC ID": "0009700A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Faustina Cartia",
+    "NPC ID": "0003AA89",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Felen Relas",
+    "NPC ID": "0002D019",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ferrum",
+    "NPC ID": "000A3165",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ferul Ravel",
+    "NPC ID": "00026AD6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fetid Jofnhild",
+    "NPC ID": "00015D84",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fighters Guild Porter",
+    "NPC ID": "000947A9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "First Mate Filch",
+    "NPC ID": "000738DB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "First Mate Malvulis",
+    "NPC ID": "00048962",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fithragaer",
+    "NPC ID": "0000BEE6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fjotreid",
+    "NPC ID": "00035EB6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Floyd Nathans",
+    "NPC ID": "000B167D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Forgotten One",
+    "NPC ID": "0005DC98",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Foroch",
+    "NPC ID": "0003AB51",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fortis",
+    "NPC ID": "000A3162",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Foul Fagus",
+    "NPC ID": "00015D8B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Fralav the Faker",
+    "NPC ID": "0001C459",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Francine Velain",
+    "NPC ID": "0008510F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Francois Motierre",
+    "NPC ID": "0002C0C6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Galtus Previa",
+    "NPC ID": "0002D728",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gan Luseph",
+    "NPC ID": "00035EC0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ganredhel",
+    "NPC ID": "000034DB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Garrus Darelliun",
+    "NPC ID": "00031C23",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gaspar Stegine",
+    "NPC ID": "00034EB1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gaston Surilie",
+    "NPC ID": "000294C0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gaston Tussaud",
+    "NPC ID": "00025299",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gaturn gro",
+    "NPC ID": "000234B5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Geel",
+    "NPC ID": "00034E7D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Geem Jasaiin",
+    "NPC ID": "0001EB82",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gelephor",
+    "NPC ID": "00015EA3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gellius Terentius",
+    "NPC ID": "0000A092",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gemellus Axius",
+    "NPC ID": "0001FDD4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Genghis",
+    "NPC ID": "0003832F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "GenghisClad",
+    "NPC ID": "00038331",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gerard Melie",
+    "NPC ID": "00028FA6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gerich Senarel",
+    "NPC ID": "00035EBF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ghorub gro",
+    "NPC ID": "0009828B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ghost of Alain",
+    "NPC ID": "00033CD8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ghost of Casnar",
+    "NPC ID": "000364B8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ghost of Rielus",
+    "NPC ID": "000364B9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ghost of Valdemar",
+    "NPC ID": "000364B7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gilen Norvalo",
+    "NPC ID": "0001D24E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gilgondorin",
+    "NPC ID": "0000A084",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gin",
+    "NPC ID": "0003E92D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Giovanni Civello",
+    "NPC ID": "00037E8D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Githriian",
+    "NPC ID": "00002E99",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Glarthir",
+    "NPC ID": "000294C3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Glenroy",
+    "NPC ID": "00023F2B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Glistel",
+    "NPC ID": "000222A3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Goblin Jim",
+    "NPC ID": "00031317",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gogan",
+    "NPC ID": "0003B3D3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gogron gro",
+    "NPC ID": "00023E38",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gorgo gro",
+    "NPC ID": "0000A2A4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Graklak gro",
+    "NPC ID": "00028F92",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Graman gro",
+    "NPC ID": "0000C1D5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Grantham Blakeley",
+    "NPC ID": "000347B2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gregory Arne",
+    "NPC ID": "00026ADC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Grey",
+    "NPC ID": "0001D252",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gromm",
+    "NPC ID": "00023F0C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gruiand Garrana",
+    "NPC ID": "000034C9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Guard",
+    "NPC ID": "00027FCD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Guilbert Jemane",
+    "NPC ID": "00023E86",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Guilbert Selone",
+    "NPC ID": "0018AD6B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gul gro",
+    "NPC ID": "00026B38",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gundalas",
+    "NPC ID": "00034E68",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gunder",
+    "NPC ID": "00028F98",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gureryne Selvilo",
+    "NPC ID": "000234AD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gwendolyn",
+    "NPC ID": "000837CF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gwinas",
+    "NPC ID": "00022466",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hackdirt Brethren",
+    "NPC ID": "000280C6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Haekwon",
+    "NPC ID": "00026B53",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hafid Hollowleg",
+    "NPC ID": "00035EB0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hagaer",
+    "NPC ID": "0001D352",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hal",
+    "NPC ID": "00028FB0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hamlof Red",
+    "NPC ID": "00015EA0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hannibal Traven",
+    "NPC ID": "00034E16",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hans Black",
+    "NPC ID": "0000A091",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hanz gro",
+    "NPC ID": "000B167F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Harrow",
+    "NPC ID": "00033905",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hasathil",
+    "NPC ID": "0000A29C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hassiri",
+    "NPC ID": "0001FDCE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hastrel Ottus",
+    "NPC ID": "0001D345",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hauls",
+    "NPC ID": "0000A297",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Havilstein Hoar",
+    "NPC ID": "000301AC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hawkeye",
+    "NPC ID": "00027064",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hears",
+    "NPC ID": "000B1670",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Heinrich Oaken",
+    "NPC ID": "0000A29B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Helvius Cecia",
+    "NPC ID": "00035ED0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Helvo Atius",
+    "NPC ID": "0001FC50",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "HEMale",
+    "NPC ID": "000245A5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Henantier",
+    "NPC ID": "0002CA35",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Herminia Cinna",
+    "NPC ID": "0002E5C6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hides",
+    "NPC ID": "000234B3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hieronymus Lex",
+    "NPC ID": "0003486E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "High Chancellor Ocato",
+    "NPC ID": "00014699",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Highwayman",
+    "NPC ID": "000C5229",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hil the Tall",
+    "NPC ID": "000034C6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hillod the Outlaw",
+    "NPC ID": "000477ED",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hindaril",
+    "NPC ID": "000977DA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hircine’s Voice for Recording",
+    "NPC ID": "00051EDB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hirtel",
+    "NPC ID": "0002D6FF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hjolfrodi the Harrier",
+    "NPC ID": "0001E70C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hlaro Dren",
+    "NPC ID": "00064DA4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hlidara Mothril",
+    "NPC ID": "00034E8D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hlofgar",
+    "NPC ID": "00009C38",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Homraz gra Morgrump",
+    "NPC ID": "000234B1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Honditar",
+    "NPC ID": "000234B9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Honmund",
+    "NPC ID": "00035EC3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hrol Ulfgar",
+    "NPC ID": "0001ECD0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Humilis Nonius",
+    "NPC ID": "0003C97A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hundolin",
+    "NPC ID": "00029D75",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Hunting Tail",
+    "NPC ID": "00098295",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Huurwen",
+    "NPC ID": "0000A294",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "I walk up and down stairs",
+    "NPC ID": "00085E4B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ida Ottus",
+    "NPC ID": "0001D347",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ida Vlinorman",
+    "NPC ID": "0001605D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Idrolian",
+    "NPC ID": "00002E9A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ilav Dralgoner",
+    "NPC ID": "0002D6EC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ilend Vonius",
+    "NPC ID": "0009812F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ilvel Romayn",
+    "NPC ID": "0001ECAD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Jailor",
+    "NPC ID": "0018D1F4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Legion Archer",
+    "NPC ID": "00001145",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Legion Battlemage",
+    "NPC ID": "0009263B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Legion Captain",
+    "NPC ID": "0004892F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Legion Centurion",
+    "NPC ID": "00035DFD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Legion Forester",
+    "NPC ID": "00061444",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Legion Messenger",
+    "NPC ID": "000146EA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Legion Soldier",
+    "NPC ID": "00001144",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Legionnaire",
+    "NPC ID": "0009061A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Prison Guard",
+    "NPC ID": "00045F7E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imperial Watch",
+    "NPC ID": "0001C34B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Imus the Dull",
+    "NPC ID": "00015D82",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Iniel Sintav",
+    "NPC ID": "00016055",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Inigo Montoya",
+    "NPC ID": "0002B7CE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Irene Metrick",
+    "NPC ID": "00016058",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Irlav Jarol",
+    "NPC ID": "00014674",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Irroke the Wide",
+    "NPC ID": "00026B14",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Isa Raman",
+    "NPC ID": "00035EB7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Isabeau Bienne",
+    "NPC ID": "00026B4F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Isleif the Open Handed",
+    "NPC ID": "000477E5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Isolde",
+    "NPC ID": "0000A298",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Istirus Brolus",
+    "NPC ID": "00035EC8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ita Rienus",
+    "NPC ID": "0002D01C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Itius Hayn",
+    "NPC ID": "00026D98",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Iver",
+    "NPC ID": "000151FC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "J’baana",
+    "NPC ID": "0009346E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "J’Baasha",
+    "NPC ID": "0008521B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "J’bari",
+    "NPC ID": "00034E77",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "J’Ghasta",
+    "NPC ID": "00030148",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "J’mhad",
+    "NPC ID": "000221C3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "J’riska",
+    "NPC ID": "000897DD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "J’skar",
+    "NPC ID": "0002D01E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "J’zin",
+    "NPC ID": "0000A10C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ja’Fazir",
+    "NPC ID": "00034E7A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jair",
+    "NPC ID": "000477D4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jakben, Earl of Imbel",
+    "NPC ID": "000148D5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jalbert",
+    "NPC ID": "000C80FD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Janonia Aurunceia",
+    "NPC ID": "0004F77D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jantus Brolus",
+    "NPC ID": "00035EC9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Januarius Aurunceia",
+    "NPC ID": "0004F77E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Janus Hassildor",
+    "NPC ID": "00028FAE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jaras Invel",
+    "NPC ID": "0001C168",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jastia Sintav",
+    "NPC ID": "00016067",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jauffre",
+    "NPC ID": "00023999",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Javolia Maborel",
+    "NPC ID": "0005D547",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jean",
+    "NPC ID": "0000A086",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jeanne Frasoric",
+    "NPC ID": "0002CD20",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jearl",
+    "NPC ID": "00035ECB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jee",
+    "NPC ID": "0002FF2A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jeelius",
+    "NPC ID": "00024E0A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jeetum",
+    "NPC ID": "000356EC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jena",
+    "NPC ID": "00037576",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jena Sintav",
+    "NPC ID": "00016068",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jensine",
+    "NPC ID": "00015EA4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jesan Rilian",
+    "NPC ID": "0002800B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jesan Sextius",
+    "NPC ID": "0000A2A3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jhared Strongblade",
+    "NPC ID": "000335B1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jirolin Doran",
+    "NPC ID": "000234AC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jiv Hiriel",
+    "NPC ID": "000280CA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jolie Retiene",
+    "NPC ID": "000327BF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jollring",
+    "NPC ID": "0002AB4C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jorck the Outcast",
+    "NPC ID": "00015D83",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jorundr",
+    "NPC ID": "00036244",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Julienne Fanis",
+    "NPC ID": "00034EAF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Julitta Plotius",
+    "NPC ID": "00034E8A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "K’Sharr",
+    "NPC ID": "00003946",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kalthar",
+    "NPC ID": "0002D8C0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kantav Cheynoslin",
+    "NPC ID": "00034E6C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Karinnarre",
+    "NPC ID": "0003E188",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kastav Kvinchal",
+    "NPC ID": "000477DD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kastus Sintav",
+    "NPC ID": "00016064",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kathutet",
+    "NPC ID": "0003C805",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Keld of the Isles",
+    "NPC ID": "000034CF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kewan",
+    "NPC ID": "0001ECA9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kiara",
+    "NPC ID": "0002DC06",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kirsten",
+    "NPC ID": "0001ECD2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Krognak gro",
+    "NPC ID": "0000A296",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kud",
+    "NPC ID": "0002CD1F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kurdan gro",
+    "NPC ID": "0001F428",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kurdan’s Imperial Hunter",
+    "NPC ID": "0001FEEA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kurdan’s Nord Hunter",
+    "NPC ID": "0001FEEC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kurdan’s Orc Hunter",
+    "NPC ID": "0001FEEF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kurz gro",
+    "NPC ID": "000234BE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kvatch Soldier",
+    "NPC ID": "00026F18",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kylius Lonavo",
+    "NPC ID": "00181C64",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lackey",
+    "NPC ID": "0002AB55",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lady Drad",
+    "NPC ID": "0001EC33",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lady Rogbut gra",
+    "NPC ID": "0000BE80",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Laenafil",
+    "NPC ID": "00028FA7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Langley",
+    "NPC ID": "0000A28B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Laralthir",
+    "NPC ID": "0000A286",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Larthjar the Laggard",
+    "NPC ID": "0000BD60",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lashana",
+    "NPC ID": "0006BD2D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Laythe Wavrick",
+    "NPC ID": "000038CA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lazare Milvan",
+    "NPC ID": "00028E72",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lazy Kaslowyn",
+    "NPC ID": "00015D87",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lenka Valus",
+    "NPC ID": "0018AD70",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lerexus Callidus",
+    "NPC ID": "00181C68",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ley Marillin",
+    "NPC ID": "00016053",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Leyawiin City Watch",
+    "NPC ID": "0000A0B8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Leyawiin Guard",
+    "NPC ID": "00034E71",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Leyawiin Jailor",
+    "NPC ID": "00035F8F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Leyawiin Soldier",
+    "NPC ID": "00026F20",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lithnilian",
+    "NPC ID": "00185374",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Llensi Llaram",
+    "NPC ID": "0000A293",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Llevana Nedaren",
+    "NPC ID": "000034DF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Logvaar",
+    "NPC ID": "00035EB1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lonely Man",
+    "NPC ID": "00023D7E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lord Drad",
+    "NPC ID": "0001EC31",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lord Lovidicus",
+    "NPC ID": "00038EDD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lord Rugdumph gro",
+    "NPC ID": "0000BE7F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "LordGenghis",
+    "NPC ID": "0003E915",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lorgren Benirus",
+    "NPC ID": "0006E7EF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lorkmir",
+    "NPC ID": "0004DE82",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Luciana Galena",
+    "NPC ID": "0000A10A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lucien Lachance",
+    "NPC ID": "000034AF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Luckless Lucina",
+    "NPC ID": "00015D86",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lum gro",
+    "NPC ID": "000234BF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lumdum gro",
+    "NPC ID": "0001DFB3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lurio Maenius",
+    "NPC ID": "00022BBD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Luronk gro",
+    "NPC ID": "0001D350",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Luther Broad",
+    "NPC ID": "00023DE6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lynch",
+    "NPC ID": "0000C1D8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lynda Carter",
+    "NPC ID": "000CD302",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lyra Rosentia",
+    "NPC ID": "00035EC5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "M’aiq the Liar",
+    "NPC ID": "000C47EC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "M’dasha",
+    "NPC ID": "000897DF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "M’dirr",
+    "NPC ID": "000897E1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "M’raaj",
+    "NPC ID": "00023E35",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ma’Raska",
+    "NPC ID": "00026B37",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mach",
+    "NPC ID": "00023FEA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Maelona",
+    "NPC ID": "0000A2A2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Maenlorn",
+    "NPC ID": "0000A27C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Maeva the Buxom",
+    "NPC ID": "00185FE5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mage",
+    "NPC ID": "00032940",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mage Apprentice",
+    "NPC ID": "0006AAAF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mage Scholar",
+    "NPC ID": "0006A82E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Maglir",
+    "NPC ID": "00024165",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Magra gro",
+    "NPC ID": "0003E190",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Magub gro",
+    "NPC ID": "000034D5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mahei",
+    "NPC ID": "00034E7F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Maknok gro",
+    "NPC ID": "000034DA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Malacath’s Voice for Recording",
+    "NPC ID": "00051EE2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Malene",
+    "NPC ID": "0003001C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Malintus Ancrus",
+    "NPC ID": "000222A6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Malyani Dalvilu",
+    "NPC ID": "0001ECCC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mandil",
+    "NPC ID": "00016060",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Manheim Maulhand",
+    "NPC ID": "000224EE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mankar Camoran",
+    "NPC ID": "00033908",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mannimarco",
+    "NPC ID": "00016487",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marana Rian",
+    "NPC ID": "0001D353",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marauder",
+    "NPC ID": "00069AD7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marauder Archer",
+    "NPC ID": "00069AD9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marauder Battlemage",
+    "NPC ID": "00069AD6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marauder Warlord",
+    "NPC ID": "0003CD2B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marc Gulitte",
+    "NPC ID": "0002D01A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marcel Amelion",
+    "NPC ID": "000A345B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Maren the Seal",
+    "NPC ID": "0001ECAB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Margarte",
+    "NPC ID": "00034E81",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marguerite Diel",
+    "NPC ID": "00033904",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mariana Ancharia",
+    "NPC ID": "000034C2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marie Alouette",
+    "NPC ID": "000327BB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marie Palielle",
+    "NPC ID": "00028F9F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mariette Rielle",
+    "NPC ID": "000038B3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marinus Catiotus",
+    "NPC ID": "0001605E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marlena Brussiner",
+    "NPC ID": "000280CB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Maro Rufus",
+    "NPC ID": "00015EAC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Martina Floria",
+    "NPC ID": "00034EB5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Marz",
+    "NPC ID": "0000A08B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mathieu Bellamont",
+    "NPC ID": "0000398A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Matilde Petit",
+    "NPC ID": "000277D5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Matthias Draconis",
+    "NPC ID": "00030FDA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mattius Wotrus",
+    "NPC ID": "0006BD29",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mazoga the Orc",
+    "NPC ID": "00085969",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Melisande",
+    "NPC ID": "0003E931",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mels Maryon",
+    "NPC ID": "0001EBF7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Melus Petilius",
+    "NPC ID": "00026B46",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Menien Goneld",
+    "NPC ID": "0009812E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mensa Selas",
+    "NPC ID": "0008521D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mephala’s Voice for Recording",
+    "NPC ID": "00051EE3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Merandil",
+    "NPC ID": "00028035",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mercator Hosidus",
+    "NPC ID": "00035649",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mercenary",
+    "NPC ID": "000C7944",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Merete",
+    "NPC ID": "000151FE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Merildor",
+    "NPC ID": "00059D2E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Methredhel",
+    "NPC ID": "00034E99",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Miner",
+    "NPC ID": "000025FD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Minerva",
+    "NPC ID": "000224EF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Minx",
+    "NPC ID": "0000C1D9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mirabelle Monet",
+    "NPC ID": "0000A295",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mirie",
+    "NPC ID": "0001ECAF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mirisa",
+    "NPC ID": "00031540",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mivryna Arano",
+    "NPC ID": "0004E887",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Modryn Oreyn",
+    "NPC ID": "000234C0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mog gra",
+    "NPC ID": "00028F8C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mogens Wind",
+    "NPC ID": "0008521A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mondrar Henim",
+    "NPC ID": "00035A16",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mor gra",
+    "NPC ID": "00026ACC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mug gro",
+    "NPC ID": "0009829B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Murdered Beggar",
+    "NPC ID": "000919C8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mythic Dawn Acolyte",
+    "NPC ID": "00094E88",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mythic Dawn Agent",
+    "NPC ID": "0002F108",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mythic Dawn Guard",
+    "NPC ID": "00022C82",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mythic Dawn Leader",
+    "NPC ID": "0002F101",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Mythic Dawn Storeroom Guard",
+    "NPC ID": "00026FC9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Myvryna Arano",
+    "NPC ID": "0003529A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nahsi",
+    "NPC ID": "0000A095",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nardhil",
+    "NPC ID": "0004D83C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Naspia Cosma",
+    "NPC ID": "000034CB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Natch Pinder",
+    "NPC ID": "000280CC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Necromancer",
+    "NPC ID": "0001EC05",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Necromancer Adept",
+    "NPC ID": "0004B948",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nedhelfin",
+    "NPC ID": "00002E97",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Neesha",
+    "NPC ID": "00028FAC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nels the Naughty",
+    "NPC ID": "000277D4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nermus the Mooch",
+    "NPC ID": "00015D88",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nerussa",
+    "NPC ID": "000BB9CB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Neville",
+    "NPC ID": "000277D1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Newheim the Portly",
+    "NPC ID": "00035740",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Night Child",
+    "NPC ID": "000C509C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nigidius the Needy",
+    "NPC ID": "00015D8C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nilawen",
+    "NPC ID": "0000A087",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Niraegaer",
+    "NPC ID": "00002E96",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nivan Dalvilu",
+    "NPC ID": "0001ECC8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "No",
+    "NPC ID": "0001C45A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Norasa Adus",
+    "NPC ID": "0005D516",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Norbert Lelles",
+    "NPC ID": "00035724",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nordinor",
+    "NPC ID": "0003E17E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "NormalHead",
+    "NPC ID": "00029916",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Noveni Othran",
+    "NPC ID": "000353DF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Numeen",
+    "NPC ID": "00034E7E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ocheeva",
+    "NPC ID": "000224EC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Oghash gra",
+    "NPC ID": "000034DC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ogier Georick",
+    "NPC ID": "00015E9A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ohtesse",
+    "NPC ID": "000034C7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ohtimbar",
+    "NPC ID": "000034D0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Olav",
+    "NPC ID": "00035EAC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Olava the Fair",
+    "NPC ID": "0000A08D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Oleed",
+    "NPC ID": "00034E7C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Oleta",
+    "NPC ID": "00090AB3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Olfand",
+    "NPC ID": "00035EB5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Olyn Seran",
+    "NPC ID": "00026B4D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "On",
+    "NPC ID": "00033906",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ongar the World",
+    "NPC ID": "00035ECA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ontus Vanin",
+    "NPC ID": "0001CF33",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Orag gra",
+    "NPC ID": "000234AE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Orgnolf Hairy",
+    "NPC ID": "000222B9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Orintur",
+    "NPC ID": "0002D022",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ormellius Goldwine",
+    "NPC ID": "00031E96",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ormil",
+    "NPC ID": "0000C1D4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Orok gro",
+    "NPC ID": "000234A8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Orrin",
+    "NPC ID": "0000A2A1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Orthe",
+    "NPC ID": "0003CD1B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ortis",
+    "NPC ID": "00026AD9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Othrelos",
+    "NPC ID": "0001605F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Otius Loran",
+    "NPC ID": "000234AB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Otumeel",
+    "NPC ID": "00034E88",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Owyn",
+    "NPC ID": "000222B6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pajeen",
+    "NPC ID": "000A3833",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Palace Guard",
+    "NPC ID": "00115DFE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pale Lady",
+    "NPC ID": "0004B76F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Palonirya",
+    "NPC ID": "00015EA8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Parwen",
+    "NPC ID": "000293E4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pelagius",
+    "NPC ID": "000A3164",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Penniless Olvus",
+    "NPC ID": "00015D7F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pennus Mallius",
+    "NPC ID": "0001D356",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Perennia Draconis",
+    "NPC ID": "00030FDC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Petrine",
+    "NPC ID": "00035EAD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Philip Franc",
+    "NPC ID": "000B1681",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Phintias",
+    "NPC ID": "00015E9B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pinarus Inventius",
+    "NPC ID": "0000A29D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pirate",
+    "NPC ID": "000738DE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pista Marillin",
+    "NPC ID": "00016054",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pranal",
+    "NPC ID": "000389BD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Praxedes Afranius",
+    "NPC ID": "0001D355",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Priest of Arkay",
+    "NPC ID": "0001CEAA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Primo Antonius",
+    "NPC ID": "000277D3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Prince Humperdinck",
+    "NPC ID": "0002B7D2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Prior Maborel",
+    "NPC ID": "000223AB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Prisoner",
+    "NPC ID": "0003EAAD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Puny Ancus",
+    "NPC ID": "000165ED",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Quill",
+    "NPC ID": "0000A2A0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "R’vanni",
+    "NPC ID": "0000A10D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ra’Jahirr",
+    "NPC ID": "00034E85",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ra’Jhan",
+    "NPC ID": "0001E750",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ra’jhera the Keeneye",
+    "NPC ID": "000CD327",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ra’jiradh",
+    "NPC ID": "0001FDCC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ra’qanar",
+    "NPC ID": "000034CE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Raelynn the Gravefinder",
+    "NPC ID": "00185378",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ragbag Buntara",
+    "NPC ID": "0001C45B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rallus Odiil",
+    "NPC ID": "0002229F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ralsa Nethan",
+    "NPC ID": "00097865",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ralsa Norvalo",
+    "NPC ID": "0001D343",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Raminus Polus",
+    "NPC ID": "00034E15",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rana",
+    "NPC ID": "00034E7B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ranaline",
+    "NPC ID": "0000A083",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rancid Ra’dirsha",
+    "NPC ID": "00015D8A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ranyu",
+    "NPC ID": "0003CD1A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rasheda",
+    "NPC ID": "000234AF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Raven Camoran",
+    "NPC ID": "0000ABB5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Raynil Dralas",
+    "NPC ID": "00035EAE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Redas Dalvilu",
+    "NPC ID": "0001ECCA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Reenum",
+    "NPC ID": "0000A112",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Regner",
+    "NPC ID": "00035ECE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Reistr the Rotted",
+    "NPC ID": "0000A10E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rellian",
+    "NPC ID": "0002C7C6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Reman Broder",
+    "NPC ID": "000294A2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rena Bruiant",
+    "NPC ID": "000222B2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Renald Viernis",
+    "NPC ID": "00034EB6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Renee Geonette",
+    "NPC ID": "0001D34E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Restita Statlilia",
+    "NPC ID": "00068459",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Reynald Jemane",
+    "NPC ID": "000222A8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rhano",
+    "NPC ID": "0000A290",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ri’Bassa",
+    "NPC ID": "00026AED",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ri’Jirr",
+    "NPC ID": "0001C13D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ri’Zakar",
+    "NPC ID": "00035703",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rienna",
+    "NPC ID": "00027F94",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Right",
+    "NPC ID": "00035EC1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rigmor",
+    "NPC ID": "0002AF3C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rimalus Bruiant",
+    "NPC ID": "000222B3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rindir",
+    "NPC ID": "00015E9C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ris Fralmoton",
+    "NPC ID": "00015EA1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rochelle Bantien",
+    "NPC ID": "0001FC53",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Roderic Pierrane",
+    "NPC ID": "0001623A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Roderick",
+    "NPC ID": "00028FA4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rogmesh gra",
+    "NPC ID": "000034D9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rohssan",
+    "NPC ID": "0001C14C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Roland Jenseric",
+    "NPC ID": "0001D34B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rolgarel",
+    "NPC ID": "0001D0AC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Roliand",
+    "NPC ID": "00037573",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Roliand Hanus",
+    "NPC ID": "0002FD70",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Romana Faleria",
+    "NPC ID": "00016062",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rona",
+    "NPC ID": "000982A5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rona Hassildor",
+    "NPC ID": "0003E956",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rosentia Gallenus",
+    "NPC ID": "00033C74",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Roxanne Brigette",
+    "NPC ID": "0000A10F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Roxy Aric",
+    "NPC ID": "0008595B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rufio",
+    "NPC ID": "000224F0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rufrius Vinicius",
+    "NPC ID": "0000A291",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ruma Camoran",
+    "NPC ID": "0002952D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rusia Bradus",
+    "NPC ID": "0000A29F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ruslan",
+    "NPC ID": "0001D351",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rythe Lythandas",
+    "NPC ID": "000034D2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’drassa",
+    "NPC ID": "0002D026",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’jirra",
+    "NPC ID": "00177A2B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’kasha",
+    "NPC ID": "00067417",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’Krivva",
+    "NPC ID": "00035DD6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’mirra",
+    "NPC ID": "000514C6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’rathad",
+    "NPC ID": "0001FDD2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’razirr",
+    "NPC ID": "0002AF3E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’shani",
+    "NPC ID": "0000A280",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "S’thasa",
+    "NPC ID": "000897E7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sabine Laul",
+    "NPC ID": "000234BD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sakeepa",
+    "NPC ID": "0002F85F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Saliith",
+    "NPC ID": "000A713C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Salmo",
+    "NPC ID": "00029495",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Salomon Geonette",
+    "NPC ID": "0001D34D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Samuel Bantien",
+    "NPC ID": "0001FC52",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sanctuary Door Voice",
+    "NPC ID": "00048968",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Satha Dalvilu",
+    "NPC ID": "0001ECCB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Saveri Faram",
+    "NPC ID": "00035ECC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Savlian Matius",
+    "NPC ID": "00028007",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Scar",
+    "NPC ID": "0003558A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Schlera Sestius",
+    "NPC ID": "00024412",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Seed",
+    "NPC ID": "000234B8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Selena Orania",
+    "NPC ID": "0002D020",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Selene",
+    "NPC ID": "0000C1D7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sergius Verus",
+    "NPC ID": "00015EA6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Seridur",
+    "NPC ID": "0001CF76",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Servatius Quintilius",
+    "NPC ID": "00026D99",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Severius Atius",
+    "NPC ID": "0001FC4F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shady Sam",
+    "NPC ID": "000C45B5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shafaye",
+    "NPC ID": "00026B2C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shagol gro",
+    "NPC ID": "0002F861",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shaleez",
+    "NPC ID": "0003018E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shamada",
+    "NPC ID": "00034E66",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shamar",
+    "NPC ID": "000039AB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shameer",
+    "NPC ID": "000294B7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shelley",
+    "NPC ID": "000034C3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sherina",
+    "NPC ID": "00034E73",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shobob gro",
+    "NPC ID": "0001EC37",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shomara",
+    "NPC ID": "00034E67",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shows",
+    "NPC ID": "00027065",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shum gro",
+    "NPC ID": "00028FB6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shuravi",
+    "NPC ID": "00034E65",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sibylla Draconis",
+    "NPC ID": "00030FD8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Siege Crawler Sentry",
+    "NPC ID": "0009C26A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sigil Keeper",
+    "NPC ID": "0009504D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Signy Home",
+    "NPC ID": "0003AA85",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sigrid",
+    "NPC ID": "0002D701",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Silana Blandia",
+    "NPC ID": "00034E6B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Simplicia the Slow",
+    "NPC ID": "0001C458",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sinderion",
+    "NPC ID": "0003E92B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sings",
+    "NPC ID": "000B166E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sister Angrond",
+    "NPC ID": "000ACE6D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sister Phebe Jeanard",
+    "NPC ID": "000ACE73",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Skaleel",
+    "NPC ID": "00035F43",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Skingrad Guard",
+    "NPC ID": "0000C03E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Skingrad Jailor",
+    "NPC ID": "0002C0B7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Skingrad Soldier",
+    "NPC ID": "00026F25",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Skjorta",
+    "NPC ID": "00035EB4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Slythe Seringi",
+    "NPC ID": "00185DC9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Snak gra",
+    "NPC ID": "0006B32B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Snar the Cook",
+    "NPC ID": "00035EB2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Soris Arenim",
+    "NPC ID": "0002F1FD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Soul of Er",
+    "NPC ID": "0001ECB2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Soul of Ilvel Romayn",
+    "NPC ID": "0001ECAE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Soul of Kewan",
+    "NPC ID": "0001ECAA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Soul of Maren the Seal",
+    "NPC ID": "0001ECAC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Soul of Mirie",
+    "NPC ID": "0001ECB0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Stantus Varrid",
+    "NPC ID": "0001D349",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sten the Ugly",
+    "NPC ID": "0000A292",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Storn the Burly",
+    "NPC ID": "00035727",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Styrbjorn",
+    "NPC ID": "00033900",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sulinus Vassinus",
+    "NPC ID": "000293ED",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Surius Afranius",
+    "NPC ID": "0002B5EB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Suurootan",
+    "NPC ID": "00035EB3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tadrose Helas",
+    "NPC ID": "0000A096",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Talasma",
+    "NPC ID": "000234B4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tamika",
+    "NPC ID": "000294CC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tanasa Arano",
+    "NPC ID": "000034D8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tandilwe",
+    "NPC ID": "000153B9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tar",
+    "NPC ID": "00132AEB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tavia",
+    "NPC ID": "0002D6F9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Teekeeus",
+    "NPC ID": "000234BC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Teinaava",
+    "NPC ID": "00023E34",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Telaendril",
+    "NPC ID": "000251CE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tenville",
+    "NPC ID": "0008ADCB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Termanwe",
+    "NPC ID": "0001C16D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tertia Viducia",
+    "NPC ID": "000034C5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tertius Favonius",
+    "NPC ID": "00016061",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tertullian Verus",
+    "NPC ID": "00015EA5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thalfin",
+    "NPC ID": "000151FA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thamriel",
+    "NPC ID": "0001FDCB",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thaurron",
+    "NPC ID": "0002D018",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "The Forlorn Watchman",
+    "NPC ID": "000347B1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "The Gray Fox",
+    "NPC ID": "00014653",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "The Night Mother",
+    "NPC ID": "0000922B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Theranis",
+    "NPC ID": "0001624C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thiirchel",
+    "NPC ID": "00002E94",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thorley Aethelred",
+    "NPC ID": "0018AFD9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thoronir",
+    "NPC ID": "00015E9E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thrangirfin",
+    "NPC ID": "00002E98",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thulsa Doom",
+    "NPC ID": "0002576B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Thurindil",
+    "NPC ID": "0000A29A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tierra",
+    "NPC ID": "00028034",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tilmo",
+    "NPC ID": "000545D9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Timothee LaRouche",
+    "NPC ID": "0002991A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tivela Lythandas",
+    "NPC ID": "000034D3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tolgan",
+    "NPC ID": "0001C494",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tolisi Girith",
+    "NPC ID": "000034D7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tolvasa Sendas",
+    "NPC ID": "000A3832",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tooth",
+    "NPC ID": "0003C165",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Torbal the Sufficient",
+    "NPC ID": "00026F96",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Torbern",
+    "NPC ID": "000613B8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Toutius Sextius",
+    "NPC ID": "000293F7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tovas Selvani",
+    "NPC ID": "000034E0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Trayvond the Redguard",
+    "NPC ID": "0002D024",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Trenus Duronius",
+    "NPC ID": "0001D348",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Trevaia",
+    "NPC ID": "0000A285",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tsalajma",
+    "NPC ID": "000897E3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tsarrina",
+    "NPC ID": "0003AA83",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tsavi",
+    "NPC ID": "00034E6F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tsramla",
+    "NPC ID": "000897E5",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tsrava",
+    "NPC ID": "00034E78",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tumindil",
+    "NPC ID": "00028F9D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tun",
+    "NPC ID": "00034E69",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tyrellius Logellus",
+    "NPC ID": "0005378D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ugak gra",
+    "NPC ID": "00028F8D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ulen Athram",
+    "NPC ID": "0001FC55",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ulene Hlervu",
+    "NPC ID": "000034CD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ulfgar Fog",
+    "NPC ID": "0000A27B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ulmug gro",
+    "NPC ID": "00028FA9",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ulrich Leland",
+    "NPC ID": "000034CC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ulrika Ulfgar",
+    "NPC ID": "0001ECD1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Umbacano",
+    "NPC ID": "0002AB4E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Umbra",
+    "NPC ID": "00026B1B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Umog gra",
+    "NPC ID": "0002B528",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Undena Orethi",
+    "NPC ID": "00028E7D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ungarion",
+    "NPC ID": "0000A088",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ungolim",
+    "NPC ID": "000301C4",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Unknown Victim",
+    "NPC ID": "0008592F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Uravasa Othrelas",
+    "NPC ID": "0000A08A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Urbul gro",
+    "NPC ID": "00015EAA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Urjabhi",
+    "NPC ID": "0001FDCD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Urnsi Serethi",
+    "NPC ID": "0002F866",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ursanne Loche",
+    "NPC ID": "0000A111",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Usheeja",
+    "NPC ID": "0002B5EA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Uuras the Shepherd",
+    "NPC ID": "00028E84",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Uurwen",
+    "NPC ID": "0002D025",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Uzul gro",
+    "NPC ID": "0001FB55",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vajhira",
+    "NPC ID": "0001EC5D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Valandrus Abor",
+    "NPC ID": "00028FA1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Valen Dreth",
+    "NPC ID": "00025200",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Valen Dreth",
+    "NPC ID": "0002DF7A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Valus Odiil",
+    "NPC ID": "000222A1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vamp Chow",
+    "NPC ID": "0003DB99",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire",
+    "NPC ID": "00003A8A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Acrobat",
+    "NPC ID": "0003264A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Agent",
+    "NPC ID": "00032648",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Archer",
+    "NPC ID": "00032645",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Assassin",
+    "NPC ID": "00032649",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Barbarian",
+    "NPC ID": "00032641",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Bard",
+    "NPC ID": "0003264D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Battlemage",
+    "NPC ID": "00032651",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Crusader",
+    "NPC ID": "00032642",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Knight",
+    "NPC ID": "00069AF0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Mage",
+    "NPC ID": "0003264E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Monk",
+    "NPC ID": "0003264B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Nightblade",
+    "NPC ID": "00032654",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Patriarch",
+    "NPC ID": "00032BFE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Pilgrim",
+    "NPC ID": "0003264C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Rogue",
+    "NPC ID": "00032646",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Scout",
+    "NPC ID": "00032644",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Sorcerer",
+    "NPC ID": "00032650",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Spellsword",
+    "NPC ID": "00032653",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Thief",
+    "NPC ID": "00032647",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Warrior",
+    "NPC ID": "00032640",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vampire Witchhunter",
+    "NPC ID": "00032652",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vandorallen Trebatius",
+    "NPC ID": "00028FB7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vantus Prelius",
+    "NPC ID": "0002C7C7",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Varel Morvayn",
+    "NPC ID": "0000A283",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Varnado",
+    "NPC ID": "00015EAD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Varon Vamori",
+    "NPC ID": "0002991C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Varulae",
+    "NPC ID": "00095A45",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Velan Andus",
+    "NPC ID": "0001DFB0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Velus Hosidius",
+    "NPC ID": "00015EAE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Velwyn Benirus",
+    "NPC ID": "0003628D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Viator Accius",
+    "NPC ID": "00015E9F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vicente Valtieri",
+    "NPC ID": "00023E39",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vidkun",
+    "NPC ID": "0002E5AF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Viera Lerus",
+    "NPC ID": "0000A25C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vigdis",
+    "NPC ID": "0000A28F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vigge the Cautious",
+    "NPC ID": "000293F3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vilena Donton",
+    "NPC ID": "000234C1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vincent Galien",
+    "NPC ID": "0000A094",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vinicia Melissaeia",
+    "NPC ID": "00047720",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Viranus Donton",
+    "NPC ID": "0002D71F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vlanarus Kvinchal",
+    "NPC ID": "000477DC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vlanhonder Moslin",
+    "NPC ID": "000280C8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vlarimil Orius",
+    "NPC ID": "0001C16A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Volanaro",
+    "NPC ID": "0000A09A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vontan Sintav",
+    "NPC ID": "00016066",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Vontus Idolus",
+    "NPC ID": "000039B1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Voranil",
+    "NPC ID": "000034D6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Wallace",
+    "NPC ID": "000234B2",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Weebam",
+    "NPC ID": "00034E83",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Weedum",
+    "NPC ID": "0002D6EE",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Widehead",
+    "NPC ID": "00029915",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Wilbur",
+    "NPC ID": "0000A27E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Wilhelm the Worm",
+    "NPC ID": "0000A282",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Willet",
+    "NPC ID": "0001D340",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Winson",
+    "NPC ID": "0001605B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Witseidutsei",
+    "NPC ID": "0002C8D8",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Worm Anchorite",
+    "NPC ID": "000336F6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Wrath",
+    "NPC ID": "0000C1DA",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Wretched Aia",
+    "NPC ID": "00015D80",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Wumeek",
+    "NPC ID": "0001EB7F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Bloodletter",
+    "NPC ID": "00029908",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Brawler",
+    "NPC ID": "00029234",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Champion",
+    "NPC ID": "0002996B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Combatant",
+    "NPC ID": "0002ACD1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Gladiator",
+    "NPC ID": "0002994E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Hero",
+    "NPC ID": "00029968",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Myrmidon",
+    "NPC ID": "00029912",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Pit Dog",
+    "NPC ID": "0002A2B3",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yellow Team Warrior",
+    "NPC ID": "00029938",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Ysabel Andronicus",
+    "NPC ID": "00037CDD",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yushi",
+    "NPC ID": "00026B4E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yvara Channitte",
+    "NPC ID": "00035EBC",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Zabhila",
+    "NPC ID": "00026AEF",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Zahrasha",
+    "NPC ID": "000352B1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Areldur",
+    "NPC ID": "0A000F6D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Geimund",
+    "NPC ID": "0A000F6C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Gukimir",
+    "NPC ID": "0A000F6B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Thedret",
+    "NPC ID": "0A000F76",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sergius Turrianus",
+    "NPC ID": "0A000F4C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Avita Vesnia",
+    "NPC ID": "0A000F85",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Lathon",
+    "NPC ID": "0A000F84",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Brellin",
+    "NPC ID": "0A000F67",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Carodus Oholin",
+    "NPC ID": "0A000F7B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Amragor",
+    "NPC ID": "0A000F62",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Aron Verethi",
+    "NPC ID": "0A000F5C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Beem-Kiurz",
+    "NPC ID": "0A000F60",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Eris Senim",
+    "NPC ID": "0A000F61",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Esbern",
+    "NPC ID": "0A000F5E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Inius Colus",
+    "NPC ID": "0A000F5D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jesper",
+    "NPC ID": "0A000F7A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kellen",
+    "NPC ID": "0A000F6E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kinther",
+    "NPC ID": "0A000F5F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Pelinal Whitestrake",
+    "NPC ID": "0A000F88",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Selene Duronia",
+    "NPC ID": "0A000F63",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Amiel",
+    "NPC ID": "0A000F87",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Berich",
+    "NPC ID": "0A000F6A",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Caius",
+    "NPC ID": "0A000F7C",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Casimir",
+    "NPC ID": "0A000F80",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Gregory",
+    "NPC ID": "0A000F7E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Henrik",
+    "NPC ID": "0A000F82",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Juncan",
+    "NPC ID": "0A000F86",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Ralvas",
+    "NPC ID": "0A000F81",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Roderic",
+    "NPC ID": "0A000F7F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Sir Torolf",
+    "NPC ID": "0A000F83",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Stanet",
+    "NPC ID": "0A000F79",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "The Prophet",
+    "NPC ID": "0A000F7D",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Castellan Athon",
+    "NPC ID": "0100CA40",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Melisi Daren",
+    "NPC ID": "0100B0A0",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Niels",
+    "NPC ID": "0100C516",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Nilphas Omellian",
+    "NPC ID": "0100B08E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Plautis Rusonius",
+    "NPC ID": "0100D44B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rona Benanius",
+    "NPC ID": "0100D441",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Shagrol gro-Uzug",
+    "NPC ID": "0100B09F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Talan",
+    "NPC ID": "0100B09B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Rowley Eardwulf",
+    "NPC ID": "09003286",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Dahlia Rackham",
+    "NPC ID": "0800398B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Jak Silver",
+    "NPC ID": "08003492",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Khafiz",
+    "NPC ID": "0800348F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Kovan Kren",
+    "NPC ID": "08002FA1",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Melliwin",
+    "NPC ID": "08002F9F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Scurvy John Hoff",
+    "NPC ID": "0800398F",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Tahm Blackwell",
+    "NPC ID": "0800348B",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Yinz’r",
+    "NPC ID": "08011AD6",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Zedrick Green",
+    "NPC ID": "0800398E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Frathen Drothan",
+    "NPC ID": "0400218E",
+    "Section": "All NPC IDs"
+  },
+  {
+    "Name": "Msirae Faythung",
+    "NPC ID": "04001982",
+    "Section": "All NPC IDs"
+  }
+]

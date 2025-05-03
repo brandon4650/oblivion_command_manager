@@ -1,0 +1,176 @@
+[
+  {
+    "Command": "coc Location",
+    "Description": "Teleport to Location. You can find a list of all the Locations in the game lower in the guide",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "advlevel",
+    "Description": "Instant level up",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "movetoqt",
+    "Description": "Move to the current selected quest’s objective",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "Ghost",
+    "Description": "Fly through walls and become invicible (like a ghost)",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "Kill",
+    "Description": "While the console is open, press on a character and use this cheat to kill them",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "psb",
+    "Description": "Unlock all spells",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "KillAll",
+    "Description": "Kill everyone around",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "ObvGodMode",
+    "Description": "Activates Overpowered God Mode (invincibility, money, max skills and stats)",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "player.additem 0000000B 1",
+    "Description": "Get Skeleton Key which unlocks any door",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "player.additem f 1000000",
+    "Description": "Add money. In this case 1 million",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "player.AddItemItemID Amount",
+    "Description": "Add a new item to your inventory. ChangeItemIDwith an actual ID and the Amount with a number to get that item in your inventory",
+    "Example": "player.AddItem 00014D66 1",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "player.addspellSpellID",
+    "Description": "Learn a new spell. ChangeSpellIDwith the spell’s ID you want to learn",
+    "Example": "player.addspell 000A97F9",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "player.advskillSkill Amount",
+    "Description": "Set the skill to the desired amount. Write the skill names exactly the same as they appear in the menus, two word skills are written in one word",
+    "Example": "player.advskill heavyarmor 100",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "player.setav",
+    "Description": "Set the attribute (strength, intelligence, willpower, agility, speed, endurance, personality, or luck) to the desired amount",
+    "Example": "player.setav strength 250",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "Player.Forceav Encumbrance -9999",
+    "Description": "Increase carry weight",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "ShowBirthsignMenu",
+    "Description": "Change Birthsign",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "ShowClassMenu",
+    "Description": "Change class (resets skills)",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "ShowEnchantment",
+    "Description": "Enchant equipment",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "ShowRaceMenu",
+    "Description": "Change appearance",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "ShowSpellMaking",
+    "Description": "Create Spells",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "SkipTutorialQuest",
+    "Description": "Immediately end the Tutorial Quest. You’ll still have to teleport out of the prison",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "tai",
+    "Description": "Activates (or deactivates) the AI",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "tcai",
+    "Description": "Activates (or deactivates) the AI’s ability to fight",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "tdetect",
+    "Description": "Activates (or deactivates) the AI’s ability to detect you",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "tgm",
+    "Description": "Activates God Mode (invincibility)",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "tmm 1",
+    "Description": "Unlock all Map Markers (tmm 0 hides all markers)",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "ToggleDebugCamera",
+    "Description": "Toggle debug photo mode",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "Unlock",
+    "Description": "While the console is open, press on a door and use this cheat to unlock it",
+    "Example": "",
+    "Section": "Useful Cheats"
+  },
+  {
+    "Command": "Walk",
+    "Description": "Reverse the Ghost cheat",
+    "Example": "",
+    "Section": "Useful Cheats"
+  }
+]

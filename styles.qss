@@ -1,0 +1,324 @@
+/* Oblivion Command Manager - Qt Style Sheet */
+
+/* Global Application Style */
+QWidget {
+    background-color: #2D2D30;
+    color: #E6E6E6;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 10pt;
+}
+
+/* Main Window specific */
+QMainWindow {
+    background-color: #1E1E1E;
+}
+
+/* Tabs - explicitly target all tab components */
+QTabWidget::pane {
+    background-color: #2D2D30;
+    border: 1px solid #1E1E1E;
+}
+
+QTabBar {
+    background-color: #1E1E1E;
+}
+
+QTabBar::tab {
+    background-color: #252526;
+    color: #E6E6E6;
+    padding: 6px 12px;
+    border: 1px solid #3F3F46;
+    border-bottom-color: transparent;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    min-width: 100px;
+}
+
+QTabBar::tab:selected {
+    background-color: #0E639C; /* Dark blue for selected tab */
+    border: 1px solid #0E639C;
+}
+
+QTabBar::tab:!selected {
+    background-color: #252526;
+    border-color: #3F3F46;
+}
+
+QTabBar::tab:hover:!selected {
+    background-color: #333333;
+}
+
+QTabWidget::pane {
+    border: 1px solid #1E1E1E;
+    background-color: #2D2D30;
+}
+
+/* Label styling */
+QLabel {
+    color: #E6E6E6;
+    padding: 2px;
+}
+
+/* Line Edits */
+QLineEdit {
+    background-color: #333337;
+    border: 1px solid #555555;
+    border-radius: 3px;
+    color: #E6E6E6;
+    padding: 4px;
+    selection-background-color: #264F78;
+}
+
+QLineEdit:read-only {
+    background-color: #252526;
+    border: 1px solid #3F3F46;
+}
+
+QLineEdit:focus {
+    border: 1px solid #007ACC;
+}
+
+QLineEdit:disabled {
+    background-color: #3F3F46;
+    color: #9A9A9A;
+}
+
+/* Push Buttons */
+QPushButton {
+    background-color: #3E3E42;
+    border: 1px solid #555555;
+    border-radius: 3px;
+    color: #E6E6E6;
+    min-width: 80px;
+    padding: 5px 15px;
+}
+
+QPushButton:hover {
+    background-color: #505050;
+    border: 1px solid #666666;
+}
+
+QPushButton:pressed {
+    background-color: #007ACC;
+    border: 1px solid #007ACC;
+}
+
+QPushButton:disabled {
+    background-color: #3F3F46;
+    color: #9A9A9A;
+}
+
+/* Combo Boxes */
+QComboBox {
+    background-color: #333337;
+    border: 1px solid #555555;
+    border-radius: 3px;
+    color: #E6E6E6;
+    padding: 4px;
+    padding-left: 10px; 
+    min-width: 100px;
+}
+
+QComboBox:hover {
+    border: 1px solid #666666;
+}
+
+QComboBox:on {
+    border: 1px solid #007ACC;
+}
+
+QComboBox::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 18px;
+    border-left: 1px solid #555555;
+}
+
+QComboBox::down-arrow {
+    width: 14px;
+    height: 14px;
+    background: #3E3E42;
+    image: url(icons/down_arrow.png);
+}
+
+QComboBox QAbstractItemView {
+    background-color: #333337;
+    border: 1px solid #555555;
+    selection-background-color: #264F78;
+    selection-color: #FFFFFF;
+}
+
+/* Check Boxes */
+QCheckBox {
+    spacing: 5px;
+    color: #E6E6E6;
+}
+
+QCheckBox::indicator {
+    width: 14px;
+    height: 14px;
+    border: 1px solid #555555;
+    border-radius: 2px;
+    background-color: #333337;
+}
+
+QCheckBox::indicator:checked {
+    background-color: #007ACC;
+    border: 1px solid #007ACC;
+    image: url(icons/checkmark.png);
+}
+
+QCheckBox::indicator:hover {
+    border: 1px solid #666666;
+}
+
+/* Tooltip */
+QToolTip {
+    background-color: #2D2D30;
+    border: 1px solid #3E3E42;
+    color: #E6E6E6;
+    padding: 5px;
+}
+
+/* Tree Widget */
+QTreeWidget {
+    background-color: #252526;
+    border: 1px solid #3F3F46;
+    alternate-background-color: #2D2D30;
+    show-decoration-selected: 1;
+}
+
+QTreeWidget::item {
+    padding: 4px;
+    border: none;
+    min-height: 24px;
+}
+
+QTreeWidget::item:selected {
+    background-color: #264F78;
+}
+
+QTreeWidget::item:hover {
+    background-color: #333333;
+}
+
+/* Tree Widget Branch */
+QTreeWidget::branch {
+    background-color: #252526;
+}
+
+QTreeWidget::branch:has-children:!has-siblings:closed,
+QTreeWidget::branch:closed:has-children:has-siblings {
+    image: url(icons/collapsed.png);
+    padding-left: 5px;
+}
+
+QTreeWidget::branch:open:has-children:!has-siblings,
+QTreeWidget::branch:open:has-children:has-siblings {
+    image: url(icons/expanded.png);
+    padding-left: 5px;
+}
+
+/* Text Edit (for history) */
+QTextEdit {
+    background-color: #1E1E1E;
+    border: 1px solid #3F3F46;
+    color: #E6E6E6;
+    selection-background-color: #264F78;
+}
+
+/* Scroll bars */
+QScrollBar:vertical {
+    border: none;
+    background-color: #2D2D30;
+    width: 14px;
+    margin: 0px;
+}
+
+QScrollBar::handle:vertical {
+    background-color: #3F3F46;
+    min-height: 20px;
+    border-radius: 7px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background-color: #505050;
+}
+
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+    height: 0px;
+}
+
+QScrollBar:horizontal {
+    border: none;
+    background-color: #2D2D30;
+    height: 14px;
+    margin: 0px;
+}
+
+QScrollBar::handle:horizontal {
+    background-color: #3F3F46;
+    min-width: 20px;
+    border-radius: 7px;
+}
+
+QScrollBar::handle:horizontal:hover {
+    background-color: #505050;
+}
+
+QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal {
+    width: 0px;
+}
+
+/* Group Box */
+QGroupBox {
+    border: 1px solid #3F3F46;
+    border-radius: 3px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    padding: 0 5px;
+    color: #E6E6E6;
+}
+
+/* Splitter */
+QSplitter::handle {
+    background-color: #3F3F46;
+}
+
+QSplitter::handle:horizontal {
+    width: 4px;
+}
+
+QSplitter::handle:vertical {
+    height: 4px;
+}
+
+QSplitter::handle:hover {
+    background-color: #007ACC;
+}
+
+/* Stacked Widget */
+QStackedWidget {
+    background-color: #2D2D30;
+    border: none;
+}
+
+/* Video Widget Background */
+VideoBackground {
+    background-color: transparent;
+}
+
+/* All tab-specific widgets need to be targeted specifically */
+QTabWidget QWidget {
+    background-color: #2D2D30;
+}
+
+/* Fix any remaining white backgrounds */
+QMainWindow * {
+    background-color: #2D2D30;
+}

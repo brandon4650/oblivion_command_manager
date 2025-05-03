@@ -1,0 +1,404 @@
+[
+  {
+    "Name": "Arrow of Blizzards",
+    "Arrow ID": "0004BF0B",
+    "Copy Paste Cheat": "player.additem 0004BF0B 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Brilliance",
+    "Arrow ID": "00008A4D",
+    "Copy Paste Cheat": "player.additem 00008A4D 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Burning",
+    "Arrow ID": "0004BEFB",
+    "Copy Paste Cheat": "player.additem 0004BEFB 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Cleansing",
+    "Arrow ID": "000CD53F",
+    "Copy Paste Cheat": "player.additem 000CD53F 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Cold",
+    "Arrow ID": "0004BF02",
+    "Copy Paste Cheat": "player.additem 0004BF02 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Cowardice",
+    "Arrow ID": "0003DFDB",
+    "Copy Paste Cheat": "player.additem 0003DFDB 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Discord",
+    "Arrow ID": "0003BF67",
+    "Copy Paste Cheat": "player.additem 0003BF67 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Dispel",
+    "Arrow ID": "0004BF11",
+    "Copy Paste Cheat": "player.additem 0004BF11 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Drain Magicka",
+    "Arrow ID": "0004BF00",
+    "Copy Paste Cheat": "player.additem 0004BF00 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Embers",
+    "Arrow ID": "0004BF10",
+    "Copy Paste Cheat": "player.additem 0004BF10 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Extrication",
+    "Arrow ID": "00022DB5",
+    "Copy Paste Cheat": "player.additem 00022DB5 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Fatigue",
+    "Arrow ID": "0003DFD6",
+    "Copy Paste Cheat": "player.additem 0003DFD6 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Fear",
+    "Arrow ID": "0003DFD8",
+    "Copy Paste Cheat": "player.additem 0003DFD8 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Fire",
+    "Arrow ID": "0004BF07",
+    "Copy Paste Cheat": "player.additem 0004BF07 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Flames",
+    "Arrow ID": "0004BF04",
+    "Copy Paste Cheat": "player.additem 0004BF04 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Freezing",
+    "Arrow ID": "0004BF05",
+    "Copy Paste Cheat": "player.additem 0004BF05 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Frost",
+    "Arrow ID": "0004BEF9",
+    "Copy Paste Cheat": "player.additem 0004BEF9 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Harm",
+    "Arrow ID": "0003DFD7",
+    "Copy Paste Cheat": "player.additem 0003DFD7 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Hexing",
+    "Arrow ID": "00159676",
+    "Copy Paste Cheat": "player.additem 00159676 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Illumination",
+    "Arrow ID": "00008A4C",
+    "Copy Paste Cheat": "player.additem 00008A4C 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Immolation",
+    "Arrow ID": "000CD542",
+    "Copy Paste Cheat": "player.additem 000CD542 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Jinxing",
+    "Arrow ID": "0004BEFF",
+    "Copy Paste Cheat": "player.additem 0004BEFF 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Jolts",
+    "Arrow ID": "0004BEFD",
+    "Copy Paste Cheat": "player.additem 0004BEFD 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Light",
+    "Arrow ID": "00008A4F",
+    "Copy Paste Cheat": "player.additem 00008A4F 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Lightning",
+    "Arrow ID": "0004BF0C",
+    "Copy Paste Cheat": "player.additem 0004BF0C 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Misery",
+    "Arrow ID": "0003DFD9",
+    "Copy Paste Cheat": "player.additem 0003DFD9 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Numbing",
+    "Arrow ID": "0004BEFC",
+    "Copy Paste Cheat": "player.additem 0004BEFC 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Qualms",
+    "Arrow ID": "0003DFDA",
+    "Copy Paste Cheat": "player.additem 0003DFDA 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Savage Frost",
+    "Arrow ID": "000CD540",
+    "Copy Paste Cheat": "player.additem 000CD540 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Scorching",
+    "Arrow ID": "0004BF01",
+    "Copy Paste Cheat": "player.additem 0004BF01 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Shocking",
+    "Arrow ID": "0004BF03",
+    "Copy Paste Cheat": "player.additem 0004BF03 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Silence",
+    "Arrow ID": "0003DFDC",
+    "Copy Paste Cheat": "player.additem 0003DFDC 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Sparks",
+    "Arrow ID": "0004BEFA",
+    "Copy Paste Cheat": "player.additem 0004BEFA 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Stillness",
+    "Arrow ID": "0003DFDD",
+    "Copy Paste Cheat": "player.additem 0003DFDD 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Storm Strike",
+    "Arrow ID": "000CD543",
+    "Copy Paste Cheat": "player.additem 000CD543 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Storms",
+    "Arrow ID": "0004BF0F",
+    "Copy Paste Cheat": "player.additem 0004BF0F 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Sunlight",
+    "Arrow ID": "0000BAD9",
+    "Copy Paste Cheat": "player.additem 0000BAD9 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of the Blaze",
+    "Arrow ID": "0004BF0A",
+    "Copy Paste Cheat": "player.additem 0004BF0A 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of the Dynamo",
+    "Arrow ID": "0004BF09",
+    "Copy Paste Cheat": "player.additem 0004BF09 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of the Glacier",
+    "Arrow ID": "0004BF08",
+    "Copy Paste Cheat": "player.additem 0004BF08 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of the Inferno",
+    "Arrow ID": "0004BF0D",
+    "Copy Paste Cheat": "player.additem 0004BF0D 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of the North Winds",
+    "Arrow ID": "000CD545",
+    "Copy Paste Cheat": "player.additem 000CD545 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Voltage",
+    "Arrow ID": "0004BF06",
+    "Copy Paste Cheat": "player.additem 0004BF06 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Winter",
+    "Arrow ID": "0004BF0E",
+    "Copy Paste Cheat": "player.additem 0004BF0E 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Withering",
+    "Arrow ID": "0003CB6C",
+    "Copy Paste Cheat": "player.additem 0003CB6C 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Daedric Arrow",
+    "Arrow ID": "0001EFD3",
+    "Copy Paste Cheat": "player.additem 0001EFD3 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Dremora Barbed Arrow",
+    "Arrow ID": "000872A7",
+    "Copy Paste Cheat": "player.additem 000872A7 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Dremora Broadhead Arrow",
+    "Arrow ID": "000872A6",
+    "Copy Paste Cheat": "player.additem 000872A6 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Dremora Field Arrow",
+    "Arrow ID": "000872A5",
+    "Copy Paste Cheat": "player.additem 000872A5 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Dwarven Arrow",
+    "Arrow ID": "00022BE2",
+    "Copy Paste Cheat": "player.additem 00022BE2 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Ebony Arrow",
+    "Arrow ID": "0001EFD5",
+    "Copy Paste Cheat": "player.additem 0001EFD5 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Elven Arrow",
+    "Arrow ID": "000229C0",
+    "Copy Paste Cheat": "player.additem 000229C0 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Flare Arrow",
+    "Arrow ID": "00008A4E",
+    "Copy Paste Cheat": "player.additem 00008A4E 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Glass Arrow",
+    "Arrow ID": "00022BE1",
+    "Copy Paste Cheat": "player.additem 00022BE1 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Hatreds Soul Arrow",
+    "Arrow ID": "00014EB3",
+    "Copy Paste Cheat": "player.additem 00014EB3 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Iron Arrow",
+    "Arrow ID": "00017829",
+    "Copy Paste Cheat": "player.additem 00017829 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Magebane Arrow",
+    "Arrow ID": "000CD544",
+    "Copy Paste Cheat": "player.additem 000CD544 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Rose of Sithis",
+    "Arrow ID": "0003266D",
+    "Copy Paste Cheat": "player.additem 0003266D 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Silver Arrow",
+    "Arrow ID": "0001EFD4",
+    "Copy Paste Cheat": "player.additem 0001EFD4 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Steel Arrow",
+    "Arrow ID": "000229C1",
+    "Copy Paste Cheat": "player.additem 000229C1 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Stormcall Arrow",
+    "Arrow ID": "000CD541",
+    "Copy Paste Cheat": "player.additem 000CD541 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Blindness",
+    "Arrow ID": "0800BA44",
+    "Copy Paste Cheat": "player.additem 0800BA44 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Retreat",
+    "Arrow ID": "0800BA51",
+    "Copy Paste Cheat": "player.additem 0800BA51 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Stumbling",
+    "Arrow ID": "0800BA42",
+    "Copy Paste Cheat": "player.additem 0800BA42 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Tracer Arrow",
+    "Arrow ID": "0800BA45",
+    "Copy Paste Cheat": "player.additem 0800BA45 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Lassitude",
+    "Arrow ID": "0800BA53",
+    "Copy Paste Cheat": "player.additem 0800BA53 1",
+    "Section": "All Arrow IDs"
+  },
+  {
+    "Name": "Arrow of Apathy",
+    "Arrow ID": "0800BA54",
+    "Copy Paste Cheat": "player.additem 0800BA54 1",
+    "Section": "All Arrow IDs"
+  }
+]

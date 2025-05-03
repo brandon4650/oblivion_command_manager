@@ -1,0 +1,788 @@
+[
+  {
+    "Name": "Alkanet Flower",
+    "Ingredient ID": "0003365C",
+    "Copy Paste Cheat": "player.additem 0003365C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Aloe Vera Leaves",
+    "Ingredient ID": "000A7924",
+    "Copy Paste Cheat": "player.additem 000A7924 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Ambrosia",
+    "Ingredient ID": "000704A0",
+    "Copy Paste Cheat": "player.additem 000704A0 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Apple",
+    "Ingredient ID": "0003365D",
+    "Copy Paste Cheat": "player.additem 0003365D 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Arrowroot",
+    "Ingredient ID": "0003365E",
+    "Copy Paste Cheat": "player.additem 0003365E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Ashes of Hindaril",
+    "Ingredient ID": "000977DD",
+    "Copy Paste Cheat": "player.additem 000977DD 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Beef",
+    "Ingredient ID": "0003365F",
+    "Copy Paste Cheat": "player.additem 0003365F 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Bergamot Seeds",
+    "Ingredient ID": "000A7933",
+    "Copy Paste Cheat": "player.additem 000A7933 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Blackberry",
+    "Ingredient ID": "00033663",
+    "Copy Paste Cheat": "player.additem 00033663 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Bloodgrass",
+    "Ingredient ID": "00033664",
+    "Copy Paste Cheat": "player.additem 00033664 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Boar Meat",
+    "Ingredient ID": "00033665",
+    "Copy Paste Cheat": "player.additem 00033665 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Bog Beacon Asco Cap",
+    "Ingredient ID": "0008446C",
+    "Copy Paste Cheat": "player.additem 0008446C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Bonemeal",
+    "Ingredient ID": "00048734",
+    "Copy Paste Cheat": "player.additem 00048734 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Bonemeal",
+    "Ingredient ID": "0001EBFF",
+    "Copy Paste Cheat": "player.additem 0001EBFF 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Bread Loaf",
+    "Ingredient ID": "00023D89",
+    "Copy Paste Cheat": "player.additem 00023D89 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Cairn Bolete Cap",
+    "Ingredient ID": "0006251E",
+    "Copy Paste Cheat": "player.additem 0006251E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Carrot",
+    "Ingredient ID": "00033666",
+    "Copy Paste Cheat": "player.additem 00033666 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Carrot of Seeing",
+    "Ingredient ID": "00082DE2",
+    "Copy Paste Cheat": "player.additem 00082DE2 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Cheese Wedge",
+    "Ingredient ID": "00033668",
+    "Copy Paste Cheat": "player.additem 00033668 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Cheese Wheel",
+    "Ingredient ID": "00033669",
+    "Copy Paste Cheat": "player.additem 00033669 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Cinnabar Polypore Red Cap",
+    "Ingredient ID": "0008529C",
+    "Copy Paste Cheat": "player.additem 0008529C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Cinnabar Polypore Yellow Cap",
+    "Ingredient ID": "0008529B",
+    "Copy Paste Cheat": "player.additem 0008529B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Clannfear Claws",
+    "Ingredient ID": "0003366A",
+    "Copy Paste Cheat": "player.additem 0003366A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Clouded Funnel Cap",
+    "Ingredient ID": "00084472",
+    "Copy Paste Cheat": "player.additem 00084472 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Columbine Root Pulp",
+    "Ingredient ID": "000A7925",
+    "Copy Paste Cheat": "player.additem 000A7925 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Corn",
+    "Ingredient ID": "0003366B",
+    "Copy Paste Cheat": "player.additem 0003366B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Crab Meat",
+    "Ingredient ID": "0003366C",
+    "Copy Paste Cheat": "player.additem 0003366C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Daedra Heart",
+    "Ingredient ID": "0001EC8F",
+    "Copy Paste Cheat": "player.additem 0001EC8F 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Daedra Silk",
+    "Ingredient ID": "00033670",
+    "Copy Paste Cheat": "player.additem 00033670 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Daedra Venin",
+    "Ingredient ID": "00033671",
+    "Copy Paste Cheat": "player.additem 00033671 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Daedroth Teeth",
+    "Ingredient ID": "00033672",
+    "Copy Paste Cheat": "player.additem 00033672 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Dragon’s Tongue",
+    "Ingredient ID": "00025039",
+    "Copy Paste Cheat": "player.additem 00025039 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Dreugh Wax",
+    "Ingredient ID": "00033673",
+    "Copy Paste Cheat": "player.additem 00033673 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Dryad Saddle Polypore Cap",
+    "Ingredient ID": "0008529D",
+    "Copy Paste Cheat": "player.additem 0008529D 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Ectoplasm",
+    "Ingredient ID": "0001EBFE",
+    "Copy Paste Cheat": "player.additem 0001EBFE 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Elf Cup Cap",
+    "Ingredient ID": "0008529E",
+    "Copy Paste Cheat": "player.additem 0008529E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Emetic Russula Cap",
+    "Ingredient ID": "0008529F",
+    "Copy Paste Cheat": "player.additem 0008529F 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Fennel Seeds",
+    "Ingredient ID": "000A7926",
+    "Copy Paste Cheat": "player.additem 000A7926 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Fire Salts",
+    "Ingredient ID": "00033675",
+    "Copy Paste Cheat": "player.additem 00033675 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Flax Seeds",
+    "Ingredient ID": "000A7927",
+    "Copy Paste Cheat": "player.additem 000A7927 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Flour",
+    "Ingredient ID": "00033674",
+    "Copy Paste Cheat": "player.additem 00033674 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Fly Amanita Cap",
+    "Ingredient ID": "00084471",
+    "Copy Paste Cheat": "player.additem 00084471 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Foxglove Nectar",
+    "Ingredient ID": "00033687",
+    "Copy Paste Cheat": "player.additem 00033687 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Frost Salts",
+    "Ingredient ID": "00022E5B",
+    "Copy Paste Cheat": "player.additem 00022E5B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Garlic",
+    "Ingredient ID": "00033677",
+    "Copy Paste Cheat": "player.additem 00033677 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Ginkgo Leaf",
+    "Ingredient ID": "00033678",
+    "Copy Paste Cheat": "player.additem 00033678 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Ginseng",
+    "Ingredient ID": "00033679",
+    "Copy Paste Cheat": "player.additem 00033679 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Glow Dust",
+    "Ingredient ID": "0001EBE8",
+    "Copy Paste Cheat": "player.additem 0001EBE8 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Grapes",
+    "Ingredient ID": "0003367B",
+    "Copy Paste Cheat": "player.additem 0003367B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Green Stain Cup Cap",
+    "Ingredient ID": "0008446A",
+    "Copy Paste Cheat": "player.additem 0008446A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Green Stain Shelf Cap",
+    "Ingredient ID": "0008529A",
+    "Copy Paste Cheat": "player.additem 0008529A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Ham",
+    "Ingredient ID": "0003367C",
+    "Copy Paste Cheat": "player.additem 0003367C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Harrada",
+    "Ingredient ID": "0003367D",
+    "Copy Paste Cheat": "player.additem 0003367D 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Human Heart",
+    "Ingredient ID": "000CD51C",
+    "Copy Paste Cheat": "player.additem 000CD51C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Human Heart",
+    "Ingredient ID": "00071F36",
+    "Copy Paste Cheat": "player.additem 00071F36 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Human Skin",
+    "Ingredient ID": "00071F35",
+    "Copy Paste Cheat": "player.additem 00071F35 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Imp Fluid",
+    "Ingredient ID": "000549BE",
+    "Copy Paste Cheat": "player.additem 000549BE 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Imp Gall",
+    "Ingredient ID": "0002EE72",
+    "Copy Paste Cheat": "player.additem 0002EE72 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Ironwood Nut",
+    "Ingredient ID": "0003367E",
+    "Copy Paste Cheat": "player.additem 0003367E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Jumbo Potato",
+    "Ingredient ID": "00177A2A",
+    "Copy Paste Cheat": "player.additem 00177A2A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Lady’s Mantle Leaves",
+    "Ingredient ID": "000A7928",
+    "Copy Paste Cheat": "player.additem 000A7928 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Lady’s Smock Leaves",
+    "Ingredient ID": "000A7929",
+    "Copy Paste Cheat": "player.additem 000A7929 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Lavender Sprig",
+    "Ingredient ID": "000A792A",
+    "Copy Paste Cheat": "player.additem 000A792A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Leek",
+    "Ingredient ID": "00033680",
+    "Copy Paste Cheat": "player.additem 00033680 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Lettuce",
+    "Ingredient ID": "00033681",
+    "Copy Paste Cheat": "player.additem 00033681 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Lichor",
+    "Ingredient ID": "0007049E",
+    "Copy Paste Cheat": "player.additem 0007049E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Mandrake Root",
+    "Ingredient ID": "00033683",
+    "Copy Paste Cheat": "player.additem 00033683 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Milk Thistle Seeds",
+    "Ingredient ID": "000A792C",
+    "Copy Paste Cheat": "player.additem 000A792C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Minotaur Horn",
+    "Ingredient ID": "00033568",
+    "Copy Paste Cheat": "player.additem 00033568 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Monkshood Root Pulp",
+    "Ingredient ID": "000A792E",
+    "Copy Paste Cheat": "player.additem 000A792E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Morning Glory Root Pulp",
+    "Ingredient ID": "000A792F",
+    "Copy Paste Cheat": "player.additem 000A792F 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Mort Flesh",
+    "Ingredient ID": "00033685",
+    "Copy Paste Cheat": "player.additem 00033685 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Motherwort Sprig",
+    "Ingredient ID": "000A7930",
+    "Copy Paste Cheat": "player.additem 000A7930 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Mugwort Seeds",
+    "Ingredient ID": "000A7931",
+    "Copy Paste Cheat": "player.additem 000A7931 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Mutton",
+    "Ingredient ID": "00033686",
+    "Copy Paste Cheat": "player.additem 00033686 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Nightshade",
+    "Ingredient ID": "00033688",
+    "Copy Paste Cheat": "player.additem 00033688 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Nirnroot",
+    "Ingredient ID": "0004E940",
+    "Copy Paste Cheat": "player.additem 0004E940 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Ogre’s Teeth",
+    "Ingredient ID": "00033689",
+    "Copy Paste Cheat": "player.additem 00033689 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Onion",
+    "Ingredient ID": "0003368A",
+    "Copy Paste Cheat": "player.additem 0003368A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Orange",
+    "Ingredient ID": "0007588E",
+    "Copy Paste Cheat": "player.additem 0007588E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Painted Troll Fat",
+    "Ingredient ID": "0009209E",
+    "Copy Paste Cheat": "player.additem 0009209E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Pear",
+    "Ingredient ID": "0003368B",
+    "Copy Paste Cheat": "player.additem 0003368B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Peony Seeds",
+    "Ingredient ID": "000A7932",
+    "Copy Paste Cheat": "player.additem 000A7932 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Pinarus’ Prize Minotaur Horn",
+    "Ingredient ID": "000CBD45",
+    "Copy Paste Cheat": "player.additem 000CBD45 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Poisoned Apple",
+    "Ingredient ID": "000918F0",
+    "Copy Paste Cheat": "player.additem 000918F0 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Potato",
+    "Ingredient ID": "0003368C",
+    "Copy Paste Cheat": "player.additem 0003368C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Primrose Leaves",
+    "Ingredient ID": "000A7934",
+    "Copy Paste Cheat": "player.additem 000A7934 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Pumpkin",
+    "Ingredient ID": "0003368D",
+    "Copy Paste Cheat": "player.additem 0003368D 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Radish",
+    "Ingredient ID": "0003368E",
+    "Copy Paste Cheat": "player.additem 0003368E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Rat Meat",
+    "Ingredient ID": "0003368F",
+    "Copy Paste Cheat": "player.additem 0003368F 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Rat Poison",
+    "Ingredient ID": "00026B08",
+    "Copy Paste Cheat": "player.additem 00026B08 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Redwort Flower",
+    "Ingredient ID": "0002503A",
+    "Copy Paste Cheat": "player.additem 0002503A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Refined Frost Salts",
+    "Ingredient ID": "00022F1A",
+    "Copy Paste Cheat": "player.additem 00022F1A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Rice",
+    "Ingredient ID": "00033690",
+    "Copy Paste Cheat": "player.additem 00033690 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Root Pulp",
+    "Ingredient ID": "00033691",
+    "Copy Paste Cheat": "player.additem 00033691 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Rumare Slaughterfish Scales",
+    "Ingredient ID": "00185FE2",
+    "Copy Paste Cheat": "player.additem 00185FE2 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Sacred Lotus Seeds",
+    "Ingredient ID": "000A7936",
+    "Copy Paste Cheat": "player.additem 000A7936 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Scales",
+    "Ingredient ID": "00033692",
+    "Copy Paste Cheat": "player.additem 00033692 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Scamp Skin",
+    "Ingredient ID": "00033693",
+    "Copy Paste Cheat": "player.additem 00033693 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Shepherd’s Pie",
+    "Ingredient ID": "000B97E9",
+    "Copy Paste Cheat": "player.additem 000B97E9 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "S’jirra’s Famous Potato Bread",
+    "Ingredient ID": "00177A29",
+    "Copy Paste Cheat": "player.additem 00177A29 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Somnalius Frond",
+    "Ingredient ID": "00033696",
+    "Copy Paste Cheat": "player.additem 00033696 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Spiddal Stick",
+    "Ingredient ID": "00033697",
+    "Copy Paste Cheat": "player.additem 00033697 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "St. Jahn’s Wort Nectar",
+    "Ingredient ID": "000A7939",
+    "Copy Paste Cheat": "player.additem 000A7939 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Steel Blue Entoloma Cap",
+    "Ingredient ID": "0008446B",
+    "Copy Paste Cheat": "player.additem 0008446B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Stinkhorn Cap",
+    "Ingredient ID": "0008446D",
+    "Copy Paste Cheat": "player.additem 0008446D 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Strawberry",
+    "Ingredient ID": "00033699",
+    "Copy Paste Cheat": "player.additem 00033699 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Summer Bolete Cap",
+    "Ingredient ID": "00084470",
+    "Copy Paste Cheat": "player.additem 00084470 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Sweetcake",
+    "Ingredient ID": "0003369A",
+    "Copy Paste Cheat": "player.additem 0003369A 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Sweetroll",
+    "Ingredient ID": "0003369B",
+    "Copy Paste Cheat": "player.additem 0003369B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Taproot",
+    "Ingredient ID": "000AF06E",
+    "Copy Paste Cheat": "player.additem 000AF06E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Tiger Lily Nectar",
+    "Ingredient ID": "000A792B",
+    "Copy Paste Cheat": "player.additem 000A792B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Tinder Polypore Cap",
+    "Ingredient ID": "0008446F",
+    "Copy Paste Cheat": "player.additem 0008446F 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Tobacco",
+    "Ingredient ID": "0003369D",
+    "Copy Paste Cheat": "player.additem 0003369D 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Tomato",
+    "Ingredient ID": "0003369E",
+    "Copy Paste Cheat": "player.additem 0003369E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Troll Fat",
+    "Ingredient ID": "00026B5C",
+    "Copy Paste Cheat": "player.additem 00026B5C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Unicorn Horn",
+    "Ingredient ID": "0001EC5B",
+    "Copy Paste Cheat": "player.additem 0001EC5B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Vampire Dust",
+    "Ingredient ID": "0004872C",
+    "Copy Paste Cheat": "player.additem 0004872C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Vampire Dust",
+    "Ingredient ID": "00009182",
+    "Copy Paste Cheat": "player.additem 00009182 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Venison",
+    "Ingredient ID": "0002229B",
+    "Copy Paste Cheat": "player.additem 0002229B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Viper’s Bugloss Leaves",
+    "Ingredient ID": "000A793B",
+    "Copy Paste Cheat": "player.additem 000A793B 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Void Salts",
+    "Ingredient ID": "0003369F",
+    "Copy Paste Cheat": "player.additem 0003369F 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Water Hyacinth Nectar",
+    "Ingredient ID": "000A793C",
+    "Copy Paste Cheat": "player.additem 000A793C 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Watermelon",
+    "Ingredient ID": "000336A0",
+    "Copy Paste Cheat": "player.additem 000336A0 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Wheat Grain",
+    "Ingredient ID": "000336A1",
+    "Copy Paste Cheat": "player.additem 000336A1 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "White Seed Pod",
+    "Ingredient ID": "000336A2",
+    "Copy Paste Cheat": "player.additem 000336A2 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Wisp Stalk Caps",
+    "Ingredient ID": "0006251F",
+    "Copy Paste Cheat": "player.additem 0006251F 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Wormwood Leaves",
+    "Ingredient ID": "000A793E",
+    "Copy Paste Cheat": "player.additem 000A793E 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Chokeberry",
+    "Ingredient ID": "09009BFE",
+    "Copy Paste Cheat": "player.additem 09009BFE 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Purgeblood Salts",
+    "Ingredient ID": "09001372",
+    "Copy Paste Cheat": "player.additem 09001372 1",
+    "Section": "All Alchemy Ingredients IDs"
+  },
+  {
+    "Name": "Beating Heart",
+    "Ingredient ID": "04001AF2",
+    "Copy Paste Cheat": "player.additem 04001AF2 1",
+    "Section": "All Alchemy Ingredients IDs"
+  }
+]

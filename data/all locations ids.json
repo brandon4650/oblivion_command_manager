@@ -1,0 +1,3127 @@
+[
+  {
+    "Location ID": "AbandonedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AbandonedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AleswellInn",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AleswellSakeepasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AleswellShagolgroBumphsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AmelionFamilyTomb",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AmelionFamilyTomb02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Anga",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Anutwyll",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AnvilArvenaThelasBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AnvilCastleSmugglersCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AnvilChapelHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AnvilChapelUndercroft",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "AnvilLighthouseBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ApplewatchInterior",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Arpenia",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ArrowshaftCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ArrowshaftCavern02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ArrowshaftCavern03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Atatar",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Atatar02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Atatar03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Atatar04",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BarrenCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BarrenMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BattlehornCastleBlacksmithHouse",
+    "Region/Type": "Fort",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BattlehornCastleTowerN",
+    "Region/Type": "Fort",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BattlehornCastleTowerS",
+    "Region/Type": "Fort",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Bawn",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Bawn02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Bawn03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BedrockBreak",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Belda",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Belda02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Beldaburo",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Beldaburo02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BelletorsFolly",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BelletorsFolly02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BelletorsFolly03",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BlackRockCaverns",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BlackRockCaverns02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BlackRockCaverns03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BlankenMarchHouse01",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BlankenMarchHouse02",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BlankenMarchHouse03",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakersWayArvinDalvilusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakersWayGoodwillInn",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakersWayHrolUlfgarsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakersWayMalyaniDalvilusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakersWayRedasDalvilusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakersWayRedasDalvilusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakersWaySathaDalvilusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakFlatsCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BleakMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BloodcrustCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BloodmayneCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BloodmayneCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BloodRunCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BorderWatchJriskasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BorderWatchMdashasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BorderWatchMdirrsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BorderWatchRibassasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BorderWatchTsalajmasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BorealStoneCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BramblepointCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BramblePointCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BramblePointCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilAleronLochesHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilAndragilHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilChapelGreatHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilChapelofMara",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilChapelUndercroft",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilCitySwimmerHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilCryptOfTheNightMother",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilFightersGuild",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilFightersGuild2ndFloor",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilFightersGuild3rdFloor",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilFightersGuildBasement",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilHouseforSale",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilLonelySuitorLodge",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilMagesGuild2ndFloor",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilMagesGuild3rdFloor",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilMagesGuildBasement",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilRanalineHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilSilverHomeonthewater",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilSilverHomeonthewater2ndFloor",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilSilverHomeonthewater3rdFloor",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilStable",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilTheArcherParadox",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilTheFairDeal",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilUngolimHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BravilVaronVamorisHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BreakneckCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BreakneckCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BreakneckCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrinaCrossInn",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrindleHome",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrindleHome02",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrittlerockCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrittlerockCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrokenPromisesCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaArnorasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaBaenlinsBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaBaenlinsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaBradonLirriansBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaBradonLirriansHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaBrotchCalusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaCaverns",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaChapel",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaChapelHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaChapelUndercroft",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaFightersGuild",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaFightersGuildBasement",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaHammerAndAxe",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaHelviusCeciasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaHonmundsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaHouseForSale",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaIstirusBrolusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaIstriusBrolusBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaJearlsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaJearlsHouseBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaJerallView",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaJerallViewBasement",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaJGhastasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaJGhastasHouseTrainingRoom",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaLyraRosentiasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaMagesGuild",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaMagesGuildBasement",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaMagesGuildBasementDestroyed",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaMagesGuildDestroyed",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaNordWinds",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaNovaroma",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaOlavsTapAndTack",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaOngarsHouse",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaRegnersHouse",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "BrumaWildeyeStables",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CadlewChapel",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CapstoneCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CapstoneCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Ceyatatar",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Ceyatatar02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Ceyatatar03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CharcoalCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CharcoalCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CharcoalCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalBlackWatersideStables",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalBorbasGoodsandStoresBasement",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalBridgeInnBasement",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalChapelHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalChapelOfArkay",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalChapelUndercroft",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalKnightsBasement",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalLlevanaNedarensBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalMagesGuildBasement",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalOrumHouseBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalRythesBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalSanctuaryQuarters",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalSanctuaryTrainingRoom",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CheydinhalWillowBankBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolAlbericLittesBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolArena",
+    "Region/Type": "Arena",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolCastaScriboniasBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolChapelHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolChapelOfStendarr",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolChapelUndercroft",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolEugalBelettesBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolFrancoisMotierresBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolHonditarsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolJirolinDoransBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolMagesGuildBasement",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolMalintusAncrusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolModrynOreynsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolNorthCountryStables",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolReynaldJemanesBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolRimalusBruiantsBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolTheGreyMare",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ChorrolValusOdiilsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CloudRulerTempleArmory",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CloudRulerTempleEastWing",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CloudRulerTempleGreatHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CloudRulerTempleWestWing",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CollapsedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CollapsedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CrackedWoodCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CrayfishCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CrayfishCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CrayfishCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CrayfishCave04",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CrayfishCave05",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CropsfordBarthelGernandsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CropsfordBincalsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CrumblingMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Culotte",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CursedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CursedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "CursedMine03",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Dark04Dungeon01",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Dark04Dungeon02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Dark04Dungeon03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Dark04Sewers01",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Dark04Sewers02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Dark04Sewers03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DarkfathomCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DarkFissure",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DarkFissure02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DarkFissure03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DerelictMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DerelictMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DerelictMine03",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DesertedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DesertedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DesolateMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DL9c05",
+    "Region/Type": "Fort",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DL9c06",
+    "Region/Type": "Fort",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DL9c10",
+    "Region/Type": "Fort",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DLDunbarrowHaven",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DLDunbarrowHaven02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DLDunbarrowHaven03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DoomedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DrakeloweFarm",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DrakeloweFarmBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DzonotCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "DzonotCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "EchoCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "EchoCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "EchoCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "EchoMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Elenglynn",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "EmptyMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Emptymine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Emptymine03",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ExhaustedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ExhaustedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ExhaustedMine03",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FallenRockCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Fanacas",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Fanacasecul",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FaregylInterior",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FatbackCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FatbackCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FatbackCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FelgageldtCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FelgageldtCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FieldhouseCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FieldhouseCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FieldhouseCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FingerbowlCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FingerbowlCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FingerbowlCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FingerbowlCave04",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FloodedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ForsakenMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ForsakenMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FortIstirus",
+    "Region/Type": "Fort",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FrostFireCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FyrelightCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FyrelightCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "FyrelightCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GarlasAgea",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GlademistCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GoblinJimsCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GoblinJimsCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GoblinJimsCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GottlefontHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GottlefontPrioryMonastery",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GrayrockCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GrayrockCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GreenmeadCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GreenmeadCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GreenmeadCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Greyland",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GuttedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "GwedenFarmBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HackdirtCaverns",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HackdirtChapel",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HackdirtJivHirielsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HackdirtMarlenaBrussinersBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HackdirtMoslinsDryGoodsBasement",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Hame",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Hame02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Hame03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HarlunsWatchAengvirsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HarlunsWatchinteriorDeetumJasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HarlunWatchinteriorDraranaThelisHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HarmFolly",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HauntedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HauntedMIne02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HaynoteCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HaynoteCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HaynoteCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HornCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HornCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HornCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HowlingCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HowlingCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HrotaCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HrotandaVale",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "HrotandaVale02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICArcaneUniversityArchMagesTowerCouncil",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICArcaneUniversityImperialWatchtower",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICArcaneUniversityImperialWatchtowerGuardsQuarters",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICArenaBloodworks",
+    "Region/Type": "Arena",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICArenaDistrict",
+    "Region/Type": "Arena",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICArenaGrandChampion",
+    "Region/Type": "Arena",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICArenaSpectators",
+    "Region/Type": "Arena",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICElvenGardensGeemJasaiinsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICElvenGardensKastusSintavsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICImperialLegionWatchTowerNTopGuardQuarters",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICImperialLegionWatchTowerSEGuardQuarters",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICImperialLegionWatchTowerSWTopGuardQuarters",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICMarketDistrict",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICTalosPlazaAgarmirsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICTalosPlazaAreldilsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICTalosPlazaDistrict",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICTalosPlazaTheTiberSeptimHotel",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICTempleDistrictHagaersHouseUpstairs",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICTempleDistrictMaranaRiansHouseUpstairs",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICTempleDistrictStantusVarridsHouseUpstairs",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICTempleDistrictTrenusDuroniusHouseUpstairs",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICWaterfrontAbandonedShack",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICWaterfrontArmandChristopheHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICWaterfrontJairsShack",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICWaterfrontKvinchalsShack",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICWaterfrontMethredhelsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICWaterfrontMyvrynaAranoHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ICWaterfrontShackForSale",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialBridgeInnTavern",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialDungeon01",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialDungeon02",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialDungeon03",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialDungeon04",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialDungeon05",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewers03",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewersElvenGardens01",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewersElvenGardens02",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewersElvenGardens03",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemArena",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemImperialPalace",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemMarketDistrict",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemN01",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemN02",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemSE",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemSW",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemTalosPlaza",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemTempleDistrict",
+    "Region/Type": "Imperial",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemTG11a",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemTG11a2",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemTG11c",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ImperialSewerSystemTG11d",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "InfestedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "InfestedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "InfestedMine03",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "InnIllOmen",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "InnIllOmenBasement",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "IsolatedHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "JakbenTombInterior",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Kemen",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Kemen02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KindredCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KindredCavern02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KindredCavern03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KingscrestCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KingscrestCavern02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KingscrestCavern03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KingscrestCavern04",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KvatchChapelHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KvatchChapelUndercroft",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KvatchTent01",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KvatchTent02",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "KvatchTentSavlianMatius",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LairVile01",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LairVile02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LairVile03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LairVile04",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LakeArriusCaverns",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LakeArriusShrineAntechamber01",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LakeArriusShrineAntechamber02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LakeArriusShrineDagon",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeafrotCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeafrotCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinBettoPlotiusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinCastleCountyHall",
+    "Region/Type": "Castle",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinCastlePrivateQuarters",
+    "Region/Type": "Castle",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinChapelHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinChapelOfZenithar",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinChapelUndercroft",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinCingorsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinCityWatchBarracks",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinDarJeesHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinFiveRidersStable",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinOtumeelsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LeyawiinWeebamNasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Lindai01",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Lindai02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LipsandTarn",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LipsandTarn02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LordDradsSlaveQuarters01",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LordDradsSlaveQuarters02",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LordRugdumphServants",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LostBoyCaverns",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LostBoyCaverns02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "LostBoyCaverns03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Mackamentain",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Mackamentain02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Mackamentain03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Malada01",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Malada02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "MelusPetilusHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "MemorialCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "MingoCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "MongrelsToothCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Morahame",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Moranda",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Moranda02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Moranda03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "MossRockCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "MuckValleyCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nagastani",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nagastani02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Narfinsel",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NDKynarethCave",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NDPrioryoftheNineBasement",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NDPrioryoftheNineChapel",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NDPrioryoftheNineUndercroft",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NDVanua01",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NDVanua02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nenalata",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nenalata02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nenalata03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NenyondTwyll",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NenyondTwyll02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NewtCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NewtCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NewtCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Ninendava",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Niryastare",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Niryastare02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NisinCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nonungalo",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nonungalo02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NonwyllCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "NonwyllCavern02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nornal",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nornal02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nornal03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nornal04",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nornalhorst",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Nornalhorst02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "OdiilFarm",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Ondo",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Ondo02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "OnyxCaverns",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "OnyxCaverns02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "OutlawEndresCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "OutlawEndresCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "PellGateIrrokitheWidesHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "PellGateShafayesHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "PellGateTheSleepingMare",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "PillagedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "PillagedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Piukanda",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Piukanda02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Piukanda03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "PlunderedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "PlunderedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "PotholeCaverns",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "QuickwaterCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "QuickwaterCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RedguardValleyCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RedRubyCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RedrubyCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RedwaterSlough",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ReedstandCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ReedstandCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RicketyMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RicketyMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Rielle",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Rielle02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RobbersGlenCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RockBottomCaverns",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RockmilkCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RockmilkCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RockmilkCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RockmilkCave04",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RolandJensericsCabin",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "RoxeyInn",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SageGlenHollow",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SageGlenHollow02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SandstoneCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SandstoneCavern02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SardavarLeed",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SardavarLeed02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Sedor",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Sercen",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SerpentHollowCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SerpentHollowCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SerpentsTrail",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShadowsRestCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShadowsRestCavern02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Shardrock",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShatteredMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShatteredMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShatteredScalesCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShatteredScalesCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShetcombeFarm",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShinboneCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ShinboneCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SidewaysCaveNEW",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SidewaysCaveNew02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Silorn",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Silorn02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Silorn03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SilverToothCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SilverToothCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SinkholeCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SinkholeCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradAmbroiseCannesHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradBernadettePenelesHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradCastleWineCellar",
+    "Region/Type": "Castle",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradChapelHall",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradChapelofJulianos",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradChapelUndercroft",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradGlarthirsBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradGratefulPassStables",
+    "Region/Type": "Shop",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradHouseForSaleBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradLazareMilvansBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradMagesGuildBasement",
+    "Region/Type": "Guild",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradRemanBrodersHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradSalmoTheBakersBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradShameersHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradSummitmistManorBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradSurilieBrothersBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradTamikasBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradTamikasHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradToutiusSextiusBasement",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradTownGuardHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradUndenaOrethisHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SkingradUurasTheShepherdsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SmokeHoleCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SmokeHoleCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SmokeHoleCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SquanderedMine",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SquanderedMine02",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SquanderedMine03",
+    "Region/Type": "Mines",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SwampyCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "SwampyCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Talwinque",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Talwinque02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Talwinque03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Telepe",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TempleMothCatacombs03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TempleMothCatacombs04",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TempleOfTheAncestorMothCrypt",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TempleOfTheAncestorMothFarm",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TempleOfTheAncestorMothMonastery",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TheBeastsMaw",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TheBeastsMaw02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TheDrunkenDragonInn",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TidewaterCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "TimberscarHollow",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ToadstoolHollow",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ToadstoolHollow02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "ToadstoolHollow03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Trumbe",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "UnderpallCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "UnderpallCave05",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "UndertowCavern",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "UndertowCavern02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "UnmarkedCave01",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "UnmarkedCave01b",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "UnmarkedCave01c",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Vahtacen",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Vahtacen02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Varondo",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Varondo02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Varondo03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Veyond",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Veyond02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Veyond03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Veyond04",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "VeyondCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "VeyondCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "VeyondCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "VeyondCave04",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Vilverin",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Vilverin02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Vilverin03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Vilverin04",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WatersEdgeBieneAmelionsHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WatersEdgeEduardRetienesHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WatersEdgeMarieAlouettesHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WawnetInnTavern",
+    "Region/Type": "Inn",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WeatherleahInterior",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Welke",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Welke02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Welke03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WellspringCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Wendelbek",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Wendelbek02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Wendelbek03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Wendelbek04",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WenderbekCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Wendir",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Wendir02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Wenyandawik",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Wenyandawik02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "Weye",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WeynonPrioryChapel",
+    "Region/Type": "Temple",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WeynonPrioryHouse",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WeynonPrioryLodge",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WhiteStallionLodgeInterior",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WhitmondFarm",
+    "Region/Type": "House",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WindCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WindCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "WindCave03",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "XPBrellach05",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "XPXeddefen01",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "XPXeddefen02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "XPXeddefen03",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "XPXeddefen04",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "XPXeddefen05",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "XPXedilian01",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "XPXedilian02",
+    "Region/Type": "Ayleid Ruins",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "YellowTickCave",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  },
+  {
+    "Location ID": "YellowTickCave02",
+    "Region/Type": "Cave",
+    "Section": "All Locations IDs"
+  }
+]

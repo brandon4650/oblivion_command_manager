@@ -1,0 +1,2606 @@
+[
+  {
+    "Name": "Acrobatics Pants",
+    "ID": "00048981",
+    "Copy Paste Cheat": "player.additem 00048981 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Acrobat’s Amulet",
+    "ID": "00098457",
+    "Copy Paste Cheat": "player.additem 00098457 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Aegis Robe",
+    "ID": "0000552C",
+    "Copy Paste Cheat": "player.additem 0000552C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ahdarji’s Ring",
+    "ID": "00035E95",
+    "Copy Paste Cheat": "player.additem 00035E95 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Amulet of Absorption",
+    "ID": "0009843E",
+    "Copy Paste Cheat": "player.additem 0009843E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Amulet of Axes",
+    "ID": "00098453",
+    "Copy Paste Cheat": "player.additem 00098453 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Amulet of Illusion",
+    "ID": "00092AC6",
+    "Copy Paste Cheat": "player.additem 00092AC6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Amulet of Interrogation",
+    "ID": "000C04D6",
+    "Copy Paste Cheat": "player.additem 000C04D6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Amulet of Kings",
+    "ID": "000250A0",
+    "Copy Paste Cheat": "player.additem 000250A0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Amulet of Luck",
+    "ID": "00091AD5",
+    "Copy Paste Cheat": "player.additem 00091AD5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Amulet of Reflection",
+    "ID": "0009845B",
+    "Copy Paste Cheat": "player.additem 0009845B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Amulet of the Ansei",
+    "ID": "00187BBF",
+    "Copy Paste Cheat": "player.additem 00187BBF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ancotar’s Ring of Protection",
+    "ID": "00030135",
+    "Copy Paste Cheat": "player.additem 00030135 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Apron of Adroitness",
+    "ID": "00094ECB",
+    "Copy Paste Cheat": "player.additem 00094ECB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Apron of the Master Artisan",
+    "ID": "000CA122",
+    "Copy Paste Cheat": "player.additem 000CA122 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Aqua Silk Hood",
+    "ID": "00071022",
+    "Copy Paste Cheat": "player.additem 00071022 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Aqua Silk Robes",
+    "ID": "00071021",
+    "Copy Paste Cheat": "player.additem 00071021 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Arch Mage’s Hood",
+    "ID": "00064FE0",
+    "Copy Paste Cheat": "player.additem 00064FE0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Arch Mage’s Robe",
+    "ID": "00064FDF",
+    "Copy Paste Cheat": "player.additem 00064FDF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Arnora’s Amulet",
+    "ID": "00093551",
+    "Copy Paste Cheat": "player.additem 00093551 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Arnora’s True Amulet",
+    "ID": "00053787",
+    "Copy Paste Cheat": "player.additem 00053787 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Astia’s Necklace",
+    "ID": "000CBD53",
+    "Copy Paste Cheat": "player.additem 000CBD53 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Amulet of Absorption",
+    "ID": "0009843D",
+    "Copy Paste Cheat": "player.additem 0009843D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Amulet of Illusion",
+    "ID": "00092AC5",
+    "Copy Paste Cheat": "player.additem 00092AC5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Amulet of Luck",
+    "ID": "00091AD4",
+    "Copy Paste Cheat": "player.additem 00091AD4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Amulet of Reflection",
+    "ID": "000937FA",
+    "Copy Paste Cheat": "player.additem 000937FA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Necklace of Mercantile",
+    "ID": "00092AAD",
+    "Copy Paste Cheat": "player.additem 00092AAD 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Necklace of Personality",
+    "ID": "00091AD1",
+    "Copy Paste Cheat": "player.additem 00091AD1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Necklace of Seawalking",
+    "ID": "00098443",
+    "Copy Paste Cheat": "player.additem 00098443 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Necklace of Speechcraft",
+    "ID": "00092AB6",
+    "Copy Paste Cheat": "player.additem 00092AB6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Necklace of the Sea",
+    "ID": "00098440",
+    "Copy Paste Cheat": "player.additem 00098440 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Acrobatics",
+    "ID": "00091C3C",
+    "Copy Paste Cheat": "player.additem 00091C3C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Aegis",
+    "ID": "00098437",
+    "Copy Paste Cheat": "player.additem 00098437 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Agility",
+    "ID": "00091AC8",
+    "Copy Paste Cheat": "player.additem 00091AC8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Alchemy",
+    "ID": "00092AB9",
+    "Copy Paste Cheat": "player.additem 00092AB9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Alteration",
+    "ID": "00092ABC",
+    "Copy Paste Cheat": "player.additem 00092ABC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Athletics",
+    "ID": "00091C2A",
+    "Copy Paste Cheat": "player.additem 00091C2A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Blades",
+    "ID": "00091C2D",
+    "Copy Paste Cheat": "player.additem 00091C2D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Block",
+    "ID": "00091C30",
+    "Copy Paste Cheat": "player.additem 00091C30 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Blunt Force",
+    "ID": "00091C33",
+    "Copy Paste Cheat": "player.additem 00091C33 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Brawling",
+    "ID": "00091C36",
+    "Copy Paste Cheat": "player.additem 00091C36 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Conjuration",
+    "ID": "00092ABF",
+    "Copy Paste Cheat": "player.additem 00092ABF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Destruction",
+    "ID": "0009DED3",
+    "Copy Paste Cheat": "player.additem 0009DED3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Detect Life",
+    "ID": "00091AB6",
+    "Copy Paste Cheat": "player.additem 00091AB6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Endurance",
+    "ID": "00091ACE",
+    "Copy Paste Cheat": "player.additem 00091ACE 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Feather",
+    "ID": "00091AB9",
+    "Copy Paste Cheat": "player.additem 00091AB9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Fire Shield",
+    "ID": "00091ABD",
+    "Copy Paste Cheat": "player.additem 00091ABD 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Firewalking",
+    "ID": "00098419",
+    "Copy Paste Cheat": "player.additem 00098419 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Fortitude",
+    "ID": "0009845D",
+    "Copy Paste Cheat": "player.additem 0009845D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Freedom",
+    "ID": "00098425",
+    "Copy Paste Cheat": "player.additem 00098425 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Frost Shield",
+    "ID": "000937EF",
+    "Copy Paste Cheat": "player.additem 000937EF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Health",
+    "ID": "00091C21",
+    "Copy Paste Cheat": "player.additem 00091C21 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Heavy Armor",
+    "ID": "00091C39",
+    "Copy Paste Cheat": "player.additem 00091C39 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Intelligence",
+    "ID": "00091AC2",
+    "Copy Paste Cheat": "player.additem 00091AC2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Light",
+    "ID": "000937F2",
+    "Copy Paste Cheat": "player.additem 000937F2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Light Armor",
+    "ID": "00091C3F",
+    "Copy Paste Cheat": "player.additem 00091C3F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Magicka",
+    "ID": "00091C24",
+    "Copy Paste Cheat": "player.additem 00091C24 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Mysticism",
+    "ID": "00092AC8",
+    "Copy Paste Cheat": "player.additem 00092AC8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Nighteye",
+    "ID": "000937F5",
+    "Copy Paste Cheat": "player.additem 000937F5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Nihilism",
+    "ID": "0009841F",
+    "Copy Paste Cheat": "player.additem 0009841F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Restoration",
+    "ID": "00092ACB",
+    "Copy Paste Cheat": "player.additem 00092ACB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Retribution",
+    "ID": "00091AAF",
+    "Copy Paste Cheat": "player.additem 00091AAF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Security",
+    "ID": "00092AB0",
+    "Copy Paste Cheat": "player.additem 00092AB0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Shadows",
+    "ID": "00091AAE",
+    "Copy Paste Cheat": "player.additem 00091AAE 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Shock Shield",
+    "ID": "0009843A",
+    "Copy Paste Cheat": "player.additem 0009843A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Sneak",
+    "ID": "00092AB3",
+    "Copy Paste Cheat": "player.additem 00092AB3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Speed",
+    "ID": "00091ACB",
+    "Copy Paste Cheat": "player.additem 00091ACB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Steelskin",
+    "ID": "00098422",
+    "Copy Paste Cheat": "player.additem 00098422 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Storms",
+    "ID": "0009842B",
+    "Copy Paste Cheat": "player.additem 0009842B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Strength",
+    "ID": "00091ABF",
+    "Copy Paste Cheat": "player.additem 00091ABF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of the Archer",
+    "ID": "00092AAA",
+    "Copy Paste Cheat": "player.additem 00092AAA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of the Armorer",
+    "ID": "00091C27",
+    "Copy Paste Cheat": "player.additem 00091C27 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of the North",
+    "ID": "0009841C",
+    "Copy Paste Cheat": "player.additem 0009841C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of the Viper",
+    "ID": "00098428",
+    "Copy Paste Cheat": "player.additem 00098428 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Vigor",
+    "ID": "00091AD7",
+    "Copy Paste Cheat": "player.additem 00091AD7 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Base Ring of Willpower",
+    "ID": "00091AC5",
+    "Copy Paste Cheat": "player.additem 00091AC5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Beggar’s Shirt",
+    "ID": "00064F7E",
+    "Copy Paste Cheat": "player.additem 00064F7E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Belted Braies",
+    "ID": "0002B90B",
+    "Copy Paste Cheat": "player.additem 0002B90B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Belted Vest",
+    "ID": "0002B90C",
+    "Copy Paste Cheat": "player.additem 0002B90C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Black & Burgundy Outfit",
+    "ID": "0001C887",
+    "Copy Paste Cheat": "player.additem 0001C887 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Black Band",
+    "ID": "0002FF34",
+    "Copy Paste Cheat": "player.additem 0002FF34 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Black Hand Hood",
+    "ID": "000651D3",
+    "Copy Paste Cheat": "player.additem 000651D3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Black Hand Robe",
+    "ID": "000651D2",
+    "Copy Paste Cheat": "player.additem 000651D2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Black Hood",
+    "ID": "00064FE3",
+    "Copy Paste Cheat": "player.additem 00064FE3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Black Robe",
+    "ID": "00064FE2",
+    "Copy Paste Cheat": "player.additem 00064FE2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Black Wide Pants",
+    "ID": "00064F7B",
+    "Copy Paste Cheat": "player.additem 00064F7B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blackheart’s Ring",
+    "ID": "0002C633",
+    "Copy Paste Cheat": "player.additem 0002C633 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blacksmith’s Apron",
+    "ID": "000229A6",
+    "Copy Paste Cheat": "player.additem 000229A6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blacksmith’s Pants",
+    "ID": "000229A7",
+    "Copy Paste Cheat": "player.additem 000229A7 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blackwood Ring of Silence",
+    "ID": "00098175",
+    "Copy Paste Cheat": "player.additem 00098175 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blue & Green Outfit",
+    "ID": "0001C884",
+    "Copy Paste Cheat": "player.additem 0001C884 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blue Collar Shirt",
+    "ID": "0000C59E",
+    "Copy Paste Cheat": "player.additem 0000C59E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blue Silk Shirt",
+    "ID": "00064FE5",
+    "Copy Paste Cheat": "player.additem 00064FE5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blue Silks",
+    "ID": "00064FE4",
+    "Copy Paste Cheat": "player.additem 00064FE4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blue Suede Shoes",
+    "ID": "0002319E",
+    "Copy Paste Cheat": "player.additem 0002319E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Blue Velvet Outfit",
+    "ID": "0002319D",
+    "Copy Paste Cheat": "player.additem 0002319D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Boots of Springheel Jak",
+    "ID": "000148D4",
+    "Copy Paste Cheat": "player.additem 000148D4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Braided Leather Sandals",
+    "ID": "0002B90D",
+    "Copy Paste Cheat": "player.additem 0002B90D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Brass Pearl Ring",
+    "ID": "00038017",
+    "Copy Paste Cheat": "player.additem 00038017 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Brass Ring",
+    "ID": "00038011",
+    "Copy Paste Cheat": "player.additem 00038011 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Brass Topaz Ring",
+    "ID": "00038018",
+    "Copy Paste Cheat": "player.additem 00038018 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Breeches",
+    "ID": "00028587",
+    "Copy Paste Cheat": "player.additem 00028587 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Bronze Amulet",
+    "ID": "0003802D",
+    "Copy Paste Cheat": "player.additem 0003802D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Bronze Necklace",
+    "ID": "00038027",
+    "Copy Paste Cheat": "player.additem 00038027 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Brown Shirt",
+    "ID": "000229AD",
+    "Copy Paste Cheat": "player.additem 000229AD 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Buckled Shoes",
+    "ID": "00028733",
+    "Copy Paste Cheat": "player.additem 00028733 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Burgundy Linen Shirt",
+    "ID": "00000B86",
+    "Copy Paste Cheat": "player.additem 00000B86 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Burgundy Linens",
+    "ID": "0001047C",
+    "Copy Paste Cheat": "player.additem 0001047C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Burlap Vest",
+    "ID": "0002C0F8",
+    "Copy Paste Cheat": "player.additem 0002C0F8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Chameleon Robe",
+    "ID": "0000844D",
+    "Copy Paste Cheat": "player.additem 0000844D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Child Overalls",
+    "ID": "000CAAA1",
+    "Copy Paste Cheat": "player.additem 000CAAA1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Circlet of Omnipotence",
+    "ID": "00088FED",
+    "Copy Paste Cheat": "player.additem 00088FED 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Clogs",
+    "ID": "0002858E",
+    "Copy Paste Cheat": "player.additem 0002858E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Coarse Linen Shirt",
+    "ID": "0001C82E",
+    "Copy Paste Cheat": "player.additem 0001C82E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Coarse Linens",
+    "ID": "0001C82C",
+    "Copy Paste Cheat": "player.additem 0001C82C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Collared Shirt",
+    "ID": "00028732",
+    "Copy Paste Cheat": "player.additem 00028732 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Colovian Signet Ring",
+    "ID": "00032DA0",
+    "Copy Paste Cheat": "player.additem 00032DA0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Copper Amulet",
+    "ID": "0003802E",
+    "Copy Paste Cheat": "player.additem 0003802E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Copper Necklace",
+    "ID": "00038028",
+    "Copy Paste Cheat": "player.additem 00038028 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Copper Pearl Ring",
+    "ID": "00038019",
+    "Copy Paste Cheat": "player.additem 00038019 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Copper Ring",
+    "ID": "00038012",
+    "Copy Paste Cheat": "player.additem 00038012 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Copper Ruby Ring",
+    "ID": "0003801B",
+    "Copy Paste Cheat": "player.additem 0003801B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Copper Topaz Ring",
+    "ID": "0003801A",
+    "Copy Paste Cheat": "player.additem 0003801A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Councilor’s Hood",
+    "ID": "000CA12C",
+    "Copy Paste Cheat": "player.additem 000CA12C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Cowl of the Druid",
+    "ID": "000CA121",
+    "Copy Paste Cheat": "player.additem 000CA121 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Cruelty’s Heart",
+    "ID": "000347E3",
+    "Copy Paste Cheat": "player.additem 000347E3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Dark Green Shirt",
+    "ID": "000229AA",
+    "Copy Paste Cheat": "player.additem 000229AA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Dark Shirt",
+    "ID": "00064F7D",
+    "Copy Paste Cheat": "player.additem 00064F7D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Doeskin Shoes",
+    "ID": "0001C883",
+    "Copy Paste Cheat": "player.additem 0001C883 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Draconian Madstone",
+    "ID": "0007304D",
+    "Copy Paste Cheat": "player.additem 0007304D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Draconian Madstone",
+    "ID": "0001C172",
+    "Copy Paste Cheat": "player.additem 0001C172 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Dreamworld Amulet",
+    "ID": "00089008",
+    "Copy Paste Cheat": "player.additem 00089008 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Dreamworld Amulet",
+    "ID": "0002CDC6",
+    "Copy Paste Cheat": "player.additem 0002CDC6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ebony Diamond Ring",
+    "ID": "00038026",
+    "Copy Paste Cheat": "player.additem 00038026 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ebony Emerald Ring",
+    "ID": "00038025",
+    "Copy Paste Cheat": "player.additem 00038025 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ebony Ring",
+    "ID": "00038016",
+    "Copy Paste Cheat": "player.additem 00038016 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Elemental Ring",
+    "ID": "00098450",
+    "Copy Paste Cheat": "player.additem 00098450 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Emperor’s Robe",
+    "ID": "00023D33",
+    "Copy Paste Cheat": "player.additem 00023D33 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Emperor’s Robe",
+    "ID": "0000BC2D",
+    "Copy Paste Cheat": "player.additem 0000BC2D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Emperor’s Shoes",
+    "ID": "00023D53",
+    "Copy Paste Cheat": "player.additem 00023D53 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ernest’s Best Shirt",
+    "ID": "00064F76",
+    "Copy Paste Cheat": "player.additem 00064F76 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ernest’s Fancy Pants",
+    "ID": "000CBD37",
+    "Copy Paste Cheat": "player.additem 000CBD37 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ernest’s Shoes",
+    "ID": "000CBD39",
+    "Copy Paste Cheat": "player.additem 000CBD39 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Eye of Sithis",
+    "ID": "00082DE0",
+    "Copy Paste Cheat": "player.additem 00082DE0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Feather Shoes",
+    "ID": "00048991",
+    "Copy Paste Cheat": "player.additem 00048991 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Fishing Waders",
+    "ID": "0002ECAC",
+    "Copy Paste Cheat": "player.additem 0002ECAC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Flame Ring",
+    "ID": "0009844C",
+    "Copy Paste Cheat": "player.additem 0009844C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Flax Tunic",
+    "ID": "0002C0FA",
+    "Copy Paste Cheat": "player.additem 0002C0FA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Forester’s Shirt",
+    "ID": "00064F79",
+    "Copy Paste Cheat": "player.additem 00064F79 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Fortify Fatigue Pants",
+    "ID": "00048992",
+    "Copy Paste Cheat": "player.additem 00048992 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Fortify Magicka Pants",
+    "ID": "0000552D",
+    "Copy Paste Cheat": "player.additem 0000552D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Frost Ring",
+    "ID": "0009844D",
+    "Copy Paste Cheat": "player.additem 0009844D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Gold Amulet",
+    "ID": "00038031",
+    "Copy Paste Cheat": "player.additem 00038031 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Gold Diamond Ring",
+    "ID": "00038024",
+    "Copy Paste Cheat": "player.additem 00038024 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Gold Emerald Ring",
+    "ID": "00038023",
+    "Copy Paste Cheat": "player.additem 00038023 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Gold Necklace",
+    "ID": "0003802B",
+    "Copy Paste Cheat": "player.additem 0003802B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Gold Ring",
+    "ID": "00038015",
+    "Copy Paste Cheat": "player.additem 00038015 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Gold Sapphire Ring",
+    "ID": "00038022",
+    "Copy Paste Cheat": "player.additem 00038022 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Gold Trimmed Shoes",
+    "ID": "0001C888",
+    "Copy Paste Cheat": "player.additem 0001C888 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Amulet of Absorption",
+    "ID": "0009843F",
+    "Copy Paste Cheat": "player.additem 0009843F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Amulet of Illusion",
+    "ID": "00092AC7",
+    "Copy Paste Cheat": "player.additem 00092AC7 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Amulet of Luck",
+    "ID": "00091AD6",
+    "Copy Paste Cheat": "player.additem 00091AD6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Amulet of Reflection",
+    "ID": "0009845C",
+    "Copy Paste Cheat": "player.additem 0009845C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Necklace of Mercantile",
+    "ID": "00092AAF",
+    "Copy Paste Cheat": "player.additem 00092AAF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Necklace of Personality",
+    "ID": "00091AD3",
+    "Copy Paste Cheat": "player.additem 00091AD3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Necklace of Seawalking",
+    "ID": "00098445",
+    "Copy Paste Cheat": "player.additem 00098445 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Necklace of Speechcraft",
+    "ID": "00092AB8",
+    "Copy Paste Cheat": "player.additem 00092AB8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Necklace of the Sea",
+    "ID": "00098441",
+    "Copy Paste Cheat": "player.additem 00098441 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Acrobatics",
+    "ID": "00091C3E",
+    "Copy Paste Cheat": "player.additem 00091C3E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Aegis",
+    "ID": "00098439",
+    "Copy Paste Cheat": "player.additem 00098439 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Agility",
+    "ID": "00091ACA",
+    "Copy Paste Cheat": "player.additem 00091ACA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Alchemy",
+    "ID": "00092ABB",
+    "Copy Paste Cheat": "player.additem 00092ABB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Alteration",
+    "ID": "00092ABE",
+    "Copy Paste Cheat": "player.additem 00092ABE 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Athletics",
+    "ID": "00091C2C",
+    "Copy Paste Cheat": "player.additem 00091C2C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Blades",
+    "ID": "00091C2F",
+    "Copy Paste Cheat": "player.additem 00091C2F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Block",
+    "ID": "00091C32",
+    "Copy Paste Cheat": "player.additem 00091C32 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Blunt Force",
+    "ID": "00091C35",
+    "Copy Paste Cheat": "player.additem 00091C35 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Brawling",
+    "ID": "00091C38",
+    "Copy Paste Cheat": "player.additem 00091C38 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Conjuration",
+    "ID": "00092AC1",
+    "Copy Paste Cheat": "player.additem 00092AC1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Destruction",
+    "ID": "00092AC4",
+    "Copy Paste Cheat": "player.additem 00092AC4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Detect Life",
+    "ID": "00091AB8",
+    "Copy Paste Cheat": "player.additem 00091AB8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Endurance",
+    "ID": "00091AD0",
+    "Copy Paste Cheat": "player.additem 00091AD0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Feather",
+    "ID": "00091ABB",
+    "Copy Paste Cheat": "player.additem 00091ABB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Fire Shield",
+    "ID": "00091ABE",
+    "Copy Paste Cheat": "player.additem 00091ABE 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Firewalking",
+    "ID": "0009841B",
+    "Copy Paste Cheat": "player.additem 0009841B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Fortitude",
+    "ID": "00098418",
+    "Copy Paste Cheat": "player.additem 00098418 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Freedom",
+    "ID": "00098427",
+    "Copy Paste Cheat": "player.additem 00098427 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Frost Shield",
+    "ID": "000937F1",
+    "Copy Paste Cheat": "player.additem 000937F1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Health",
+    "ID": "00091C23",
+    "Copy Paste Cheat": "player.additem 00091C23 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Heavy Armor",
+    "ID": "00091C3B",
+    "Copy Paste Cheat": "player.additem 00091C3B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Intelligence",
+    "ID": "00091AC4",
+    "Copy Paste Cheat": "player.additem 00091AC4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Light",
+    "ID": "000937F4",
+    "Copy Paste Cheat": "player.additem 000937F4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Light Armor",
+    "ID": "00091C41",
+    "Copy Paste Cheat": "player.additem 00091C41 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Magicka",
+    "ID": "00091C26",
+    "Copy Paste Cheat": "player.additem 00091C26 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Mysticism",
+    "ID": "00092ACA",
+    "Copy Paste Cheat": "player.additem 00092ACA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Nighteye",
+    "ID": "000937F7",
+    "Copy Paste Cheat": "player.additem 000937F7 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Nihilism",
+    "ID": "00098421",
+    "Copy Paste Cheat": "player.additem 00098421 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Restoration",
+    "ID": "00092ACD",
+    "Copy Paste Cheat": "player.additem 00092ACD 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Retribution",
+    "ID": "000937F9",
+    "Copy Paste Cheat": "player.additem 000937F9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Security",
+    "ID": "00092AB2",
+    "Copy Paste Cheat": "player.additem 00092AB2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Shadows",
+    "ID": "00091AB2",
+    "Copy Paste Cheat": "player.additem 00091AB2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Shock Shield",
+    "ID": "0009843C",
+    "Copy Paste Cheat": "player.additem 0009843C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Sneak",
+    "ID": "00092AB5",
+    "Copy Paste Cheat": "player.additem 00092AB5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Speed",
+    "ID": "00091ACD",
+    "Copy Paste Cheat": "player.additem 00091ACD 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Steelskin",
+    "ID": "00098424",
+    "Copy Paste Cheat": "player.additem 00098424 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Storms",
+    "ID": "0009842D",
+    "Copy Paste Cheat": "player.additem 0009842D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Strength",
+    "ID": "00091AC1",
+    "Copy Paste Cheat": "player.additem 00091AC1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of the Archer",
+    "ID": "00092AAC",
+    "Copy Paste Cheat": "player.additem 00092AAC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of the Armorer",
+    "ID": "00091C29",
+    "Copy Paste Cheat": "player.additem 00091C29 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of the North",
+    "ID": "0009841E",
+    "Copy Paste Cheat": "player.additem 0009841E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of the Viper",
+    "ID": "0009842A",
+    "Copy Paste Cheat": "player.additem 0009842A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Vigor",
+    "ID": "00091AD9",
+    "Copy Paste Cheat": "player.additem 00091AD9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grand Ring of Willpower",
+    "ID": "00091AC7",
+    "Copy Paste Cheat": "player.additem 00091AC7 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Gray Cowl of Nocturnal",
+    "ID": "00022E81",
+    "Copy Paste Cheat": "player.additem 00022E81 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Greater Amulet of Interrogation",
+    "ID": "000C04D7",
+    "Copy Paste Cheat": "player.additem 000C04D7 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Green Brocade Doublet",
+    "ID": "000229B0",
+    "Copy Paste Cheat": "player.additem 000229B0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Green Felt Linens",
+    "ID": "00028731",
+    "Copy Paste Cheat": "player.additem 00028731 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Green Robe",
+    "ID": "0007101B",
+    "Copy Paste Cheat": "player.additem 0007101B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Green Robe Hood",
+    "ID": "0007101C",
+    "Copy Paste Cheat": "player.additem 0007101C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Green Silk Garment",
+    "ID": "000229B1",
+    "Copy Paste Cheat": "player.additem 000229B1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Green Velvet Shoes",
+    "ID": "000229B2",
+    "Copy Paste Cheat": "player.additem 000229B2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Green Wool Shirt",
+    "ID": "0002ECB0",
+    "Copy Paste Cheat": "player.additem 0002ECB0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grey Robe",
+    "ID": "0012DD1E",
+    "Copy Paste Cheat": "player.additem 0012DD1E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Grey Robe Hood",
+    "ID": "0012DD1F",
+    "Copy Paste Cheat": "player.additem 0012DD1F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Heinrich’s Pants",
+    "ID": "000CBD3D",
+    "Copy Paste Cheat": "player.additem 000CBD3D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Heinrich’s Shirt",
+    "ID": "000CBD3F",
+    "Copy Paste Cheat": "player.additem 000CBD3F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Heinrich’s Shoes",
+    "ID": "000CBD47",
+    "Copy Paste Cheat": "player.additem 000CBD47 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Highwayman’s Shirt",
+    "ID": "00064FE6",
+    "Copy Paste Cheat": "player.additem 00064FE6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Hood of the Apprentice",
+    "ID": "0006A82D",
+    "Copy Paste Cheat": "player.additem 0006A82D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Huntsman Leather Pants",
+    "ID": "00000857",
+    "Copy Paste Cheat": "player.additem 00000857 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Huntsman Moccasin",
+    "ID": "0001C82B",
+    "Copy Paste Cheat": "player.additem 0001C82B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Huntsman Vest",
+    "ID": "00000883",
+    "Copy Paste Cheat": "player.additem 00000883 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Imperial Breeches",
+    "ID": "000CA125",
+    "Copy Paste Cheat": "player.additem 000CA125 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Indarys Signet Ring",
+    "ID": "000335A8",
+    "Copy Paste Cheat": "player.additem 000335A8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jade Amulet",
+    "ID": "00189CFE",
+    "Copy Paste Cheat": "player.additem 00189CFE 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jade Amulet",
+    "ID": "0003802F",
+    "Copy Paste Cheat": "player.additem 0003802F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jade Necklace",
+    "ID": "00038029",
+    "Copy Paste Cheat": "player.additem 00038029 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jade Ring",
+    "ID": "00038013",
+    "Copy Paste Cheat": "player.additem 00038013 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jade Ruby Ring",
+    "ID": "0003801D",
+    "Copy Paste Cheat": "player.additem 0003801D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jade Sapphire Ring",
+    "ID": "0003801E",
+    "Copy Paste Cheat": "player.additem 0003801E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jade Topaz Ring",
+    "ID": "0003801C",
+    "Copy Paste Cheat": "player.additem 0003801C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jewel of the Rumare",
+    "ID": "000856EF",
+    "Copy Paste Cheat": "player.additem 000856EF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jeweled Amulet",
+    "ID": "00038032",
+    "Copy Paste Cheat": "player.additem 00038032 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Jeweled Necklace",
+    "ID": "0003802C",
+    "Copy Paste Cheat": "player.additem 0003802C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "King of Worms’ Hood",
+    "ID": "001885CC",
+    "Copy Paste Cheat": "player.additem 001885CC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "King of Worms’ Robes",
+    "ID": "001885CA",
+    "Copy Paste Cheat": "player.additem 001885CA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Knights of the Thorn Medallion",
+    "ID": "000335A9",
+    "Copy Paste Cheat": "player.additem 000335A9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Kylius Lonavo’s Ring",
+    "ID": "00189181",
+    "Copy Paste Cheat": "player.additem 00189181 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Laced Leather Pants",
+    "ID": "000229AB",
+    "Copy Paste Cheat": "player.additem 000229AB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Lesser Amulet of Interrogation",
+    "ID": "000C04D5",
+    "Copy Paste Cheat": "player.additem 000C04D5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Lesser Chameleon Robe",
+    "ID": "00048990",
+    "Copy Paste Cheat": "player.additem 00048990 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Light Armor Vest",
+    "ID": "00048982",
+    "Copy Paste Cheat": "player.additem 00048982 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Light Brown Linens",
+    "ID": "000229AE",
+    "Copy Paste Cheat": "player.additem 000229AE 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mage’s Hood",
+    "ID": "00064FE1",
+    "Copy Paste Cheat": "player.additem 00064FE1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mage’s Robe",
+    "ID": "00064F7F",
+    "Copy Paste Cheat": "player.additem 00064F7F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Manduin’s Amulet",
+    "ID": "000347C8",
+    "Copy Paste Cheat": "player.additem 000347C8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mankar Camoran’s Robe",
+    "ID": "000BE31F",
+    "Copy Paste Cheat": "player.additem 000BE31F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mantle of the Woodsman",
+    "ID": "000CA129",
+    "Copy Paste Cheat": "player.additem 000CA129 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Marksman Quilted Doublet",
+    "ID": "00048983",
+    "Copy Paste Cheat": "player.additem 00048983 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mercantile Black Outfit",
+    "ID": "00048984",
+    "Copy Paste Cheat": "player.additem 00048984 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mind and Body Ring",
+    "ID": "000366C1",
+    "Copy Paste Cheat": "player.additem 000366C1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Monk Robe",
+    "ID": "0001E7FF",
+    "Copy Paste Cheat": "player.additem 0001E7FF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mundane Amulet",
+    "ID": "00038B07",
+    "Copy Paste Cheat": "player.additem 00038B07 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mundane Ring",
+    "ID": "0009844B",
+    "Copy Paste Cheat": "player.additem 0009844B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mythic Dawn Hood",
+    "ID": "0008D755",
+    "Copy Paste Cheat": "player.additem 0008D755 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Mythic Dawn Robe",
+    "ID": "00024DE2",
+    "Copy Paste Cheat": "player.additem 00024DE2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necklace of Mercantile",
+    "ID": "00092AAE",
+    "Copy Paste Cheat": "player.additem 00092AAE 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necklace of Personality",
+    "ID": "00091AD2",
+    "Copy Paste Cheat": "player.additem 00091AD2 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necklace of Seawalking",
+    "ID": "00098444",
+    "Copy Paste Cheat": "player.additem 00098444 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necklace of Speechcraft",
+    "ID": "00092AB7",
+    "Copy Paste Cheat": "player.additem 00092AB7 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necklace of Swords",
+    "ID": "00098452",
+    "Copy Paste Cheat": "player.additem 00098452 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necklace of the Sea",
+    "ID": "00098442",
+    "Copy Paste Cheat": "player.additem 00098442 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necromancer’s Amulet",
+    "ID": "0007BE2B",
+    "Copy Paste Cheat": "player.additem 0007BE2B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necromancer’s Hood",
+    "ID": "001885CB",
+    "Copy Paste Cheat": "player.additem 001885CB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Necromancer’s Robes",
+    "ID": "001885C9",
+    "Copy Paste Cheat": "player.additem 001885C9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Nistor’s Boots",
+    "ID": "000CA12B",
+    "Copy Paste Cheat": "player.additem 000CA12B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Oiled Linen Shoes",
+    "ID": "0001C82F",
+    "Copy Paste Cheat": "player.additem 0001C82F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Olive Vest",
+    "ID": "0002C0F4",
+    "Copy Paste Cheat": "player.additem 0002C0F4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Pants",
+    "ID": "00000015",
+    "Copy Paste Cheat": "player.additem 00000015 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Patched Vest",
+    "ID": "0002ECAD",
+    "Copy Paste Cheat": "player.additem 0002ECAD 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Phylactery of Litheness",
+    "ID": "000385A0",
+    "Copy Paste Cheat": "player.additem 000385A0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Pigskin Shoes",
+    "ID": "000229AF",
+    "Copy Paste Cheat": "player.additem 000229AF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Pinarus’ Shirt",
+    "ID": "000CBD51",
+    "Copy Paste Cheat": "player.additem 000CBD51 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Plaid Shirt",
+    "ID": "00064F78",
+    "Copy Paste Cheat": "player.additem 00064F78 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Quilted Doublet",
+    "ID": "0001C831",
+    "Copy Paste Cheat": "player.additem 0001C831 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Quilted Shoes",
+    "ID": "0001C886",
+    "Copy Paste Cheat": "player.additem 0001C886 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Red Silk Hood",
+    "ID": "00071020",
+    "Copy Paste Cheat": "player.additem 00071020 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Red Silk Robes",
+    "ID": "0007101F",
+    "Copy Paste Cheat": "player.additem 0007101F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Red Velvet Blouse",
+    "ID": "00003A94",
+    "Copy Paste Cheat": "player.additem 00003A94 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Red Velvet Garment",
+    "ID": "00003A93",
+    "Copy Paste Cheat": "player.additem 00003A93 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Red Velvet Outfit",
+    "ID": "000A498E",
+    "Copy Paste Cheat": "player.additem 000A498E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Resist Cold Pants",
+    "ID": "0000844E",
+    "Copy Paste Cheat": "player.additem 0000844E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Resist Disease Burgundy Linen Shirt",
+    "ID": "00048989",
+    "Copy Paste Cheat": "player.additem 00048989 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Resist Fire Burgundy Linens",
+    "ID": "0004898A",
+    "Copy Paste Cheat": "player.additem 0004898A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Resist Normal Weapons Quilted Doublet",
+    "ID": "0004898B",
+    "Copy Paste Cheat": "player.additem 0004898B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Resist Poison Blue & Green Outfit",
+    "ID": "0004898C",
+    "Copy Paste Cheat": "player.additem 0004898C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Acrobatics",
+    "ID": "00091C3D",
+    "Copy Paste Cheat": "player.additem 00091C3D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Aegis",
+    "ID": "00098438",
+    "Copy Paste Cheat": "player.additem 00098438 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Agility",
+    "ID": "00091AC9",
+    "Copy Paste Cheat": "player.additem 00091AC9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Alchemy",
+    "ID": "00092ABA",
+    "Copy Paste Cheat": "player.additem 00092ABA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Alteration",
+    "ID": "00092ABD",
+    "Copy Paste Cheat": "player.additem 00092ABD 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Athletics",
+    "ID": "00091C2B",
+    "Copy Paste Cheat": "player.additem 00091C2B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Blades",
+    "ID": "00091C2E",
+    "Copy Paste Cheat": "player.additem 00091C2E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Block",
+    "ID": "00091C31",
+    "Copy Paste Cheat": "player.additem 00091C31 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Blunt Force",
+    "ID": "00091C34",
+    "Copy Paste Cheat": "player.additem 00091C34 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Brawling",
+    "ID": "00091C37",
+    "Copy Paste Cheat": "player.additem 00091C37 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Burden",
+    "ID": "0002E5AC",
+    "Copy Paste Cheat": "player.additem 0002E5AC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Conjuration",
+    "ID": "00092AC0",
+    "Copy Paste Cheat": "player.additem 00092AC0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Destruction",
+    "ID": "00092AC3",
+    "Copy Paste Cheat": "player.additem 00092AC3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Detect Life",
+    "ID": "00091AB7",
+    "Copy Paste Cheat": "player.additem 00091AB7 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Eidolon’s Edge",
+    "ID": "0004F9E5",
+    "Copy Paste Cheat": "player.additem 0004F9E5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Endurance",
+    "ID": "00091ACF",
+    "Copy Paste Cheat": "player.additem 00091ACF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Feather",
+    "ID": "00091ABA",
+    "Copy Paste Cheat": "player.additem 00091ABA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Fire Shield",
+    "ID": "00091ABC",
+    "Copy Paste Cheat": "player.additem 00091ABC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Firewalking",
+    "ID": "0009841A",
+    "Copy Paste Cheat": "player.additem 0009841A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Fortitude",
+    "ID": "00098417",
+    "Copy Paste Cheat": "player.additem 00098417 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Freedom",
+    "ID": "00098426",
+    "Copy Paste Cheat": "player.additem 00098426 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Frost Shield",
+    "ID": "000937F0",
+    "Copy Paste Cheat": "player.additem 000937F0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Health",
+    "ID": "00091C22",
+    "Copy Paste Cheat": "player.additem 00091C22 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Heavy Armor",
+    "ID": "00091C3A",
+    "Copy Paste Cheat": "player.additem 00091C3A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Intelligence",
+    "ID": "00091AC3",
+    "Copy Paste Cheat": "player.additem 00091AC3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Khajiiti",
+    "ID": "00027110",
+    "Copy Paste Cheat": "player.additem 00027110 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Light",
+    "ID": "000937F3",
+    "Copy Paste Cheat": "player.additem 000937F3 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Light Armor",
+    "ID": "00091C40",
+    "Copy Paste Cheat": "player.additem 00091C40 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Magicka",
+    "ID": "00091C25",
+    "Copy Paste Cheat": "player.additem 00091C25 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Mysticism",
+    "ID": "00092AC9",
+    "Copy Paste Cheat": "player.additem 00092AC9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Namira",
+    "ID": "0001C10A",
+    "Copy Paste Cheat": "player.additem 0001C10A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Nighteye",
+    "ID": "000937F6",
+    "Copy Paste Cheat": "player.additem 000937F6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Nihilism",
+    "ID": "00098420",
+    "Copy Paste Cheat": "player.additem 00098420 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Perfection",
+    "ID": "00098446",
+    "Copy Paste Cheat": "player.additem 00098446 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Restoration",
+    "ID": "00092ACC",
+    "Copy Paste Cheat": "player.additem 00092ACC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Retribution",
+    "ID": "000937F8",
+    "Copy Paste Cheat": "player.additem 000937F8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Security",
+    "ID": "00092AB1",
+    "Copy Paste Cheat": "player.additem 00092AB1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Shadows",
+    "ID": "00091AB1",
+    "Copy Paste Cheat": "player.additem 00091AB1 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Shock Shield",
+    "ID": "0009843B",
+    "Copy Paste Cheat": "player.additem 0009843B 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Skimming",
+    "ID": "00098456",
+    "Copy Paste Cheat": "player.additem 00098456 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Sneak",
+    "ID": "00092AB4",
+    "Copy Paste Cheat": "player.additem 00092AB4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Speed",
+    "ID": "00091ACC",
+    "Copy Paste Cheat": "player.additem 00091ACC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Stamina",
+    "ID": "00098447",
+    "Copy Paste Cheat": "player.additem 00098447 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Steelskin",
+    "ID": "00098423",
+    "Copy Paste Cheat": "player.additem 00098423 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Storms",
+    "ID": "0009842C",
+    "Copy Paste Cheat": "player.additem 0009842C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Strength",
+    "ID": "00091AC0",
+    "Copy Paste Cheat": "player.additem 00091AC0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Sunfire",
+    "ID": "0001E0FA",
+    "Copy Paste Cheat": "player.additem 0001E0FA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of the Archer",
+    "ID": "00092AAB",
+    "Copy Paste Cheat": "player.additem 00092AAB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of the Armorer",
+    "ID": "00091C28",
+    "Copy Paste Cheat": "player.additem 00091C28 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of the Gray",
+    "ID": "0000CCC8",
+    "Copy Paste Cheat": "player.additem 0000CCC8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of the Iron Fist",
+    "ID": "00098458",
+    "Copy Paste Cheat": "player.additem 00098458 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of the North",
+    "ID": "0009841D",
+    "Copy Paste Cheat": "player.additem 0009841D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of the Viper",
+    "ID": "00098429",
+    "Copy Paste Cheat": "player.additem 00098429 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of the Vipereye",
+    "ID": "0001C4DA",
+    "Copy Paste Cheat": "player.additem 0001C4DA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Thieves",
+    "ID": "00098455",
+    "Copy Paste Cheat": "player.additem 00098455 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Transmutation",
+    "ID": "000CA126",
+    "Copy Paste Cheat": "player.additem 000CA126 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Treachery",
+    "ID": "00098449",
+    "Copy Paste Cheat": "player.additem 00098449 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Vigor",
+    "ID": "00091AD8",
+    "Copy Paste Cheat": "player.additem 00091AD8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Vitality",
+    "ID": "0009844F",
+    "Copy Paste Cheat": "player.additem 0009844F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of War",
+    "ID": "00098448",
+    "Copy Paste Cheat": "player.additem 00098448 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Willpower",
+    "ID": "00091AC6",
+    "Copy Paste Cheat": "player.additem 00091AC6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Wizardry",
+    "ID": "0009844A",
+    "Copy Paste Cheat": "player.additem 0009844A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ring of Wortcraft",
+    "ID": "000CA128",
+    "Copy Paste Cheat": "player.additem 000CA128 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Robe of Creativity",
+    "ID": "000CA127",
+    "Copy Paste Cheat": "player.additem 000CA127 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Robe of Defense",
+    "ID": "00005529",
+    "Copy Paste Cheat": "player.additem 00005529 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Robe of Deflection",
+    "ID": "00005519",
+    "Copy Paste Cheat": "player.additem 00005519 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Robe of Glib Tongues",
+    "ID": "000478A5",
+    "Copy Paste Cheat": "player.additem 000478A5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Robe of Protection",
+    "ID": "00005527",
+    "Copy Paste Cheat": "player.additem 00005527 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Robe of the Apprentice",
+    "ID": "000C8536",
+    "Copy Paste Cheat": "player.additem 000C8536 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Robe of the Conjurer",
+    "ID": "000748AB",
+    "Copy Paste Cheat": "player.additem 000748AB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Robe of Warding",
+    "ID": "0000551C",
+    "Copy Paste Cheat": "player.additem 0000551C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Rough Leather Shoes",
+    "ID": "000229A8",
+    "Copy Paste Cheat": "player.additem 000229A8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Rugged Pants",
+    "ID": "00064F7A",
+    "Copy Paste Cheat": "player.additem 00064F7A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Russet Felt Outfit",
+    "ID": "000352BA",
+    "Copy Paste Cheat": "player.additem 000352BA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Russet Felt Shirt of Blade Turning",
+    "ID": "0000844C",
+    "Copy Paste Cheat": "player.additem 0000844C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Russet Felt Shoes",
+    "ID": "000352BB",
+    "Copy Paste Cheat": "player.additem 000352BB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Sack Cloth Pants",
+    "ID": "00027318",
+    "Copy Paste Cheat": "player.additem 00027318 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Sack Cloth Sandals",
+    "ID": "0002731A",
+    "Copy Paste Cheat": "player.additem 0002731A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Sack Cloth Shirt",
+    "ID": "00027319",
+    "Copy Paste Cheat": "player.additem 00027319 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Security Russet Felt Shirt",
+    "ID": "00048985",
+    "Copy Paste Cheat": "player.additem 00048985 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Shield Ring",
+    "ID": "0007B7A6",
+    "Copy Paste Cheat": "player.additem 0007B7A6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Shirt",
+    "ID": "00000017",
+    "Copy Paste Cheat": "player.additem 00000017 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Shirt with Suspenders",
+    "ID": "00064F77",
+    "Copy Paste Cheat": "player.additem 00064F77 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Shoes",
+    "ID": "00000016",
+    "Copy Paste Cheat": "player.additem 00000016 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Shop Keep’s Shirt",
+    "ID": "000CBD33",
+    "Copy Paste Cheat": "player.additem 000CBD33 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Short Britches",
+    "ID": "00064F7C",
+    "Copy Paste Cheat": "player.additem 00064F7C 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Silver Amulet",
+    "ID": "00038030",
+    "Copy Paste Cheat": "player.additem 00038030 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Silver Emerald Ring",
+    "ID": "00038021",
+    "Copy Paste Cheat": "player.additem 00038021 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Silver Necklace",
+    "ID": "0003802A",
+    "Copy Paste Cheat": "player.additem 0003802A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Silver Ring",
+    "ID": "0003801F",
+    "Copy Paste Cheat": "player.additem 0003801F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Silver Ruby Ring",
+    "ID": "00038014",
+    "Copy Paste Cheat": "player.additem 00038014 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Silver Sapphire Ring",
+    "ID": "00038020",
+    "Copy Paste Cheat": "player.additem 00038020 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Sneak Blue Suede Shoes",
+    "ID": "00048986",
+    "Copy Paste Cheat": "player.additem 00048986 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Sorcerer’s Ring",
+    "ID": "00098454",
+    "Copy Paste Cheat": "player.additem 00098454 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Spectre Ring",
+    "ID": "000CA12A",
+    "Copy Paste Cheat": "player.additem 000CA12A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Speechcraft Green Brocade Doublet",
+    "ID": "00048987",
+    "Copy Paste Cheat": "player.additem 00048987 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Spelldrinker Amulet",
+    "ID": "00095A71",
+    "Copy Paste Cheat": "player.additem 00095A71 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Stitched Green Shirt",
+    "ID": "0002C0F6",
+    "Copy Paste Cheat": "player.additem 0002C0F6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Stitched Leather Shoes",
+    "ID": "000229AC",
+    "Copy Paste Cheat": "player.additem 000229AC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Storm Ring",
+    "ID": "0009844E",
+    "Copy Paste Cheat": "player.additem 0009844E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Tan Linens",
+    "ID": "0001C830",
+    "Copy Paste Cheat": "player.additem 0001C830 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Tan Robe",
+    "ID": "00071019",
+    "Copy Paste Cheat": "player.additem 00071019 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Tan Robe Hood",
+    "ID": "0007101A",
+    "Copy Paste Cheat": "player.additem 0007101A 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Tattered Pants",
+    "ID": "0003EAAB",
+    "Copy Paste Cheat": "player.additem 0003EAAB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Tattered Robe",
+    "ID": "0007101D",
+    "Copy Paste Cheat": "player.additem 0007101D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Tattered Robe Hood",
+    "ID": "0007101E",
+    "Copy Paste Cheat": "player.additem 0007101E 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Tattered Shirt",
+    "ID": "0003EAAC",
+    "Copy Paste Cheat": "player.additem 0003EAAC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "The Deceiver’s Finery",
+    "ID": "000348A5",
+    "Copy Paste Cheat": "player.additem 000348A5 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Thick Cowhide Shoes",
+    "ID": "00000BEA",
+    "Copy Paste Cheat": "player.additem 00000BEA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Ulfgar Family Ring",
+    "ID": "0001ECE4",
+    "Copy Paste Cheat": "player.additem 0001ECE4 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Veil of the Seer",
+    "ID": "000CA124",
+    "Copy Paste Cheat": "player.additem 000CA124 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Vest of the Bard",
+    "ID": "000CA123",
+    "Copy Paste Cheat": "player.additem 000CA123 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Vest of Warding",
+    "ID": "00005530",
+    "Copy Paste Cheat": "player.additem 00005530 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Waterwalking Gold Trimmed Shoes",
+    "ID": "0004898F",
+    "Copy Paste Cheat": "player.additem 0004898F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Weatherward Circlet",
+    "ID": "0006BD75",
+    "Copy Paste Cheat": "player.additem 0006BD75 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Wedding Ring",
+    "ID": "00022E6D",
+    "Copy Paste Cheat": "player.additem 00022E6D 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "White Mage’s Robes",
+    "ID": "000A498F",
+    "Copy Paste Cheat": "player.additem 000A498F 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "White Mage’s Shoes",
+    "ID": "000A4990",
+    "Copy Paste Cheat": "player.additem 000A4990 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "White Monk Robe",
+    "ID": "00071047",
+    "Copy Paste Cheat": "player.additem 00071047 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Wrist Irons",
+    "ID": "000BE335",
+    "Copy Paste Cheat": "player.additem 000BE335 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Sir Amiel’s Ring",
+    "ID": "0A000EDF",
+    "Copy Paste Cheat": "player.additem 0A000EDF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Bladeturn Hood (Tier 1)",
+    "ID": "04005FD6",
+    "Copy Paste Cheat": "player.additem 04005FD6 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Bladeturn Hood (Tier 2)",
+    "ID": "04005FD9",
+    "Copy Paste Cheat": "player.additem 04005FD9 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Bladeturn Hood (Tier 3)",
+    "ID": "04005FDA",
+    "Copy Paste Cheat": "player.additem 04005FDA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Bladeturn Hood (Tier 4)",
+    "ID": "04005FDB",
+    "Copy Paste Cheat": "player.additem 04005FDB 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Bladeturn Hood (Tier 5)",
+    "ID": "04005FDC",
+    "Copy Paste Cheat": "player.additem 04005FDC 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Forgemaster’s Amulet (Tier 1)",
+    "ID": "04002736",
+    "Copy Paste Cheat": "player.additem 04002736 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Forgemaster’s Amulet (Tier 2)",
+    "ID": "04002742",
+    "Copy Paste Cheat": "player.additem 04002742 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Forgemaster’s Amulet (Tier 3)",
+    "ID": "04002744",
+    "Copy Paste Cheat": "player.additem 04002744 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Forgemaster’s Smock (Tier 1)",
+    "ID": "04002738",
+    "Copy Paste Cheat": "player.additem 04002738 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Forgemaster’s Smock (Tier 2)",
+    "ID": "04002745",
+    "Copy Paste Cheat": "player.additem 04002745 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Forgemaster’s Smock (Tier 3)",
+    "ID": "04002746",
+    "Copy Paste Cheat": "player.additem 04002746 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Spellturn Cloak (Tier 1)",
+    "ID": "04005FD8",
+    "Copy Paste Cheat": "player.additem 04005FD8 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Spellturn Cloak (Tier 2)",
+    "ID": "04005FDD",
+    "Copy Paste Cheat": "player.additem 04005FDD 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Spellturn Cloak (Tier 3)",
+    "ID": "04005FDE",
+    "Copy Paste Cheat": "player.additem 04005FDE 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Spellturn Cloak (Tier 4)",
+    "ID": "04005FDF",
+    "Copy Paste Cheat": "player.additem 04005FDF 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Spellturn Cloak (Tier 5)",
+    "ID": "04005FE0",
+    "Copy Paste Cheat": "player.additem 04005FE0 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  },
+  {
+    "Name": "Drothmeri Tunic",
+    "ID": "040014CA",
+    "Copy Paste Cheat": "player.additem 040014CA 1",
+    "Section": "All Clothing, Amulets, and Rings IDs"
+  }
+]

@@ -1,0 +1,1178 @@
+[
+  {
+    "Name": "Agarmir’s Shovel",
+    "ID": "0001D0AF",
+    "Copy Paste Cheat": "player.additem 0001D0AF 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Akaviri Orders",
+    "ID": "000785E0",
+    "Copy Paste Cheat": "player.additem 000785E0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Argonian Heart",
+    "ID": "0003558F",
+    "Copy Paste Cheat": "player.additem 0003558F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ayleid Statue",
+    "ID": "000844C4",
+    "Copy Paste Cheat": "player.additem 000844C4 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Basket",
+    "ID": "00024D91",
+    "Copy Paste Cheat": "player.additem 00024D91 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Bear Pelt",
+    "ID": "000228E3",
+    "Copy Paste Cheat": "player.additem 000228E3 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Blood Potion",
+    "ID": "001192AE",
+    "Copy Paste Cheat": "player.additem 001192AE 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Blue Cheese",
+    "ID": "000D3B25",
+    "Copy Paste Cheat": "player.additem 000D3B25 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Bone",
+    "ID": "0001DE26",
+    "Copy Paste Cheat": "player.additem 0001DE26 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Bones",
+    "ID": "00023882",
+    "Copy Paste Cheat": "player.additem 00023882 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Bouquet of Flowers",
+    "ID": "00049CFD",
+    "Copy Paste Cheat": "player.additem 00049CFD 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Bowl",
+    "ID": "0001F1DB",
+    "Copy Paste Cheat": "player.additem 0001F1DB 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Broom",
+    "ID": "00019113",
+    "Copy Paste Cheat": "player.additem 00019113 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Brush Jar",
+    "ID": "0001BBCB",
+    "Copy Paste Cheat": "player.additem 0001BBCB 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Brush of Truepaint",
+    "ID": "0001BB36",
+    "Copy Paste Cheat": "player.additem 0001BB36 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Calipers",
+    "ID": "0001C66C",
+    "Copy Paste Cheat": "player.additem 0001C66C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Carved Panel",
+    "ID": "0002AF03",
+    "Copy Paste Cheat": "player.additem 0002AF03 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ceramic Bowl",
+    "ID": "0002507A",
+    "Copy Paste Cheat": "player.additem 0002507A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ceramic Cup",
+    "ID": "0002507B",
+    "Copy Paste Cheat": "player.additem 0002507B 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ceramic Goblet",
+    "ID": "0002507C",
+    "Copy Paste Cheat": "player.additem 0002507C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ceramic Pitcher",
+    "ID": "0002507D",
+    "Copy Paste Cheat": "player.additem 0002507D 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ceramic Plate",
+    "ID": "0002507F",
+    "Copy Paste Cheat": "player.additem 0002507F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ceramic Tankard",
+    "ID": "0002724F",
+    "Copy Paste Cheat": "player.additem 0002724F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ceramic Urn",
+    "ID": "00025080",
+    "Copy Paste Cheat": "player.additem 00025080 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ceramic Vase",
+    "ID": "00025081",
+    "Copy Paste Cheat": "player.additem 00025081 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Cheddar Cheese",
+    "ID": "000D3B2F",
+    "Copy Paste Cheat": "player.additem 000D3B2F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Bowl",
+    "ID": "00022299",
+    "Copy Paste Cheat": "player.additem 00022299 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Cup",
+    "ID": "00022538",
+    "Copy Paste Cheat": "player.additem 00022538 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Cup",
+    "ID": "00022539",
+    "Copy Paste Cheat": "player.additem 00022539 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Goblet",
+    "ID": "0002253C",
+    "Copy Paste Cheat": "player.additem 0002253C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Pitcher",
+    "ID": "00022543",
+    "Copy Paste Cheat": "player.additem 00022543 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Plate",
+    "ID": "0002254C",
+    "Copy Paste Cheat": "player.additem 0002254C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Tankard",
+    "ID": "00022559",
+    "Copy Paste Cheat": "player.additem 00022559 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Urn",
+    "ID": "00022553",
+    "Copy Paste Cheat": "player.additem 00022553 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Clay Vase",
+    "ID": "00022557",
+    "Copy Paste Cheat": "player.additem 00022557 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Cloth",
+    "ID": "000008E6",
+    "Copy Paste Cheat": "player.additem 000008E6 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Colossal Black Soul Gem",
+    "ID": "00007E9C",
+    "Copy Paste Cheat": "player.additem 00007E9C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Covered Pot",
+    "ID": "000105DF",
+    "Copy Paste Cheat": "player.additem 000105DF 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Covered Pot",
+    "ID": "000105E0",
+    "Copy Paste Cheat": "player.additem 000105E0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Crumpled Piece of Paper",
+    "ID": "000BF14D",
+    "Copy Paste Cheat": "player.additem 000BF14D 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Crystal Ball",
+    "ID": "0001C60D",
+    "Copy Paste Cheat": "player.additem 0001C60D 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Diamond",
+    "ID": "00038BA7",
+    "Copy Paste Cheat": "player.additem 00038BA7 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Dirty Shoes",
+    "ID": "0009F8FD",
+    "Copy Paste Cheat": "player.additem 0009F8FD 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Element of Courage",
+    "ID": "0002C6EF",
+    "Copy Paste Cheat": "player.additem 0002C6EF 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Element of Patience",
+    "ID": "0002C6EE",
+    "Copy Paste Cheat": "player.additem 0002C6EE 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Element of Perception",
+    "ID": "0002C6F0",
+    "Copy Paste Cheat": "player.additem 0002C6F0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Element of Resolve",
+    "ID": "0002C6ED",
+    "Copy Paste Cheat": "player.additem 0002C6ED 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Emerald",
+    "ID": "00038BA4",
+    "Copy Paste Cheat": "player.additem 00038BA4 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Empty Hist Bottle",
+    "ID": "0008996E",
+    "Copy Paste Cheat": "player.additem 0008996E 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Eye of Nocturnal",
+    "ID": "00026AC9",
+    "Copy Paste Cheat": "player.additem 00026AC9 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Filled Colossal Black Soul Gem",
+    "ID": "00007E9D",
+    "Copy Paste Cheat": "player.additem 00007E9D 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Finger of Adamus Phillida",
+    "ID": "001778DB",
+    "Copy Paste Cheat": "player.additem 001778DB 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Fingers of the Mountain",
+    "ID": "0000510D",
+    "Copy Paste Cheat": "player.additem 0000510D 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawed Diamond",
+    "ID": "00038BA8",
+    "Copy Paste Cheat": "player.additem 00038BA8 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawed Emerald",
+    "ID": "00038BA6",
+    "Copy Paste Cheat": "player.additem 00038BA6 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawed Pearl",
+    "ID": "00038B99",
+    "Copy Paste Cheat": "player.additem 00038B99 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawed Ruby",
+    "ID": "00038B9F",
+    "Copy Paste Cheat": "player.additem 00038B9F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawed Sapphire",
+    "ID": "00038BA2",
+    "Copy Paste Cheat": "player.additem 00038BA2 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawed Topaz",
+    "ID": "00038B9C",
+    "Copy Paste Cheat": "player.additem 00038B9C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawless Diamond",
+    "ID": "00038BA9",
+    "Copy Paste Cheat": "player.additem 00038BA9 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawless Emerald",
+    "ID": "00038BA5",
+    "Copy Paste Cheat": "player.additem 00038BA5 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawless Pearl",
+    "ID": "00038B9A",
+    "Copy Paste Cheat": "player.additem 00038B9A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawless Ruby",
+    "ID": "00038BA0",
+    "Copy Paste Cheat": "player.additem 00038BA0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawless Sapphire",
+    "ID": "00038BA3",
+    "Copy Paste Cheat": "player.additem 00038BA3 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Flawless Topaz",
+    "ID": "00038B9D",
+    "Copy Paste Cheat": "player.additem 00038B9D 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Folded Cloth",
+    "ID": "00000D76",
+    "Copy Paste Cheat": "player.additem 00000D76 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Fork",
+    "ID": "00019116",
+    "Copy Paste Cheat": "player.additem 00019116 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Garridan’s Tear",
+    "ID": "00025B33",
+    "Copy Paste Cheat": "player.additem 00025B33 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Garridan’s Tear",
+    "ID": "0007BE48",
+    "Copy Paste Cheat": "player.additem 0007BE48 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Glass of Time",
+    "ID": "0002A60B",
+    "Copy Paste Cheat": "player.additem 0002A60B 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Gold",
+    "ID": "0000000F",
+    "Copy Paste Cheat": "player.additem 0000000F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Gold Nugget",
+    "ID": "00049808",
+    "Copy Paste Cheat": "player.additem 00049808 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Great Sigil Stone",
+    "ID": "0003844E",
+    "Copy Paste Cheat": "player.additem 0003844E 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Great Welkynd Stone",
+    "ID": "000345AF",
+    "Copy Paste Cheat": "player.additem 000345AF 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Hand Scythe",
+    "ID": "00025100",
+    "Copy Paste Cheat": "player.additem 00025100 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Hermaeus Mora’s Soul Gem",
+    "ID": "0008B61E",
+    "Copy Paste Cheat": "player.additem 0008B61E 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Hoe",
+    "ID": "00025101",
+    "Copy Paste Cheat": "player.additem 00025101 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Hourglass",
+    "ID": "0001C666",
+    "Copy Paste Cheat": "player.additem 0001C666 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Imperial Legion Seal",
+    "ID": "0000C22C",
+    "Copy Paste Cheat": "player.additem 0000C22C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Inkwell",
+    "ID": "00023D61",
+    "Copy Paste Cheat": "player.additem 00023D61 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Key",
+    "ID": "0001482C",
+    "Copy Paste Cheat": "player.additem 0001482C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Knife",
+    "ID": "00019117",
+    "Copy Paste Cheat": "player.additem 00019117 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ladle",
+    "ID": "000105DB",
+    "Copy Paste Cheat": "player.additem 000105DB 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Languorwine Antidote",
+    "ID": "00028276",
+    "Copy Paste Cheat": "player.additem 00028276 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Lion Pelt",
+    "ID": "000228E4",
+    "Copy Paste Cheat": "player.additem 000228E4 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Llathasa’s Bust",
+    "ID": "0001E861",
+    "Copy Paste Cheat": "player.additem 0001E861 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Lockpick",
+    "ID": "0000000A",
+    "Copy Paste Cheat": "player.additem 0000000A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Loose Pipe",
+    "ID": "00089783",
+    "Copy Paste Cheat": "player.additem 00089783 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Magicka Potion",
+    "ID": "001192AF",
+    "Copy Paste Cheat": "player.additem 001192AF 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Marana Rian’s Coin",
+    "ID": "000613C0",
+    "Copy Paste Cheat": "player.additem 000613C0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Marble Cheese",
+    "ID": "000D3B2A",
+    "Copy Paste Cheat": "player.additem 000D3B2A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Metal Bowl",
+    "ID": "000CD400",
+    "Copy Paste Cheat": "player.additem 000CD400 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Metal Goblet",
+    "ID": "000CD401",
+    "Copy Paste Cheat": "player.additem 000CD401 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Metal Plate",
+    "ID": "000CD402",
+    "Copy Paste Cheat": "player.additem 000CD402 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Metal Tankard",
+    "ID": "000CD407",
+    "Copy Paste Cheat": "player.additem 000CD407 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Metal Urn",
+    "ID": "000CD4E9",
+    "Copy Paste Cheat": "player.additem 000CD4E9 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Mother’s Head",
+    "ID": "0006AAA5",
+    "Copy Paste Cheat": "player.additem 0006AAA5 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Newheim’s Heirloom",
+    "ID": "00002E90",
+    "Copy Paste Cheat": "player.additem 00002E90 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Oaken",
+    "ID": "000CBD41",
+    "Copy Paste Cheat": "player.additem 000CBD41 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Oar",
+    "ID": "00025102",
+    "Copy Paste Cheat": "player.additem 00025102 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Olroy Cheese",
+    "ID": "0008C26A",
+    "Copy Paste Cheat": "player.additem 0008C26A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Orb of Vaermina",
+    "ID": "0001EC18",
+    "Copy Paste Cheat": "player.additem 0001EC18 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Paint Brush",
+    "ID": "0001BBCA",
+    "Copy Paste Cheat": "player.additem 0001BBCA 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Paint Palette",
+    "ID": "0001BBCC",
+    "Copy Paste Cheat": "player.additem 0001BBCC 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pearl",
+    "ID": "00038B98",
+    "Copy Paste Cheat": "player.additem 00038B98 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Bowl",
+    "ID": "0001C624",
+    "Copy Paste Cheat": "player.additem 0001C624 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Cup",
+    "ID": "000104C1",
+    "Copy Paste Cheat": "player.additem 000104C1 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Fork",
+    "ID": "0001C622",
+    "Copy Paste Cheat": "player.additem 0001C622 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Knife",
+    "ID": "0001C620",
+    "Copy Paste Cheat": "player.additem 0001C620 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Mug",
+    "ID": "0000FD93",
+    "Copy Paste Cheat": "player.additem 0000FD93 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Pitcher",
+    "ID": "0001C61F",
+    "Copy Paste Cheat": "player.additem 0001C61F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Plate",
+    "ID": "0001C626",
+    "Copy Paste Cheat": "player.additem 0001C626 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Pot",
+    "ID": "0001C61A",
+    "Copy Paste Cheat": "player.additem 0001C61A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pewter Spoon",
+    "ID": "0001C623",
+    "Copy Paste Cheat": "player.additem 0001C623 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pickaxe",
+    "ID": "000180E0",
+    "Copy Paste Cheat": "player.additem 000180E0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Pitchfork",
+    "ID": "00025113",
+    "Copy Paste Cheat": "player.additem 00025113 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Planter",
+    "ID": "00015BBB",
+    "Copy Paste Cheat": "player.additem 00015BBB 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Plate",
+    "ID": "00019118",
+    "Copy Paste Cheat": "player.additem 00019118 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Quill",
+    "ID": "00023D63",
+    "Copy Paste Cheat": "player.additem 00023D63 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Rake",
+    "ID": "00025116",
+    "Copy Paste Cheat": "player.additem 00025116 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Recently Used Pickaxe",
+    "ID": "0009F8FA",
+    "Copy Paste Cheat": "player.additem 0009F8FA 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Red Bowl",
+    "ID": "000836CE",
+    "Copy Paste Cheat": "player.additem 000836CE 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Repair Hammer",
+    "ID": "0000000C",
+    "Copy Paste Cheat": "player.additem 0000000C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Reward Painting",
+    "ID": "00034E62",
+    "Copy Paste Cheat": "player.additem 00034E62 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Roderick’s Medicine",
+    "ID": "00030FD7",
+    "Copy Paste Cheat": "player.additem 00030FD7 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Roderick’s Poison",
+    "ID": "00030FD6",
+    "Copy Paste Cheat": "player.additem 00030FD6 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Rolled Up Portrait",
+    "ID": "00034E52",
+    "Copy Paste Cheat": "player.additem 00034E52 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ruby",
+    "ID": "00038B9E",
+    "Copy Paste Cheat": "player.additem 00038B9E 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Rufio’s Skull",
+    "ID": "000918FA",
+    "Copy Paste Cheat": "player.additem 000918FA 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Sands of Resolve",
+    "ID": "0002FB3F",
+    "Copy Paste Cheat": "player.additem 0002FB3F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Sapphire",
+    "ID": "00038BA1",
+    "Copy Paste Cheat": "player.additem 00038BA1 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Savilla’s Stone",
+    "ID": "00014706",
+    "Copy Paste Cheat": "player.additem 00014706 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Scales",
+    "ID": "000105F3",
+    "Copy Paste Cheat": "player.additem 000105F3 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Scales of Pitiless Justice",
+    "ID": "000918FD",
+    "Copy Paste Cheat": "player.additem 000918FD 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Scythe",
+    "ID": "0002511A",
+    "Copy Paste Cheat": "player.additem 0002511A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Shears",
+    "ID": "0002511C",
+    "Copy Paste Cheat": "player.additem 0002511C 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Shovel",
+    "ID": "000251A8",
+    "Copy Paste Cheat": "player.additem 000251A8 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Bowl",
+    "ID": "00000C08",
+    "Copy Paste Cheat": "player.additem 00000C08 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Carafe",
+    "ID": "00019107",
+    "Copy Paste Cheat": "player.additem 00019107 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Fork",
+    "ID": "0001924A",
+    "Copy Paste Cheat": "player.additem 0001924A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Glass",
+    "ID": "0001DBFC",
+    "Copy Paste Cheat": "player.additem 0001DBFC 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Goblet",
+    "ID": "0001DCCC",
+    "Copy Paste Cheat": "player.additem 0001DCCC 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Knife",
+    "ID": "00023C13",
+    "Copy Paste Cheat": "player.additem 00023C13 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Nugget",
+    "ID": "00049809",
+    "Copy Paste Cheat": "player.additem 00049809 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Pitcher",
+    "ID": "00023C15",
+    "Copy Paste Cheat": "player.additem 00023C15 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Plate",
+    "ID": "00023C19",
+    "Copy Paste Cheat": "player.additem 00023C19 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Spoon",
+    "ID": "00023C1B",
+    "Copy Paste Cheat": "player.additem 00023C1B 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Tankard",
+    "ID": "00023C1D",
+    "Copy Paste Cheat": "player.additem 00023C1D 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Urn",
+    "ID": "00023C21",
+    "Copy Paste Cheat": "player.additem 00023C21 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Silver Vase",
+    "ID": "00023C23",
+    "Copy Paste Cheat": "player.additem 00023C23 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Skeletal Hand",
+    "ID": "00003A99",
+    "Copy Paste Cheat": "player.additem 00003A99 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Skeleton Key",
+    "ID": "0000000B",
+    "Copy Paste Cheat": "player.additem 0000000B 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Skull",
+    "ID": "00023F6E",
+    "Copy Paste Cheat": "player.additem 00023F6E 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Spoon",
+    "ID": "00019119",
+    "Copy Paste Cheat": "player.additem 00019119 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Statuette of a Dog",
+    "ID": "0007B7B0",
+    "Copy Paste Cheat": "player.additem 0007B7B0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Stone Brick",
+    "ID": "0002594A",
+    "Copy Paste Cheat": "player.additem 0002594A 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Stone Cup",
+    "ID": "00019115",
+    "Copy Paste Cheat": "player.additem 00019115 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Stone Mug",
+    "ID": "000104CB",
+    "Copy Paste Cheat": "player.additem 000104CB 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Stone of St. Alessia",
+    "ID": "00003949",
+    "Copy Paste Cheat": "player.additem 00003949 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Stone Pitcher",
+    "ID": "000105DD",
+    "Copy Paste Cheat": "player.additem 000105DD 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Svenja’s Arm",
+    "ID": "000C55E1",
+    "Copy Paste Cheat": "player.additem 000C55E1 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Svenja’s Head",
+    "ID": "000C55E2",
+    "Copy Paste Cheat": "player.additem 000C55E2 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Svenja’s Leg",
+    "ID": "000C55E0",
+    "Copy Paste Cheat": "player.additem 000C55E0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Svenja’s Torso",
+    "ID": "000C55E3",
+    "Copy Paste Cheat": "player.additem 000C55E3 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Bowl",
+    "ID": "000836CF",
+    "Copy Paste Cheat": "player.additem 000836CF 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Cup",
+    "ID": "0001F1DE",
+    "Copy Paste Cheat": "player.additem 0001F1DE 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Goblet",
+    "ID": "00022542",
+    "Copy Paste Cheat": "player.additem 00022542 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Jug",
+    "ID": "0001F1E4",
+    "Copy Paste Cheat": "player.additem 0001F1E4 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Mug",
+    "ID": "0001F1E5",
+    "Copy Paste Cheat": "player.additem 0001F1E5 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Pitcher",
+    "ID": "0001F1E6",
+    "Copy Paste Cheat": "player.additem 0001F1E6 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Plate",
+    "ID": "0001F1E7",
+    "Copy Paste Cheat": "player.additem 0001F1E7 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Tankard",
+    "ID": "00022550",
+    "Copy Paste Cheat": "player.additem 00022550 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Urn",
+    "ID": "00022554",
+    "Copy Paste Cheat": "player.additem 00022554 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tan Vase",
+    "ID": "00022558",
+    "Copy Paste Cheat": "player.additem 00022558 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Tongs",
+    "ID": "000251AC",
+    "Copy Paste Cheat": "player.additem 000251AC 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Topaz",
+    "ID": "00038B9B",
+    "Copy Paste Cheat": "player.additem 00038B9B 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Torch",
+    "ID": "0002CF9F",
+    "Copy Paste Cheat": "player.additem 0002CF9F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Urn",
+    "ID": "00022551",
+    "Copy Paste Cheat": "player.additem 00022551 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Vampirism Cure Potion",
+    "ID": "0009812D",
+    "Copy Paste Cheat": "player.additem 0009812D 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Varla Stone",
+    "ID": "00000194",
+    "Copy Paste Cheat": "player.additem 00000194 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Varulae’s Crystal Ball",
+    "ID": "00095A38",
+    "Copy Paste Cheat": "player.additem 00095A38 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Wedding Gift",
+    "ID": "000CBD43",
+    "Copy Paste Cheat": "player.additem 000CBD43 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Weight",
+    "ID": "0001C5ED",
+    "Copy Paste Cheat": "player.additem 0001C5ED 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Welkynd Stone",
+    "ID": "00000191",
+    "Copy Paste Cheat": "player.additem 00000191 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "West Weald Bear Fang",
+    "ID": "0018AE3F",
+    "Copy Paste Cheat": "player.additem 0018AE3F 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Wolf Pelt",
+    "ID": "000228E2",
+    "Copy Paste Cheat": "player.additem 000228E2 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Yarn",
+    "ID": "00025205",
+    "Copy Paste Cheat": "player.additem 00025205 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Ichor of Sithis",
+    "ID": "09004B9B",
+    "Copy Paste Cheat": "player.additem 09004B9B 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Empty Flask",
+    "ID": "04000DB7",
+    "Copy Paste Cheat": "player.additem 04000DB7 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Enchanted Bezoar",
+    "ID": "04001A16",
+    "Copy Paste Cheat": "player.additem 04001A16 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Iron Ore",
+    "ID": "040014C0",
+    "Copy Paste Cheat": "player.additem 040014C0 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Dwarven Cog",
+    "ID": "0511BEE8",
+    "Copy Paste Cheat": "player.additem 0511BEE8 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Dwarven Cog",
+    "ID": "0511BEE9",
+    "Copy Paste Cheat": "player.additem 0511BEE9 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Dwarven Coherer",
+    "ID": "0511BEE5",
+    "Copy Paste Cheat": "player.additem 0511BEE5 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Dwarven Cylinder",
+    "ID": "0511BEE7",
+    "Copy Paste Cheat": "player.additem 0511BEE7 1",
+    "Section": "All Miscellaneous IDs"
+  },
+  {
+    "Name": "Dwarven Tube",
+    "ID": "0511BEE6",
+    "Copy Paste Cheat": "player.additem 0511BEE6 1",
+    "Section": "All Miscellaneous IDs"
+  }
+]

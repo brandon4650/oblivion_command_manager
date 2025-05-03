@@ -1,0 +1,4886 @@
+[
+  {
+    "Name": "Akavari Sunderblade",
+    "Weapon ID": "000CA154",
+    "Copy Paste Cheat": "player.additem 000CA154 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Akavari Warblade",
+    "Weapon ID": "000CA155",
+    "Copy Paste Cheat": "player.additem 000CA155 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Akaviri Dai Katana",
+    "Weapon ID": "0009DAC5",
+    "Copy Paste Cheat": "player.additem 0009DAC5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Akaviri Katana",
+    "Weapon ID": "00024DCA",
+    "Copy Paste Cheat": "player.additem 00024DCA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Akaviri Katana",
+    "Weapon ID": "000977C9",
+    "Copy Paste Cheat": "player.additem 000977C9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Akaviri Warhammer Burden",
+    "Weapon ID": "000387B5",
+    "Copy Paste Cheat": "player.additem 000387B5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ancient Akaviri Katana",
+    "Weapon ID": "000E78E5",
+    "Copy Paste Cheat": "player.additem 000E78E5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Apotheosis",
+    "Weapon ID": "000CA153",
+    "Copy Paste Cheat": "player.additem 000CA153 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Axe of Hazards",
+    "Weapon ID": "0003CCFF",
+    "Copy Paste Cheat": "player.additem 0003CCFF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Axe of Icy Darkness",
+    "Weapon ID": "0003BF64",
+    "Copy Paste Cheat": "player.additem 0003BF64 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Long Sword",
+    "Weapon ID": "00014F14",
+    "Copy Paste Cheat": "player.additem 00014F14 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Mace",
+    "Weapon ID": "00014F15",
+    "Copy Paste Cheat": "player.additem 00014F15 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Absorption",
+    "Weapon ID": "0003841F",
+    "Copy Paste Cheat": "player.additem 0003841F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Beguilement",
+    "Weapon ID": "0003539C",
+    "Copy Paste Cheat": "player.additem 0003539C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Blizzards",
+    "Weapon ID": "0002308B",
+    "Copy Paste Cheat": "player.additem 0002308B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Cold",
+    "Weapon ID": "000220A8",
+    "Copy Paste Cheat": "player.additem 000220A8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Damnation",
+    "Weapon ID": "000353C2",
+    "Copy Paste Cheat": "player.additem 000353C2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Decay",
+    "Weapon ID": "0003B407",
+    "Copy Paste Cheat": "player.additem 0003B407 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Deception",
+    "Weapon ID": "0003539A",
+    "Copy Paste Cheat": "player.additem 0003539A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Depletion",
+    "Weapon ID": "000387AE",
+    "Copy Paste Cheat": "player.additem 000387AE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Diminishing",
+    "Weapon ID": "0003D7D3",
+    "Copy Paste Cheat": "player.additem 0003D7D3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Dispel",
+    "Weapon ID": "0003D7CB",
+    "Copy Paste Cheat": "player.additem 0003D7CB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Dissolution",
+    "Weapon ID": "0003B40A",
+    "Copy Paste Cheat": "player.additem 0003B40A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Embers",
+    "Weapon ID": "0003DAE7",
+    "Copy Paste Cheat": "player.additem 0003DAE7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Enfeeblement",
+    "Weapon ID": "0003CD09",
+    "Copy Paste Cheat": "player.additem 0003CD09 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Feeding",
+    "Weapon ID": "0003B402",
+    "Copy Paste Cheat": "player.additem 0003B402 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Fire",
+    "Weapon ID": "0003DB0C",
+    "Copy Paste Cheat": "player.additem 0003DB0C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Flames",
+    "Weapon ID": "0003DB03",
+    "Copy Paste Cheat": "player.additem 0003DB03 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Freezing",
+    "Weapon ID": "000225D9",
+    "Copy Paste Cheat": "player.additem 000225D9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Frost",
+    "Weapon ID": "0003DB8F",
+    "Copy Paste Cheat": "player.additem 0003DB8F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Jinxing",
+    "Weapon ID": "0003AB6F",
+    "Copy Paste Cheat": "player.additem 0003AB6F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Lightning",
+    "Weapon ID": "0002C278",
+    "Copy Paste Cheat": "player.additem 0002C278 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Putrification",
+    "Weapon ID": "0003B40C",
+    "Copy Paste Cheat": "player.additem 0003B40C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Rending",
+    "Weapon ID": "0003B40E",
+    "Copy Paste Cheat": "player.additem 0003B40E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Sapping",
+    "Weapon ID": "0003D7E2",
+    "Copy Paste Cheat": "player.additem 0003D7E2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Scorching",
+    "Weapon ID": "0003DAFA",
+    "Copy Paste Cheat": "player.additem 0003DAFA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Shocking",
+    "Weapon ID": "0002B8D6",
+    "Copy Paste Cheat": "player.additem 0002B8D6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Siphoning",
+    "Weapon ID": "0003B3FF",
+    "Copy Paste Cheat": "player.additem 0003B3FF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Soul Snares",
+    "Weapon ID": "000353CA",
+    "Copy Paste Cheat": "player.additem 000353CA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Soul Traps",
+    "Weapon ID": "00035397",
+    "Copy Paste Cheat": "player.additem 00035397 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Souls",
+    "Weapon ID": "00035C27",
+    "Copy Paste Cheat": "player.additem 00035C27 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Sparks",
+    "Weapon ID": "0002B561",
+    "Copy Paste Cheat": "player.additem 0002B561 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Storms",
+    "Weapon ID": "0002C286",
+    "Copy Paste Cheat": "player.additem 0002C286 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of the Blaze",
+    "Weapon ID": "0003DB15",
+    "Copy Paste Cheat": "player.additem 0003DB15 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of the Dynamo",
+    "Weapon ID": "0002BFFA",
+    "Copy Paste Cheat": "player.additem 0002BFFA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of the Glacier",
+    "Weapon ID": "00022738",
+    "Copy Paste Cheat": "player.additem 00022738 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of the Inferno",
+    "Weapon ID": "0003DB1E",
+    "Copy Paste Cheat": "player.additem 0003DB1E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Transmogrify",
+    "Weapon ID": "0003B403",
+    "Copy Paste Cheat": "player.additem 0003B403 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Voltage",
+    "Weapon ID": "0002BDDD",
+    "Copy Paste Cheat": "player.additem 0002BDDD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Weakness",
+    "Weapon ID": "0003AB43",
+    "Copy Paste Cheat": "player.additem 0003AB43 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battle Axe of Winter",
+    "Weapon ID": "000230D9",
+    "Copy Paste Cheat": "player.additem 000230D9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Battleaxe of Hatred",
+    "Weapon ID": "000CA152",
+    "Copy Paste Cheat": "player.additem 000CA152 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Baurus’s Akaviri Katana",
+    "Weapon ID": "0006B843",
+    "Copy Paste Cheat": "player.additem 0006B843 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Black Bow",
+    "Weapon ID": "000908AD",
+    "Copy Paste Cheat": "player.additem 000908AD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Blackwater Blade",
+    "Weapon ID": "0000C201",
+    "Copy Paste Cheat": "player.additem 0000C201 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Blade of Fiery Light",
+    "Weapon ID": "0003BF60",
+    "Copy Paste Cheat": "player.additem 0003BF60 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Blade of Woe",
+    "Weapon ID": "00091905",
+    "Copy Paste Cheat": "player.additem 00091905 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Blizzard Bow",
+    "Weapon ID": "0003CD06",
+    "Copy Paste Cheat": "player.additem 0003CD06 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Boreal",
+    "Weapon ID": "0003CD05",
+    "Copy Paste Cheat": "player.additem 0003CD05 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bound Axe",
+    "Weapon ID": "00026276",
+    "Copy Paste Cheat": "player.additem 00026276 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bound Bow",
+    "Weapon ID": "0002627D",
+    "Copy Paste Cheat": "player.additem 0002627D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bound Dagger",
+    "Weapon ID": "0002627C",
+    "Copy Paste Cheat": "player.additem 0002627C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bound Mace",
+    "Weapon ID": "00026274",
+    "Copy Paste Cheat": "player.additem 00026274 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bound Sword",
+    "Weapon ID": "00026273",
+    "Copy Paste Cheat": "player.additem 00026273 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Blizzards",
+    "Weapon ID": "0002308D",
+    "Copy Paste Cheat": "player.additem 0002308D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Burning",
+    "Weapon ID": "0003DAF2",
+    "Copy Paste Cheat": "player.additem 0003DAF2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Cold",
+    "Weapon ID": "000220F6",
+    "Copy Paste Cheat": "player.additem 000220F6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Curses",
+    "Weapon ID": "0003AB87",
+    "Copy Paste Cheat": "player.additem 0003AB87 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Despair",
+    "Weapon ID": "0003AC88",
+    "Copy Paste Cheat": "player.additem 0003AC88 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Embers",
+    "Weapon ID": "0003DAE9",
+    "Copy Paste Cheat": "player.additem 0003DAE9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Fire",
+    "Weapon ID": "0003DB0D",
+    "Copy Paste Cheat": "player.additem 0003DB0D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Flames",
+    "Weapon ID": "0003DB04",
+    "Copy Paste Cheat": "player.additem 0003DB04 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Freezing",
+    "Weapon ID": "000225DA",
+    "Copy Paste Cheat": "player.additem 000225DA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Frost",
+    "Weapon ID": "0003DB91",
+    "Copy Paste Cheat": "player.additem 0003DB91 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Gloom",
+    "Weapon ID": "0003AC89",
+    "Copy Paste Cheat": "player.additem 0003AC89 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Harm",
+    "Weapon ID": "0003AB6C",
+    "Copy Paste Cheat": "player.additem 0003AB6C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Infernal Frost",
+    "Weapon ID": "00082DE4",
+    "Copy Paste Cheat": "player.additem 00082DE4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Infliction",
+    "Weapon ID": "000CA156",
+    "Copy Paste Cheat": "player.additem 000CA156 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Jolts",
+    "Weapon ID": "0002B585",
+    "Copy Paste Cheat": "player.additem 0002B585 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Lightning",
+    "Weapon ID": "0002C27A",
+    "Copy Paste Cheat": "player.additem 0002C27A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Numbing",
+    "Weapon ID": "0003DB7B",
+    "Copy Paste Cheat": "player.additem 0003DB7B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Quietus",
+    "Weapon ID": "0002B558",
+    "Copy Paste Cheat": "player.additem 0002B558 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Scorching",
+    "Weapon ID": "0003DAFB",
+    "Copy Paste Cheat": "player.additem 0003DAFB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Shocking",
+    "Weapon ID": "0002B8D7",
+    "Copy Paste Cheat": "player.additem 0002B8D7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Silence",
+    "Weapon ID": "0002B559",
+    "Copy Paste Cheat": "player.additem 0002B559 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Sparks",
+    "Weapon ID": "0002B562",
+    "Copy Paste Cheat": "player.additem 0002B562 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Storms",
+    "Weapon ID": "0002C287",
+    "Copy Paste Cheat": "player.additem 0002C287 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of the Blaze",
+    "Weapon ID": "0003DB16",
+    "Copy Paste Cheat": "player.additem 0003DB16 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of the Dynamo",
+    "Weapon ID": "0002BFFB",
+    "Copy Paste Cheat": "player.additem 0002BFFB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of the Glacier",
+    "Weapon ID": "00022854",
+    "Copy Paste Cheat": "player.additem 00022854 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of the Inferno",
+    "Weapon ID": "0003DB1F",
+    "Copy Paste Cheat": "player.additem 0003DB1F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Voltage",
+    "Weapon ID": "0002BEB2",
+    "Copy Paste Cheat": "player.additem 0002BEB2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Weariness",
+    "Weapon ID": "0003AB6B",
+    "Copy Paste Cheat": "player.additem 0003AB6B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Bow of Winter",
+    "Weapon ID": "000230DD",
+    "Copy Paste Cheat": "player.additem 000230DD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Broken Sword",
+    "Weapon ID": "0002D72B",
+    "Copy Paste Cheat": "player.additem 0002D72B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Brusef Amelion’s Sword",
+    "Weapon ID": "000091FB",
+    "Copy Paste Cheat": "player.additem 000091FB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Burden of Agnosticism",
+    "Weapon ID": "00014953",
+    "Copy Paste Cheat": "player.additem 00014953 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Burden of Anger",
+    "Weapon ID": "0001494F",
+    "Copy Paste Cheat": "player.additem 0001494F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Burden of Arrogance",
+    "Weapon ID": "00014950",
+    "Copy Paste Cheat": "player.additem 00014950 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Burden of Flesh",
+    "Weapon ID": "00014952",
+    "Copy Paste Cheat": "player.additem 00014952 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Burden of Secrecy",
+    "Weapon ID": "00014951",
+    "Copy Paste Cheat": "player.additem 00014951 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Burden of Sin",
+    "Weapon ID": "00014954",
+    "Copy Paste Cheat": "player.additem 00014954 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Burz’s Glass Mace",
+    "Weapon ID": "000C7610",
+    "Copy Paste Cheat": "player.additem 000C7610 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Caelia’s Steel Longsword",
+    "Weapon ID": "0006AA99",
+    "Copy Paste Cheat": "player.additem 0006AA99 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Calliben’s Grim Retort",
+    "Weapon ID": "000CB6F3",
+    "Copy Paste Cheat": "player.additem 000CB6F3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Captain Kordan’s Saber",
+    "Weapon ID": "000CA158",
+    "Copy Paste Cheat": "player.additem 000CA158 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ceremonial Dagger",
+    "Weapon ID": "0008DA4A",
+    "Copy Paste Cheat": "player.additem 0008DA4A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Chillrend",
+    "Weapon ID": "00068C01",
+    "Copy Paste Cheat": "player.additem 00068C01 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Blizzards",
+    "Weapon ID": "00023095",
+    "Copy Paste Cheat": "player.additem 00023095 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Brittleness",
+    "Weapon ID": "0003D7BB",
+    "Copy Paste Cheat": "player.additem 0003D7BB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Burning",
+    "Weapon ID": "0003DAF3",
+    "Copy Paste Cheat": "player.additem 0003DAF3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Cold",
+    "Weapon ID": "0002224D",
+    "Copy Paste Cheat": "player.additem 0002224D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Depletion",
+    "Weapon ID": "0003AB75",
+    "Copy Paste Cheat": "player.additem 0003AB75 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Depletion",
+    "Weapon ID": "0003D7E8",
+    "Copy Paste Cheat": "player.additem 0003D7E8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Disintegration",
+    "Weapon ID": "0003D7C7",
+    "Copy Paste Cheat": "player.additem 0003D7C7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Dispel",
+    "Weapon ID": "0003D7CC",
+    "Copy Paste Cheat": "player.additem 0003D7CC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Embers",
+    "Weapon ID": "0003DAEA",
+    "Copy Paste Cheat": "player.additem 0003DAEA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Fire",
+    "Weapon ID": "0003DB0E",
+    "Copy Paste Cheat": "player.additem 0003DB0E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Flames",
+    "Weapon ID": "0003DB05",
+    "Copy Paste Cheat": "player.additem 0003DB05 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Fracturing",
+    "Weapon ID": "0003D7BF",
+    "Copy Paste Cheat": "player.additem 0003D7BF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Fragments",
+    "Weapon ID": "0003D7B8",
+    "Copy Paste Cheat": "player.additem 0003D7B8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Freezing",
+    "Weapon ID": "000225F6",
+    "Copy Paste Cheat": "player.additem 000225F6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Frost",
+    "Weapon ID": "0003DB73",
+    "Copy Paste Cheat": "player.additem 0003DB73 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Jinxing",
+    "Weapon ID": "0003AB74",
+    "Copy Paste Cheat": "player.additem 0003AB74 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Jolts",
+    "Weapon ID": "0002B586",
+    "Copy Paste Cheat": "player.additem 0002B586 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Lightning",
+    "Weapon ID": "0002C27B",
+    "Copy Paste Cheat": "player.additem 0002C27B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Numbing",
+    "Weapon ID": "0003DB7C",
+    "Copy Paste Cheat": "player.additem 0003DB7C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Pain",
+    "Weapon ID": "0003D7DE",
+    "Copy Paste Cheat": "player.additem 0003D7DE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Sapping",
+    "Weapon ID": "0003D7E3",
+    "Copy Paste Cheat": "player.additem 0003D7E3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Scorching",
+    "Weapon ID": "0003DAFC",
+    "Copy Paste Cheat": "player.additem 0003DAFC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Shattering",
+    "Weapon ID": "0003D7C3",
+    "Copy Paste Cheat": "player.additem 0003D7C3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Shocking",
+    "Weapon ID": "0002B8D8",
+    "Copy Paste Cheat": "player.additem 0002B8D8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Sparks",
+    "Weapon ID": "0002B563",
+    "Copy Paste Cheat": "player.additem 0002B563 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Storms",
+    "Weapon ID": "0002C289",
+    "Copy Paste Cheat": "player.additem 0002C289 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of the Blaze",
+    "Weapon ID": "0003DB17",
+    "Copy Paste Cheat": "player.additem 0003DB17 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of the Dynamo",
+    "Weapon ID": "0002BFFC",
+    "Copy Paste Cheat": "player.additem 0002BFFC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of the Glacier",
+    "Weapon ID": "00022A2B",
+    "Copy Paste Cheat": "player.additem 00022A2B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of the Inferno",
+    "Weapon ID": "0003DB20",
+    "Copy Paste Cheat": "player.additem 0003DB20 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Voltage",
+    "Weapon ID": "0002BFF3",
+    "Copy Paste Cheat": "player.additem 0002BFF3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Weariness",
+    "Weapon ID": "0003D7DA",
+    "Copy Paste Cheat": "player.additem 0003D7DA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Claymore of Winter",
+    "Weapon ID": "000230DE",
+    "Copy Paste Cheat": "player.additem 000230DE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Club",
+    "Weapon ID": "00159829",
+    "Copy Paste Cheat": "player.additem 00159829 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Cursed Mace",
+    "Weapon ID": "00026F98",
+    "Copy Paste Cheat": "player.additem 00026F98 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Battle Axe",
+    "Weapon ID": "00035E77",
+    "Copy Paste Cheat": "player.additem 00035E77 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Bow",
+    "Weapon ID": "000733DD",
+    "Copy Paste Cheat": "player.additem 000733DD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Bow",
+    "Weapon ID": "00035E7C",
+    "Copy Paste Cheat": "player.additem 00035E7C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Claymore",
+    "Weapon ID": "00035E78",
+    "Copy Paste Cheat": "player.additem 00035E78 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Dagger",
+    "Weapon ID": "00035E72",
+    "Copy Paste Cheat": "player.additem 00035E72 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Longsword",
+    "Weapon ID": "00035E76",
+    "Copy Paste Cheat": "player.additem 00035E76 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Mace",
+    "Weapon ID": "00035E75",
+    "Copy Paste Cheat": "player.additem 00035E75 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Shortsword",
+    "Weapon ID": "00035E73",
+    "Copy Paste Cheat": "player.additem 00035E73 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric War Axe",
+    "Weapon ID": "00035E74",
+    "Copy Paste Cheat": "player.additem 00035E74 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Daedric Warhammer",
+    "Weapon ID": "00035E79",
+    "Copy Paste Cheat": "player.additem 00035E79 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Absorption",
+    "Weapon ID": "0003841A",
+    "Copy Paste Cheat": "player.additem 0003841A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Blizzards",
+    "Weapon ID": "00023098",
+    "Copy Paste Cheat": "player.additem 00023098 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Brittleness",
+    "Weapon ID": "0003D7BC",
+    "Copy Paste Cheat": "player.additem 0003D7BC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Burning",
+    "Weapon ID": "0003DAF4",
+    "Copy Paste Cheat": "player.additem 0003DAF4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Cold",
+    "Weapon ID": "0002257F",
+    "Copy Paste Cheat": "player.additem 0002257F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Depletion",
+    "Weapon ID": "0003D7E9",
+    "Copy Paste Cheat": "player.additem 0003D7E9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Diminishing",
+    "Weapon ID": "0003D7D4",
+    "Copy Paste Cheat": "player.additem 0003D7D4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Discipline",
+    "Weapon ID": "000C891F",
+    "Copy Paste Cheat": "player.additem 000C891F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Disintegration",
+    "Weapon ID": "0003D7C8",
+    "Copy Paste Cheat": "player.additem 0003D7C8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Dispel",
+    "Weapon ID": "0003D7CD",
+    "Copy Paste Cheat": "player.additem 0003D7CD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Embers",
+    "Weapon ID": "0003DAEB",
+    "Copy Paste Cheat": "player.additem 0003DAEB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Enfeeblement",
+    "Weapon ID": "000389E6",
+    "Copy Paste Cheat": "player.additem 000389E6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Fire",
+    "Weapon ID": "0003DB0F",
+    "Copy Paste Cheat": "player.additem 0003DB0F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Flames",
+    "Weapon ID": "0003DB06",
+    "Copy Paste Cheat": "player.additem 0003DB06 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Fracturing",
+    "Weapon ID": "0003D7C0",
+    "Copy Paste Cheat": "player.additem 0003D7C0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Fragments",
+    "Weapon ID": "0003D7B7",
+    "Copy Paste Cheat": "player.additem 0003D7B7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Freezing",
+    "Weapon ID": "000225FC",
+    "Copy Paste Cheat": "player.additem 000225FC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Frost",
+    "Weapon ID": "0003DB74",
+    "Copy Paste Cheat": "player.additem 0003DB74 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Jinxing",
+    "Weapon ID": "0003AB6E",
+    "Copy Paste Cheat": "player.additem 0003AB6E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Jolts",
+    "Weapon ID": "0002B588",
+    "Copy Paste Cheat": "player.additem 0002B588 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Lightning",
+    "Weapon ID": "0002C27D",
+    "Copy Paste Cheat": "player.additem 0002C27D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Numbing",
+    "Weapon ID": "0003DB7D",
+    "Copy Paste Cheat": "player.additem 0003DB7D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Pacification",
+    "Weapon ID": "0003BF61",
+    "Copy Paste Cheat": "player.additem 0003BF61 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Pain",
+    "Weapon ID": "0003D7DF",
+    "Copy Paste Cheat": "player.additem 0003D7DF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Paralysis",
+    "Weapon ID": "0002B560",
+    "Copy Paste Cheat": "player.additem 0002B560 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Sapping",
+    "Weapon ID": "0003D7E4",
+    "Copy Paste Cheat": "player.additem 0003D7E4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Scorching",
+    "Weapon ID": "0003DAFD",
+    "Copy Paste Cheat": "player.additem 0003DAFD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Shattering",
+    "Weapon ID": "0003D7C4",
+    "Copy Paste Cheat": "player.additem 0003D7C4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Shocking",
+    "Weapon ID": "0002B8D9",
+    "Copy Paste Cheat": "player.additem 0002B8D9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Sparks",
+    "Weapon ID": "0002B564",
+    "Copy Paste Cheat": "player.additem 0002B564 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Storms",
+    "Weapon ID": "0002C28D",
+    "Copy Paste Cheat": "player.additem 0002C28D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of the Blaze",
+    "Weapon ID": "0003DB18",
+    "Copy Paste Cheat": "player.additem 0003DB18 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of the Dynamo",
+    "Weapon ID": "0002BFFD",
+    "Copy Paste Cheat": "player.additem 0002BFFD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of the Glacier",
+    "Weapon ID": "00022A2C",
+    "Copy Paste Cheat": "player.additem 00022A2C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of the Inferno",
+    "Weapon ID": "0003DB21",
+    "Copy Paste Cheat": "player.additem 0003DB21 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Voltage",
+    "Weapon ID": "0002BFF4",
+    "Copy Paste Cheat": "player.additem 0002BFF4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Weakness",
+    "Weapon ID": "0003AB3F",
+    "Copy Paste Cheat": "player.additem 0003AB3F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Weariness",
+    "Weapon ID": "0003D7DB",
+    "Copy Paste Cheat": "player.additem 0003D7DB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dagger of Winter",
+    "Weapon ID": "000230DF",
+    "Copy Paste Cheat": "player.additem 000230DF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dalvilu Cermonial Dagger",
+    "Weapon ID": "0001ECE5",
+    "Copy Paste Cheat": "player.additem 0001ECE5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Debaser",
+    "Weapon ID": "0001D0B4",
+    "Copy Paste Cheat": "player.additem 0001D0B4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Defiler",
+    "Weapon ID": "0003CB6B",
+    "Copy Paste Cheat": "player.additem 0003CB6B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Destarine’s Cleaver",
+    "Weapon ID": "000CA159",
+    "Copy Paste Cheat": "player.additem 000CA159 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dragon’s Bow",
+    "Weapon ID": "0003CD04",
+    "Copy Paste Cheat": "player.additem 0003CD04 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dremora Bow",
+    "Weapon ID": "000872AA",
+    "Copy Paste Cheat": "player.additem 000872AA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dremora Claymore",
+    "Weapon ID": "0003E9C4",
+    "Copy Paste Cheat": "player.additem 0003E9C4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dremora Heavy Bow",
+    "Weapon ID": "000872AB",
+    "Copy Paste Cheat": "player.additem 000872AB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dremora Light Bow",
+    "Weapon ID": "000872A9",
+    "Copy Paste Cheat": "player.additem 000872A9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dremora Longsword",
+    "Weapon ID": "0003E9C3",
+    "Copy Paste Cheat": "player.additem 0003E9C3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dremora Mace",
+    "Weapon ID": "0003E9C2",
+    "Copy Paste Cheat": "player.additem 0003E9C2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Battle Axe",
+    "Weapon ID": "00035DCD",
+    "Copy Paste Cheat": "player.additem 00035DCD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Bow",
+    "Weapon ID": "00035DCE",
+    "Copy Paste Cheat": "player.additem 00035DCE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Bow Replica",
+    "Weapon ID": "000C7979",
+    "Copy Paste Cheat": "player.additem 000C7979 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Claymore",
+    "Weapon ID": "00035DCF",
+    "Copy Paste Cheat": "player.additem 00035DCF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Claymore Replica",
+    "Weapon ID": "000C5606",
+    "Copy Paste Cheat": "player.additem 000C5606 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Dagger",
+    "Weapon ID": "00035DD0",
+    "Copy Paste Cheat": "player.additem 00035DD0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Longsword",
+    "Weapon ID": "000732B6",
+    "Copy Paste Cheat": "player.additem 000732B6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Mace",
+    "Weapon ID": "00035DD2",
+    "Copy Paste Cheat": "player.additem 00035DD2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Shortsword",
+    "Weapon ID": "00035DD3",
+    "Copy Paste Cheat": "player.additem 00035DD3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven War Axe",
+    "Weapon ID": "00035DD4",
+    "Copy Paste Cheat": "player.additem 00035DD4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven War Axe Replica",
+    "Weapon ID": "000C5602",
+    "Copy Paste Cheat": "player.additem 000C5602 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dwarven Warhammer",
+    "Weapon ID": "00035DD5",
+    "Copy Paste Cheat": "player.additem 00035DD5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Battle Axe",
+    "Weapon ID": "00035E6F",
+    "Copy Paste Cheat": "player.additem 00035E6F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Blade",
+    "Weapon ID": "00027109",
+    "Copy Paste Cheat": "player.additem 00027109 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Bow",
+    "Weapon ID": "00035E7B",
+    "Copy Paste Cheat": "player.additem 00035E7B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Claymore",
+    "Weapon ID": "00035E70",
+    "Copy Paste Cheat": "player.additem 00035E70 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Dagger",
+    "Weapon ID": "00035E6A",
+    "Copy Paste Cheat": "player.additem 00035E6A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Dagger Replica",
+    "Weapon ID": "000C5616",
+    "Copy Paste Cheat": "player.additem 000C5616 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Longsword",
+    "Weapon ID": "000732DE",
+    "Copy Paste Cheat": "player.additem 000732DE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Mace",
+    "Weapon ID": "00035E6D",
+    "Copy Paste Cheat": "player.additem 00035E6D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Mace Replica",
+    "Weapon ID": "000C561F",
+    "Copy Paste Cheat": "player.additem 000C561F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Shortsword",
+    "Weapon ID": "00035E6B",
+    "Copy Paste Cheat": "player.additem 00035E6B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Shortsword Replica",
+    "Weapon ID": "000C798A",
+    "Copy Paste Cheat": "player.additem 000C798A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony War Axe",
+    "Weapon ID": "00035E6C",
+    "Copy Paste Cheat": "player.additem 00035E6C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Warhammer",
+    "Weapon ID": "00035E71",
+    "Copy Paste Cheat": "player.additem 00035E71 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ebony Warhammer Replica",
+    "Weapon ID": "000C5604",
+    "Copy Paste Cheat": "player.additem 000C5604 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Battle Axe",
+    "Weapon ID": "00035E67",
+    "Copy Paste Cheat": "player.additem 00035E67 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Bow",
+    "Weapon ID": "000229BF",
+    "Copy Paste Cheat": "player.additem 000229BF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Claymore",
+    "Weapon ID": "00035E68",
+    "Copy Paste Cheat": "player.additem 00035E68 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Dagger",
+    "Weapon ID": "00035E63",
+    "Copy Paste Cheat": "player.additem 00035E63 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Long Sword",
+    "Weapon ID": "000977CD",
+    "Copy Paste Cheat": "player.additem 000977CD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Long Sword Replica",
+    "Weapon ID": "000C55FF",
+    "Copy Paste Cheat": "player.additem 000C55FF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Mace",
+    "Weapon ID": "00035E66",
+    "Copy Paste Cheat": "player.additem 00035E66 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Shortsword",
+    "Weapon ID": "00035E64",
+    "Copy Paste Cheat": "player.additem 00035E64 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Shortsword Replica",
+    "Weapon ID": "000C7985",
+    "Copy Paste Cheat": "player.additem 000C7985 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven War Axe",
+    "Weapon ID": "00035E65",
+    "Copy Paste Cheat": "player.additem 00035E65 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Elven Warhammer",
+    "Weapon ID": "00035E69",
+    "Copy Paste Cheat": "player.additem 00035E69 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Enchanted Dagger",
+    "Weapon ID": "0003FBCE",
+    "Copy Paste Cheat": "player.additem 0003FBCE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Essence of Regret",
+    "Weapon ID": "00014963",
+    "Copy Paste Cheat": "player.additem 00014963 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron Battle Axe",
+    "Weapon ID": "0003A85F",
+    "Copy Paste Cheat": "player.additem 0003A85F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron Bow",
+    "Weapon ID": "0003A860",
+    "Copy Paste Cheat": "player.additem 0003A860 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron Claymore",
+    "Weapon ID": "0003A861",
+    "Copy Paste Cheat": "player.additem 0003A861 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron Dagger",
+    "Weapon ID": "0003A862",
+    "Copy Paste Cheat": "player.additem 0003A862 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron Longsword",
+    "Weapon ID": "0003A863",
+    "Copy Paste Cheat": "player.additem 0003A863 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron Mace",
+    "Weapon ID": "0003A864",
+    "Copy Paste Cheat": "player.additem 0003A864 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron Shortsword",
+    "Weapon ID": "0003A865",
+    "Copy Paste Cheat": "player.additem 0003A865 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron War Axe",
+    "Weapon ID": "0003A866",
+    "Copy Paste Cheat": "player.additem 0003A866 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Iron Warhammer",
+    "Weapon ID": "0003A867",
+    "Copy Paste Cheat": "player.additem 0003A867 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Battle Axe",
+    "Weapon ID": "0003A856",
+    "Copy Paste Cheat": "player.additem 0003A856 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Bow",
+    "Weapon ID": "0003A857",
+    "Copy Paste Cheat": "player.additem 0003A857 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Claymore",
+    "Weapon ID": "0003A858",
+    "Copy Paste Cheat": "player.additem 0003A858 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Dagger",
+    "Weapon ID": "0003A859",
+    "Copy Paste Cheat": "player.additem 0003A859 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Longsword",
+    "Weapon ID": "0003A85A",
+    "Copy Paste Cheat": "player.additem 0003A85A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Mace",
+    "Weapon ID": "0003A85B",
+    "Copy Paste Cheat": "player.additem 0003A85B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Shortsword",
+    "Weapon ID": "0003A85C",
+    "Copy Paste Cheat": "player.additem 0003A85C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel War Axe",
+    "Weapon ID": "0003A85D",
+    "Copy Paste Cheat": "player.additem 0003A85D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Warhammer",
+    "Weapon ID": "0003A85E",
+    "Copy Paste Cheat": "player.additem 0003A85E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Frostwyrm Bow",
+    "Weapon ID": "000C55E4",
+    "Copy Paste Cheat": "player.additem 000C55E4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ghost Axe",
+    "Weapon ID": "0003CD07",
+    "Copy Paste Cheat": "player.additem 0003CD07 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Gift of Flame",
+    "Weapon ID": "0001494C",
+    "Copy Paste Cheat": "player.additem 0001494C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Gladiator’s Sword",
+    "Weapon ID": "0003E45B",
+    "Copy Paste Cheat": "player.additem 0003E45B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Battle Axe",
+    "Weapon ID": "00035E60",
+    "Copy Paste Cheat": "player.additem 00035E60 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Battle Axe Replica",
+    "Weapon ID": "000C5608",
+    "Copy Paste Cheat": "player.additem 000C5608 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Bow",
+    "Weapon ID": "000733DC",
+    "Copy Paste Cheat": "player.additem 000733DC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Claymore",
+    "Weapon ID": "00035E61",
+    "Copy Paste Cheat": "player.additem 00035E61 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Dagger",
+    "Weapon ID": "00035E5B",
+    "Copy Paste Cheat": "player.additem 00035E5B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Dagger Replica",
+    "Weapon ID": "000C7973",
+    "Copy Paste Cheat": "player.additem 000C7973 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Longsword",
+    "Weapon ID": "000732DD",
+    "Copy Paste Cheat": "player.additem 000732DD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Longsword Replica",
+    "Weapon ID": "000C5601",
+    "Copy Paste Cheat": "player.additem 000C5601 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Mace",
+    "Weapon ID": "00035E5E",
+    "Copy Paste Cheat": "player.additem 00035E5E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Shortsword",
+    "Weapon ID": "00035E5C",
+    "Copy Paste Cheat": "player.additem 00035E5C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Shortsword Replica",
+    "Weapon ID": "000C7989",
+    "Copy Paste Cheat": "player.additem 000C7989 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass War Axe",
+    "Weapon ID": "00035E5D",
+    "Copy Paste Cheat": "player.additem 00035E5D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glass Warhammer",
+    "Weapon ID": "000977CB",
+    "Copy Paste Cheat": "player.additem 000977CB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Glenroy’s Akaviri Katana",
+    "Weapon ID": "00022F82",
+    "Copy Paste Cheat": "player.additem 00022F82 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Goblin Shaman Staff",
+    "Weapon ID": "00066C45",
+    "Copy Paste Cheat": "player.additem 00066C45 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Goblin Totem Staff",
+    "Weapon ID": "000AA01F",
+    "Copy Paste Cheat": "player.additem 000AA01F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Goldbrand",
+    "Weapon ID": "00027105",
+    "Copy Paste Cheat": "player.additem 00027105 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Anarchy",
+    "Weapon ID": "00091322",
+    "Copy Paste Cheat": "player.additem 00091322 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Apathy",
+    "Weapon ID": "000912EC",
+    "Copy Paste Cheat": "player.additem 000912EC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Blundering",
+    "Weapon ID": "000912D4",
+    "Copy Paste Cheat": "player.additem 000912D4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Burden",
+    "Weapon ID": "000912BF",
+    "Copy Paste Cheat": "player.additem 000912BF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Calm",
+    "Weapon ID": "000912C2",
+    "Copy Paste Cheat": "player.additem 000912C2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Catastrophe",
+    "Weapon ID": "000912E3",
+    "Copy Paste Cheat": "player.additem 000912E3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Charm",
+    "Weapon ID": "000912C8",
+    "Copy Paste Cheat": "player.additem 000912C8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Confusion",
+    "Weapon ID": "000912F2",
+    "Copy Paste Cheat": "player.additem 000912F2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Corrosion",
+    "Weapon ID": "000912FC",
+    "Copy Paste Cheat": "player.additem 000912FC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Demoralize",
+    "Weapon ID": "000912F6",
+    "Copy Paste Cheat": "player.additem 000912F6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Dispel",
+    "Weapon ID": "000912FF",
+    "Copy Paste Cheat": "player.additem 000912FF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Domination",
+    "Weapon ID": "000912D1",
+    "Copy Paste Cheat": "player.additem 000912D1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Fatigue",
+    "Weapon ID": "000912DA",
+    "Copy Paste Cheat": "player.additem 000912DA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Feeblemind",
+    "Weapon ID": "000912D7",
+    "Copy Paste Cheat": "player.additem 000912D7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Fire",
+    "Weapon ID": "00091326",
+    "Copy Paste Cheat": "player.additem 00091326 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Fireball",
+    "Weapon ID": "00091329",
+    "Copy Paste Cheat": "player.additem 00091329 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Fragility",
+    "Weapon ID": "0009131F",
+    "Copy Paste Cheat": "player.additem 0009131F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Frailty",
+    "Weapon ID": "000912EF",
+    "Copy Paste Cheat": "player.additem 000912EF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Frost",
+    "Weapon ID": "0009132C",
+    "Copy Paste Cheat": "player.additem 0009132C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Ice Storm",
+    "Weapon ID": "0009132F",
+    "Copy Paste Cheat": "player.additem 0009132F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Lethargy",
+    "Weapon ID": "0009131C",
+    "Copy Paste Cheat": "player.additem 0009131C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Light",
+    "Weapon ID": "00091332",
+    "Copy Paste Cheat": "player.additem 00091332 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Lightning",
+    "Weapon ID": "000914B6",
+    "Copy Paste Cheat": "player.additem 000914B6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Open",
+    "Weapon ID": "00091335",
+    "Copy Paste Cheat": "player.additem 00091335 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Ruin",
+    "Weapon ID": "00091302",
+    "Copy Paste Cheat": "player.additem 00091302 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Severing",
+    "Weapon ID": "000912E6",
+    "Copy Paste Cheat": "player.additem 000912E6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Sickness",
+    "Weapon ID": "000912DD",
+    "Copy Paste Cheat": "player.additem 000912DD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Silence",
+    "Weapon ID": "000914BC",
+    "Copy Paste Cheat": "player.additem 000914BC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Stopping",
+    "Weapon ID": "00091338",
+    "Copy Paste Cheat": "player.additem 00091338 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Storms",
+    "Weapon ID": "000914B9",
+    "Copy Paste Cheat": "player.additem 000914B9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Sundering",
+    "Weapon ID": "00091316",
+    "Copy Paste Cheat": "player.additem 00091316 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Taming",
+    "Weapon ID": "000912CE",
+    "Copy Paste Cheat": "player.additem 000912CE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Telekinesis",
+    "Weapon ID": "000914BF",
+    "Copy Paste Cheat": "player.additem 000914BF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of the Dazed",
+    "Weapon ID": "00091310",
+    "Copy Paste Cheat": "player.additem 00091310 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of the Doomed",
+    "Weapon ID": "00091313",
+    "Copy Paste Cheat": "player.additem 00091313 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of the Grave",
+    "Weapon ID": "000914C2",
+    "Copy Paste Cheat": "player.additem 000914C2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of the Oaf",
+    "Weapon ID": "00091305",
+    "Copy Paste Cheat": "player.additem 00091305 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of the Pariah",
+    "Weapon ID": "000912E9",
+    "Copy Paste Cheat": "player.additem 000912E9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of the Plague",
+    "Weapon ID": "00091308",
+    "Copy Paste Cheat": "player.additem 00091308 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of the Weary",
+    "Weapon ID": "0009130A",
+    "Copy Paste Cheat": "player.additem 0009130A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Greater Staff of Weakness",
+    "Weapon ID": "000912E1",
+    "Copy Paste Cheat": "player.additem 000912E1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Hatreds Soul",
+    "Weapon ID": "00014D6A",
+    "Copy Paste Cheat": "player.additem 00014D6A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Heat of Sinfulness",
+    "Weapon ID": "00014960",
+    "Copy Paste Cheat": "player.additem 00014960 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Honorblade of Chorrol",
+    "Weapon ID": "00028BA0",
+    "Copy Paste Cheat": "player.additem 00028BA0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Hrormir’s Icestaff",
+    "Weapon ID": "00002DDF",
+    "Copy Paste Cheat": "player.additem 00002DDF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Immolator",
+    "Weapon ID": "0003CD01",
+    "Copy Paste Cheat": "player.additem 0003CD01 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron Battle Axe",
+    "Weapon ID": "00000D7F",
+    "Copy Paste Cheat": "player.additem 00000D7F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron Bow",
+    "Weapon ID": "00025231",
+    "Copy Paste Cheat": "player.additem 00025231 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron Claymore",
+    "Weapon ID": "0001C6CD",
+    "Copy Paste Cheat": "player.additem 0001C6CD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron Dagger",
+    "Weapon ID": "00019171",
+    "Copy Paste Cheat": "player.additem 00019171 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron Longsword",
+    "Weapon ID": "000977D1",
+    "Copy Paste Cheat": "player.additem 000977D1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron Mace",
+    "Weapon ID": "00000D82",
+    "Copy Paste Cheat": "player.additem 00000D82 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron Shortsword",
+    "Weapon ID": "00000C0D",
+    "Copy Paste Cheat": "player.additem 00000C0D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron War Axe",
+    "Weapon ID": "00000D81",
+    "Copy Paste Cheat": "player.additem 00000D81 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Iron Warhammer",
+    "Weapon ID": "00019172",
+    "Copy Paste Cheat": "player.additem 00019172 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Languorwine Blade",
+    "Weapon ID": "00028277",
+    "Copy Paste Cheat": "player.additem 00028277 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Anarchy",
+    "Weapon ID": "00091323",
+    "Copy Paste Cheat": "player.additem 00091323 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Apathy",
+    "Weapon ID": "000912ED",
+    "Copy Paste Cheat": "player.additem 000912ED 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Blundering",
+    "Weapon ID": "000912D2",
+    "Copy Paste Cheat": "player.additem 000912D2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Burden",
+    "Weapon ID": "000912D8",
+    "Copy Paste Cheat": "player.additem 000912D8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Calm",
+    "Weapon ID": "000912C0",
+    "Copy Paste Cheat": "player.additem 000912C0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Catastrophe",
+    "Weapon ID": "000912E4",
+    "Copy Paste Cheat": "player.additem 000912E4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Charm",
+    "Weapon ID": "000912C6",
+    "Copy Paste Cheat": "player.additem 000912C6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Confusion",
+    "Weapon ID": "000912F3",
+    "Copy Paste Cheat": "player.additem 000912F3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Corrosion",
+    "Weapon ID": "000912FA",
+    "Copy Paste Cheat": "player.additem 000912FA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Demoralize",
+    "Weapon ID": "000912F4",
+    "Copy Paste Cheat": "player.additem 000912F4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Dispel",
+    "Weapon ID": "000912FD",
+    "Copy Paste Cheat": "player.additem 000912FD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Domination",
+    "Weapon ID": "000912CF",
+    "Copy Paste Cheat": "player.additem 000912CF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Fatigue",
+    "Weapon ID": "000912DB",
+    "Copy Paste Cheat": "player.additem 000912DB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Feeblemind",
+    "Weapon ID": "000912E0",
+    "Copy Paste Cheat": "player.additem 000912E0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Fire",
+    "Weapon ID": "00091324",
+    "Copy Paste Cheat": "player.additem 00091324 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Fireball",
+    "Weapon ID": "00091327",
+    "Copy Paste Cheat": "player.additem 00091327 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Fragility",
+    "Weapon ID": "00091320",
+    "Copy Paste Cheat": "player.additem 00091320 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Frailty",
+    "Weapon ID": "000912F0",
+    "Copy Paste Cheat": "player.additem 000912F0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Frost",
+    "Weapon ID": "0009132A",
+    "Copy Paste Cheat": "player.additem 0009132A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Ice Storm",
+    "Weapon ID": "0009132D",
+    "Copy Paste Cheat": "player.additem 0009132D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Lethargy",
+    "Weapon ID": "0009131D",
+    "Copy Paste Cheat": "player.additem 0009131D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Light",
+    "Weapon ID": "00091330",
+    "Copy Paste Cheat": "player.additem 00091330 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Lightning",
+    "Weapon ID": "000914CA",
+    "Copy Paste Cheat": "player.additem 000914CA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Open",
+    "Weapon ID": "00091334",
+    "Copy Paste Cheat": "player.additem 00091334 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Ruin",
+    "Weapon ID": "00091300",
+    "Copy Paste Cheat": "player.additem 00091300 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Severing",
+    "Weapon ID": "000912E7",
+    "Copy Paste Cheat": "player.additem 000912E7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Sickness",
+    "Weapon ID": "000912DE",
+    "Copy Paste Cheat": "player.additem 000912DE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Silence",
+    "Weapon ID": "000914BA",
+    "Copy Paste Cheat": "player.additem 000914BA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Stopping",
+    "Weapon ID": "00091336",
+    "Copy Paste Cheat": "player.additem 00091336 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Storms",
+    "Weapon ID": "000914B7",
+    "Copy Paste Cheat": "player.additem 000914B7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Sundering",
+    "Weapon ID": "00091317",
+    "Copy Paste Cheat": "player.additem 00091317 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Taming",
+    "Weapon ID": "000912CC",
+    "Copy Paste Cheat": "player.additem 000912CC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Telekinesis",
+    "Weapon ID": "000914BD",
+    "Copy Paste Cheat": "player.additem 000914BD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of the Dazed",
+    "Weapon ID": "00091311",
+    "Copy Paste Cheat": "player.additem 00091311 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of the Doomed",
+    "Weapon ID": "00091314",
+    "Copy Paste Cheat": "player.additem 00091314 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of the Grave",
+    "Weapon ID": "000914C0",
+    "Copy Paste Cheat": "player.additem 000914C0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of the Oaf",
+    "Weapon ID": "00091303",
+    "Copy Paste Cheat": "player.additem 00091303 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of the Pariah",
+    "Weapon ID": "000912EA",
+    "Copy Paste Cheat": "player.additem 000912EA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of the Plague",
+    "Weapon ID": "00091306",
+    "Copy Paste Cheat": "player.additem 00091306 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of the Weary",
+    "Weapon ID": "00091309",
+    "Copy Paste Cheat": "player.additem 00091309 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Lesser Staff of Weakness",
+    "Weapon ID": "000912D5",
+    "Copy Paste Cheat": "player.additem 000912D5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Long Sword of Brittleness",
+    "Weapon ID": "0003D7BD",
+    "Copy Paste Cheat": "player.additem 0003D7BD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Long Sword of Depletion",
+    "Weapon ID": "0003D7EA",
+    "Copy Paste Cheat": "player.additem 0003D7EA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Long Sword of Flames",
+    "Weapon ID": "0003DB07",
+    "Copy Paste Cheat": "player.additem 0003DB07 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Long Sword of Freezing",
+    "Weapon ID": "0002263D",
+    "Copy Paste Cheat": "player.additem 0002263D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Long Sword of Voltage",
+    "Weapon ID": "0002BFF5",
+    "Copy Paste Cheat": "player.additem 0002BFF5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Absorption",
+    "Weapon ID": "0003841D",
+    "Copy Paste Cheat": "player.additem 0003841D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Blizzards",
+    "Weapon ID": "000230A6",
+    "Copy Paste Cheat": "player.additem 000230A6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Burning",
+    "Weapon ID": "0003DAF5",
+    "Copy Paste Cheat": "player.additem 0003DAF5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Cold",
+    "Weapon ID": "00022580",
+    "Copy Paste Cheat": "player.additem 00022580 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Depletion",
+    "Weapon ID": "000387AC",
+    "Copy Paste Cheat": "player.additem 000387AC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Diminishing",
+    "Weapon ID": "0003D7D5",
+    "Copy Paste Cheat": "player.additem 0003D7D5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Disintegration",
+    "Weapon ID": "0003D7C9",
+    "Copy Paste Cheat": "player.additem 0003D7C9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Dispel",
+    "Weapon ID": "0003D7CE",
+    "Copy Paste Cheat": "player.additem 0003D7CE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Embers",
+    "Weapon ID": "0003DAEC",
+    "Copy Paste Cheat": "player.additem 0003DAEC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Enfeeblement",
+    "Weapon ID": "000389E8",
+    "Copy Paste Cheat": "player.additem 000389E8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Fire",
+    "Weapon ID": "0003DB10",
+    "Copy Paste Cheat": "player.additem 0003DB10 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Fracturing",
+    "Weapon ID": "0003D7C1",
+    "Copy Paste Cheat": "player.additem 0003D7C1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Fragments",
+    "Weapon ID": "0003D7B9",
+    "Copy Paste Cheat": "player.additem 0003D7B9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Frost",
+    "Weapon ID": "000B0705",
+    "Copy Paste Cheat": "player.additem 000B0705 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Jinxing",
+    "Weapon ID": "0003AB70",
+    "Copy Paste Cheat": "player.additem 0003AB70 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Jolts",
+    "Weapon ID": "0002B589",
+    "Copy Paste Cheat": "player.additem 0002B589 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Lightning",
+    "Weapon ID": "0002C27E",
+    "Copy Paste Cheat": "player.additem 0002C27E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Numbing",
+    "Weapon ID": "0003DB7E",
+    "Copy Paste Cheat": "player.additem 0003DB7E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Pain",
+    "Weapon ID": "0003D7E0",
+    "Copy Paste Cheat": "player.additem 0003D7E0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Sapping",
+    "Weapon ID": "0003D7E5",
+    "Copy Paste Cheat": "player.additem 0003D7E5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Scorching",
+    "Weapon ID": "0003DAFE",
+    "Copy Paste Cheat": "player.additem 0003DAFE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Shattering",
+    "Weapon ID": "0003D7C5",
+    "Copy Paste Cheat": "player.additem 0003D7C5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Shocking",
+    "Weapon ID": "0002B8DD",
+    "Copy Paste Cheat": "player.additem 0002B8DD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Sparks",
+    "Weapon ID": "0002B565",
+    "Copy Paste Cheat": "player.additem 0002B565 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Storms",
+    "Weapon ID": "0002C28F",
+    "Copy Paste Cheat": "player.additem 0002C28F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of the Blaze",
+    "Weapon ID": "0003DB19",
+    "Copy Paste Cheat": "player.additem 0003DB19 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of the Dynamo",
+    "Weapon ID": "0002C00C",
+    "Copy Paste Cheat": "player.additem 0002C00C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of the Glacier",
+    "Weapon ID": "00022A2E",
+    "Copy Paste Cheat": "player.additem 00022A2E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of the Inferno",
+    "Weapon ID": "0003DB22",
+    "Copy Paste Cheat": "player.additem 0003DB22 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Weakness",
+    "Weapon ID": "0003AB41",
+    "Copy Paste Cheat": "player.additem 0003AB41 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Weariness",
+    "Weapon ID": "0003D7DC",
+    "Copy Paste Cheat": "player.additem 0003D7DC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Longsword of Winter",
+    "Weapon ID": "000230E0",
+    "Copy Paste Cheat": "player.additem 000230E0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Abeyance",
+    "Weapon ID": "000359E7",
+    "Copy Paste Cheat": "player.additem 000359E7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Absorption",
+    "Weapon ID": "0003841C",
+    "Copy Paste Cheat": "player.additem 0003841C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Aversion",
+    "Weapon ID": "000353D1",
+    "Copy Paste Cheat": "player.additem 000353D1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Blizzards",
+    "Weapon ID": "000230AB",
+    "Copy Paste Cheat": "player.additem 000230AB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Burden",
+    "Weapon ID": "000387B6",
+    "Copy Paste Cheat": "player.additem 000387B6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Burning",
+    "Weapon ID": "0003DAF6",
+    "Copy Paste Cheat": "player.additem 0003DAF6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Cold",
+    "Weapon ID": "0002258C",
+    "Copy Paste Cheat": "player.additem 0002258C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Deadweight",
+    "Weapon ID": "000387BE",
+    "Copy Paste Cheat": "player.additem 000387BE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Decay",
+    "Weapon ID": "0003AF07",
+    "Copy Paste Cheat": "player.additem 0003AF07 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Depletion",
+    "Weapon ID": "000387AD",
+    "Copy Paste Cheat": "player.additem 000387AD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Diminishing",
+    "Weapon ID": "0003D7D6",
+    "Copy Paste Cheat": "player.additem 0003D7D6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Dispel",
+    "Weapon ID": "0003D7CF",
+    "Copy Paste Cheat": "player.additem 0003D7CF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Dissolution",
+    "Weapon ID": "0003AF08",
+    "Copy Paste Cheat": "player.additem 0003AF08 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Embers",
+    "Weapon ID": "0003DAED",
+    "Copy Paste Cheat": "player.additem 0003DAED 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Encumbrance",
+    "Weapon ID": "000387BA",
+    "Copy Paste Cheat": "player.additem 000387BA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Enfeeblement",
+    "Weapon ID": "000389E9",
+    "Copy Paste Cheat": "player.additem 000389E9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Excess",
+    "Weapon ID": "000387BC",
+    "Copy Paste Cheat": "player.additem 000387BC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Feeding",
+    "Weapon ID": "000387A8",
+    "Copy Paste Cheat": "player.additem 000387A8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Fire",
+    "Weapon ID": "0003DB11",
+    "Copy Paste Cheat": "player.additem 0003DB11 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Flames",
+    "Weapon ID": "0003DB08",
+    "Copy Paste Cheat": "player.additem 0003DB08 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Fracturing",
+    "Weapon ID": "0003AF0A",
+    "Copy Paste Cheat": "player.additem 0003AF0A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Freezing",
+    "Weapon ID": "00022642",
+    "Copy Paste Cheat": "player.additem 00022642 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Frost",
+    "Weapon ID": "0003DB76",
+    "Copy Paste Cheat": "player.additem 0003DB76 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Holy Light",
+    "Weapon ID": "00035A64",
+    "Copy Paste Cheat": "player.additem 00035A64 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Jinxing",
+    "Weapon ID": "0003AB73",
+    "Copy Paste Cheat": "player.additem 0003AB73 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Jolts",
+    "Weapon ID": "0002B58A",
+    "Copy Paste Cheat": "player.additem 0002B58A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Legion",
+    "Weapon ID": "0003BF65",
+    "Copy Paste Cheat": "player.additem 0003BF65 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Lightning",
+    "Weapon ID": "0002C280",
+    "Copy Paste Cheat": "player.additem 0002C280 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Molag Bal",
+    "Weapon ID": "00027117",
+    "Copy Paste Cheat": "player.additem 00027117 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Numbing",
+    "Weapon ID": "0003DB7F",
+    "Copy Paste Cheat": "player.additem 0003DB7F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Overload",
+    "Weapon ID": "000387B7",
+    "Copy Paste Cheat": "player.additem 000387B7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Putrification",
+    "Weapon ID": "0003AF0D",
+    "Copy Paste Cheat": "player.additem 0003AF0D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Rending",
+    "Weapon ID": "0003AF0E",
+    "Copy Paste Cheat": "player.additem 0003AF0E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Repelling",
+    "Weapon ID": "000353CC",
+    "Copy Paste Cheat": "player.additem 000353CC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Sapping",
+    "Weapon ID": "0003D7E6",
+    "Copy Paste Cheat": "player.additem 0003D7E6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Scorching",
+    "Weapon ID": "0003DAFF",
+    "Copy Paste Cheat": "player.additem 0003DAFF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Shocking",
+    "Weapon ID": "0002BAAA",
+    "Copy Paste Cheat": "player.additem 0002BAAA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Siphoning",
+    "Weapon ID": "000387A7",
+    "Copy Paste Cheat": "player.additem 000387A7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Sparks",
+    "Weapon ID": "0002B566",
+    "Copy Paste Cheat": "player.additem 0002B566 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Storms",
+    "Weapon ID": "0002C290",
+    "Copy Paste Cheat": "player.additem 0002C290 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Strain",
+    "Weapon ID": "000387B4",
+    "Copy Paste Cheat": "player.additem 000387B4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Blaze",
+    "Weapon ID": "0003DB1A",
+    "Copy Paste Cheat": "player.additem 0003DB1A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Dynamo",
+    "Weapon ID": "0002C00D",
+    "Copy Paste Cheat": "player.additem 0002C00D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Glacier",
+    "Weapon ID": "00022A2F",
+    "Copy Paste Cheat": "player.additem 00022A2F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Inferno",
+    "Weapon ID": "0003DB23",
+    "Copy Paste Cheat": "player.additem 0003DB23 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Undead",
+    "Weapon ID": "00035AB3",
+    "Copy Paste Cheat": "player.additem 00035AB3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Transmogrify",
+    "Weapon ID": "0003B404",
+    "Copy Paste Cheat": "player.additem 0003B404 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Turning",
+    "Weapon ID": "000353D4",
+    "Copy Paste Cheat": "player.additem 000353D4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Voltage",
+    "Weapon ID": "0002BFF6",
+    "Copy Paste Cheat": "player.additem 0002BFF6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Warding",
+    "Weapon ID": "000353D0",
+    "Copy Paste Cheat": "player.additem 000353D0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Weakness",
+    "Weapon ID": "0003AB40",
+    "Copy Paste Cheat": "player.additem 0003AB40 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Weight",
+    "Weapon ID": "000387B1",
+    "Copy Paste Cheat": "player.additem 000387B1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of Winter",
+    "Weapon ID": "000230E1",
+    "Copy Paste Cheat": "player.additem 000230E1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Mace",
+    "Weapon ID": "0003E45D",
+    "Copy Paste Cheat": "player.additem 0003E45D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mages Staff",
+    "Weapon ID": "0002C6A8",
+    "Copy Paste Cheat": "player.additem 0002C6A8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Charm",
+    "Weapon ID": "0001FE11",
+    "Copy Paste Cheat": "player.additem 0001FE11 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Dispel",
+    "Weapon ID": "0001FE16",
+    "Copy Paste Cheat": "player.additem 0001FE16 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Fire",
+    "Weapon ID": "000E9448",
+    "Copy Paste Cheat": "player.additem 000E9448 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Frost",
+    "Weapon ID": "000E944C",
+    "Copy Paste Cheat": "player.additem 000E944C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Paralysis",
+    "Weapon ID": "0001FE12",
+    "Copy Paste Cheat": "player.additem 0001FE12 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Shock",
+    "Weapon ID": "0001FE10",
+    "Copy Paste Cheat": "player.additem 0001FE10 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Silence",
+    "Weapon ID": "0001FE13",
+    "Copy Paste Cheat": "player.additem 0001FE13 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Soul Trap",
+    "Weapon ID": "0001FE14",
+    "Copy Paste Cheat": "player.additem 0001FE14 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mage’s Staff of Telekinesis",
+    "Weapon ID": "0001FE15",
+    "Copy Paste Cheat": "player.additem 0001FE15 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mankar Camoran’s Staff",
+    "Weapon ID": "000BE322",
+    "Copy Paste Cheat": "player.additem 000BE322 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mishaxhi’s Cleaver",
+    "Weapon ID": "00187BC7",
+    "Copy Paste Cheat": "player.additem 00187BC7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Naked Axe",
+    "Weapon ID": "0003E45E",
+    "Copy Paste Cheat": "player.additem 0003E45E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Nearness of Evil",
+    "Weapon ID": "0001493D",
+    "Copy Paste Cheat": "player.additem 0001493D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Northwind",
+    "Weapon ID": "00187BC4",
+    "Copy Paste Cheat": "player.additem 00187BC4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Oblivion’s Caress",
+    "Weapon ID": "00014962",
+    "Copy Paste Cheat": "player.additem 00014962 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Oblivion’s Embrace",
+    "Weapon ID": "000149E2",
+    "Copy Paste Cheat": "player.additem 000149E2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Penance of Animosity",
+    "Weapon ID": "00014966",
+    "Copy Paste Cheat": "player.additem 00014966 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Penance of Deception",
+    "Weapon ID": "0001496A",
+    "Copy Paste Cheat": "player.additem 0001496A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Penance of Faithlessness",
+    "Weapon ID": "0001496B",
+    "Copy Paste Cheat": "player.additem 0001496B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Penance of Hatred",
+    "Weapon ID": "00014967",
+    "Copy Paste Cheat": "player.additem 00014967 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Penance of Larceny",
+    "Weapon ID": "00014968",
+    "Copy Paste Cheat": "player.additem 00014968 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Penance of Pride",
+    "Weapon ID": "00014969",
+    "Copy Paste Cheat": "player.additem 00014969 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Perdition’s Wrath",
+    "Weapon ID": "00082DE3",
+    "Copy Paste Cheat": "player.additem 00082DE3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Pounder",
+    "Weapon ID": "0003BF66",
+    "Copy Paste Cheat": "player.additem 0003BF66 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Purging Flame",
+    "Weapon ID": "00014961",
+    "Copy Paste Cheat": "player.additem 00014961 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Quality Battle Axe Ember",
+    "Weapon ID": "0003DAF1",
+    "Copy Paste Cheat": "player.additem 0003DAF1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Quality Battle Axe Shiver",
+    "Weapon ID": "0003DB7A",
+    "Copy Paste Cheat": "player.additem 0003DB7A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Quality Battle Axe Soul Trap",
+    "Weapon ID": "00035385",
+    "Copy Paste Cheat": "player.additem 00035385 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Quality Battle Axe Spark",
+    "Weapon ID": "0002B573",
+    "Copy Paste Cheat": "player.additem 0002B573 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Quintessence of Remorse",
+    "Weapon ID": "000149E5",
+    "Copy Paste Cheat": "player.additem 000149E5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Redwave",
+    "Weapon ID": "00095A3F",
+    "Copy Paste Cheat": "player.additem 00095A3F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Renault’s Akaviri Katana",
+    "Weapon ID": "00066C44",
+    "Copy Paste Cheat": "player.additem 00066C44 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Retaliation of Blood",
+    "Weapon ID": "000149ED",
+    "Copy Paste Cheat": "player.additem 000149ED 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Retaliation of Spirit",
+    "Weapon ID": "000149EF",
+    "Copy Paste Cheat": "player.additem 000149EF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Retribution of Aggression",
+    "Weapon ID": "000149E7",
+    "Copy Paste Cheat": "player.additem 000149E7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Retribution of Cowardness",
+    "Weapon ID": "000149E6",
+    "Copy Paste Cheat": "player.additem 000149E6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Retribution of Hubris",
+    "Weapon ID": "000149E9",
+    "Copy Paste Cheat": "player.additem 000149E9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Retribution of Hypocrisy",
+    "Weapon ID": "000149EA",
+    "Copy Paste Cheat": "player.additem 000149EA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Retribution of Rapacity",
+    "Weapon ID": "000149E8",
+    "Copy Paste Cheat": "player.additem 000149E8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Retribution of Treachery",
+    "Weapon ID": "000149EC",
+    "Copy Paste Cheat": "player.additem 000149EC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Revealer of Iniquity",
+    "Weapon ID": "0001494E",
+    "Copy Paste Cheat": "player.additem 0001494E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Rockshatter",
+    "Weapon ID": "00014EC6",
+    "Copy Paste Cheat": "player.additem 00014EC6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Rohssan’s Antique Cutlass",
+    "Weapon ID": "0001C14B",
+    "Copy Paste Cheat": "player.additem 0001C14B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Rugdumph’s Sword",
+    "Weapon ID": "0000BEA6",
+    "Copy Paste Cheat": "player.additem 0000BEA6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ruined Akaviri Katana",
+    "Weapon ID": "000980DF",
+    "Copy Paste Cheat": "player.additem 000980DF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ruma’s Staff",
+    "Weapon ID": "0001FB1C",
+    "Copy Paste Cheat": "player.additem 0001FB1C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Rusty Iron Bow",
+    "Weapon ID": "00047ACA",
+    "Copy Paste Cheat": "player.additem 00047ACA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Rusty Iron Dagger",
+    "Weapon ID": "00090616",
+    "Copy Paste Cheat": "player.additem 00090616 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Rusty Iron Mace",
+    "Weapon ID": "00090614",
+    "Copy Paste Cheat": "player.additem 00090614 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Rusty Iron Shortsword",
+    "Weapon ID": "00090615",
+    "Copy Paste Cheat": "player.additem 00090615 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Rusty Iron War Axe",
+    "Weapon ID": "00090613",
+    "Copy Paste Cheat": "player.additem 00090613 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sanguine Rose",
+    "Weapon ID": "000228EF",
+    "Copy Paste Cheat": "player.additem 000228EF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shadowhunt",
+    "Weapon ID": "00034897",
+    "Copy Paste Cheat": "player.additem 00034897 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sharpened Cutlass",
+    "Weapon ID": "000055AB",
+    "Copy Paste Cheat": "player.additem 000055AB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shimmerstrike",
+    "Weapon ID": "0002990E",
+    "Copy Paste Cheat": "player.additem 0002990E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Absorption",
+    "Weapon ID": "0003841E",
+    "Copy Paste Cheat": "player.additem 0003841E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Blizzards",
+    "Weapon ID": "000230AC",
+    "Copy Paste Cheat": "player.additem 000230AC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Brittleness",
+    "Weapon ID": "0003D7BE",
+    "Copy Paste Cheat": "player.additem 0003D7BE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Burning",
+    "Weapon ID": "0003DAF7",
+    "Copy Paste Cheat": "player.additem 0003DAF7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Cold",
+    "Weapon ID": "0002259C",
+    "Copy Paste Cheat": "player.additem 0002259C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Depletion",
+    "Weapon ID": "000387AB",
+    "Copy Paste Cheat": "player.additem 000387AB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Depletion",
+    "Weapon ID": "0003D7EB",
+    "Copy Paste Cheat": "player.additem 0003D7EB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Diminishing",
+    "Weapon ID": "0003D7D7",
+    "Copy Paste Cheat": "player.additem 0003D7D7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Disintegration",
+    "Weapon ID": "0003D7CA",
+    "Copy Paste Cheat": "player.additem 0003D7CA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Dispel",
+    "Weapon ID": "0003D7D0",
+    "Copy Paste Cheat": "player.additem 0003D7D0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Embers",
+    "Weapon ID": "0003DAEE",
+    "Copy Paste Cheat": "player.additem 0003DAEE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Enfeeblement",
+    "Weapon ID": "000389E7",
+    "Copy Paste Cheat": "player.additem 000389E7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Fire",
+    "Weapon ID": "0003DB12",
+    "Copy Paste Cheat": "player.additem 0003DB12 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Flames",
+    "Weapon ID": "0003DB09",
+    "Copy Paste Cheat": "player.additem 0003DB09 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Fracturing",
+    "Weapon ID": "0003D7C2",
+    "Copy Paste Cheat": "player.additem 0003D7C2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Fragments",
+    "Weapon ID": "0003D7BA",
+    "Copy Paste Cheat": "player.additem 0003D7BA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Freezing",
+    "Weapon ID": "00022643",
+    "Copy Paste Cheat": "player.additem 00022643 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Frost",
+    "Weapon ID": "0003DB77",
+    "Copy Paste Cheat": "player.additem 0003DB77 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Jinxing",
+    "Weapon ID": "0003AB71",
+    "Copy Paste Cheat": "player.additem 0003AB71 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Jolts",
+    "Weapon ID": "0002D72E",
+    "Copy Paste Cheat": "player.additem 0002D72E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Lightning",
+    "Weapon ID": "0002C281",
+    "Copy Paste Cheat": "player.additem 0002C281 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Numbing",
+    "Weapon ID": "0003DB80",
+    "Copy Paste Cheat": "player.additem 0003DB80 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Pain",
+    "Weapon ID": "0003D7E1",
+    "Copy Paste Cheat": "player.additem 0003D7E1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Paralysis",
+    "Weapon ID": "0002B55F",
+    "Copy Paste Cheat": "player.additem 0002B55F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Sapping",
+    "Weapon ID": "0003D7E7",
+    "Copy Paste Cheat": "player.additem 0003D7E7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Scorching",
+    "Weapon ID": "0003DB00",
+    "Copy Paste Cheat": "player.additem 0003DB00 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Shattering",
+    "Weapon ID": "0003D7C6",
+    "Copy Paste Cheat": "player.additem 0003D7C6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Shocking",
+    "Weapon ID": "0002BB17",
+    "Copy Paste Cheat": "player.additem 0002BB17 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Sparks",
+    "Weapon ID": "0002B567",
+    "Copy Paste Cheat": "player.additem 0002B567 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Storms",
+    "Weapon ID": "0002C292",
+    "Copy Paste Cheat": "player.additem 0002C292 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of the Blaze",
+    "Weapon ID": "0003DB1B",
+    "Copy Paste Cheat": "player.additem 0003DB1B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of the Dynamo",
+    "Weapon ID": "0002C00E",
+    "Copy Paste Cheat": "player.additem 0002C00E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of the Fang",
+    "Weapon ID": "0003CB6A",
+    "Copy Paste Cheat": "player.additem 0003CB6A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of the Glacier",
+    "Weapon ID": "00022EBD",
+    "Copy Paste Cheat": "player.additem 00022EBD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of the Inferno",
+    "Weapon ID": "0003DB24",
+    "Copy Paste Cheat": "player.additem 0003DB24 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Voltage",
+    "Weapon ID": "0002BFF7",
+    "Copy Paste Cheat": "player.additem 0002BFF7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Weakness",
+    "Weapon ID": "0003AB42",
+    "Copy Paste Cheat": "player.additem 0003AB42 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Weariness",
+    "Weapon ID": "0003D7DD",
+    "Copy Paste Cheat": "player.additem 0003D7DD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Shortsword of Winter",
+    "Weapon ID": "000230E2",
+    "Copy Paste Cheat": "player.additem 000230E2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver BattleAxe",
+    "Weapon ID": "00025221",
+    "Copy Paste Cheat": "player.additem 00025221 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver Bow",
+    "Weapon ID": "00025227",
+    "Copy Paste Cheat": "player.additem 00025227 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver Claymore",
+    "Weapon ID": "00025226",
+    "Copy Paste Cheat": "player.additem 00025226 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver Dagger",
+    "Weapon ID": "00025224",
+    "Copy Paste Cheat": "player.additem 00025224 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver Longsword",
+    "Weapon ID": "0002521F",
+    "Copy Paste Cheat": "player.additem 0002521F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver Mace",
+    "Weapon ID": "00025223",
+    "Copy Paste Cheat": "player.additem 00025223 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver Shortsword",
+    "Weapon ID": "00025220",
+    "Copy Paste Cheat": "player.additem 00025220 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver War Axe",
+    "Weapon ID": "00025222",
+    "Copy Paste Cheat": "player.additem 00025222 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Silver Warhammer",
+    "Weapon ID": "00025225",
+    "Copy Paste Cheat": "player.additem 00025225 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sinweaver",
+    "Weapon ID": "0000172E",
+    "Copy Paste Cheat": "player.additem 0000172E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Skull of Corruption",
+    "Weapon ID": "00027116",
+    "Copy Paste Cheat": "player.additem 00027116 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Spellbreaker",
+    "Weapon ID": "00027112",
+    "Copy Paste Cheat": "player.additem 00027112 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Anarchy",
+    "Weapon ID": "00091321",
+    "Copy Paste Cheat": "player.additem 00091321 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Apathy",
+    "Weapon ID": "000912EB",
+    "Copy Paste Cheat": "player.additem 000912EB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Banishment",
+    "Weapon ID": "000914D2",
+    "Copy Paste Cheat": "player.additem 000914D2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Blundering",
+    "Weapon ID": "000912D3",
+    "Copy Paste Cheat": "player.additem 000912D3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Burden",
+    "Weapon ID": "000912BE",
+    "Copy Paste Cheat": "player.additem 000912BE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Calm",
+    "Weapon ID": "000912C1",
+    "Copy Paste Cheat": "player.additem 000912C1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Catastrophe",
+    "Weapon ID": "000912E2",
+    "Copy Paste Cheat": "player.additem 000912E2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Charm",
+    "Weapon ID": "000912C7",
+    "Copy Paste Cheat": "player.additem 000912C7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Conflagration",
+    "Weapon ID": "000914C5",
+    "Copy Paste Cheat": "player.additem 000914C5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Confusion",
+    "Weapon ID": "000912F1",
+    "Copy Paste Cheat": "player.additem 000912F1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Corrosion",
+    "Weapon ID": "000912FB",
+    "Copy Paste Cheat": "player.additem 000912FB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Demoralize",
+    "Weapon ID": "000912F5",
+    "Copy Paste Cheat": "player.additem 000912F5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Diminishing",
+    "Weapon ID": "000914C4",
+    "Copy Paste Cheat": "player.additem 000914C4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Discord",
+    "Weapon ID": "000914CD",
+    "Copy Paste Cheat": "player.additem 000914CD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Dispel",
+    "Weapon ID": "000912FE",
+    "Copy Paste Cheat": "player.additem 000912FE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Domination",
+    "Weapon ID": "000912D0",
+    "Copy Paste Cheat": "player.additem 000912D0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Fatigue",
+    "Weapon ID": "000912D9",
+    "Copy Paste Cheat": "player.additem 000912D9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Feeblemind",
+    "Weapon ID": "000912DF",
+    "Copy Paste Cheat": "player.additem 000912DF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Fire",
+    "Weapon ID": "00091325",
+    "Copy Paste Cheat": "player.additem 00091325 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Fireball",
+    "Weapon ID": "00091328",
+    "Copy Paste Cheat": "player.additem 00091328 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Flame",
+    "Weapon ID": "0001CECC",
+    "Copy Paste Cheat": "player.additem 0001CECC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Fragility",
+    "Weapon ID": "0009131E",
+    "Copy Paste Cheat": "player.additem 0009131E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Frailty",
+    "Weapon ID": "000912EE",
+    "Copy Paste Cheat": "player.additem 000912EE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Frost",
+    "Weapon ID": "0009132B",
+    "Copy Paste Cheat": "player.additem 0009132B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Hoarfrost",
+    "Weapon ID": "000914C6",
+    "Copy Paste Cheat": "player.additem 000914C6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Ice Storm",
+    "Weapon ID": "0009132E",
+    "Copy Paste Cheat": "player.additem 0009132E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Indarys",
+    "Weapon ID": "0006B66D",
+    "Copy Paste Cheat": "player.additem 0006B66D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Legion",
+    "Weapon ID": "000914CC",
+    "Copy Paste Cheat": "player.additem 000914CC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Lethargy",
+    "Weapon ID": "0009131B",
+    "Copy Paste Cheat": "player.additem 0009131B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Light",
+    "Weapon ID": "00091331",
+    "Copy Paste Cheat": "player.additem 00091331 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Lightning",
+    "Weapon ID": "000914B5",
+    "Copy Paste Cheat": "player.additem 000914B5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Nenalata",
+    "Weapon ID": "00058EEC",
+    "Copy Paste Cheat": "player.additem 00058EEC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Open",
+    "Weapon ID": "00091333",
+    "Copy Paste Cheat": "player.additem 00091333 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Pacification",
+    "Weapon ID": "000914C9",
+    "Copy Paste Cheat": "player.additem 000914C9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Paralyzing Burst",
+    "Weapon ID": "00091337",
+    "Copy Paste Cheat": "player.additem 00091337 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Ruin",
+    "Weapon ID": "00091301",
+    "Copy Paste Cheat": "player.additem 00091301 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Severing",
+    "Weapon ID": "000912E5",
+    "Copy Paste Cheat": "player.additem 000912E5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Sickness",
+    "Weapon ID": "000912DC",
+    "Copy Paste Cheat": "player.additem 000912DC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Silence",
+    "Weapon ID": "000914BB",
+    "Copy Paste Cheat": "player.additem 000914BB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Storms",
+    "Weapon ID": "000914B8",
+    "Copy Paste Cheat": "player.additem 000914B8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Submission",
+    "Weapon ID": "000914CB",
+    "Copy Paste Cheat": "player.additem 000914CB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Sundering",
+    "Weapon ID": "00091315",
+    "Copy Paste Cheat": "player.additem 00091315 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Taming",
+    "Weapon ID": "000912CD",
+    "Copy Paste Cheat": "player.additem 000912CD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Telekinesis",
+    "Weapon ID": "000914BE",
+    "Copy Paste Cheat": "player.additem 000914BE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Battlemage",
+    "Weapon ID": "000493BD",
+    "Copy Paste Cheat": "player.additem 000493BD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Dazed",
+    "Weapon ID": "0009130F",
+    "Copy Paste Cheat": "player.additem 0009130F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Doomed",
+    "Weapon ID": "00091312",
+    "Copy Paste Cheat": "player.additem 00091312 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Everscamp",
+    "Weapon ID": "0004F790",
+    "Copy Paste Cheat": "player.additem 0004F790 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Grave",
+    "Weapon ID": "000914C1",
+    "Copy Paste Cheat": "player.additem 000914C1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Healer",
+    "Weapon ID": "000914D1",
+    "Copy Paste Cheat": "player.additem 000914D1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Mundane",
+    "Weapon ID": "000914D0",
+    "Copy Paste Cheat": "player.additem 000914D0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Oaf",
+    "Weapon ID": "00091304",
+    "Copy Paste Cheat": "player.additem 00091304 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Pariah",
+    "Weapon ID": "000912E8",
+    "Copy Paste Cheat": "player.additem 000912E8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Plague",
+    "Weapon ID": "00091307",
+    "Copy Paste Cheat": "player.additem 00091307 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of the Weary",
+    "Weapon ID": "0009130B",
+    "Copy Paste Cheat": "player.additem 0009130B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Thunderbolts",
+    "Weapon ID": "000914C7",
+    "Copy Paste Cheat": "player.additem 000914C7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Unholy Terror",
+    "Weapon ID": "00056E50",
+    "Copy Paste Cheat": "player.additem 00056E50 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Vulnerability",
+    "Weapon ID": "000914CF",
+    "Copy Paste Cheat": "player.additem 000914CF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Weakness",
+    "Weapon ID": "000912D6",
+    "Copy Paste Cheat": "player.additem 000912D6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Withering",
+    "Weapon ID": "000914C3",
+    "Copy Paste Cheat": "player.additem 000914C3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Staff of Worms",
+    "Weapon ID": "0004A24E",
+    "Copy Paste Cheat": "player.additem 0004A24E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Battle Axe",
+    "Weapon ID": "000229B6",
+    "Copy Paste Cheat": "player.additem 000229B6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Bow",
+    "Weapon ID": "000229B7",
+    "Copy Paste Cheat": "player.additem 000229B7 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Claymore",
+    "Weapon ID": "000229B8",
+    "Copy Paste Cheat": "player.additem 000229B8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Cutlass",
+    "Weapon ID": "0003AA82",
+    "Copy Paste Cheat": "player.additem 0003AA82 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Dagger",
+    "Weapon ID": "000229B9",
+    "Copy Paste Cheat": "player.additem 000229B9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Longsword",
+    "Weapon ID": "000229BA",
+    "Copy Paste Cheat": "player.additem 000229BA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Mace",
+    "Weapon ID": "000229BB",
+    "Copy Paste Cheat": "player.additem 000229BB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Shortsword",
+    "Weapon ID": "00047ABF",
+    "Copy Paste Cheat": "player.additem 00047ABF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel War Axe",
+    "Weapon ID": "000229BD",
+    "Copy Paste Cheat": "player.additem 000229BD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Steel Warhammer",
+    "Weapon ID": "000229BE",
+    "Copy Paste Cheat": "player.additem 000229BE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Storm Bow",
+    "Weapon ID": "0003CD08",
+    "Copy Paste Cheat": "player.additem 0003CD08 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sufferthorn",
+    "Weapon ID": "000347EB",
+    "Copy Paste Cheat": "player.additem 000347EB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sufferthorn",
+    "Weapon ID": "000347F1",
+    "Copy Paste Cheat": "player.additem 000347F1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of Submission",
+    "Weapon ID": "0003BF63",
+    "Copy Paste Cheat": "player.additem 0003BF63 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of Wounding",
+    "Weapon ID": "0003CD02",
+    "Copy Paste Cheat": "player.additem 0003CD02 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Tempest",
+    "Weapon ID": "0003CCFE",
+    "Copy Paste Cheat": "player.additem 0003CCFE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Thieve’s Dagger",
+    "Weapon ID": "0003E45C",
+    "Copy Paste Cheat": "player.additem 0003E45C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Thornblade",
+    "Weapon ID": "0006B661",
+    "Copy Paste Cheat": "player.additem 0006B661 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Truncheon of Submission",
+    "Weapon ID": "000CA157",
+    "Copy Paste Cheat": "player.additem 000CA157 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umbra",
+    "Weapon ID": "00026B22",
+    "Copy Paste Cheat": "player.additem 00026B22 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Unfinished Staff",
+    "Weapon ID": "000355A6",
+    "Copy Paste Cheat": "player.additem 000355A6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Volendrung",
+    "Weapon ID": "00027108",
+    "Copy Paste Cheat": "player.additem 00027108 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Voltag",
+    "Weapon ID": "0003BF62",
+    "Copy Paste Cheat": "player.additem 0003BF62 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Wabbajack",
+    "Weapon ID": "000228F0",
+    "Copy Paste Cheat": "player.additem 000228F0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Absorption",
+    "Weapon ID": "00038420",
+    "Copy Paste Cheat": "player.additem 00038420 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Beguilement",
+    "Weapon ID": "0004F036",
+    "Copy Paste Cheat": "player.additem 0004F036 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Blizzards",
+    "Weapon ID": "000230AD",
+    "Copy Paste Cheat": "player.additem 000230AD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Burning",
+    "Weapon ID": "0003DAF8",
+    "Copy Paste Cheat": "player.additem 0003DAF8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Cold",
+    "Weapon ID": "000225B4",
+    "Copy Paste Cheat": "player.additem 000225B4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Damnation",
+    "Weapon ID": "000353C5",
+    "Copy Paste Cheat": "player.additem 000353C5 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Decay",
+    "Weapon ID": "0003B408",
+    "Copy Paste Cheat": "player.additem 0003B408 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Deception",
+    "Weapon ID": "0003539B",
+    "Copy Paste Cheat": "player.additem 0003539B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Depletion",
+    "Weapon ID": "000387AF",
+    "Copy Paste Cheat": "player.additem 000387AF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Diminishing",
+    "Weapon ID": "0003D7D8",
+    "Copy Paste Cheat": "player.additem 0003D7D8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Dispel",
+    "Weapon ID": "0003D7D1",
+    "Copy Paste Cheat": "player.additem 0003D7D1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Dissolution",
+    "Weapon ID": "0003B409",
+    "Copy Paste Cheat": "player.additem 0003B409 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Embers",
+    "Weapon ID": "0003DAEF",
+    "Copy Paste Cheat": "player.additem 0003DAEF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Enfeeblement",
+    "Weapon ID": "000389EB",
+    "Copy Paste Cheat": "player.additem 000389EB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Feeding",
+    "Weapon ID": "0003B401",
+    "Copy Paste Cheat": "player.additem 0003B401 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Fire",
+    "Weapon ID": "0003DB13",
+    "Copy Paste Cheat": "player.additem 0003DB13 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Flames",
+    "Weapon ID": "0003DB0A",
+    "Copy Paste Cheat": "player.additem 0003DB0A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Fracturing",
+    "Weapon ID": "0003B40B",
+    "Copy Paste Cheat": "player.additem 0003B40B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Freezing",
+    "Weapon ID": "00022647",
+    "Copy Paste Cheat": "player.additem 00022647 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Frost",
+    "Weapon ID": "0003DB78",
+    "Copy Paste Cheat": "player.additem 0003DB78 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Jinxing",
+    "Weapon ID": "0003AB72",
+    "Copy Paste Cheat": "player.additem 0003AB72 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Jolts",
+    "Weapon ID": "0002B58B",
+    "Copy Paste Cheat": "player.additem 0002B58B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Lightning",
+    "Weapon ID": "0002C283",
+    "Copy Paste Cheat": "player.additem 0002C283 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Numbing",
+    "Weapon ID": "0003DB81",
+    "Copy Paste Cheat": "player.additem 0003DB81 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Putrification",
+    "Weapon ID": "0003B40D",
+    "Copy Paste Cheat": "player.additem 0003B40D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Rending",
+    "Weapon ID": "0003B40F",
+    "Copy Paste Cheat": "player.additem 0003B40F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Sapping",
+    "Weapon ID": "0004F038",
+    "Copy Paste Cheat": "player.additem 0004F038 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Scorching",
+    "Weapon ID": "0003DB01",
+    "Copy Paste Cheat": "player.additem 0003DB01 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Seduction",
+    "Weapon ID": "00035396",
+    "Copy Paste Cheat": "player.additem 00035396 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Shocking",
+    "Weapon ID": "0002BD0F",
+    "Copy Paste Cheat": "player.additem 0002BD0F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Siphoning",
+    "Weapon ID": "0003B400",
+    "Copy Paste Cheat": "player.additem 0003B400 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Soul Snares",
+    "Weapon ID": "000353CB",
+    "Copy Paste Cheat": "player.additem 000353CB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Soul Traps",
+    "Weapon ID": "00035398",
+    "Copy Paste Cheat": "player.additem 00035398 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Souls",
+    "Weapon ID": "0003537A",
+    "Copy Paste Cheat": "player.additem 0003537A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Sparks",
+    "Weapon ID": "0002B571",
+    "Copy Paste Cheat": "player.additem 0002B571 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Storms",
+    "Weapon ID": "0002C296",
+    "Copy Paste Cheat": "player.additem 0002C296 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of the Blaze",
+    "Weapon ID": "0003DB1C",
+    "Copy Paste Cheat": "player.additem 0003DB1C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of the Dynamo",
+    "Weapon ID": "0002C020",
+    "Copy Paste Cheat": "player.additem 0002C020 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of the Glacier",
+    "Weapon ID": "00023003",
+    "Copy Paste Cheat": "player.additem 00023003 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of the Inferno",
+    "Weapon ID": "0003DB25",
+    "Copy Paste Cheat": "player.additem 0003DB25 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Transmogrify",
+    "Weapon ID": "0003B405",
+    "Copy Paste Cheat": "player.additem 0003B405 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Voltage",
+    "Weapon ID": "0002BFF8",
+    "Copy Paste Cheat": "player.additem 0002BFF8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Weakness",
+    "Weapon ID": "0003AB44",
+    "Copy Paste Cheat": "player.additem 0003AB44 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "War Axe of Winter",
+    "Weapon ID": "000230E3",
+    "Copy Paste Cheat": "player.additem 000230E3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Abeyance",
+    "Weapon ID": "00035A24",
+    "Copy Paste Cheat": "player.additem 00035A24 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Absorption",
+    "Weapon ID": "0003841B",
+    "Copy Paste Cheat": "player.additem 0003841B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Aversion",
+    "Weapon ID": "000353D2",
+    "Copy Paste Cheat": "player.additem 000353D2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Blizzards",
+    "Weapon ID": "000230D3",
+    "Copy Paste Cheat": "player.additem 000230D3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Burning",
+    "Weapon ID": "0003DAF9",
+    "Copy Paste Cheat": "player.additem 0003DAF9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Cold",
+    "Weapon ID": "000225D8",
+    "Copy Paste Cheat": "player.additem 000225D8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Deadweight",
+    "Weapon ID": "000387BD",
+    "Copy Paste Cheat": "player.additem 000387BD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Decay",
+    "Weapon ID": "0003AF06",
+    "Copy Paste Cheat": "player.additem 0003AF06 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Depletion",
+    "Weapon ID": "000387B0",
+    "Copy Paste Cheat": "player.additem 000387B0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Diminishing",
+    "Weapon ID": "0003D7D9",
+    "Copy Paste Cheat": "player.additem 0003D7D9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Dispel",
+    "Weapon ID": "0003D7D2",
+    "Copy Paste Cheat": "player.additem 0003D7D2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Dissolution",
+    "Weapon ID": "0003AF09",
+    "Copy Paste Cheat": "player.additem 0003AF09 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Embers",
+    "Weapon ID": "0003DAF0",
+    "Copy Paste Cheat": "player.additem 0003DAF0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Encumbrance",
+    "Weapon ID": "000387B9",
+    "Copy Paste Cheat": "player.additem 000387B9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Enfeeblement",
+    "Weapon ID": "000389EA",
+    "Copy Paste Cheat": "player.additem 000389EA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Excess",
+    "Weapon ID": "000387BB",
+    "Copy Paste Cheat": "player.additem 000387BB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Feeding",
+    "Weapon ID": "000387A9",
+    "Copy Paste Cheat": "player.additem 000387A9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Fire",
+    "Weapon ID": "0003DB14",
+    "Copy Paste Cheat": "player.additem 0003DB14 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Flames",
+    "Weapon ID": "0003DB0B",
+    "Copy Paste Cheat": "player.additem 0003DB0B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Fracturing",
+    "Weapon ID": "0003AF0B",
+    "Copy Paste Cheat": "player.additem 0003AF0B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Freezing",
+    "Weapon ID": "00022650",
+    "Copy Paste Cheat": "player.additem 00022650 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Frost",
+    "Weapon ID": "0003DB79",
+    "Copy Paste Cheat": "player.additem 0003DB79 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Holy Light",
+    "Weapon ID": "00035AAE",
+    "Copy Paste Cheat": "player.additem 00035AAE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Jinxing",
+    "Weapon ID": "0003AB6D",
+    "Copy Paste Cheat": "player.additem 0003AB6D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Jolts",
+    "Weapon ID": "0002B58C",
+    "Copy Paste Cheat": "player.additem 0002B58C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Lightning",
+    "Weapon ID": "0002C284",
+    "Copy Paste Cheat": "player.additem 0002C284 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Numbing",
+    "Weapon ID": "0003DB82",
+    "Copy Paste Cheat": "player.additem 0003DB82 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Overload",
+    "Weapon ID": "000387B8",
+    "Copy Paste Cheat": "player.additem 000387B8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Putrification",
+    "Weapon ID": "0003AF0C",
+    "Copy Paste Cheat": "player.additem 0003AF0C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Rending",
+    "Weapon ID": "0003AF0F",
+    "Copy Paste Cheat": "player.additem 0003AF0F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Sapping",
+    "Weapon ID": "0004F03A",
+    "Copy Paste Cheat": "player.additem 0004F03A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Scorching",
+    "Weapon ID": "0003DB02",
+    "Copy Paste Cheat": "player.additem 0003DB02 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Shocking",
+    "Weapon ID": "0002BD6B",
+    "Copy Paste Cheat": "player.additem 0002BD6B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Siphoning",
+    "Weapon ID": "000387A6",
+    "Copy Paste Cheat": "player.additem 000387A6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Sparks",
+    "Weapon ID": "0002B572",
+    "Copy Paste Cheat": "player.additem 0002B572 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Storms",
+    "Weapon ID": "0002C298",
+    "Copy Paste Cheat": "player.additem 0002C298 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Strain",
+    "Weapon ID": "000387B3",
+    "Copy Paste Cheat": "player.additem 000387B3 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of the Blaze",
+    "Weapon ID": "0003DB1D",
+    "Copy Paste Cheat": "player.additem 0003DB1D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of the Dynamo",
+    "Weapon ID": "0002C025",
+    "Copy Paste Cheat": "player.additem 0002C025 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of the Glacier",
+    "Weapon ID": "00023087",
+    "Copy Paste Cheat": "player.additem 00023087 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of the Grave",
+    "Weapon ID": "000353CE",
+    "Copy Paste Cheat": "player.additem 000353CE 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of the Inferno",
+    "Weapon ID": "0003DB26",
+    "Copy Paste Cheat": "player.additem 0003DB26 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of the Undead",
+    "Weapon ID": "00035AB6",
+    "Copy Paste Cheat": "player.additem 00035AB6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Transmogrify",
+    "Weapon ID": "0003B406",
+    "Copy Paste Cheat": "player.additem 0003B406 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Turning",
+    "Weapon ID": "00035644",
+    "Copy Paste Cheat": "player.additem 00035644 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Voltage",
+    "Weapon ID": "0002BFF9",
+    "Copy Paste Cheat": "player.additem 0002BFF9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Warding",
+    "Weapon ID": "000353CF",
+    "Copy Paste Cheat": "player.additem 000353CF 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Weakness",
+    "Weapon ID": "0003AB3E",
+    "Copy Paste Cheat": "player.additem 0003AB3E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Weight",
+    "Weapon ID": "000387B2",
+    "Copy Paste Cheat": "player.additem 000387B2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Warhammer of Winter",
+    "Weapon ID": "000230E4",
+    "Copy Paste Cheat": "player.additem 000230E4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Weight of Guilt",
+    "Weapon ID": "0001494D",
+    "Copy Paste Cheat": "player.additem 0001494D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Witsplinter",
+    "Weapon ID": "0006B1C4",
+    "Copy Paste Cheat": "player.additem 0006B1C4 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Crusader (Tier 1)",
+    "Weapon ID": "0A000F32",
+    "Copy Paste Cheat": "player.additem 0A000F32 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Crusader (Tier 2)",
+    "Weapon ID": "0A000F33",
+    "Copy Paste Cheat": "player.additem 0A000F33 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Crusader (Tier 3)",
+    "Weapon ID": "0A000F42",
+    "Copy Paste Cheat": "player.additem 0A000F42 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Crusader (Tier 4)",
+    "Weapon ID": "0A000F41",
+    "Copy Paste Cheat": "player.additem 0A000F41 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Crusader (Tier 5)",
+    "Weapon ID": "0A000F40",
+    "Copy Paste Cheat": "player.additem 0A000F40 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Crusader (Tier 6)",
+    "Weapon ID": "0A000F48",
+    "Copy Paste Cheat": "player.additem 0A000F48 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mace of the Crusader (Tier 7)",
+    "Weapon ID": "0A000F4B",
+    "Copy Paste Cheat": "player.additem 0A000F4B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of the Crusader (Tier 1)",
+    "Weapon ID": "0A000F30",
+    "Copy Paste Cheat": "player.additem 0A000F30 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of the Crusader (Tier 2)",
+    "Weapon ID": "0A000F31",
+    "Copy Paste Cheat": "player.additem 0A000F31 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of the Crusader (Tier 3)",
+    "Weapon ID": "0A000F43",
+    "Copy Paste Cheat": "player.additem 0A000F43 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of the Crusader (Tier 4)",
+    "Weapon ID": "0A000F3F",
+    "Copy Paste Cheat": "player.additem 0A000F3F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of the Crusader (Tier 5)",
+    "Weapon ID": "0A000F3E",
+    "Copy Paste Cheat": "player.additem 0A000F3E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of the Crusader (Tier 6)",
+    "Weapon ID": "0A000F3D",
+    "Copy Paste Cheat": "player.additem 0A000F3D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of the Crusader (Tier 7)",
+    "Weapon ID": "0A000F4A",
+    "Copy Paste Cheat": "player.additem 0A000F4A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sword of the Crusader (Pelinal)",
+    "Weapon ID": "0A000F2F",
+    "Copy Paste Cheat": "player.additem 0A000F2F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Battle Axes (Tier 1)",
+    "Weapon ID": "0A000F2D",
+    "Copy Paste Cheat": "player.additem 0A000F2D 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Battle Axes (Tier 2)",
+    "Weapon ID": "0A000F2C",
+    "Copy Paste Cheat": "player.additem 0A000F2C 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Battle Axes (Tier 3)",
+    "Weapon ID": "0A000F2B",
+    "Copy Paste Cheat": "player.additem 0A000F2B 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Battle Axes (Tier 4)",
+    "Weapon ID": "0A000F2E",
+    "Copy Paste Cheat": "player.additem 0A000F2E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Battle Axes (Tier 5)",
+    "Weapon ID": "0A000F2A",
+    "Copy Paste Cheat": "player.additem 0A000F2A 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Battle Axes (Tier 6)",
+    "Weapon ID": "0A000F29",
+    "Copy Paste Cheat": "player.additem 0A000F29 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Ayleid Battle Axes (Tier 7)",
+    "Weapon ID": "0A000F28",
+    "Copy Paste Cheat": "player.additem 0A000F28 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umaril’s Sword (Tier 1)",
+    "Weapon ID": "0A000F27",
+    "Copy Paste Cheat": "player.additem 0A000F27 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umaril’s Sword (Tier 2)",
+    "Weapon ID": "0A000F26",
+    "Copy Paste Cheat": "player.additem 0A000F26 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umaril’s Sword (Tier 3)",
+    "Weapon ID": "0A000F25",
+    "Copy Paste Cheat": "player.additem 0A000F25 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umaril’s Sword (Tier 4)",
+    "Weapon ID": "0A000F24",
+    "Copy Paste Cheat": "player.additem 0A000F24 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umaril’s Sword (Tier 5)",
+    "Weapon ID": "0A000F20",
+    "Copy Paste Cheat": "player.additem 0A000F20 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umaril’s Sword (Tier 6)",
+    "Weapon ID": "0A000F21",
+    "Copy Paste Cheat": "player.additem 0A000F21 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umaril’s Sword (Tier 7)",
+    "Weapon ID": "0A000F22",
+    "Copy Paste Cheat": "player.additem 0A000F22 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Umaril’s Sword (Tier 8)",
+    "Weapon ID": "0A000F23",
+    "Copy Paste Cheat": "player.additem 0A000F23 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dragonsword of Lainlyn (Tier 1)",
+    "Weapon ID": "01012e13",
+    "Copy Paste Cheat": "player.additem 01012e13 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dragonsword of Lainlyn (Tier 2)",
+    "Weapon ID": "010147ec",
+    "Copy Paste Cheat": "player.additem 010147ec 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dragonsword of Lainlyn (Tier 3)",
+    "Weapon ID": "010147ee",
+    "Copy Paste Cheat": "player.additem 010147ee 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dragonsword of Lainlyn (Tier 4)",
+    "Weapon ID": "010147ef",
+    "Copy Paste Cheat": "player.additem 010147ef 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dragonsword of Lainlyn (Tier 5)",
+    "Weapon ID": "010147f0",
+    "Copy Paste Cheat": "player.additem 010147f0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Dragonsword of Lainlyn (Tier 6)",
+    "Weapon ID": "010147f1",
+    "Copy Paste Cheat": "player.additem 010147f1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sparring Dagger",
+    "Weapon ID": "0100BB20",
+    "Copy Paste Cheat": "player.additem 0100BB20 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sparring War Axe",
+    "Weapon ID": "0100BB1F",
+    "Copy Paste Cheat": "player.additem 0100BB1F 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Sparring Warhammer",
+    "Weapon ID": "0100BB1E",
+    "Copy Paste Cheat": "player.additem 0100BB1E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Crimson Eviscerator (Tier 1)",
+    "Weapon ID": "090060B6",
+    "Copy Paste Cheat": "player.additem 090060B6 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Crimson Eviscerator (Tier 2)",
+    "Weapon ID": "090060B9",
+    "Copy Paste Cheat": "player.additem 090060B9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Crimson Eviscerator (Tier 3)",
+    "Weapon ID": "090060BA",
+    "Copy Paste Cheat": "player.additem 090060BA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Crimson Eviscerator (Tier 4)",
+    "Weapon ID": "090060BB",
+    "Copy Paste Cheat": "player.additem 090060BB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Crimson Eviscerator (Tier 5)",
+    "Weapon ID": "090060BC",
+    "Copy Paste Cheat": "player.additem 090060BC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Crimson Eviscerator (Tier 6)",
+    "Weapon ID": "090060BD",
+    "Copy Paste Cheat": "player.additem 090060BD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Crimson Eviscerator (Tier 7)",
+    "Weapon ID": "0900B97E",
+    "Copy Paste Cheat": "player.additem 0900B97E 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Fine Steel Cutlass",
+    "Weapon ID": "000055AB",
+    "Copy Paste Cheat": "player.additem 000055AB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Superb Steel Cutlass",
+    "Weapon ID": "08011AE2",
+    "Copy Paste Cheat": "player.additem 08011AE2 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Masterforge Steel Cutlass",
+    "Weapon ID": "08011AE1",
+    "Copy Paste Cheat": "player.additem 08011AE1 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mehrunes Razor (Tier 1)",
+    "Weapon ID": "04001AB0",
+    "Copy Paste Cheat": "player.additem 04001AB0 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mehrunes Razor (Tier 2)",
+    "Weapon ID": "04005FB8",
+    "Copy Paste Cheat": "player.additem 04005FB8 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mehrunes Razor (Tier 3)",
+    "Weapon ID": "04005FB9",
+    "Copy Paste Cheat": "player.additem 04005FB9 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mehrunes Razor (Tier 4)",
+    "Weapon ID": "04005FBA",
+    "Copy Paste Cheat": "player.additem 04005FBA 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mehrunes Razor (Tier 5)",
+    "Weapon ID": "04005FBB",
+    "Copy Paste Cheat": "player.additem 04005FBB 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mehrunes Razor (Tier 6)",
+    "Weapon ID": "04005FBC",
+    "Copy Paste Cheat": "player.additem 04005FBC 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mehrunes Razor (Tier 7)",
+    "Weapon ID": "04005FBD",
+    "Copy Paste Cheat": "player.additem 04005FBD 1",
+    "Section": "All Weapons IDs"
+  },
+  {
+    "Name": "Mehrunes Razor (Tier 8)",
+    "Weapon ID": "04005FBE",
+    "Copy Paste Cheat": "player.additem 04005FBE 1",
+    "Section": "All Weapons IDs"
+  }
+]

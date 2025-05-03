@@ -1,0 +1,2823 @@
+[
+  {
+    "Name": "Heal Minor Wounds",
+    "Spell ID": "00000136",
+    "Effect": "Restore Health 8 pts on Self",
+    "Copy Paste Cheat": "player.addspell 00000136",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Stark Reality",
+    "Spell ID": "0001C12C",
+    "Effect": "Stark Reality (Remove All Inventory Items) in 300 ft on TargetDrain Health 1 pt for 60 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0001C12C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Captivate",
+    "Spell ID": "0001C4AD",
+    "Effect": "Charm 10 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 0001C4AD",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Latch Crack",
+    "Spell ID": "0001CEED",
+    "Effect": "Open (Easy Lock) 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0001CEED",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Buoyancy",
+    "Spell ID": "0001FBB4",
+    "Effect": "Feather 5 pts for 30 secs on SelfWater Breathing for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0001FBB4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Hush",
+    "Spell ID": "00027441",
+    "Effect": "Silence for 10 secs on Target",
+    "Copy Paste Cheat": "player.addspell 00027441",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heal Minor Wounds",
+    "Spell ID": "00027442",
+    "Effect": "Restore Health 10 pts on Self",
+    "Copy Paste Cheat": "player.addspell 00027442",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Respite",
+    "Spell ID": "00027443",
+    "Effect": "Restore Fatigue 15 pts on Self",
+    "Copy Paste Cheat": "player.addspell 00027443",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Hail Storm",
+    "Spell ID": "0003C3D6",
+    "Effect": "Frost Damage 30 pts in 10 ft on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3D6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Ice Storm",
+    "Spell ID": "0003C3D7",
+    "Effect": "Frost Damage 50 pts in 15 ft on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3D7",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Shocking Burst",
+    "Spell ID": "0003C3D9",
+    "Effect": "Shock Damage 15 pts in 10 ft for 2 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3D9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Ball",
+    "Spell ID": "0003C3DA",
+    "Effect": "Shock Damage 20 pts in 15 ft for 2 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3DA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Sever Magicka",
+    "Spell ID": "0003C3DC",
+    "Effect": "Damage Magicka 30 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3DC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Enervation",
+    "Spell ID": "0003C3EF",
+    "Effect": "Drain Fatigue 15 pts for 15 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3EF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Major Enervation",
+    "Spell ID": "0003C3F0",
+    "Effect": "Drain Fatigue 30 pts for 15 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3F0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Dire Enervation",
+    "Spell ID": "0003C3F1",
+    "Effect": "Drain Fatigue 60 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3F1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Magicka Drain",
+    "Spell ID": "0003C3F2",
+    "Effect": "Drain Magicka 50 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 0003C3F2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Magicka Drain",
+    "Spell ID": "0003C3F3",
+    "Effect": "Drain Magicka 100 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 0003C3F3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Dispel Other",
+    "Spell ID": "0003C3F5",
+    "Effect": "Dispel 30 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3F5",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Command Humanoid",
+    "Spell ID": "0003C3F8",
+    "Effect": "Affects humanoids up to level 2: Command Humanoid 8 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3F8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Dominate Humanoid",
+    "Spell ID": "0003C3F9",
+    "Effect": "Affects humanoids up to level 9: Command Humanoid 36 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C3F9 1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Cure Disease",
+    "Spell ID": "0003C3FA",
+    "Effect": "Cure Disease on Self",
+    "Copy Paste Cheat": "player.addspell 0003C3FA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Cure Paralysis",
+    "Spell ID": "0003C3FB",
+    "Effect": "Cure Paralysis on Touch",
+    "Copy Paste Cheat": "player.addspell 0003C3FB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Cure Poison",
+    "Spell ID": "0003C3FC",
+    "Effect": "Cure Poison on Self",
+    "Copy Paste Cheat": "player.addspell 0003C3FC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Fatigue",
+    "Spell ID": "0003C405",
+    "Effect": "Fortify Fatigue 25 pts for 45 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C405",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Fatigue",
+    "Spell ID": "0003C406",
+    "Effect": "Fortify Fatigue 50 pts for 45 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C406",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Magicka",
+    "Spell ID": "0003C407",
+    "Effect": "Fortify Magicka 30 pts for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C407",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Magicka",
+    "Spell ID": "0003C409",
+    "Effect": "Fortify Magicka 60 pts for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C409",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Weakness to Fire",
+    "Spell ID": "0003C40D",
+    "Effect": "Weakness to Fire 25% for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C40D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Weakness to Frost",
+    "Spell ID": "0003C40E",
+    "Effect": "Weakness to Frost 25% for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C40E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Weakness to Magicka",
+    "Spell ID": "0003C40F",
+    "Effect": "Weakness to Magic 25% for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C40F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Weakness to Poison",
+    "Spell ID": "0003C411",
+    "Effect": "Weakness to Poison 25% for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C411",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Weakness to Shock",
+    "Spell ID": "0003C412",
+    "Effect": "Weakness to Shock 25% for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0003C412",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Dremora Lord",
+    "Spell ID": "0003C413",
+    "Effect": "Summon Dremora Lord for 35 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C413",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Headless Zombie",
+    "Spell ID": "0003C414",
+    "Effect": "Summon Headless Zombie for 25 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C414",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Skeleton Guardian",
+    "Spell ID": "0003C415",
+    "Effect": "Summon Skeleton Guardian for 40 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C415",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Skeleton Hero",
+    "Spell ID": "0003C416",
+    "Effect": "Summon Skeleton Hero for 50 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C416",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Skeleton Champion",
+    "Spell ID": "0003C417",
+    "Effect": "Summon Skeleton Champion for 25 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C417",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Spider Daedra",
+    "Spell ID": "0003C418",
+    "Effect": "Summon Spider Daedra for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C418",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Gloom Wraith",
+    "Spell ID": "0003C419",
+    "Effect": "Summon Gloom Wraith for 25 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0003C419",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Reanimate",
+    "Spell ID": "0004A98B",
+    "Effect": "Reanimate for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0004A98B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Magicka Drain",
+    "Spell ID": "0004C90F",
+    "Effect": "Drain Magicka 30 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 0004C90F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Wound",
+    "Spell ID": "0004C912",
+    "Effect": "Drain Health 5 pts for 10 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0004C912",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Major Wound",
+    "Spell ID": "0004C913",
+    "Effect": "Drain Health 15 pts for 10 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0004C913",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Dire Wound",
+    "Spell ID": "0004C914",
+    "Effect": "Drain Health 30 pts for 10 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0004C914",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Wound",
+    "Spell ID": "0004C915",
+    "Effect": "Drain Health 50 pts for 10 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0004C915",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Burning Touch",
+    "Spell ID": "0004C91E",
+    "Effect": "Fire Damage 10 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 0004C91E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Chameleon",
+    "Spell ID": "0005DCC0",
+    "Effect": "Chameleon 10% for 12 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0005DCC0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Invisibility",
+    "Spell ID": "0005DCC1",
+    "Effect": "Invisibility for 6 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0005DCC1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Respite",
+    "Spell ID": "0005E155",
+    "Effect": "Restore Fatigue 20 pts on Self",
+    "Copy Paste Cheat": "player.addspell 0005E155",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Shroudwalk",
+    "Spell ID": "0006D678",
+    "Effect": "Chameleon 15% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0006D678",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Will of Sithis",
+    "Spell ID": "0006D679",
+    "Effect": "Affects humanoids up to level 6: Command Humanoid 25 pts for 25 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0006D679",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Night Mother’s Caress",
+    "Spell ID": "0006D67A",
+    "Effect": "Restore Health 10 pts for 2 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0006D67A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Void Gazer",
+    "Spell ID": "0006D67B",
+    "Effect": "Night-Eye for 150 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0006D67B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Black Winter",
+    "Spell ID": "0006D67D",
+    "Effect": "Paralyze for 2 secs on TargetFrost Damage 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0006D67D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "The Unwelcome Guest",
+    "Spell ID": "0006D67E",
+    "Effect": "Open (Easy Lock) 12 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 0006D67E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Detect Pulse",
+    "Spell ID": "0006D67F",
+    "Effect": "Detect Life in 30 ft for 65 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0006D67F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bloodhunt",
+    "Spell ID": "0006D680",
+    "Effect": "Detect Life in 50 ft for 150 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0006D680",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Deathly Visage",
+    "Spell ID": "0006D681",
+    "Effect": "Invisibility for 35 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0006D681",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Convalescence",
+    "Spell ID": "0006D7AF",
+    "Effect": "Restore Health 15 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0006D7AF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Frost Shield",
+    "Spell ID": "0006EF34",
+    "Effect": "Frost Shield 15% for 45 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0006EF34",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Weight of the World",
+    "Spell ID": "0007108A",
+    "Effect": "Burden 60 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0007108A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Protect Other",
+    "Spell ID": "00071090",
+    "Effect": "Shield 10% for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 00071090",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heal Legendary Wounds",
+    "Spell ID": "00083714",
+    "Effect": "Restore Health 30 pts for 6 secs on Self",
+    "Copy Paste Cheat": "player.addspell 00083714",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Dispel",
+    "Spell ID": "0008D1E9",
+    "Effect": "Dispel 25 pts on Self",
+    "Copy Paste Cheat": "player.addspell 0008D1E9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Magic Resistance",
+    "Spell ID": "0008D1EA",
+    "Effect": "Resist Magic 15% for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0008D1EA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Illuminate",
+    "Spell ID": "000A319D",
+    "Effect": "Light in 10 ft for 90 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A319D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Health",
+    "Spell ID": "000A9367",
+    "Effect": "Absorb Health 5 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9367",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Leech Health",
+    "Spell ID": "000A9368",
+    "Effect": "Absorb Health 10 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9368",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Consume Health",
+    "Spell ID": "000A9369",
+    "Effect": "Absorb Health 20 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9369",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Devour Health",
+    "Spell ID": "000A936A",
+    "Effect": "Absorb Health 40 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A936A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Fatigue",
+    "Spell ID": "000A936B",
+    "Effect": "Absorb Fatigue 10 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A936B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Magicka",
+    "Spell ID": "000A936C",
+    "Effect": "Absorb Magicka 10 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A936C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Attribute: Agility",
+    "Spell ID": "000A936D",
+    "Effect": "Absorb Agility 5 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A936D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Attribute: Endurance",
+    "Spell ID": "000A936E",
+    "Effect": "Absorb Endurance 5 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A936E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Attribute: Intelligence",
+    "Spell ID": "000A9788",
+    "Effect": "Absorb Intelligence 5 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9788",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Attribute: Luck",
+    "Spell ID": "000A9789",
+    "Effect": "Absorb Luck 5 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9789",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Attribute: Speed",
+    "Spell ID": "000A978B",
+    "Effect": "Absorb Speed 5 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A978B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Attribute: Strength",
+    "Spell ID": "000A978C",
+    "Effect": "Absorb Strength 5 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A978C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Attribute: Willpower",
+    "Spell ID": "000A978D",
+    "Effect": "Absorb Willpower 5 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A978D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Acrobatics",
+    "Spell ID": "000A978E",
+    "Effect": "Absorb Acrobatics 5 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A978E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Alteration",
+    "Spell ID": "000A9790",
+    "Effect": "Absorb Alteration 15 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9790",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Athletics",
+    "Spell ID": "000A9792",
+    "Effect": "Absorb Athletics 5 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9792",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Blade",
+    "Spell ID": "000A9793",
+    "Effect": "Absorb Blade 25 pts for 15 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9793",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Block",
+    "Spell ID": "000A9794",
+    "Effect": "Absorb Block 15 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9794",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Blunt",
+    "Spell ID": "000A9795",
+    "Effect": "Absorb Blunt 25 pts for 15 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9795",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Conjuration",
+    "Spell ID": "000A9796",
+    "Effect": "Absorb Conjuration 15 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9796",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Destruction",
+    "Spell ID": "000A9797",
+    "Effect": "Absorb Destruction 25 pts for 15 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9797",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Hand to Hand",
+    "Spell ID": "000A9798",
+    "Effect": "Absorb Hand to Hand 10 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9798",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Heavy Armor",
+    "Spell ID": "000A9799",
+    "Effect": "Absorb Heavy Armor 15 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9799",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Illusion",
+    "Spell ID": "000A979A",
+    "Effect": "Absorb Illusion 5 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A979A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Light Armor",
+    "Spell ID": "000A979B",
+    "Effect": "Absorb Light Armor 10 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A979B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Marksman",
+    "Spell ID": "000A979C",
+    "Effect": "Absorb Marksman 15 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A979C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Mercantile",
+    "Spell ID": "000A979D",
+    "Effect": "Absorb Mercantile 10 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A979D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Mysticism",
+    "Spell ID": "000A979E",
+    "Effect": "Absorb Mysticism 10 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A979E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Restoration",
+    "Spell ID": "000A979F",
+    "Effect": "Absorb Restoration 10 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A979F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Security",
+    "Spell ID": "000A97A0",
+    "Effect": "Absorb Security 5 pts for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97A0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Skill: Sneak",
+    "Spell ID": "000A97A1",
+    "Effect": "Absorb Sneak 25 pts for 15 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97A1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Corrode Armor",
+    "Spell ID": "000A97A3",
+    "Effect": "Disintegrate Armor 30 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97A3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Disintegrate Armor",
+    "Spell ID": "000A97A4",
+    "Effect": "Disintegrate Armor 100 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97A4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Corrode Weapon",
+    "Spell ID": "000A97A5",
+    "Effect": "Disintegrate Weapon 60 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97A5",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Protect",
+    "Spell ID": "000A97A7",
+    "Effect": "Shield 5% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97A7",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Defend",
+    "Spell ID": "000A97A8",
+    "Effect": "Shield 15% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97A8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Guard",
+    "Spell ID": "000A97A9",
+    "Effect": "Shield 30% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97A9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Shield",
+    "Spell ID": "000A97AA",
+    "Effect": "Shield 40% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97AA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Aegis",
+    "Spell ID": "000A97AB",
+    "Effect": "Shield 50% for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97AB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Alluring Gaze",
+    "Spell ID": "000A97AC",
+    "Effect": "Charm 12 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97AC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Seductive Charm",
+    "Spell ID": "000A97AD",
+    "Effect": "Charm 24 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97AD",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Beguiling Touch",
+    "Spell ID": "000A97AE",
+    "Effect": "Charm 12 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97AE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Mesmerizing Grasp",
+    "Spell ID": "000A97AF",
+    "Effect": "Charm 24 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97AF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Voice of Rapture",
+    "Spell ID": "000A97B0",
+    "Effect": "Charm 36 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97B0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Entropic Bolt",
+    "Spell ID": "000A97B1",
+    "Effect": "Damage Health 10 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97B1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Withering Bolt",
+    "Spell ID": "000A97B2",
+    "Effect": "Damage Health 40 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97B2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound War Axe",
+    "Spell ID": "000A97B3",
+    "Effect": "Bound Axe for 15 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97B3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Boots",
+    "Spell ID": "000A97B4",
+    "Effect": "Bound Boots for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97B4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Bow",
+    "Spell ID": "000A97B5",
+    "Effect": "Bound Bow for 15 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97B5",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Cuirass",
+    "Spell ID": "000A97B6",
+    "Effect": "Bound Cuirass for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97B6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Dagger",
+    "Spell ID": "000A97B7",
+    "Effect": "Bound Dagger for 15 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97B7",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Gauntlets",
+    "Spell ID": "000A97B8",
+    "Effect": "Bound Gauntlets for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97B8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Greaves",
+    "Spell ID": "000A97B9",
+    "Effect": "Bound Greaves for 45 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97B9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Helmet",
+    "Spell ID": "000A97BA",
+    "Effect": "Bound Helmet for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97BA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Mace",
+    "Spell ID": "000A97BB",
+    "Effect": "Bound Mace for 15 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97BB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Shield",
+    "Spell ID": "000A97BC",
+    "Effect": "Bound Shield for 120 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97BC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Bound Sword",
+    "Spell ID": "000A97BD",
+    "Effect": "Bound Sword for 15 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97BD",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Shadow Shape",
+    "Spell ID": "000A97BE",
+    "Effect": "Invisibility for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97BE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Ghostwalk",
+    "Spell ID": "000A97BF",
+    "Effect": "Invisibility for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97BF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Spectral Form",
+    "Spell ID": "000A97C0",
+    "Effect": "Invisibility for 120 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97C0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Burdening Touch",
+    "Spell ID": "000A97C1",
+    "Effect": "Burden 15 pts for 15 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97C1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Hindering Touch",
+    "Spell ID": "000A97C2",
+    "Effect": "Burden 35 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97C2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Encumbering Touch",
+    "Spell ID": "000A97C3",
+    "Effect": "Burden 50 pts for 25 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97C3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Oppressing Grasp",
+    "Spell ID": "000A97C4",
+    "Effect": "Burden 75 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97C4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Serenity",
+    "Spell ID": "000A97C6",
+    "Effect": "Affects humanoids and creatures up to level 2: Calm 10 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97C6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Pacification",
+    "Spell ID": "000A97C7",
+    "Effect": "Affects humanoids and creatures up to level 2: Calm 10 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97C7",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Soothing Touch",
+    "Spell ID": "000A97C9",
+    "Effect": "Affects humanoids and creatures up to level 2: Calm 10 pts for 15 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97C9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Calming Touch",
+    "Spell ID": "000A97CA",
+    "Effect": "Affects humanoids and creatures up to level 7: Calm 30 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97CA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Chameleon",
+    "Spell ID": "000A97CB",
+    "Effect": "Chameleon 25% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97CB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Shadow",
+    "Spell ID": "000A97CC",
+    "Effect": "Chameleon 50% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97CC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Cloak",
+    "Spell ID": "000A97CD",
+    "Effect": "Chameleon 75% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97CD",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Command Creature",
+    "Spell ID": "000A97CE",
+    "Effect": "Affects creatures up to level 2: Command Creature 8 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97CE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Dominate Creature",
+    "Spell ID": "000A97CF",
+    "Effect": "Affects creatures up to level 9: Command Creature 36 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97CF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Commanding Touch",
+    "Spell ID": "000A97D0",
+    "Effect": "Affects creatures up to level 3: Command Creature 12 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97D0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Dominating Touch",
+    "Spell ID": "000A97D1",
+    "Effect": "Affects creatures up to level 6: Command Creature for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97D1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Enthralling Presence",
+    "Spell ID": "000A97D1",
+    "Effect": "Charm 24 pts in 20 ft for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97D1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Entropic Touch",
+    "Spell ID": "000A97D3",
+    "Effect": "Damage Health 5 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97D3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Withering Touch",
+    "Spell ID": "000A97D4",
+    "Effect": "Damage Health 30 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97D4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Voice of Dread",
+    "Spell ID": "000A97D5",
+    "Effect": "Affects living humanoids and creatures up to level 5: Demoralize 20 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97D5",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fearful Gaze",
+    "Spell ID": "000A97D6",
+    "Effect": "Affects living humanoids and creatures up to level 7: Demoralize 30 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97D6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Touch of Fear",
+    "Spell ID": "000A97D7",
+    "Effect": "Affects living humanoids and creatures up to level 3: Demoralize 15 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97D7",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Grasp of Terror",
+    "Spell ID": "000A97D8",
+    "Effect": "Affects living humanoids and creatures up to level 20: Demoralize 80 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97D8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Terrifying Presence",
+    "Spell ID": "000A97D9",
+    "Effect": "Affects living humanoids and creatures up to level 17: Demoralize 70 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A97D9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Life Detection",
+    "Spell ID": "000A97DA",
+    "Effect": "Detect Life in 60 ft for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97DA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Major Life Detection",
+    "Spell ID": "000A97DB",
+    "Effect": "Detect Life in 60 ft for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97DB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Life Detection",
+    "Spell ID": "000A97DC",
+    "Effect": "Detect Life in 60 ft for 10 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97DC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Life Detection",
+    "Spell ID": "000A97DD",
+    "Effect": "Detect Life in 60 ft for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97DD",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Legendary Life Detection",
+    "Spell ID": "000A97DE",
+    "Effect": "Detect Life in 120 ft for 120 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A97DE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Flash Bolt",
+    "Spell ID": "000A97E0",
+    "Effect": "Fire Damage 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97E0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Blazing Spear",
+    "Spell ID": "000A97E1",
+    "Effect": "Fire Damage 35 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97E1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heat Blast",
+    "Spell ID": "000A97E2",
+    "Effect": "Fire Damage 70 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97E2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Flame Touch",
+    "Spell ID": "000A97E4",
+    "Effect": "Fire Damage 25 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97E4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Searing Grasp",
+    "Spell ID": "000A97E5",
+    "Effect": "Fire Damage 45 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97E5",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Scorching Blow",
+    "Spell ID": "000A97E6",
+    "Effect": "Fire Damage 80 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97E6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fire Ball",
+    "Spell ID": "000A97E7",
+    "Effect": "Fire Damage 30 pts in 10 ft on Target",
+    "Copy Paste Cheat": "player.addspell 000A97E7",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fire Storm",
+    "Spell ID": "000A97E8",
+    "Effect": "Fire Damage 50 pts in 15 ft on Target",
+    "Copy Paste Cheat": "player.addspell 000A97E8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Snowball",
+    "Spell ID": "000A97EA",
+    "Effect": "Frost Damage 10 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97EA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Hailstone",
+    "Spell ID": "000A97EB",
+    "Effect": "Frost Damage 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97EB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Frost Bolt",
+    "Spell ID": "000A97EC",
+    "Effect": "Frost Damage 35 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97EC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Ice Bolt",
+    "Spell ID": "000A97ED",
+    "Effect": "Frost Damage 70 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97ED",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Cold Touch",
+    "Spell ID": "000A97EF",
+    "Effect": "Frost Damage 15 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97EF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Frost Touch",
+    "Spell ID": "000A97F0",
+    "Effect": "Frost Damage 25 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97F0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Winter’s Grasp",
+    "Spell ID": "000A97F1",
+    "Effect": "Frost Damage 45 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97F1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Arctic Blow",
+    "Spell ID": "000A97F2",
+    "Effect": "Frost Damage 80 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97F2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Spark",
+    "Spell ID": "000A97F3",
+    "Effect": "Shock Damage 10 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97F3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Shock",
+    "Spell ID": "000A97F4",
+    "Effect": "Shock Damage 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97F4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Surge",
+    "Spell ID": "000A97F6",
+    "Effect": "Shock Damage 80 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97F6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Bolt",
+    "Spell ID": "000A97F8",
+    "Effect": "Shock Damage 35 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97F8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Shocking Touch",
+    "Spell ID": "000A97FA",
+    "Effect": "Shock Damage 10 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97FA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electric Touch",
+    "Spell ID": "000A97FB",
+    "Effect": "Shock Damage 25 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97FB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Grasp",
+    "Spell ID": "000A97FC",
+    "Effect": "Shock Damage 45 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A97FC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Blast",
+    "Spell ID": "000A97FD",
+    "Effect": "Shock Damage 70 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97FD",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Open Very Easy Lock",
+    "Spell ID": "000A97FE",
+    "Effect": "Open (Very Easy Lock) 7 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A97FE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Ease Burden",
+    "Spell ID": "000A9800",
+    "Effect": "Feather 50 pts for 240 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9800",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lighten Load",
+    "Spell ID": "000A9801",
+    "Effect": "Feather 75 pts for 300 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9801",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Pack Mule",
+    "Spell ID": "000A9802",
+    "Effect": "Feather 150 pts for 300 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9802",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Beast of Burden",
+    "Spell ID": "000A9803",
+    "Effect": "Feather 250 pts for 360 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9803",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Easy Lock",
+    "Spell ID": "000A9805",
+    "Effect": "Lock (Easy Lock) 12 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9805",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heat Shell",
+    "Spell ID": "000A9806",
+    "Effect": "Fire Shield 10% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9806",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Flame Shield[A]",
+    "Spell ID": "000A9807",
+    "Effect": "Fire Shield 30% for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9807",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fire Shield",
+    "Spell ID": "000A9808",
+    "Effect": "Fire Shield 30% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9808",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Agility",
+    "Spell ID": "000A9809",
+    "Effect": "Fortify Agility 10 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9809",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Endurance",
+    "Spell ID": "000A980A",
+    "Effect": "Fortify Endurance 10 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A980A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Intelligence",
+    "Spell ID": "000A980B",
+    "Effect": "Fortify Intelligence 10 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A980B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Luck",
+    "Spell ID": "000A980C",
+    "Effect": "Fortify Luck 10 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A980C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Personality",
+    "Spell ID": "000A980D",
+    "Effect": "Fortify Personality 10 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A980D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Speed",
+    "Spell ID": "000A980E",
+    "Effect": "Fortify Speed 10 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A980E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Strength",
+    "Spell ID": "000A980F",
+    "Effect": "Fortify Strength 10 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A980F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Willpower",
+    "Spell ID": "000A9810",
+    "Effect": "Fortify Willpower 10 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9810",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Agility",
+    "Spell ID": "000A9811",
+    "Effect": "Fortify Agility 5 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9811",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Endurance",
+    "Spell ID": "000A9812",
+    "Effect": "Fortify Endurance 5 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9812",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Intelligence",
+    "Spell ID": "000A9813",
+    "Effect": "Fortify Intelligence 5 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9813",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Luck",
+    "Spell ID": "000A9814",
+    "Effect": "Fortify Luck 5 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9814",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Personality",
+    "Spell ID": "000A9815",
+    "Effect": "Fortify Personality 5 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9815",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Speed",
+    "Spell ID": "000A9816",
+    "Effect": "Fortify Speed 5 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9816",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Strength",
+    "Spell ID": "000A9817",
+    "Effect": "Fortify Strength 5 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9817",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Willpower",
+    "Spell ID": "000A9818",
+    "Effect": "Fortify Willpower 5 pts for 90 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9818",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Frenzy",
+    "Spell ID": "000A9819",
+    "Effect": "Affects humanoids up to level 5:Frenzy 20 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A9819",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Rage",
+    "Spell ID": "000A981A",
+    "Effect": "Affects humanoids up to level 10: Frenzy 40 pts for 40 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000A981A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Touch of Frenzy",
+    "Spell ID": "000A981B",
+    "Effect": "Affects humanoids up to level 6: Frenzy 25 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A981B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Touch of Rage",
+    "Spell ID": "000A981C",
+    "Effect": "Affects humanoids up to level 18: Frenzy 75 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A981C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Frost Shell",
+    "Spell ID": "000A981D",
+    "Effect": "Frost Shield 10% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A981D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Ice Shield",
+    "Spell ID": "000A981E",
+    "Effect": "Frost Shield 20% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A981E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Glacial Wall",
+    "Spell ID": "000A981F",
+    "Effect": "Frost Shield 30% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A981F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fortify Health",
+    "Spell ID": "000A9820",
+    "Effect": "Fortify Health 30 pts for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9820",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Fortify Health",
+    "Spell ID": "000A9821",
+    "Effect": "Fortify Health 60 pts for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9821",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heal Major Wounds",
+    "Spell ID": "000A9822",
+    "Effect": "Restore Health 25 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000A9822",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Major Respite",
+    "Spell ID": "000A9823",
+    "Effect": "Restore Fatigue 80 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000A9823",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Open Easy Lock",
+    "Spell ID": "000A9824",
+    "Effect": "Open (Easy Lock) 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A9824",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Starlight",
+    "Spell ID": "000A9825",
+    "Effect": "Light in 20 ft for 60 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9825",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Moonlight",
+    "Spell ID": "000A9826",
+    "Effect": "Light 30 ft for 120 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9826",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Candlelight",
+    "Spell ID": "000A9827",
+    "Effect": "Light in 40 ft for 180 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9827",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Torchlight",
+    "Spell ID": "000A9828",
+    "Effect": "Light in 50 ft for 240 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9828",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Daylight",
+    "Spell ID": "000A9829",
+    "Effect": "Light in 60 ft for 480 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9829",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electric Shell",
+    "Spell ID": "000A982A",
+    "Effect": "Shock Shield 10% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A982A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Shield",
+    "Spell ID": "000A982B",
+    "Effect": "Shock Shield 20% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A982B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Wall",
+    "Spell ID": "000A982C",
+    "Effect": "Shock Shield 30% for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A982C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Average Lock",
+    "Spell ID": "000A982D",
+    "Effect": "Lock (Average Lock) 25 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 000A982D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Eyes of Eventide",
+    "Spell ID": "000A982F",
+    "Effect": "Night-Eye for 15 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A982F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Eyes of Midnight",
+    "Spell ID": "000A9830",
+    "Effect": "Night-Eye for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000A9830",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Major Dispel",
+    "Spell ID": "000A9831",
+    "Effect": "Dispel 30 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000A9831",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Dispel",
+    "Spell ID": "000A9832",
+    "Effect": "Dispel 75 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000A9832",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Dispel",
+    "Spell ID": "000A9833",
+    "Effect": "Dispel 150 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000A9833",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Legendary Dispel",
+    "Spell ID": "000A9834",
+    "Effect": "Dispel 250 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000A9834",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Dispel Other",
+    "Spell ID": "000A9835",
+    "Effect": "Dispel 60 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A9835",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Open Average Lock",
+    "Spell ID": "000A9836",
+    "Effect": "Open (Average Lock) 40 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A9836",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Open Hard Lock",
+    "Spell ID": "000A9837",
+    "Effect": "Open (Hard Lock) 80 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000A9837",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Debilitate",
+    "Spell ID": "000A9838",
+    "Effect": "Paralyze for 3 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9838",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Immobilize",
+    "Spell ID": "000A9839",
+    "Effect": "Paralyze for 7 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A9839",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Paralyze",
+    "Spell ID": "000A983A",
+    "Effect": "Paralyze for 10 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000A983A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Inspiration",
+    "Spell ID": "000AA032",
+    "Effect": "Rally 25 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA032",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Inspiring Touch",
+    "Spell ID": "000AA033",
+    "Effect": "Rally 25 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000AA033",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heroism",
+    "Spell ID": "000AA034",
+    "Effect": "Rally 50 pts for 45 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA034",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heroic Touch",
+    "Spell ID": "000AA035",
+    "Effect": "Rally 50 pts for 60 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000AA035",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Spell Reflection",
+    "Spell ID": "000AA039",
+    "Effect": "Reflect Spell 20 pts for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA039",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heal Greater Wounds",
+    "Spell ID": "000AA03A",
+    "Effect": "Restore Health 20 pts for 2 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA03A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Heal Superior Wounds",
+    "Spell ID": "000AA03B",
+    "Effect": "Restore Health 25 pts for 4 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA03B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Restore Agility",
+    "Spell ID": "000AA03C",
+    "Effect": "Restore Agility 5 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000AA03C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Restore Endurance",
+    "Spell ID": "000AA03F",
+    "Effect": "Restore Endurance 5 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000AA03F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Restore Luck",
+    "Spell ID": "000AA040",
+    "Effect": "Restore Luck 5 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000AA040",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Restore Intelligence",
+    "Spell ID": "000AA042",
+    "Effect": "Restore Intelligence 5 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000AA042",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Restore Personality",
+    "Spell ID": "000AA044",
+    "Effect": "Restore Personality 5 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000AA044",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Restore Strength",
+    "Spell ID": "000AA047",
+    "Effect": "Restore Strength 5 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000AA047",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Restore Speed",
+    "Spell ID": "000AA049",
+    "Effect": "Restore Speed 5 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000AA049",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Restore Willpower",
+    "Spell ID": "000AA04A",
+    "Effect": "Restore Willpower 5 pts on Self",
+    "Copy Paste Cheat": "player.addspell 000AA04A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Mute",
+    "Spell ID": "000AA04C",
+    "Effect": "Silence in 15 ft for 15 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA04C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Silence",
+    "Spell ID": "000AA04D",
+    "Effect": "Silence in 15 ft for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA04D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Soul Trap",
+    "Spell ID": "000AA04F",
+    "Effect": "Soul Trap for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000AA04F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Soul Trap",
+    "Spell ID": "000AA050",
+    "Effect": "Soul Trap for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA050",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Soul Trap",
+    "Spell ID": "000AA051",
+    "Effect": "Soul Trap in 10 ft for 40 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA051",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Legendary Soul Trap",
+    "Spell ID": "000AA052",
+    "Effect": "Soul Trap in 20 ft for 60 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA052",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Legendary Spell Reflection",
+    "Spell ID": "000AA053",
+    "Effect": "Reflect Spell 25 pts for 25 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA053",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Spell Absorption",
+    "Spell ID": "000AA055",
+    "Effect": "Spell Absorption 20 pts for 25 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA055",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Legendary Spell Absorption",
+    "Spell ID": "000AA056",
+    "Effect": "Spell Absorption 25 pts for 25 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA056",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Clannfear",
+    "Spell ID": "000AA057",
+    "Effect": "Summon Clannfear for 45 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA057",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Daedroth",
+    "Spell ID": "000AA058",
+    "Effect": "Summon Daedroth for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA058",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Dremora",
+    "Spell ID": "000AA059",
+    "Effect": "Summon Dremora Caitiff for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA059",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Flame Atronach",
+    "Spell ID": "000AA05A",
+    "Effect": "Summon Flame Atronach for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA05A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Frost Atronach",
+    "Spell ID": "000AA05B",
+    "Effect": "Summon Frost Atronach for 35 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA05B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Ghost",
+    "Spell ID": "000AA05C",
+    "Effect": "Summon Ghost for 25 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA05C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Lich",
+    "Spell ID": "000AA05D",
+    "Effect": "Summon Lich for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA05D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Scamp",
+    "Spell ID": "000AA05E",
+    "Effect": "Summon Scamp for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA05E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Skeleton",
+    "Spell ID": "000AA05F",
+    "Effect": "Summon Skeleton for 40 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA05F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Storm Atronach",
+    "Spell ID": "000AA060",
+    "Effect": "Summon Storm Atronach for 40 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA060",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Xivilai",
+    "Spell ID": "000AA061",
+    "Effect": "Summon Xivilai for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA061",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Faded Wraith",
+    "Spell ID": "000AA062",
+    "Effect": "Summon Faded Wraith for 40 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA062",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Summon Zombie",
+    "Spell ID": "000AA063",
+    "Effect": "Summon Zombie for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA063",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Remote Manipulation",
+    "Spell ID": "000AA064",
+    "Effect": "Telekinesis 10 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA064",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Psychic Motion",
+    "Spell ID": "000AA065",
+    "Effect": "Telekinesis 20 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA065",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Telekinesis",
+    "Spell ID": "000AA066",
+    "Effect": "Telekinesis 30 pts for 45 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA066",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Movement Mastery",
+    "Spell ID": "000AA067",
+    "Effect": "Telekinesis 40 pts for 60 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA067",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Turn Undead",
+    "Spell ID": "000AA068",
+    "Effect": "Affects undead up to level 3:Turn Undead 15 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA068",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Repulse Undead",
+    "Spell ID": "000AA069",
+    "Effect": "Affects undead up to level 7:Turn Undead for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA069",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Rebuke Undead",
+    "Spell ID": "000AA06A",
+    "Effect": "Affects undead up to level 15:Turn Undead 60 pts for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA06A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Dismiss Undead",
+    "Spell ID": "000AA06B",
+    "Effect": "Affects undead up to level 18:Turn Undead 75 pts for 60 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000AA06B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Water Breathing",
+    "Spell ID": "000AA06C",
+    "Effect": "Water Breathing for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA06C 1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Sea Stride",
+    "Spell ID": "000AA071",
+    "Effect": "Water Walking for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000AA071",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Wizard’s Fury",
+    "Spell ID": "000C4818",
+    "Effect": "Level 1 (Novice) Fire Damage 1 pt for 5 secs on TargetFrost Damage 7 pts on TargetShock Damage 7 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000C4818",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Wizard’s Fury",
+    "Spell ID": "000C4819",
+    "Effect": "Level 5 (Apprentice) Fire Damage 2 pt for 5 secs on TargetFrost Damage 10 pts on TargetShock Damage 10 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000C4819",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Wizard’s Fury",
+    "Spell ID": "000C481A",
+    "Effect": "Level 10 (Apprentice) Fire Damage 3 pt for 7 secs on TargetFrost Damage 13 pts on TargetShock Damage 13 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000C481A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Wizard’s Fury",
+    "Spell ID": "000C481B",
+    "Effect": "Level 15 (Journeyman) Fire Damage 5 pt for 10 secs on TargetFrost Damage 16 pts on TargetShock Damage 16 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000C481B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Wizard’s Fury",
+    "Spell ID": "000C481C",
+    "Effect": "Level 20 (Journeyman) Fire Damage 6 pt for 10 secs on TargetFrost Damage 20 pts on TargetShock Damage 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000C481C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Wizard’s Fury",
+    "Spell ID": "000C481D",
+    "Effect": "Level 25 (Expert) Fire Damage 8 pt for 10 secs on TargetFrost Damage 20 pts on TargetShock Damage 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000C481D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Wizard’s Fury",
+    "Spell ID": "000C481E",
+    "Effect": "Level 30 (Expert) Fire Damage 10 pt for 10 secs on TargetFrost Damage 30 pts on TargetShock Damage 30 pts on Target",
+    "Copy Paste Cheat": "player.addspell 000C481E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Finger of the Mountain",
+    "Spell ID": "000C48A2",
+    "Effect": "Level 1 (Novice) Shock Damage 6 pts in 5 ft on Target",
+    "Copy Paste Cheat": "player.addspell 000C48A2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Finger of the Mountain",
+    "Spell ID": "000C48A3",
+    "Effect": "Level 5 (Journeyman) Shock Damage 20 pts in 5 ft on Target",
+    "Copy Paste Cheat": "player.addspell 000C48A3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Finger of the Mountain",
+    "Spell ID": "000C48A4",
+    "Effect": "Level 10 (Expert) Shock Damage 40 pts in 5 ft on Target",
+    "Copy Paste Cheat": "player.addspell 000C48A4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Finger of the Mountain",
+    "Spell ID": "000C48A5",
+    "Effect": "Level 15 (Master) Shock Damage 90 pts in 5 ft on Target",
+    "Copy Paste Cheat": "player.addspell 000C48A5",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Finger of the Mountain",
+    "Spell ID": "000C48A6",
+    "Effect": "Level 20 (Master) Shock Damage 140 pts in 5 ft on Target",
+    "Copy Paste Cheat": "player.addspell 000C48A6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Finger of the Mountain",
+    "Spell ID": "000C48A7",
+    "Effect": "Level 26 (Master) Shock Damage 200 pts in 10 ft on Target",
+    "Copy Paste Cheat": "player.addspell 000C48A7",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Minor Bound Armor",
+    "Spell ID": "000C7625",
+    "Effect": "Bound Cuirass for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000C7625",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Major Bound Armor",
+    "Spell ID": "000C7626",
+    "Effect": "Bound Cuirass for 30 secs on SelfBound Gauntlets for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000C7626",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Bound Armor",
+    "Spell ID": "000C7627",
+    "Effect": "Bound Boots for 30 secs on SelfBound Cuirass for 30 secs on SelfBound Gauntlets for 30 secs on SelfBound Greaves for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000C7627",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Bound Armor",
+    "Spell ID": "000C7628",
+    "Effect": "Bound Boots for 40 secs on SelfBound Cuirass for 40 secs on SelfBound Gauntlets for 40 secs on SelfBound Greaves for 40 secs on SelfBound Helmet for 40 secs on Self",
+    "Copy Paste Cheat": "player.addspell 000C7628",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Greater Convalescence",
+    "Spell ID": "000C7661",
+    "Effect": "Restore Health 20 pts for 2 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000C7661",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Superior Convalescence",
+    "Spell ID": "000C7662",
+    "Effect": "Restore Health 20 pts for 4 secs on Target",
+    "Copy Paste Cheat": "player.addspell 000C7662",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Fatigue",
+    "Spell ID": "000CA0CA",
+    "Effect": "Absorb Fatigue 25 pts for 20 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000CA0CA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Fatigue",
+    "Spell ID": "000CA0CB",
+    "Effect": "Absorb Fatigue 35 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000CA0CB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Absorb Fatigue",
+    "Spell ID": "000CA0CC",
+    "Effect": "Absorb Fatigue 50 pts for 45 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 000CA0CC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Agility",
+    "Spell ID": "003C3DF",
+    "Effect": "Drain Agility 5 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 003C3DF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Endurance",
+    "Spell ID": "003C3E0",
+    "Effect": "Drain Endurance 5 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 003C3E0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Luck",
+    "Spell ID": "003C3E1",
+    "Effect": "Drain Luck 5 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 003C3E1",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Speed",
+    "Spell ID": "003C3E2",
+    "Effect": "Drain Speed 10 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 003C3E2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Willpower",
+    "Spell ID": "003C3E3",
+    "Effect": "Drain Willpower 10 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 003C3E3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Intelligence",
+    "Spell ID": "003C3E4",
+    "Effect": "Drain Intelligence 14 pts for 25 secs on Target",
+    "Copy Paste Cheat": "player.addspell 003C3E4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Marksman",
+    "Spell ID": "003C3E6",
+    "Effect": "Drain Marksman 10 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 003C3E6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Illusion",
+    "Spell ID": "003C3E7",
+    "Effect": "Drain Illusion 10 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 003C3E7",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Damage Agility",
+    "Spell ID": "003C3FD",
+    "Effect": "Damage Agility 1 pt on Target",
+    "Copy Paste Cheat": "player.addspell 003C3FD",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Damage Endurance",
+    "Spell ID": "003C3FE",
+    "Effect": "Damage Endurance 1pt on Target",
+    "Copy Paste Cheat": "player.addspell 003C3FE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Damage Intelligence",
+    "Spell ID": "003C3FF",
+    "Effect": "Damage Intelligence 5 pts on Target",
+    "Copy Paste Cheat": "player.addspell 003C3FF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Damage Luck",
+    "Spell ID": "003C400",
+    "Effect": "Damage Luck 1pt on Target",
+    "Copy Paste Cheat": "player.addspell 003C400",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Damage Speed",
+    "Spell ID": "003C401",
+    "Effect": "Damage Speed 3 pts on Target",
+    "Copy Paste Cheat": "player.addspell 003C401",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Damage Strength",
+    "Spell ID": "003C402",
+    "Effect": "Damage Strength 5 pts on Target",
+    "Copy Paste Cheat": "player.addspell 003C402",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Damage Willpower",
+    "Spell ID": "003C403",
+    "Effect": "Damage Willpower 3 pts on Target",
+    "Copy Paste Cheat": "player.addspell 003C403",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Corrode Armor",
+    "Spell ID": "005DCC6",
+    "Effect": "Disintegrate Armor 20 pts on Target",
+    "Copy Paste Cheat": "player.addspell 005DCC6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Light Armor",
+    "Spell ID": "0084B14",
+    "Effect": "Drain Light Armor 5 pts for 20 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0084B14",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Enemies Explode",
+    "Spell ID": "014720",
+    "Effect": "Fire Damage 5 pts in 10 ft for 5 secs on TargetFire Damage 70 pts in 20 ft for 1 sec on Target",
+    "Copy Paste Cheat": "player.addspell 014720",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Weak Fireball",
+    "Spell ID": "01EF7F",
+    "Effect": "Fire Damage 5 pts in 5 ft for 3 secs on Target",
+    "Copy Paste Cheat": "player.addspell 01EF7F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Blizzard",
+    "Spell ID": "03C3D8",
+    "Effect": "Frost Damage 75 pts in 20 ft on Target",
+    "Copy Paste Cheat": "player.addspell 03C3D8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Storm",
+    "Spell ID": "03C3DB",
+    "Effect": "Shock Damage 30 pts in 15 ft for 2 secs on Target",
+    "Copy Paste Cheat": "player.addspell 03C3DB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Destruction",
+    "Spell ID": "03C3E8",
+    "Effect": "Drain Destruction 15 pts for 25 secs on Target",
+    "Copy Paste Cheat": "player.addspell 03C3E8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Alteration",
+    "Spell ID": "03C3E9",
+    "Effect": "Drain Alteration 15 pts for 25 secs on Target",
+    "Copy Paste Cheat": "player.addspell 03C3E9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Hand to Hand",
+    "Spell ID": "03C3EA",
+    "Effect": "Drain Hand to Hand 15 pts for 25 secs on Target",
+    "Copy Paste Cheat": "player.addspell 03C3EA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Heavy Armor",
+    "Spell ID": "03C3EB",
+    "Effect": "Drain Heavy Armor 15 pts for 25 secs on Target",
+    "Copy Paste Cheat": "player.addspell 03C3EB",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Blade",
+    "Spell ID": "03C3EC",
+    "Effect": "Drain Blade 20 pts for 45 secs on Target",
+    "Copy Paste Cheat": "player.addspell 03C3EC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Conjuration",
+    "Spell ID": "03C3ED",
+    "Effect": "Drain Conjuration 20 pts for 45 secs on Target",
+    "Copy Paste Cheat": "player.addspell 03C3ED",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Drain Skill: Restoration",
+    "Spell ID": "03C3EE",
+    "Effect": "Drain Restoration 20 pts for 45 secs on Target",
+    "Copy Paste Cheat": "player.addspell 03C3EE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Legendary Magicka Drain",
+    "Spell ID": "03C3F4",
+    "Effect": "Drain Magicka 120 pts for 60 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 03C3F4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Baronoff’s Bloody Icicle",
+    "Spell ID": "06D67C",
+    "Effect": "Frost Damage 30 pts on Target",
+    "Copy Paste Cheat": "player.addspell 06D67C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Leech Vitality",
+    "Spell ID": "07000CE9",
+    "Effect": "Absorb Health 10 pts on TouchAbsorb Magicka 20 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 07000CE9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Mark of Fire",
+    "Spell ID": "07000CEA",
+    "Effect": "Fire Damage 1 pt in 15 ft for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 07000CEA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Orum’s Aquatic Escape",
+    "Spell ID": "070011DF",
+    "Effect": "Invisibility for 15 secs on SelfNight-Eye for 15 secs on SelfWater Breathing for 15 secs on Self",
+    "Copy Paste Cheat": "player.addspell 070011DF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Night Form",
+    "Spell ID": "070011E0",
+    "Effect": "Fortify Sneak 10 pts for 30 secs on SelfInvisibility for 30 secs on SelfSun Damage 2 pts for 50 secs on Self",
+    "Copy Paste Cheat": "player.addspell 070011E0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Berne’s Aura[C]",
+    "Spell ID": "070011E2",
+    "Effect": "Fortify Agility 10 pts for 30 secs on SelfFortify Sneak 5 pts for 30 secs on SelfFortify Hand to Hand 5 pts for 30 secs on SelfFortify Acrobatics 5 pts for 30 secs on SelfSun Damage 1 pt for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 070011E2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Aundae’s Aura[C]",
+    "Spell ID": "070011E4",
+    "Effect": "Fortify Willpower 10 pts for 30 secs on SelfFortify Blade 5 pts for 30 secs on SelfFortify Mysticism 5 pts for 30 secs on SelfFortify Destruction 5 pts for 30 secs on SelfSun Damage 1 pt for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 070011E4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Quarra’s Aura[C]",
+    "Spell ID": "070011E6",
+    "Effect": "Fortify Strength 10 pts for 30 secs on SelfFortify Blunt 5 pts for 30 secs on SelfFortify Hand To Hand 5 pts for 30 secs on SelfFortify Heavy Armor 5 pts for 30 secs on SelfSun Damage 1 pt for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 070011E6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Karstaag’s Breath",
+    "Spell ID": "070011E8",
+    "Effect": "Frost Damage 10 pts for 10 secs on TouchParalyze for 5 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 070011E8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Pride of Hirstaang",
+    "Spell ID": "070011EA",
+    "Effect": "Fortify Strength 5 pts for 30 secs on SelfResist Frost 30 pts for 30 secs on SelfSummon Black Bear for 30 secs on Self",
+    "Copy Paste Cheat": "player.addspell 070011EA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Mara’s Grace",
+    "Spell ID": "070011EC",
+    "Effect": "Light 40 pts in 15 ft for 30 secs on TargetTurn Undead 30 pts in 15 ft for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011EC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Baltham’s Insight",
+    "Spell ID": "070011EE",
+    "Effect": "Detect Life 150 pts for 5 secs on Self",
+    "Copy Paste Cheat": "player.addspell 070011EE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Kindling Touch[A]",
+    "Spell ID": "070011F0",
+    "Effect": "Fire Damage 6 pts for 7 secs on TouchWeakness to Fire 50% for 7 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 070011F0",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Searing Burst",
+    "Spell ID": "070011F2",
+    "Effect": "Fire Damage 10 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011F2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Searing Flare",
+    "Spell ID": "070011F4",
+    "Effect": "Fire Damage 3 pts for 5 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011F4",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Immolating Touch[A]",
+    "Spell ID": "070011F6",
+    "Effect": "Fire Damage 30 pts for 6 secs on TouchWeakness to Fire 100% for 6 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 070011F6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electrifying Bolt",
+    "Spell ID": "070011F8",
+    "Effect": "Shock Damage 5 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011F8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electrifying Blast",
+    "Spell ID": "070011F9",
+    "Effect": "Shock Damage 20 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011F9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electrifying Burst",
+    "Spell ID": "070011FA",
+    "Effect": "Shock Damage 10 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011FA",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electrifying Spark",
+    "Spell ID": "070011FC",
+    "Effect": "Shock Damage 3 pts for 5 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011FC",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Freezing Bolt",
+    "Spell ID": "070011FD",
+    "Effect": "Frost Damage 5 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011FD",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Freezing Burst",
+    "Spell ID": "070011FE",
+    "Effect": "Frost Damage 10 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 070011FE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Freezing Blast",
+    "Spell ID": "07001203",
+    "Effect": "Frost Damage 20 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 07001203",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Decaying Blast",
+    "Spell ID": "07001204",
+    "Effect": "Damage Health 16 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 07001204",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Freezing Shard",
+    "Spell ID": "07001205",
+    "Effect": "Frost Damage 3 pts for 5 secs on Target",
+    "Copy Paste Cheat": "player.addspell 07001205",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Enhanced Visibility",
+    "Spell ID": "0700120A",
+    "Effect": "Light 10 pts in 30 ft for 30 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0700120A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Decaying Taint",
+    "Spell ID": "0700120B",
+    "Effect": "Damage Health 2 pts for 5 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0700120B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Decaying Bolt",
+    "Spell ID": "0700120C",
+    "Effect": "Damage Health 3 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0700120C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Decaying Burst",
+    "Spell ID": "0700120D",
+    "Effect": "Damage Health 7 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0700120D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Blink",
+    "Spell ID": "07001212",
+    "Effect": "Invisibility for 5 secs on Self",
+    "Copy Paste Cheat": "player.addspell 07001212",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Soul Grasp",
+    "Spell ID": "07001214",
+    "Effect": "Damage Health 3 pts for 3 secs on TouchSoul Trap for 3 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001214",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Shieldwall",
+    "Spell ID": "07001216",
+    "Effect": "Fortify Heavy Armor 5 pts for 30 secs on SelfShield 15pts for 30sec on Self",
+    "Copy Paste Cheat": "player.addspell 07001216",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Defensive Boost",
+    "Spell ID": "07001218",
+    "Effect": "Fortify Light Armor 5 pts for 30 secs on SelfShield 15pts for 30sec on Self",
+    "Copy Paste Cheat": "player.addspell 07001218",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Elemental Flare",
+    "Spell ID": "0700121A",
+    "Effect": "Fire Damage 5 pts on TargetFrost Damage 5 pts on TargetShock Damage 5 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0700121A",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Elemental Bolt",
+    "Spell ID": "0700121C",
+    "Effect": "Fire Damage 9 pts on TargetFrost Damage 9 pts on TargetShock Damage 9 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0700121C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Elemental Burst",
+    "Spell ID": "0700121E",
+    "Effect": "Fire Damage 15 pts on TargetFrost Damage 15 pts on TargetShock Damage 15 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0700121E",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Elemental Blast",
+    "Spell ID": "07001220",
+    "Effect": "Fire Damage 25 pts on TargetFrost Damage 25 pts on TargetShock Damage 25 pts on Target",
+    "Copy Paste Cheat": "player.addspell 07001220",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Strangulation",
+    "Spell ID": "07001222",
+    "Effect": "Drain Health 70 pts for 3 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001222",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Choking Grasp",
+    "Spell ID": "07001224",
+    "Effect": "Drain Health 35 pts for 3 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001224",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Hangman’s Noose",
+    "Spell ID": "07001226",
+    "Effect": "Drain Health 130 pts for 3 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001226",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Touch of Death",
+    "Spell ID": "07001228",
+    "Effect": "Drain Health 250 pts for 3 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001228",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Llivam’s Reversal",
+    "Spell ID": "0700122C",
+    "Effect": "Reflect Spell 15 pts for 20 secs on SelfSpell Absorption 10 pts for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 0700122C",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Fenrik’s Welcome[B]",
+    "Spell ID": "0700122D",
+    "Effect": "Chameleon 100% for 5 secs on SelfOpen (Average Lock) 50 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0700122D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Searing Bolt",
+    "Spell ID": "0700122F",
+    "Effect": "Fire Damage 5 pts for 7 secs on Target",
+    "Copy Paste Cheat": "player.addspell 0700122F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Searing Blast",
+    "Spell ID": "07001231",
+    "Effect": "Fire Damage 20 pts for 6 secs on Target",
+    "Copy Paste Cheat": "player.addspell 07001231",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Flammable Touch[A]",
+    "Spell ID": "07001233",
+    "Effect": "Fire Damage 4 pts for 5 secs on TouchWeakness to Fire 25% for 5 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001233",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Scorching Touch[A]",
+    "Spell ID": "07001235",
+    "Effect": "Fire Damage 12 pts for 6 secs on TouchWeakness to Fire 75% for 6 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001235",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Spark Touch[A]",
+    "Spell ID": "07001237",
+    "Effect": "Shock Damage 4 pts for 5 secs on TouchWeakness to Shock 25% for 5 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001237",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electrifying Touch[A]",
+    "Spell ID": "07001239",
+    "Effect": "Shock Damage 6 pts for 6 secs on TouchWeakness to Shock 50% for 6 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001239",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Lightning Touch[A]",
+    "Spell ID": "0700123B",
+    "Effect": "Shock Damage 12 pts for 6 secs on TouchWeakness to Shock 75% for 6 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 0700123B",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electrocuting Touch[A]",
+    "Spell ID": "0700123D",
+    "Effect": "Shock Damage 30 pts for 6 secs on TouchWeakness to Shock 100% for 6 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 0700123D",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Chilling Touch[A]",
+    "Spell ID": "0700123F",
+    "Effect": "Weakness to Frost 25% for 5 secs on TouchFrost Damage 4 pts for 5 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 0700123F",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Freezing Touch[A]",
+    "Spell ID": "07001241",
+    "Effect": "Frost Damage 6 pts for 7 secs on TouchWeakness to Frost 50% for 7 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001241",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Frostbite[A]",
+    "Spell ID": "07001243",
+    "Effect": "Frost Damage 12 pts for 6 secs on TouchWeakness to Frost 75% for 6 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001243",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Arctic Touch[A]",
+    "Spell ID": "07001245",
+    "Effect": "Frost Damage 30 pts for 6 secs on TouchWeakness to Frost 100% for 6 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 07001245",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Thunderclap",
+    "Spell ID": "070012B2",
+    "Effect": "Paralyze in 20 ft for 1 sec on Touch",
+    "Copy Paste Cheat": "player.addspell 070012B2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Magicka Vortex[D]",
+    "Spell ID": "070012B8",
+    "Effect": "Absorb Magicka 10 pts for 5 secs on TouchStunted Magicka for 30 secs on TouchWeakness to Magic 25 pts for 30 secs on Touch",
+    "Copy Paste Cheat": "player.addspell 070012B8",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Disease Resistance",
+    "Spell ID": "07001D89",
+    "Effect": "Resist Disease 50 pts for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 07001D89",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Resist Paralysis",
+    "Spell ID": "07001D92",
+    "Effect": "Resist Paralysis 20 pts for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 07001D92",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Resist Poison",
+    "Spell ID": "07001D94",
+    "Effect": "Resist Poison 50 pts for 20 secs on Self",
+    "Copy Paste Cheat": "player.addspell 07001D94",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Mara’s Wrath",
+    "Spell ID": "07002841",
+    "Effect": "Fire Damage 3 pts in 15ft for 30sec on TargetTurn Undead 35 pts in 15ft for 30sec on Target",
+    "Copy Paste Cheat": "player.addspell 07002841",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Disintegrate Weapon",
+    "Spell ID": "0A97A6",
+    "Effect": "Disintegrate Weapon 150 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0A97A6",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Curse of Weakness",
+    "Spell ID": "0A97D2",
+    "Effect": "Damage Fatigue 15 pts on Touch",
+    "Copy Paste Cheat": "player.addspell 0A97D2",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Flare",
+    "Spell ID": "0A97DF",
+    "Effect": "Fire Damage 6 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0A97DF",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Immolating Blast",
+    "Spell ID": "0A97E3",
+    "Effect": "Fire Damage 110 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0A97E3",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Flame Tempest",
+    "Spell ID": "0A97E9",
+    "Effect": "Fire Damage 75 pts in 15 ft on Target",
+    "Copy Paste Cheat": "player.addspell 0A97E9",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Ice Blast",
+    "Spell ID": "0A97EE",
+    "Effect": "Frost Damage 110 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0A97EE",
+    "Section": "All Spells IDs"
+  },
+  {
+    "Name": "Electrocution",
+    "Spell ID": "0A97F9",
+    "Effect": "Shock Damage 110 pts on Target",
+    "Copy Paste Cheat": "player.addspell 0A97F9",
+    "Section": "All Spells IDs"
+  }
+]

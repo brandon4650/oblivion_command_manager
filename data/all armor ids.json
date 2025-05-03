@@ -1,0 +1,7152 @@
+[
+  {
+    "Name": "Unkown (doesn’t work)",
+    "Rating": "–",
+    "Weight": "–",
+    "Value": "–",
+    "Enchantment": "–",
+    "Armor ID": "7330000",
+    "Copy Paste Cheat": "player.additem 7330000 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Unkown (doesn’t work)",
+    "Rating": "–",
+    "Weight": "–",
+    "Value": "–",
+    "Enchantment": "–",
+    "Armor ID": "733000000",
+    "Copy Paste Cheat": "player.additem 733000000 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Auroran Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00000F8A",
+    "Copy Paste Cheat": "player.additem 00000F8A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Auroran Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00000F8B",
+    "Copy Paste Cheat": "player.additem 00000F8B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Auroran Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00000F8C",
+    "Copy Paste Cheat": "player.additem 00000F8C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Auroran Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00000F8D",
+    "Copy Paste Cheat": "player.additem 00000F8D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Pit Cuirass (broken)",
+    "Rating": "1",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00008A76",
+    "Copy Paste Cheat": "player.additem 00008A76 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Pit Greaves (broken)",
+    "Rating": "1",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00008A77",
+    "Copy Paste Cheat": "player.additem 00008A77 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Pit Boots (broken)",
+    "Rating": "1",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00008A78",
+    "Copy Paste Cheat": "player.additem 00008A78 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Pit Gauntlets (broken)",
+    "Rating": "1",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00008A79",
+    "Copy Paste Cheat": "player.additem 00008A79 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Pit Helmet (broken)",
+    "Rating": "1",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00008A7A",
+    "Copy Paste Cheat": "player.additem 00008A7A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Amelion Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000091FA",
+    "Copy Paste Cheat": "player.additem 000091FA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Brusef Amelion’s Cuirass",
+    "Rating": "3",
+    "Weight": "21",
+    "Value": "710",
+    "Enchantment": "Frost Shield on Self 6%",
+    "Armor ID": "000091FA",
+    "Copy Paste Cheat": "player.additem 000091FA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Umbra’s Ebony Boots",
+    "Rating": "2",
+    "Weight": "15",
+    "Value": "250",
+    "Enchantment": "–",
+    "Armor ID": "0000A307",
+    "Copy Paste Cheat": "player.additem 0000A307 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Umbra’s Ebony Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000A308",
+    "Copy Paste Cheat": "player.additem 0000A308 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Umbra’s Ebony Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000A309",
+    "Copy Paste Cheat": "player.additem 0000A309 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Umbra’s Ebony Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000A30A",
+    "Copy Paste Cheat": "player.additem 0000A30A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Umbra’s Ebony Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000A311",
+    "Copy Paste Cheat": "player.additem 0000A311 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Umbra’s Ebony Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000A312",
+    "Copy Paste Cheat": "player.additem 0000A312 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Emperor’s Robe",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000C4D5",
+    "Copy Paste Cheat": "player.additem 0000C4D5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynreeve Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000C57E",
+    "Copy Paste Cheat": "player.additem 0000C57E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Markynaz Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000C580",
+    "Copy Paste Cheat": "player.additem 0000C580 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Daedric Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0000C582",
+    "Copy Paste Cheat": "player.additem 0000C582 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00014F10",
+    "Copy Paste Cheat": "player.additem 00014F10 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00014F12",
+    "Copy Paste Cheat": "player.additem 00014F12 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00014F13",
+    "Copy Paste Cheat": "player.additem 00014F13 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ancient Elven Helm",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000150BA",
+    "Copy Paste Cheat": "player.additem 000150BA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ruined Akaviri Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C161",
+    "Copy Paste Cheat": "player.additem 0001C161 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Iron Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6CF",
+    "Copy Paste Cheat": "player.additem 0001C6CF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Iron Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D0",
+    "Copy Paste Cheat": "player.additem 0001C6D0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Iron Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D1",
+    "Copy Paste Cheat": "player.additem 0001C6D1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Iron Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D2",
+    "Copy Paste Cheat": "player.additem 0001C6D2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chainmail Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D3",
+    "Copy Paste Cheat": "player.additem 0001C6D3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chainmail Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D4",
+    "Copy Paste Cheat": "player.additem 0001C6D4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chainmail Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D5",
+    "Copy Paste Cheat": "player.additem 0001C6D5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chainmail Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D6",
+    "Copy Paste Cheat": "player.additem 0001C6D6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chainmail Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D7",
+    "Copy Paste Cheat": "player.additem 0001C6D7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Steel Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001C6D8",
+    "Copy Paste Cheat": "player.additem 0001C6D8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Skingrad Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001DC4B",
+    "Copy Paste Cheat": "player.additem 0001DC4B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Emperor’s Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001FECE",
+    "Copy Paste Cheat": "player.additem 0001FECE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Armor of Tiber Septim",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001FECF",
+    "Copy Paste Cheat": "player.additem 0001FECF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Emperor’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001FED0",
+    "Copy Paste Cheat": "player.additem 0001FED0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Emperor’s Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001FED1",
+    "Copy Paste Cheat": "player.additem 0001FED1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Emperor’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0001FED2",
+    "Copy Paste Cheat": "player.additem 0001FED2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Masque of Clavicus Vile",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000228EE",
+    "Copy Paste Cheat": "player.additem 000228EE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002299C",
+    "Copy Paste Cheat": "player.additem 0002299C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002299C",
+    "Copy Paste Cheat": "player.additem 0002299C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002299D",
+    "Copy Paste Cheat": "player.additem 0002299D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002299D",
+    "Copy Paste Cheat": "player.additem 0002299D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002299E",
+    "Copy Paste Cheat": "player.additem 0002299E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002299E",
+    "Copy Paste Cheat": "player.additem 0002299E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002299F",
+    "Copy Paste Cheat": "player.additem 0002299F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000229A0",
+    "Copy Paste Cheat": "player.additem 000229A0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000229A1",
+    "Copy Paste Cheat": "player.additem 000229A1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Steel Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000229A2",
+    "Copy Paste Cheat": "player.additem 000229A2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Steel Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000229A3",
+    "Copy Paste Cheat": "player.additem 000229A3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Steel Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000229A4",
+    "Copy Paste Cheat": "player.additem 000229A4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Steel Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000229A5",
+    "Copy Paste Cheat": "player.additem 000229A5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leather Bracer",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000229A9",
+    "Copy Paste Cheat": "player.additem 000229A9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blades Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00022F20",
+    "Copy Paste Cheat": "player.additem 00022F20 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blades Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00022F65",
+    "Copy Paste Cheat": "player.additem 00022F65 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blades Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00022F6F",
+    "Copy Paste Cheat": "player.additem 00022F6F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leather Greaves",
+    "Rating": "1",
+    "Weight": "4",
+    "Value": "20",
+    "Enchantment": "–",
+    "Armor ID": "00023198",
+    "Copy Paste Cheat": "player.additem 23198 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leather Gauntlets",
+    "Rating": "1",
+    "Weight": "1",
+    "Value": "10",
+    "Enchantment": "–",
+    "Armor ID": "00023199",
+    "Copy Paste Cheat": "player.additem 23199 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leather Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002319A",
+    "Copy Paste Cheat": "player.additem 0002319A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leather Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002319B",
+    "Copy Paste Cheat": "player.additem 0002319B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leather Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002319C",
+    "Copy Paste Cheat": "player.additem 0002319C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blades Greaves",
+    "Rating": "3",
+    "Weight": "21",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00023329",
+    "Copy Paste Cheat": "player.additem 23329 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Steel Shield",
+    "Rating": "7",
+    "Weight": "14",
+    "Value": "95",
+    "Enchantment": "–",
+    "Armor ID": "00023923",
+    "Copy Paste Cheat": "player.additem 23923 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fur Greaves",
+    "Rating": "1",
+    "Weight": "3",
+    "Value": "8",
+    "Enchantment": "–",
+    "Armor ID": "00024764",
+    "Copy Paste Cheat": "player.additem 24764 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fur Gauntlets",
+    "Rating": "1",
+    "Weight": "1",
+    "Value": "4",
+    "Enchantment": "–",
+    "Armor ID": "00024765",
+    "Copy Paste Cheat": "player.additem 24765 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fur Cuirass",
+    "Rating": "2",
+    "Weight": "5",
+    "Value": "15",
+    "Enchantment": "–",
+    "Armor ID": "00024766",
+    "Copy Paste Cheat": "player.additem 24766 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fur Boots",
+    "Rating": "1",
+    "Weight": "1",
+    "Value": "4",
+    "Enchantment": "–",
+    "Armor ID": "00024767",
+    "Copy Paste Cheat": "player.additem 24767 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fur Helmet",
+    "Rating": "1",
+    "Weight": "1",
+    "Value": "4",
+    "Enchantment": "–",
+    "Armor ID": "00024768",
+    "Copy Paste Cheat": "player.additem 24768 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leather Shield",
+    "Rating": "2",
+    "Weight": "3",
+    "Value": "20",
+    "Enchantment": "–",
+    "Armor ID": "00025058",
+    "Copy Paste Cheat": "player.additem 25058 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bound Shield",
+    "Rating": "9",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00026263",
+    "Copy Paste Cheat": "player.additem 26263 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bound Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002626A",
+    "Copy Paste Cheat": "player.additem 0002626A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bound Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002626B",
+    "Copy Paste Cheat": "player.additem 0002626B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bound Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002626C",
+    "Copy Paste Cheat": "player.additem 0002626C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bound Greaves",
+    "Rating": "5",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00026270",
+    "Copy Paste Cheat": "player.additem 26270 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bound Helmet",
+    "Rating": "2",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00026272",
+    "Copy Paste Cheat": "player.additem 26272 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Saviour’s Hide",
+    "Rating": "4",
+    "Weight": "3",
+    "Value": "6250",
+    "Enchantment": "Resist Magic on Self 25%",
+    "Armor ID": "00027107",
+    "Copy Paste Cheat": "player.additem 27107 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Anvil Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002766D",
+    "Copy Paste Cheat": "player.additem 0002766D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bravil Cuirass",
+    "Rating": "2",
+    "Weight": "9",
+    "Value": "90",
+    "Enchantment": "–",
+    "Armor ID": "00027673",
+    "Copy Paste Cheat": "player.additem 27673 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bruma Cuirass",
+    "Rating": "2",
+    "Weight": "9",
+    "Value": "90",
+    "Enchantment": "–",
+    "Armor ID": "00027677",
+    "Copy Paste Cheat": "player.additem 27677 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cheydinhal Cuirass",
+    "Rating": "2",
+    "Weight": "9",
+    "Value": "90",
+    "Enchantment": "–",
+    "Armor ID": "00027678",
+    "Copy Paste Cheat": "player.additem 27678 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chorrol Cuirass",
+    "Rating": "2",
+    "Weight": "9",
+    "Value": "90",
+    "Enchantment": "–",
+    "Armor ID": "00027679",
+    "Copy Paste Cheat": "player.additem 27679 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Kvatch Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002767A",
+    "Copy Paste Cheat": "player.additem 0002767A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leyawiin Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002767B",
+    "Copy Paste Cheat": "player.additem 0002767B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Guard Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002767C",
+    "Copy Paste Cheat": "player.additem 0002767C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Legion Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00028ADE",
+    "Copy Paste Cheat": "player.additem 00028ADE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Legion Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00028ADF",
+    "Copy Paste Cheat": "player.additem 00028ADF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Legion Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00028AE0",
+    "Copy Paste Cheat": "player.additem 00028AE0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Legion Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00028AE1",
+    "Copy Paste Cheat": "player.additem 00028AE1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Legion Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00028AE2",
+    "Copy Paste Cheat": "player.additem 00028AE2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Arena Light Raiment",
+    "Rating": "4",
+    "Weight": "13",
+    "Value": "0",
+    "Enchantment": "Fortify Personality on Self +2Fortify Athletics on Self +5",
+    "Armor ID": "00029920",
+    "Copy Paste Cheat": "player.additem 29920 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "The Gray Aegis",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002996A",
+    "Copy Paste Cheat": "player.additem 0002996A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ebony Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002AD85",
+    "Copy Paste Cheat": "player.additem 0002AD85 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ogre Skin Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002ADCE",
+    "Copy Paste Cheat": "player.additem 0002ADCE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lightning Strider Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002ADCF",
+    "Copy Paste Cheat": "player.additem 0002ADCF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Spellbinder Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002ADD0",
+    "Copy Paste Cheat": "player.additem 0002ADD0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Seastrider’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002ADD1",
+    "Copy Paste Cheat": "player.additem 0002ADD1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mithril Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C0FC",
+    "Copy Paste Cheat": "player.additem 0002C0FC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mithril Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C0FE",
+    "Copy Paste Cheat": "player.additem 0002C0FE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mithril Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C100",
+    "Copy Paste Cheat": "player.additem 0002C100 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mithril Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C102",
+    "Copy Paste Cheat": "player.additem 0002C102 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Inquisitor’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C212",
+    "Copy Paste Cheat": "player.additem 0002C212 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Inquisitor’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C214",
+    "Copy Paste Cheat": "player.additem 0002C214 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Thrall",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C215",
+    "Copy Paste Cheat": "player.additem 0002C215 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Brutality",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C217",
+    "Copy Paste Cheat": "player.additem 0002C217 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Fortitude",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C218",
+    "Copy Paste Cheat": "player.additem 0002C218 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Deathmarch Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C21A",
+    "Copy Paste Cheat": "player.additem 0002C21A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Undefeated",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C21B",
+    "Copy Paste Cheat": "player.additem 0002C21B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Warforger’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C21D",
+    "Copy Paste Cheat": "player.additem 0002C21D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Taskmaster",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C21E",
+    "Copy Paste Cheat": "player.additem 0002C21E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dwarvenskin Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C220",
+    "Copy Paste Cheat": "player.additem 0002C220 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Punishment",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C221",
+    "Copy Paste Cheat": "player.additem 0002C221 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Blood Legion",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C223",
+    "Copy Paste Cheat": "player.additem 0002C223 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Moonshadow Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C224",
+    "Copy Paste Cheat": "player.additem 0002C224 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Moonshadow Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C226",
+    "Copy Paste Cheat": "player.additem 0002C226 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Vengence",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C227",
+    "Copy Paste Cheat": "player.additem 0002C227 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Animus",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C228",
+    "Copy Paste Cheat": "player.additem 0002C228 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Flamewalker Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C229",
+    "Copy Paste Cheat": "player.additem 0002C229 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Nordslayer Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C233",
+    "Copy Paste Cheat": "player.additem 0002C233 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mageslayer’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C235",
+    "Copy Paste Cheat": "player.additem 0002C235 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Slavemaster’s Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C239",
+    "Copy Paste Cheat": "player.additem 0002C239 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Pit Viper",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C23B",
+    "Copy Paste Cheat": "player.additem 0002C23B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Storm",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C23F",
+    "Copy Paste Cheat": "player.additem 0002C23F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Monolithic Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C244",
+    "Copy Paste Cheat": "player.additem 0002C244 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Stormlord’s Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C245",
+    "Copy Paste Cheat": "player.additem 0002C245 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Magebane Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C247",
+    "Copy Paste Cheat": "player.additem 0002C247 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Flood",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0002C24E",
+    "Copy Paste Cheat": "player.additem 0002C24E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Light Iron Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00032D49",
+    "Copy Paste Cheat": "player.additem 00032D49 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bound Mythic Dawn Armor",
+    "Rating": "10",
+    "Weight": "0",
+    "Value": "0",
+    "Enchantment": "–",
+    "Armor ID": "00033525",
+    "Copy Paste Cheat": "player.additem 33525 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shrouded Hood",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000347F4",
+    "Copy Paste Cheat": "player.additem 000347F4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shrouded Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000347F7",
+    "Copy Paste Cheat": "player.additem 000347F7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Bloody Bounding",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000348AC",
+    "Copy Paste Cheat": "player.additem 000348AC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Anvil Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352C3",
+    "Copy Paste Cheat": "player.additem 000352C3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bravil Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352C5",
+    "Copy Paste Cheat": "player.additem 000352C5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bruma Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352C7",
+    "Copy Paste Cheat": "player.additem 000352C7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cheydinhal Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352C9",
+    "Copy Paste Cheat": "player.additem 000352C9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chorrol Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352CB",
+    "Copy Paste Cheat": "player.additem 000352CB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Kvatch Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352CD",
+    "Copy Paste Cheat": "player.additem 000352CD 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Leyawiin Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352CF",
+    "Copy Paste Cheat": "player.additem 000352CF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Skingrad Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352D1",
+    "Copy Paste Cheat": "player.additem 000352D1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Legion Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000352D3",
+    "Copy Paste Cheat": "player.additem 000352D3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Heavy Raiment of Valor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000355FA",
+    "Copy Paste Cheat": "player.additem 000355FA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Light Raiment of Valor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003563E",
+    "Copy Paste Cheat": "player.additem 0003563E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Gauntlets",
+    "Rating": "2",
+    "Weight": "3",
+    "Value": "500",
+    "Enchantment": "–",
+    "Armor ID": "00036340",
+    "Copy Paste Cheat": "player.additem 36340 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Boots",
+    "Rating": "2",
+    "Weight": "4",
+    "Value": "500",
+    "Enchantment": "–",
+    "Armor ID": "00036341",
+    "Copy Paste Cheat": "player.additem 36341 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Greaves",
+    "Rating": "2",
+    "Weight": "9",
+    "Value": "1000",
+    "Enchantment": "–",
+    "Armor ID": "00036342",
+    "Copy Paste Cheat": "player.additem 36342 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Cuirass",
+    "Rating": "4",
+    "Weight": "15",
+    "Value": "1800",
+    "Enchantment": "–",
+    "Armor ID": "00036343",
+    "Copy Paste Cheat": "player.additem 36343 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Shield",
+    "Rating": "6",
+    "Weight": "6",
+    "Value": "1000",
+    "Enchantment": "–",
+    "Armor ID": "00036344",
+    "Copy Paste Cheat": "player.additem 36344 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dwarven Gauntlets",
+    "Rating": "2",
+    "Weight": "8",
+    "Value": "115",
+    "Enchantment": "–",
+    "Armor ID": "00036346",
+    "Copy Paste Cheat": "player.additem 36346 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dwarven Boots",
+    "Rating": "2",
+    "Weight": "12",
+    "Value": "115",
+    "Enchantment": "–",
+    "Armor ID": "00036347",
+    "Copy Paste Cheat": "player.additem 36347 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dwarven Greaves",
+    "Rating": "3",
+    "Weight": "24",
+    "Value": "210",
+    "Enchantment": "–",
+    "Armor ID": "00036348",
+    "Copy Paste Cheat": "player.additem 36348 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dwarven Cuirass",
+    "Rating": "6",
+    "Weight": "40",
+    "Value": "400",
+    "Enchantment": "–",
+    "Armor ID": "00036349",
+    "Copy Paste Cheat": "player.additem 36349 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Orcish Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003634C",
+    "Copy Paste Cheat": "player.additem 0003634C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Orcish Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003634D",
+    "Copy Paste Cheat": "player.additem 0003634D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Orcish Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003634E",
+    "Copy Paste Cheat": "player.additem 0003634E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Orcish Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003634F",
+    "Copy Paste Cheat": "player.additem 0003634F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Orcish Shield",
+    "Rating": "8",
+    "Weight": "18",
+    "Value": "460",
+    "Enchantment": "–",
+    "Armor ID": "00036350",
+    "Copy Paste Cheat": "player.additem 36350 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ebony Gauntlets",
+    "Rating": "3",
+    "Weight": "10",
+    "Value": "550",
+    "Enchantment": "–",
+    "Armor ID": "00036352",
+    "Copy Paste Cheat": "player.additem 36352 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ebony Boots",
+    "Rating": "3",
+    "Weight": "15",
+    "Value": "550",
+    "Enchantment": "–",
+    "Armor ID": "00036353",
+    "Copy Paste Cheat": "player.additem 36353 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ebony Greaves",
+    "Rating": "4",
+    "Weight": "31",
+    "Value": "1000",
+    "Enchantment": "–",
+    "Armor ID": "00036354",
+    "Copy Paste Cheat": "player.additem 36354 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Viperbane Cuirass",
+    "Rating": "8",
+    "Weight": "52",
+    "Value": "2095",
+    "Enchantment": "Resist Poison on Self 13%",
+    "Armor ID": "00036355",
+    "Copy Paste Cheat": "player.additem 36355 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Daedric Boots",
+    "Rating": "3",
+    "Weight": "18",
+    "Value": "1350",
+    "Enchantment": "–",
+    "Armor ID": "00036359",
+    "Copy Paste Cheat": "player.additem 36359 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Daedric Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003635A",
+    "Copy Paste Cheat": "player.additem 0003635A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Daedric Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003635B",
+    "Copy Paste Cheat": "player.additem 0003635B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blackwood Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003647D",
+    "Copy Paste Cheat": "player.additem 0003647D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blackwood Cuirass",
+    "Rating": "7",
+    "Weight": "44",
+    "Value": "480",
+    "Enchantment": "–",
+    "Armor ID": "00038510",
+    "Copy Paste Cheat": "player.additem 38510 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blackwood Gauntlets",
+    "Rating": "2",
+    "Weight": "10",
+    "Value": "130",
+    "Enchantment": "–",
+    "Armor ID": "00038511",
+    "Copy Paste Cheat": "player.additem 38511 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blackwood Greaves",
+    "Rating": "4",
+    "Weight": "26",
+    "Value": "240",
+    "Enchantment": "–",
+    "Armor ID": "00038512",
+    "Copy Paste Cheat": "player.additem 38512 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blackwood Helmet",
+    "Rating": "2",
+    "Weight": "10",
+    "Value": "130",
+    "Enchantment": "–",
+    "Armor ID": "00038513",
+    "Copy Paste Cheat": "player.additem 38513 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blackwood Boots",
+    "Rating": "2",
+    "Weight": "13",
+    "Value": "130",
+    "Enchantment": "–",
+    "Armor ID": "00038514",
+    "Copy Paste Cheat": "player.additem 38514 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Emperor’s Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003ABB9",
+    "Copy Paste Cheat": "player.additem 0003ABB9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Agronak’s Raiment",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003B1DC",
+    "Copy Paste Cheat": "player.additem 0003B1DC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bands of the Chosen",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003C803",
+    "Copy Paste Cheat": "player.additem 0003C803 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynval Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9AE",
+    "Copy Paste Cheat": "player.additem 0003E9AE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynreeve Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9AF",
+    "Copy Paste Cheat": "player.additem 0003E9AF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynreeve Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9B0",
+    "Copy Paste Cheat": "player.additem 0003E9B0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynreeve Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9B1",
+    "Copy Paste Cheat": "player.additem 0003E9B1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynmarcher Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9B3",
+    "Copy Paste Cheat": "player.additem 0003E9B3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynmarcher Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9B4",
+    "Copy Paste Cheat": "player.additem 0003E9B4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynmarcher Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9B5",
+    "Copy Paste Cheat": "player.additem 0003E9B5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Markynaz Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9B6",
+    "Copy Paste Cheat": "player.additem 0003E9B6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Markynaz Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9B8",
+    "Copy Paste Cheat": "player.additem 0003E9B8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Churl Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9B9",
+    "Copy Paste Cheat": "player.additem 0003E9B9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Caitiff Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9BA",
+    "Copy Paste Cheat": "player.additem 0003E9BA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynval Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9BB",
+    "Copy Paste Cheat": "player.additem 0003E9BB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Churl Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9BC",
+    "Copy Paste Cheat": "player.additem 0003E9BC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Churl Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9BD",
+    "Copy Paste Cheat": "player.additem 0003E9BD 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Caitiff Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9BE",
+    "Copy Paste Cheat": "player.additem 0003E9BE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Caitiff Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9BF",
+    "Copy Paste Cheat": "player.additem 0003E9BF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Caitiff Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9C0",
+    "Copy Paste Cheat": "player.additem 0003E9C0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynval Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0003E9C1",
+    "Copy Paste Cheat": "player.additem 0003E9C1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Weaponmaster",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004788C",
+    "Copy Paste Cheat": "player.additem 0004788C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Olympian",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004788D",
+    "Copy Paste Cheat": "player.additem 0004788D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Wellbeing",
+    "Rating": "2",
+    "Weight": "6",
+    "Value": "2515",
+    "Enchantment": "Fortify Strength on Self +8Fortify Endurance on Self +8Fortify Luck on Self +8",
+    "Armor ID": "0004788F",
+    "Copy Paste Cheat": "player.additem 0004788F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Mind",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00047890",
+    "Copy Paste Cheat": "player.additem 47890 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Blinding Speed",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00047891",
+    "Copy Paste Cheat": "player.additem 47891 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Atronach",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00047892",
+    "Copy Paste Cheat": "player.additem 47892 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gloves of the Caster",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00047893",
+    "Copy Paste Cheat": "player.additem 47893 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Battle~mage",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00047894",
+    "Copy Paste Cheat": "player.additem 47894 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Pugilist",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004789B",
+    "Copy Paste Cheat": "player.additem 0004789B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Elements",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004789D",
+    "Copy Paste Cheat": "player.additem 0004789D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Mage",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004789E",
+    "Copy Paste Cheat": "player.additem 0004789E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mirror Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004789F",
+    "Copy Paste Cheat": "player.additem 0004789F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ice Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000478A0",
+    "Copy Paste Cheat": "player.additem 000478A0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Sun",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000478A1",
+    "Copy Paste Cheat": "player.additem 000478A1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Grounded Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000478A2",
+    "Copy Paste Cheat": "player.additem 000478A2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Resilient Flesh",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000478A3",
+    "Copy Paste Cheat": "player.additem 000478A3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rough Leather Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00047AC8",
+    "Copy Paste Cheat": "player.additem 00047AC8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Cameleon",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00048997",
+    "Copy Paste Cheat": "player.additem 48997 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Deer Skin Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00048999",
+    "Copy Paste Cheat": "player.additem 48999 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Deer Skin Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004899B",
+    "Copy Paste Cheat": "player.additem 0004899B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Salamander Scale Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004899C",
+    "Copy Paste Cheat": "player.additem 0004899C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Cat",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004899D",
+    "Copy Paste Cheat": "player.additem 0004899D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Cheetah",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004899E",
+    "Copy Paste Cheat": "player.additem 0004899E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Bear",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004899F",
+    "Copy Paste Cheat": "player.additem 0004899F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Owl",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489A0",
+    "Copy Paste Cheat": "player.additem 000489A0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Monkey",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489A1",
+    "Copy Paste Cheat": "player.additem 000489A1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Rhino",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489A2",
+    "Copy Paste Cheat": "player.additem 000489A2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Woodsman",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489A3",
+    "Copy Paste Cheat": "player.additem 000489A3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Fox",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489A4",
+    "Copy Paste Cheat": "player.additem 000489A4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Rat",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489A5",
+    "Copy Paste Cheat": "player.additem 000489A5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Tiger",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489A6",
+    "Copy Paste Cheat": "player.additem 000489A6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Tiger Fang Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489A9",
+    "Copy Paste Cheat": "player.additem 000489A9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Eagle Feather Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489AA",
+    "Copy Paste Cheat": "player.additem 000489AA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Horker",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489AB",
+    "Copy Paste Cheat": "player.additem 000489AB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Lemur",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489AC",
+    "Copy Paste Cheat": "player.additem 000489AC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Elephant",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489AD",
+    "Copy Paste Cheat": "player.additem 000489AD 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Cobra",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489AE",
+    "Copy Paste Cheat": "player.additem 000489AE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Eel",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489AF",
+    "Copy Paste Cheat": "player.additem 000489AF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mudcrab Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489B2",
+    "Copy Paste Cheat": "player.additem 000489B2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Shark",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000489B3",
+    "Copy Paste Cheat": "player.additem 000489B3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Assassin",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049147",
+    "Copy Paste Cheat": "player.additem 49147 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Scout",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004914A",
+    "Copy Paste Cheat": "player.additem 0004914A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Scout",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004914B",
+    "Copy Paste Cheat": "player.additem 0004914B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cured Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004914C",
+    "Copy Paste Cheat": "player.additem 0004914C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Quickness",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004914D",
+    "Copy Paste Cheat": "player.additem 0004914D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Cutpurse",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004914E",
+    "Copy Paste Cheat": "player.additem 0004914E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Thief~catcher",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004914F",
+    "Copy Paste Cheat": "player.additem 0004914F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Wizard’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049150",
+    "Copy Paste Cheat": "player.additem 49150 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Tumbler",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049151",
+    "Copy Paste Cheat": "player.additem 49151 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Skill",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049152",
+    "Copy Paste Cheat": "player.additem 49152 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Sniper Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049153",
+    "Copy Paste Cheat": "player.additem 49153 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fence Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049154",
+    "Copy Paste Cheat": "player.additem 49154 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Infiltration",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049155",
+    "Copy Paste Cheat": "player.additem 49155 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Footpad’s Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049156",
+    "Copy Paste Cheat": "player.additem 49156 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Frost",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049157",
+    "Copy Paste Cheat": "player.additem 49157 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Vindication",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004915A",
+    "Copy Paste Cheat": "player.additem 0004915A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Spellblocker Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004915B",
+    "Copy Paste Cheat": "player.additem 0004915B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Tundra",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004915C",
+    "Copy Paste Cheat": "player.additem 0004915C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Apprentice",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004915D",
+    "Copy Paste Cheat": "player.additem 0004915D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Weaponward Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004915E",
+    "Copy Paste Cheat": "player.additem 0004915E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Copperhead Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004915F",
+    "Copy Paste Cheat": "player.additem 0004915F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Insulation",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049160",
+    "Copy Paste Cheat": "player.additem 49160 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Outrider Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049163",
+    "Copy Paste Cheat": "player.additem 49163 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Riverwalking Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049164",
+    "Copy Paste Cheat": "player.additem 49164 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chameleon Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049165",
+    "Copy Paste Cheat": "player.additem 49165 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Life Detection",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049167",
+    "Copy Paste Cheat": "player.additem 49167 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Life Detection",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049168",
+    "Copy Paste Cheat": "player.additem 49168 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Legerity",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049169",
+    "Copy Paste Cheat": "player.additem 49169 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Legerity",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004916A",
+    "Copy Paste Cheat": "player.additem 0004916A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Marathon Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004916B",
+    "Copy Paste Cheat": "player.additem 0004916B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Health",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004916C",
+    "Copy Paste Cheat": "player.additem 0004916C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mage’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004916D",
+    "Copy Paste Cheat": "player.additem 0004916D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Acrobat",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004916E",
+    "Copy Paste Cheat": "player.additem 0004916E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Foot~soldier",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004916F",
+    "Copy Paste Cheat": "player.additem 0004916F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Archer’s Gauntlets",
+    "Rating": "1",
+    "Weight": "1",
+    "Value": "825",
+    "Enchantment": "Fortify Marksman on Self +8",
+    "Armor ID": "00049170",
+    "Copy Paste Cheat": "player.additem 49170 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Merchant’s Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049171",
+    "Copy Paste Cheat": "player.additem 49171 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Infiltrator’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049172",
+    "Copy Paste Cheat": "player.additem 49172 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Silence",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049173",
+    "Copy Paste Cheat": "player.additem 49173 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Night Eye",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049175",
+    "Copy Paste Cheat": "player.additem 49175 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Firewalker Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049176",
+    "Copy Paste Cheat": "player.additem 49176 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Nord Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049177",
+    "Copy Paste Cheat": "player.additem 49177 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Magehunter’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049178",
+    "Copy Paste Cheat": "player.additem 49178 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Protection",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049179",
+    "Copy Paste Cheat": "player.additem 49179 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Grounding",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004917A",
+    "Copy Paste Cheat": "player.additem 0004917A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Spell Absorption",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004917E",
+    "Copy Paste Cheat": "player.additem 0004917E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Waterwalking Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004917F",
+    "Copy Paste Cheat": "player.additem 0004917F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Spy",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049359",
+    "Copy Paste Cheat": "player.additem 49359 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Life Seeing",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004935C",
+    "Copy Paste Cheat": "player.additem 0004935C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Life Seeing",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004935D",
+    "Copy Paste Cheat": "player.additem 0004935D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Red Moun~tain",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004935E",
+    "Copy Paste Cheat": "player.additem 0004935E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Nimble Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004935F",
+    "Copy Paste Cheat": "player.additem 0004935F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fleetfoot Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049360",
+    "Copy Paste Cheat": "player.additem 49360 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Tireless Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049361",
+    "Copy Paste Cheat": "player.additem 49361 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Battle Medic’s Cuirass",
+    "Rating": "3",
+    "Weight": "11",
+    "Value": "3225",
+    "Enchantment": "Fortify Health on Self +20",
+    "Armor ID": "00049362",
+    "Copy Paste Cheat": "player.additem 49362 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Enlightenment",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049363",
+    "Copy Paste Cheat": "player.additem 49363 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Canyon Striding",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049364",
+    "Copy Paste Cheat": "player.additem 49364 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Proficiency",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049365",
+    "Copy Paste Cheat": "player.additem 49365 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Summer",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049366",
+    "Copy Paste Cheat": "player.additem 49366 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Nighteye Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049368",
+    "Copy Paste Cheat": "player.additem 49368 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "General’s Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049369",
+    "Copy Paste Cheat": "player.additem 49369 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Returning",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004936A",
+    "Copy Paste Cheat": "player.additem 0004936A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Fire Resistance",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004936B",
+    "Copy Paste Cheat": "player.additem 0004936B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Equinox",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004936C",
+    "Copy Paste Cheat": "player.additem 0004936C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Magicka Resistance",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004936D",
+    "Copy Paste Cheat": "player.additem 0004936D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Unyielding Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004936E",
+    "Copy Paste Cheat": "player.additem 0004936E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Free Movement",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004936F",
+    "Copy Paste Cheat": "player.additem 0004936F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Shock Resistance",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049370",
+    "Copy Paste Cheat": "player.additem 49370 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Solid Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049374",
+    "Copy Paste Cheat": "player.additem 49374 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Storms",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049375",
+    "Copy Paste Cheat": "player.additem 49375 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Spell Consumption",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049376",
+    "Copy Paste Cheat": "player.additem 49376 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Silt~runner",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049377",
+    "Copy Paste Cheat": "player.additem 49377 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Ranger",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049378",
+    "Copy Paste Cheat": "player.additem 49378 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Life Sight",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004937B",
+    "Copy Paste Cheat": "player.additem 0004937B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Life Sight",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004937C",
+    "Copy Paste Cheat": "player.additem 0004937C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Grace",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004937D",
+    "Copy Paste Cheat": "player.additem 0004937D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Sylvan Scout Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004937E",
+    "Copy Paste Cheat": "player.additem 0004937E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Everlasting",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004937F",
+    "Copy Paste Cheat": "player.additem 0004937F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Anu’s Blessing",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049380",
+    "Copy Paste Cheat": "player.additem 49380 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Tree Runner",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049381",
+    "Copy Paste Cheat": "player.additem 49381 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Protection",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049382",
+    "Copy Paste Cheat": "player.additem 49382 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Winter Solstice",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049383",
+    "Copy Paste Cheat": "player.additem 49383 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Nature’s Vengence",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049385",
+    "Copy Paste Cheat": "player.additem 49385 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Threefold Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049386",
+    "Copy Paste Cheat": "player.additem 49386 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Shaded Rest",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049387",
+    "Copy Paste Cheat": "player.additem 49387 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Canopy Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049388",
+    "Copy Paste Cheat": "player.additem 49388 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bladefall Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049389",
+    "Copy Paste Cheat": "player.additem 49389 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Movement",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004938A",
+    "Copy Paste Cheat": "player.additem 0004938A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Natural Assi~milation",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004938B",
+    "Copy Paste Cheat": "player.additem 0004938B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Stormrider Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004938C",
+    "Copy Paste Cheat": "player.additem 0004938C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Sylvan Barkshield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004938F",
+    "Copy Paste Cheat": "player.additem 0004938F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Stormrider Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049390",
+    "Copy Paste Cheat": "player.additem 49390 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Spelltaker’s Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049391",
+    "Copy Paste Cheat": "player.additem 49391 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Calming Sea",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049392",
+    "Copy Paste Cheat": "player.additem 49392 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Crystalline Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049393",
+    "Copy Paste Cheat": "player.additem 49393 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Exposition",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049396",
+    "Copy Paste Cheat": "player.additem 49396 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Beveled Gauntlets",
+    "Rating": "2",
+    "Weight": "3",
+    "Value": "2075",
+    "Enchantment": "Detect Life on Self 105ft",
+    "Armor ID": "00049397",
+    "Copy Paste Cheat": "player.additem 49397 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Poise",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049398",
+    "Copy Paste Cheat": "player.additem 49398 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lightning Run Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049399",
+    "Copy Paste Cheat": "player.additem 49399 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Crystal Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004939A",
+    "Copy Paste Cheat": "player.additem 0004939A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Annealed Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004939B",
+    "Copy Paste Cheat": "player.additem 0004939B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Flowing Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004939C",
+    "Copy Paste Cheat": "player.additem 0004939C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Tempered Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004939D",
+    "Copy Paste Cheat": "player.additem 0004939D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Shattering",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004939F",
+    "Copy Paste Cheat": "player.additem 0004939F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Mirrors",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493A0",
+    "Copy Paste Cheat": "player.additem 000493A0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Kiln",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493A1",
+    "Copy Paste Cheat": "player.additem 000493A1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Reflecting Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493A2",
+    "Copy Paste Cheat": "player.additem 000493A2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Quartz Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493A3",
+    "Copy Paste Cheat": "player.additem 000493A3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Fluid Motion",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493A4",
+    "Copy Paste Cheat": "player.additem 000493A4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Cleansing",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493A5",
+    "Copy Paste Cheat": "player.additem 000493A5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Borosilicate Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493A6",
+    "Copy Paste Cheat": "player.additem 000493A6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Hardened Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493A9",
+    "Copy Paste Cheat": "player.additem 000493A9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Insulated Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493AA",
+    "Copy Paste Cheat": "player.additem 000493AA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Purity",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493AB",
+    "Copy Paste Cheat": "player.additem 000493AB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silica Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000493AC",
+    "Copy Paste Cheat": "player.additem 000493AC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Smelter Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000494FF",
+    "Copy Paste Cheat": "player.additem 000494FF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Vigor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049500",
+    "Copy Paste Cheat": "player.additem 49500 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rugged Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049501",
+    "Copy Paste Cheat": "player.additem 49501 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ironheart Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049502",
+    "Copy Paste Cheat": "player.additem 49502 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "High Rock Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049503",
+    "Copy Paste Cheat": "player.additem 49503 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Arkay",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049506",
+    "Copy Paste Cheat": "player.additem 49506 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Revelation",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049507",
+    "Copy Paste Cheat": "player.additem 49507 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lightfoot Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049508",
+    "Copy Paste Cheat": "player.additem 49508 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Running",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049509",
+    "Copy Paste Cheat": "player.additem 49509 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Hammerfell Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004950A",
+    "Copy Paste Cheat": "player.additem 0004950A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Barkeep’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004950B",
+    "Copy Paste Cheat": "player.additem 0004950B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Skill",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004950C",
+    "Copy Paste Cheat": "player.additem 0004950C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Sunburst Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004950D",
+    "Copy Paste Cheat": "player.additem 0004950D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Elsweyr",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004950E",
+    "Copy Paste Cheat": "player.additem 0004950E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Empire",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049510",
+    "Copy Paste Cheat": "player.additem 49510 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Retributive Justice",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049511",
+    "Copy Paste Cheat": "player.additem 49511 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fire Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049512",
+    "Copy Paste Cheat": "player.additem 49512 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Skyrim Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049513",
+    "Copy Paste Cheat": "player.additem 49513 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Enchanterbane Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049514",
+    "Copy Paste Cheat": "player.additem 49514 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Resistance",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049515",
+    "Copy Paste Cheat": "player.additem 49515 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Royal Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049516",
+    "Copy Paste Cheat": "player.additem 49516 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Tower",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049519",
+    "Copy Paste Cheat": "player.additem 49519 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Black Marsh Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004951A",
+    "Copy Paste Cheat": "player.additem 0004951A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Eyes of Akatosh",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004951B",
+    "Copy Paste Cheat": "player.additem 0004951B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Thiefhunter’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004951C",
+    "Copy Paste Cheat": "player.additem 0004951C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Unburdened",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004951D",
+    "Copy Paste Cheat": "player.additem 0004951D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Extinguishing Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004951E",
+    "Copy Paste Cheat": "player.additem 0004951E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Potence",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004951F",
+    "Copy Paste Cheat": "player.additem 0004951F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Resilience",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049520",
+    "Copy Paste Cheat": "player.additem 49520 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Herald",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049521",
+    "Copy Paste Cheat": "player.additem 49521 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Power",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049522",
+    "Copy Paste Cheat": "player.additem 49522 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Forgemaster’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049523",
+    "Copy Paste Cheat": "player.additem 49523 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Forge",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049524",
+    "Copy Paste Cheat": "player.additem 49524 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Harbinger",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049652",
+    "Copy Paste Cheat": "player.additem 49652 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fortress Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049653",
+    "Copy Paste Cheat": "player.additem 49653 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Gladiator",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049654",
+    "Copy Paste Cheat": "player.additem 49654 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "General’s Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049655",
+    "Copy Paste Cheat": "player.additem 49655 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Frost Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049656",
+    "Copy Paste Cheat": "player.additem 49656 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Hand of Akatosh",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049657",
+    "Copy Paste Cheat": "player.additem 49657 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Sun",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049658",
+    "Copy Paste Cheat": "player.additem 49658 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Divine",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004965A",
+    "Copy Paste Cheat": "player.additem 0004965A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Witchfinder’s Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004965B",
+    "Copy Paste Cheat": "player.additem 0004965B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Flame",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004965C",
+    "Copy Paste Cheat": "player.additem 0004965C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the North",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004965D",
+    "Copy Paste Cheat": "player.additem 0004965D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Witchhunter Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004965E",
+    "Copy Paste Cheat": "player.additem 0004965E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ambassador’s Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004965F",
+    "Copy Paste Cheat": "player.additem 0004965F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Diplomat",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049660",
+    "Copy Paste Cheat": "player.additem 49660 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Undefeated",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049663",
+    "Copy Paste Cheat": "player.additem 49663 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Deep",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049664",
+    "Copy Paste Cheat": "player.additem 49664 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Sentinel",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049665",
+    "Copy Paste Cheat": "player.additem 49665 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Sentinel",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049666",
+    "Copy Paste Cheat": "player.additem 49666 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Jument",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049667",
+    "Copy Paste Cheat": "player.additem 49667 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Deepdweller’s Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049668",
+    "Copy Paste Cheat": "player.additem 49668 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Might",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049669",
+    "Copy Paste Cheat": "player.additem 49669 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Vitality",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004966A",
+    "Copy Paste Cheat": "player.additem 0004966A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Laborer",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004966B",
+    "Copy Paste Cheat": "player.additem 0004966B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Lifeblood",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004966C",
+    "Copy Paste Cheat": "player.additem 0004966C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Warmage’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004966D",
+    "Copy Paste Cheat": "player.additem 0004966D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Master Forge Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004966E",
+    "Copy Paste Cheat": "player.additem 0004966E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Miner’s Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004966F",
+    "Copy Paste Cheat": "player.additem 0004966F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Defender’s Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049670",
+    "Copy Paste Cheat": "player.additem 49670 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Fray",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049671",
+    "Copy Paste Cheat": "player.additem 49671 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Battle",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049672",
+    "Copy Paste Cheat": "player.additem 49672 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mountaineer’s Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049673",
+    "Copy Paste Cheat": "player.additem 49673 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cavern Guide Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049674",
+    "Copy Paste Cheat": "player.additem 49674 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Pathfinder",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049675",
+    "Copy Paste Cheat": "player.additem 49675 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cave Scout Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049676",
+    "Copy Paste Cheat": "player.additem 49676 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Retribution",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049677",
+    "Copy Paste Cheat": "player.additem 49677 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mercury Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049678",
+    "Copy Paste Cheat": "player.additem 49678 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Deep Dweller",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049679",
+    "Copy Paste Cheat": "player.additem 49679 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mountaineer’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004967A",
+    "Copy Paste Cheat": "player.additem 0004967A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Weaponbane Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004967B",
+    "Copy Paste Cheat": "player.additem 0004967B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Cave Viper",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004967C",
+    "Copy Paste Cheat": "player.additem 0004967C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Stormhammer Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004967D",
+    "Copy Paste Cheat": "player.additem 0004967D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Iron Mountain Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049681",
+    "Copy Paste Cheat": "player.additem 49681 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Stormhammer Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049682",
+    "Copy Paste Cheat": "player.additem 49682 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mage Fighter’s Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049683",
+    "Copy Paste Cheat": "player.additem 49683 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cave Diver’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049684",
+    "Copy Paste Cheat": "player.additem 49684 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Battlehunter Gauntlets",
+    "Rating": "2",
+    "Weight": "9",
+    "Value": "1225",
+    "Enchantment": "Detect Life on Self 65ft",
+    "Armor ID": "00049685",
+    "Copy Paste Cheat": "player.additem 49685 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Battlehunter Helmet",
+    "Rating": "2",
+    "Weight": "9",
+    "Value": "1225",
+    "Enchantment": "Detect Life on Self 65ft",
+    "Armor ID": "00049686",
+    "Copy Paste Cheat": "player.additem 49686 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Swamp Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049687",
+    "Copy Paste Cheat": "player.additem 49687 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Burning Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049688",
+    "Copy Paste Cheat": "player.additem 49688 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Savage Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049689",
+    "Copy Paste Cheat": "player.additem 49689 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Tenacity",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004968A",
+    "Copy Paste Cheat": "player.additem 0004968A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Warmonger",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004968B",
+    "Copy Paste Cheat": "player.additem 0004968B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ferocious Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004968C",
+    "Copy Paste Cheat": "player.additem 0004968C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shaman Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004968D",
+    "Copy Paste Cheat": "player.additem 0004968D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Warmaster Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004968E",
+    "Copy Paste Cheat": "player.additem 0004968E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Peak Climber’s Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004968F",
+    "Copy Paste Cheat": "player.additem 0004968F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Unrelenting",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049690",
+    "Copy Paste Cheat": "player.additem 49690 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Brutality",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049691",
+    "Copy Paste Cheat": "player.additem 49691 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Jugger~naut",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049692",
+    "Copy Paste Cheat": "player.additem 49692 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Frozen Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049693",
+    "Copy Paste Cheat": "player.additem 49693 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Snowblind Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049694",
+    "Copy Paste Cheat": "player.additem 49694 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Snowblind Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049695",
+    "Copy Paste Cheat": "player.additem 49695 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Darksplitter Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049696",
+    "Copy Paste Cheat": "player.additem 49696 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Spiked Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049697",
+    "Copy Paste Cheat": "player.additem 49697 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Untamed",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049698",
+    "Copy Paste Cheat": "player.additem 49698 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fire Ritual Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00049699",
+    "Copy Paste Cheat": "player.additem 49699 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Survival",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004969A",
+    "Copy Paste Cheat": "player.additem 0004969A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Pain Resistance",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004969B",
+    "Copy Paste Cheat": "player.additem 0004969B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Unstoppable",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004969C",
+    "Copy Paste Cheat": "player.additem 0004969C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of Poison Blood",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004969D",
+    "Copy Paste Cheat": "player.additem 0004969D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Storm Stomper Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004969E",
+    "Copy Paste Cheat": "player.additem 0004969E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Unbroken",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000496A2",
+    "Copy Paste Cheat": "player.additem 000496A2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Lightning",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000496A3",
+    "Copy Paste Cheat": "player.additem 000496A3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Magekiller Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000496A4",
+    "Copy Paste Cheat": "player.additem 000496A4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Drowned",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000496A5",
+    "Copy Paste Cheat": "player.additem 000496A5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Hunter",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F0",
+    "Copy Paste Cheat": "player.additem 0004F3F0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of the Hunter",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F1",
+    "Copy Paste Cheat": "player.additem 0004F3F1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Plain Striding",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F2",
+    "Copy Paste Cheat": "player.additem 0004F3F2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Force",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F3",
+    "Copy Paste Cheat": "player.additem 0004F3F3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Stalwart Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F4",
+    "Copy Paste Cheat": "player.additem 0004F3F4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Salubrious Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F6",
+    "Copy Paste Cheat": "player.additem 0004F3F6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Armor Crafter’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F7",
+    "Copy Paste Cheat": "player.additem 0004F3F7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Savannah",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F8",
+    "Copy Paste Cheat": "player.additem 0004F3F8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Clannfear Hide Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3F9",
+    "Copy Paste Cheat": "player.additem 0004F3F9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lion’s Paw Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3FA",
+    "Copy Paste Cheat": "player.additem 0004F3FA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Horselord’s Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3FB",
+    "Copy Paste Cheat": "player.additem 0004F3FB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Winterbane Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3FC",
+    "Copy Paste Cheat": "player.additem 0004F3FC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Moonlight Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3FD",
+    "Copy Paste Cheat": "player.additem 0004F3FD 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Moonlight Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3FE",
+    "Copy Paste Cheat": "player.additem 0004F3FE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Retributive Strike",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F3FF",
+    "Copy Paste Cheat": "player.additem 0004F3FF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Reflection",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F400",
+    "Copy Paste Cheat": "player.additem 0004F400 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bonfire Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F401",
+    "Copy Paste Cheat": "player.additem 0004F401 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Winter",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F402",
+    "Copy Paste Cheat": "player.additem 0004F402 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helmet of Spell Resistence",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F403",
+    "Copy Paste Cheat": "player.additem 0004F403 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of Freedom",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F404",
+    "Copy Paste Cheat": "player.additem 0004F404 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lightning Strider Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0004F405",
+    "Copy Paste Cheat": "player.additem 0004F405 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Flame",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00053D74",
+    "Copy Paste Cheat": "player.additem 00053D74 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the North",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00053D75",
+    "Copy Paste Cheat": "player.additem 00053D75 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Justice",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00053D76",
+    "Copy Paste Cheat": "player.additem 00053D76 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Aegis of Reflection",
+    "Rating": "3",
+    "Weight": "3",
+    "Value": "5645",
+    "Enchantment": "Reflect Spell on Self 14%",
+    "Armor ID": "00053D77",
+    "Copy Paste Cheat": "player.additem 00053D77 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Turtle",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00053D78",
+    "Copy Paste Cheat": "player.additem 00053D78 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of Grounding",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00053D79",
+    "Copy Paste Cheat": "player.additem 00053D79 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Palace Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00064F75",
+    "Copy Paste Cheat": "player.additem 00064F75 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Watch Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000653F7",
+    "Copy Paste Cheat": "player.additem 000653F7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rusty Iron Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000661C1",
+    "Copy Paste Cheat": "player.additem 000661C1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rusty Iron Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000661C2",
+    "Copy Paste Cheat": "player.additem 000661C2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rusty Iron Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000661C3",
+    "Copy Paste Cheat": "player.additem 000661C3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rusty Iron Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000661C4",
+    "Copy Paste Cheat": "player.additem 000661C4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rusty Iron Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000661C5",
+    "Copy Paste Cheat": "player.additem 000661C5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Churl Robe",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00066A33",
+    "Copy Paste Cheat": "player.additem 00066A33 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Caitiff Robe",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00066A34",
+    "Copy Paste Cheat": "player.additem 00066A34 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynval Robe",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00066A35",
+    "Copy Paste Cheat": "player.additem 00066A35 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynreeve Robe",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00066A36",
+    "Copy Paste Cheat": "player.additem 00066A36 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynmarcher Robe",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00066A38",
+    "Copy Paste Cheat": "player.additem 00066A38 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Markynaz Robe",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00066A39",
+    "Copy Paste Cheat": "player.additem 00066A39 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Valkynaz Robe",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00066A3A",
+    "Copy Paste Cheat": "player.additem 00066A3A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Escutcheon of Chorrol",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0006BDFE",
+    "Copy Paste Cheat": "player.additem 0006BDFE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Broken Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0006E2E1",
+    "Copy Paste Cheat": "player.additem 0006E2E1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Light Iron Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733E0",
+    "Copy Paste Cheat": "player.additem 000733E0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mithril Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733E4",
+    "Copy Paste Cheat": "player.additem 000733E4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733E6",
+    "Copy Paste Cheat": "player.additem 000733E6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Iron Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733EB",
+    "Copy Paste Cheat": "player.additem 000733EB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Iron Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733ED",
+    "Copy Paste Cheat": "player.additem 000733ED 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dwarven Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733EE",
+    "Copy Paste Cheat": "player.additem 000733EE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ebony Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733EF",
+    "Copy Paste Cheat": "player.additem 000733EF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Daedric Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733F0",
+    "Copy Paste Cheat": "player.additem 000733F0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dwarven Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733F1",
+    "Copy Paste Cheat": "player.additem 000733F1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Orcish Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733F2",
+    "Copy Paste Cheat": "player.additem 000733F2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ebony Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733F3",
+    "Copy Paste Cheat": "player.additem 000733F3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Daedric Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000733F4",
+    "Copy Paste Cheat": "player.additem 000733F4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blades Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000738D6",
+    "Copy Paste Cheat": "player.additem 000738D6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blades Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000738D7",
+    "Copy Paste Cheat": "player.additem 000738D7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bloodworm Helm",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0007BE43",
+    "Copy Paste Cheat": "player.additem 0007BE43 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fin Gleam",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00082DD8",
+    "Copy Paste Cheat": "player.additem 00082DD8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Hands of Midnight",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "00082DDF",
+    "Copy Paste Cheat": "player.additem 00082DDF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Spell Breaker",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000897C2",
+    "Copy Paste Cheat": "player.additem 000897C2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Caitiff Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0008B882",
+    "Copy Paste Cheat": "player.additem 0008B882 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynval Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0008B888",
+    "Copy Paste Cheat": "player.additem 0008B888 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynreeve Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0008B88A",
+    "Copy Paste Cheat": "player.additem 0008B88A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dremora Kynmarcher Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0008B88C",
+    "Copy Paste Cheat": "player.additem 0008B88C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Horseman Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0009416A",
+    "Copy Paste Cheat": "player.additem 0009416A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Chainmail Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000977BC",
+    "Copy Paste Cheat": "player.additem 000977BC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fur Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000977BE",
+    "Copy Paste Cheat": "player.additem 000977BE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Mithril Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000977C0",
+    "Copy Paste Cheat": "player.additem 000977C0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of Oreyn Bearclaw",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A5659",
+    "Copy Paste Cheat": "player.additem 000A5659 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Broadhead Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A577A",
+    "Copy Paste Cheat": "player.additem 000A577A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Huntsman Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A577B",
+    "Copy Paste Cheat": "player.additem 000A577B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Clear Sight Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A577C",
+    "Copy Paste Cheat": "player.additem 000A577C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Vvardenfell Trader’s Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A577D",
+    "Copy Paste Cheat": "player.additem 000A577D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Farlands Trader",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A577E",
+    "Copy Paste Cheat": "player.additem 000A577E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Blower’s Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A577F",
+    "Copy Paste Cheat": "player.additem 000A577F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Lockbreaking",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A5780",
+    "Copy Paste Cheat": "player.additem 000A5780 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Passing",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A5781",
+    "Copy Paste Cheat": "player.additem 000A5781 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Magnifying Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A5782",
+    "Copy Paste Cheat": "player.additem 000A5782 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Smuggler’s Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A5783",
+    "Copy Paste Cheat": "player.additem 000A5783 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Forest Stalker",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A5784",
+    "Copy Paste Cheat": "player.additem 000A5784 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of Soft Walking",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000A5785",
+    "Copy Paste Cheat": "player.additem 000A5785 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Dragon Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000ADD50",
+    "Copy Paste Cheat": "player.additem 000ADD50 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Dragon Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000ADDA3",
+    "Copy Paste Cheat": "player.additem 000ADDA3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Dragon Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000ADDAA",
+    "Copy Paste Cheat": "player.additem 000ADDAA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Dragon Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000ADE26",
+    "Copy Paste Cheat": "player.additem 000ADE26 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Dragon Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000ADE27",
+    "Copy Paste Cheat": "player.additem 000ADE27 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Dragon Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000ADE2A",
+    "Copy Paste Cheat": "player.additem 000ADE2A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ayleid Crown of Nenalata",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000BE5D8",
+    "Copy Paste Cheat": "player.additem 000BE5D8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ayleid Crown of Lindai",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000BE5DA",
+    "Copy Paste Cheat": "player.additem 000BE5DA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Bands of Kwang Lao",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C47B1",
+    "Copy Paste Cheat": "player.additem 000C47B1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Ceremonial Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C55FE",
+    "Copy Paste Cheat": "player.additem 000C55FE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Ceremonial Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C560B",
+    "Copy Paste Cheat": "player.additem 000C560B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Ceremonial Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C560D",
+    "Copy Paste Cheat": "player.additem 000C560D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Glass Ceremonial Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C560E",
+    "Copy Paste Cheat": "player.additem 000C560E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dwarven Ceremonial Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C5610",
+    "Copy Paste Cheat": "player.additem 000C5610 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ebony Ceremonial Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C5615",
+    "Copy Paste Cheat": "player.additem 000C5615 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ebony Ceremonial Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C561E",
+    "Copy Paste Cheat": "player.additem 000C561E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Apron of Adroitness",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C5B4F",
+    "Copy Paste Cheat": "player.additem 000C5B4F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Ceremonial Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C7984",
+    "Copy Paste Cheat": "player.additem 000C7984 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ancient Blades Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C8540",
+    "Copy Paste Cheat": "player.additem 000C8540 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Ancient Blades Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000C8541",
+    "Copy Paste Cheat": "player.additem 000C8541 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Dondoran’s Juggernaut",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA10F",
+    "Copy Paste Cheat": "player.additem 000CA10F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Birthright of Astalon",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA110",
+    "Copy Paste Cheat": "player.additem 000CA110 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Swift Merchant",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA111",
+    "Copy Paste Cheat": "player.additem 000CA111 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Monkeypants",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA112",
+    "Copy Paste Cheat": "player.additem 000CA112 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Quicksilver Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA113",
+    "Copy Paste Cheat": "player.additem 000CA113 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rasheda’s Special",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA114",
+    "Copy Paste Cheat": "player.additem 000CA114 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Tower of the Nine",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA116",
+    "Copy Paste Cheat": "player.additem 000CA116 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Aegis of the Apocalypse",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA117",
+    "Copy Paste Cheat": "player.additem 000CA117 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Hands of the Atronach",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA118",
+    "Copy Paste Cheat": "player.additem 000CA118 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Deep Delver",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA119",
+    "Copy Paste Cheat": "player.additem 000CA119 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Fists of the Drunkard",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA11A",
+    "Copy Paste Cheat": "player.additem 000CA11A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of Ferocity",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA11B",
+    "Copy Paste Cheat": "player.additem 000CA11B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of Gluttony",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CA11C",
+    "Copy Paste Cheat": "player.additem 000CA11C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Elven Ceremonial Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CAB65",
+    "Copy Paste Cheat": "player.additem 000CAB65 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Pinarus’ Iron Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "000CBD4F",
+    "Copy Paste Cheat": "player.additem 000CBD4F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Amelion Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD18",
+    "Copy Paste Cheat": "player.additem 0012DD18 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Brusef Amelion’s Greaves",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD18",
+    "Copy Paste Cheat": "player.additem 0012DD18 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Amelion Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD19",
+    "Copy Paste Cheat": "player.additem 0012DD19 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Brusef Amelion’s Helmet",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD19",
+    "Copy Paste Cheat": "player.additem 0012DD19 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Amelion Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD1A",
+    "Copy Paste Cheat": "player.additem 0012DD1A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Brusef Amelion’s Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD1A",
+    "Copy Paste Cheat": "player.additem 0012DD1A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Amelion Armor",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD1B",
+    "Copy Paste Cheat": "player.additem 0012DD1B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Brusef Amelion’s Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD1B",
+    "Copy Paste Cheat": "player.additem 0012DD1B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Brusef Amelion’s Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD1C",
+    "Copy Paste Cheat": "player.additem 0012DD1C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Knights of the Thorn Shield",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0012DD1D",
+    "Copy Paste Cheat": "player.additem 0012DD1D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rough Leather Boots",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0015985B",
+    "Copy Paste Cheat": "player.additem 0015985B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rough Leather Cuirass",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0015985C",
+    "Copy Paste Cheat": "player.additem 0015985C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rough Leather Gauntlets",
+    "Rating": "",
+    "Weight": "",
+    "Value": "",
+    "Enchantment": "",
+    "Armor ID": "0015985D",
+    "Copy Paste Cheat": "player.additem 0015985D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Rough Leather Helmet",
+    "Rating": "1",
+    "Weight": "1",
+    "Value": "10",
+    "Enchantment": "–",
+    "Armor ID": "0015985F",
+    "Copy Paste Cheat": "player.additem 0015985F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Valdemar’s Shield",
+    "Rating": "7",
+    "Weight": "14",
+    "Value": "3800",
+    "Enchantment": "Reflect Damage on Self 9%",
+    "Armor ID": "00187BBC",
+    "Copy Paste Cheat": "player.additem 00187BBC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Watch Boots (doesn’t spawn)",
+    "Rating": "–",
+    "Weight": "–",
+    "Value": "–",
+    "Enchantment": "–",
+    "Armor ID": "0018AE4B",
+    "Copy Paste Cheat": "player.additem 0018AE4B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Watch Cuirass (doesn’t spawn)",
+    "Rating": "–",
+    "Weight": "–",
+    "Value": "–",
+    "Enchantment": "–",
+    "Armor ID": "0018AE4C",
+    "Copy Paste Cheat": "player.additem 0018AE4C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Watch Gauntlets (doesn’t spawn)",
+    "Rating": "–",
+    "Weight": "–",
+    "Value": "–",
+    "Enchantment": "–",
+    "Armor ID": "0018AE4D",
+    "Copy Paste Cheat": "player.additem 0018AE4D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Watch Greaves (doesn’t spawn)",
+    "Rating": "–",
+    "Weight": "–",
+    "Value": "–",
+    "Enchantment": "–",
+    "Armor ID": "0018AE4E",
+    "Copy Paste Cheat": "player.additem 0018AE4E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Imperial Watch Helmet (doesn’t spawn)",
+    "Rating": "–",
+    "Weight": "–",
+    "Value": "–",
+    "Enchantment": "–",
+    "Armor ID": "0018AE4F",
+    "Copy Paste Cheat": "player.additem 0018AE4F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Heavy – Tier 1)",
+    "Rating": "4",
+    "Weight": "0",
+    "Value": "300",
+    "Enchantment": "Fortify Restoration on Self +2",
+    "Armor ID": "0A000ECF",
+    "Copy Paste Cheat": "player.additem 0A000ECF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Heavy – Tier 2)",
+    "Rating": "5",
+    "Weight": "0",
+    "Value": "400",
+    "Enchantment": "Fortify Restoration on Self +3",
+    "Armor ID": "0A000EC7",
+    "Copy Paste Cheat": "player.additem 0A000EC7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Heavy – Tier 3)",
+    "Rating": "5",
+    "Weight": "0",
+    "Value": "450",
+    "Enchantment": "Fortify Restoration on Self +4",
+    "Armor ID": "0A000EC1",
+    "Copy Paste Cheat": "player.additem 0A000EC1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Heavy – Tier 4)",
+    "Rating": "6",
+    "Weight": "0",
+    "Value": "550",
+    "Enchantment": "Fortify Restoration on Self +5",
+    "Armor ID": "0A000EBB",
+    "Copy Paste Cheat": "player.additem 0A000EBB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Heavy – Tier 5)",
+    "Rating": "7",
+    "Weight": "0",
+    "Value": "700",
+    "Enchantment": "Fortify Restoration on Self +6",
+    "Armor ID": "0A000EB5",
+    "Copy Paste Cheat": "player.additem 0A000EB5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Light – Tier 1)",
+    "Rating": "2",
+    "Weight": "0",
+    "Value": "300",
+    "Enchantment": "Fortify Restoration on Self +2",
+    "Armor ID": "0A000EAF",
+    "Copy Paste Cheat": "player.additem 0A000EAF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Light – Tier 2)",
+    "Rating": "3",
+    "Weight": "0",
+    "Value": "400",
+    "Enchantment": "Fortify Restoration on Self +3",
+    "Armor ID": "0A000EA9",
+    "Copy Paste Cheat": "player.additem 0A000EA9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Light – Tier 3)",
+    "Rating": "3",
+    "Weight": "0",
+    "Value": "500",
+    "Enchantment": "Fortify Restoration on Self +4",
+    "Armor ID": "0A000EA3",
+    "Copy Paste Cheat": "player.additem 0A000EA3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Light – Tier 4)",
+    "Rating": "4",
+    "Weight": "0",
+    "Value": "600",
+    "Enchantment": "Fortify Restoration on Self +5",
+    "Armor ID": "0A000E9D",
+    "Copy Paste Cheat": "player.additem 0A000E9D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Boots of the Crusader (Light – Tier 5)",
+    "Rating": "5",
+    "Weight": "0",
+    "Value": "700",
+    "Enchantment": "Fortify Restoration on Self +6",
+    "Armor ID": "0A000E97",
+    "Copy Paste Cheat": "player.additem 0A000E97 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Heavy – Tier 1)",
+    "Rating": "10",
+    "Weight": "30",
+    "Value": "7050",
+    "Enchantment": "Fortify Health 15 ptsFortify Restoration 2 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000ECE",
+    "Copy Paste Cheat": "player.additem 0A000ECE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Heavy – Tier 2)",
+    "Rating": "12",
+    "Weight": "40",
+    "Value": "7600",
+    "Enchantment": "Fortify Health 18 ptsFortify Restoration 3 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000EC6",
+    "Copy Paste Cheat": "player.additem 0A000EC6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Heavy – Tier 3)",
+    "Rating": "13",
+    "Weight": "45",
+    "Value": "8150",
+    "Enchantment": "Fortify Health 21 ptsFortify Restoration 4 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000EC0",
+    "Copy Paste Cheat": "player.additem 0A000EC0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Heavy – Tier 4)",
+    "Rating": "15",
+    "Weight": "52",
+    "Value": "8700",
+    "Enchantment": "Fortify Health 24 ptsFortify Restoration 5 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000EBA",
+    "Copy Paste Cheat": "player.additem 0A000EBA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Heavy – Tier 5)",
+    "Rating": "18",
+    "Weight": "60",
+    "Value": "9250",
+    "Enchantment": "Fortify Health 27 ptsFortify Restoration 6 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000EB4",
+    "Copy Paste Cheat": "player.additem 0A000EB4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Light – Tier 1)",
+    "Rating": "6",
+    "Weight": "6",
+    "Value": "7050",
+    "Enchantment": "Fortify Health 15 ptsFortify Restoration 2 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000EAE",
+    "Copy Paste Cheat": "player.additem 0A000EAE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Light – Tier 2)",
+    "Rating": "8",
+    "Weight": "9",
+    "Value": "7600",
+    "Enchantment": "Fortify Health 18 ptsFortify Restoration 3 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000EA8",
+    "Copy Paste Cheat": "player.additem 0A000EA8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Light – Tier 3)",
+    "Rating": "8",
+    "Weight": "11",
+    "Value": "8150",
+    "Enchantment": "Fortify Health 21 ptsFortify Restoration 4 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000EA2",
+    "Copy Paste Cheat": "player.additem 0A000EA2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Light – Tier 4)",
+    "Rating": "10",
+    "Weight": "13",
+    "Value": "8700",
+    "Enchantment": "Fortify Health 24 ptsFortify Restoration 5 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000E9C",
+    "Copy Paste Cheat": "player.additem 0A000E9C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Cuirass of the Crusader (Light – Tier 5)",
+    "Rating": "12",
+    "Weight": "15",
+    "Value": "9250",
+    "Enchantment": "Fortify Health 27 ptsFortify Restoration 6 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000E96",
+    "Copy Paste Cheat": "player.additem 0A000E96 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Heavy – Tier 1)",
+    "Rating": "4",
+    "Weight": "6",
+    "Value": "1350",
+    "Enchantment": "Fortify Restoration 5 ptsResist Disease 50%",
+    "Armor ID": "0A000ECD",
+    "Copy Paste Cheat": "player.additem 0A000ECD 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Heavy – Tier 2)",
+    "Rating": "5",
+    "Weight": "8",
+    "Value": "1450",
+    "Enchantment": "Fortify Restoration 6 ptsResist Disease 50%",
+    "Armor ID": "0A000EC5",
+    "Copy Paste Cheat": "player.additem 0A000EC5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Heavy – Tier 3)",
+    "Rating": "5",
+    "Weight": "9",
+    "Value": "1550",
+    "Enchantment": "Fortify Restoration 7 ptsResist Disease 50%",
+    "Armor ID": "0A000EBF",
+    "Copy Paste Cheat": "player.additem 0A000EBF 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Heavy – Tier 4)",
+    "Rating": "6",
+    "Weight": "10",
+    "Value": "1650",
+    "Enchantment": "Fortify Restoration 8 ptsResist Disease 50%",
+    "Armor ID": "0A000EB9",
+    "Copy Paste Cheat": "player.additem 0A000EB9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Heavy – Tier 5)",
+    "Rating": "7",
+    "Weight": "12",
+    "Value": "1750",
+    "Enchantment": "Fortify Restoration 9 ptsResist Disease 50%",
+    "Armor ID": "0A000EB3",
+    "Copy Paste Cheat": "player.additem 0A000EB3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Light – Tier 1)",
+    "Rating": "2",
+    "Weight": "1.5",
+    "Value": "1350",
+    "Enchantment": "Fortify Restoration 5 ptsResist Disease 50%",
+    "Armor ID": "0A000EAD",
+    "Copy Paste Cheat": "player.additem 0A000EAD 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Light – Tier 2)",
+    "Rating": "3",
+    "Weight": "1",
+    "Value": "1450",
+    "Enchantment": "Fortify Restoration 6 ptsResist Disease 50%",
+    "Armor ID": "0A000EA7",
+    "Copy Paste Cheat": "player.additem 0A000EA7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Light – Tier 3)",
+    "Rating": "3",
+    "Weight": "2",
+    "Value": "1550",
+    "Enchantment": "Fortify Restoration 7 ptsResist Disease 50%",
+    "Armor ID": "0A000EA1",
+    "Copy Paste Cheat": "player.additem 0A000EA1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Light – Tier 4)",
+    "Rating": "4",
+    "Weight": "2",
+    "Value": "1650",
+    "Enchantment": "Fortify Restoration 8 ptsResist Disease 50%",
+    "Armor ID": "0A000E9B",
+    "Copy Paste Cheat": "player.additem 0A000E9B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Crusader (Light – Tier 5)",
+    "Rating": "5",
+    "Weight": "3",
+    "Value": "1750",
+    "Enchantment": "Fortify Restoration 9 ptsResist Disease 50%",
+    "Armor ID": "0A000E95",
+    "Copy Paste Cheat": "player.additem 0A000E95 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Heavy – Tier 1)",
+    "Rating": "6",
+    "Weight": "18",
+    "Value": "800",
+    "Enchantment": "Fortify Restoration 2 ptsFortify Destruction 5 pts",
+    "Armor ID": "0A000ECC",
+    "Copy Paste Cheat": "player.additem 0A000ECC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Heavy – Tier 2)",
+    "Rating": "7",
+    "Weight": "24",
+    "Value": "1000",
+    "Enchantment": "Fortify Restoration 3 ptsFortify Destruction 6 pts",
+    "Armor ID": "0A000EC4",
+    "Copy Paste Cheat": "player.additem 0A000EC4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Heavy – Tier 3)",
+    "Rating": "8",
+    "Weight": "27",
+    "Value": "1200",
+    "Enchantment": "Fortify Restoration 4 ptsFortify Destruction 7 pts",
+    "Armor ID": "0A000EBE",
+    "Copy Paste Cheat": "player.additem 0A000EBE 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Heavy – Tier 4)",
+    "Rating": "9",
+    "Weight": "31",
+    "Value": "1400",
+    "Enchantment": "Fortify Restoration 5 ptsFortify Destruction 8 pts",
+    "Armor ID": "0A000EB8",
+    "Copy Paste Cheat": "player.additem 0A000EB8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Heavy – Tier 5)",
+    "Rating": "11",
+    "Weight": "36",
+    "Value": "1600",
+    "Enchantment": "Fortify Restoration 6 ptsFortify Destruction 9 pts",
+    "Armor ID": "0A000EB2",
+    "Copy Paste Cheat": "player.additem 0A000EB2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Light – Tier 1)",
+    "Rating": "3",
+    "Weight": "4",
+    "Value": "800",
+    "Enchantment": "Fortify Restoration 2 ptsFortify Destruction 5 pts",
+    "Armor ID": "0A000EAC",
+    "Copy Paste Cheat": "player.additem 0A000EAC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Light – Tier 2)",
+    "Rating": "4",
+    "Weight": "5",
+    "Value": "1000",
+    "Enchantment": "Fortify Restoration 3 ptsFortify Destruction 6 pts",
+    "Armor ID": "0A000EA6",
+    "Copy Paste Cheat": "player.additem 0A000EA6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Light – Tier 3)",
+    "Rating": "5",
+    "Weight": "6",
+    "Value": "1200",
+    "Enchantment": "Fortify Restoration 4 ptsFortify Destruction 7 pts",
+    "Armor ID": "0A000EA0",
+    "Copy Paste Cheat": "player.additem 0A000EA0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Light – Tier 4)",
+    "Rating": "6",
+    "Weight": "7",
+    "Value": "8700",
+    "Enchantment": "Fortify Health 24 ptsFortify Restoration 5 ptsResist Normal Weapons 15%",
+    "Armor ID": "0A000E9A",
+    "Copy Paste Cheat": "player.additem 0A000E9A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Greaves of the Crusader (Light – Tier 5)",
+    "Rating": "7",
+    "Weight": "9",
+    "Value": "1600",
+    "Enchantment": "Fortify Restoration 6 ptsFortify Destruction 9 pts",
+    "Armor ID": "0A000E94",
+    "Copy Paste Cheat": "player.additem 0A000E94 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Heavy – Tier 1)",
+    "Rating": "4",
+    "Weight": "0",
+    "Value": "2800",
+    "Enchantment": "Fortify Restoration 2 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000ECB",
+    "Copy Paste Cheat": "player.additem 0A000ECB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Heavy – Tier 2)",
+    "Rating": "5",
+    "Weight": "8",
+    "Value": "2900",
+    "Enchantment": "Fortify Restoration 3 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000EC3",
+    "Copy Paste Cheat": "player.additem 0A000EC3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Heavy – Tier 3)",
+    "Rating": "5",
+    "Weight": "9",
+    "Value": "3000",
+    "Enchantment": "Fortify Restoration 4 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000EBD",
+    "Copy Paste Cheat": "player.additem 0A000EBD 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Heavy – Tier 4)",
+    "Rating": "6",
+    "Weight": "10",
+    "Value": "3050",
+    "Enchantment": "Fortify Restoration 5 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000EB7",
+    "Copy Paste Cheat": "player.additem 0A000EB7 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Heavy – Tier 5)",
+    "Rating": "7",
+    "Weight": "12",
+    "Value": "3200",
+    "Enchantment": "Fortify Restoration 6 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000EB1",
+    "Copy Paste Cheat": "player.additem 0A000EB1 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Light – Tier 1)",
+    "Rating": "2",
+    "Weight": "7",
+    "Value": "2800",
+    "Enchantment": "Fortify Restoration 2 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000EAB",
+    "Copy Paste Cheat": "player.additem 0A000EAB 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Light – Tier 2)",
+    "Rating": "3",
+    "Weight": "1",
+    "Value": "2900",
+    "Enchantment": "Fortify Restoration 3 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000EA5",
+    "Copy Paste Cheat": "player.additem 0A000EA5 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Light – Tier 3)",
+    "Rating": "3",
+    "Weight": "2",
+    "Value": "3000",
+    "Enchantment": "Fortify Restoration 4 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000E9F",
+    "Copy Paste Cheat": "player.additem 0A000E9F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Light – Tier 4)",
+    "Rating": "4",
+    "Weight": "2",
+    "Value": "3100",
+    "Enchantment": "Fortify Restoration 5 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000E99",
+    "Copy Paste Cheat": "player.additem 0A000E99 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Helm of the Crusader (Light – Tier 5)",
+    "Rating": "5",
+    "Weight": "3",
+    "Value": "3200",
+    "Enchantment": "Fortify Restoration 6 ptsFortify Personality 25 pts",
+    "Armor ID": "0A000E93",
+    "Copy Paste Cheat": "player.additem 0A000E93 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Heavy – Tier 1)",
+    "Rating": "12",
+    "Weight": "12",
+    "Value": "4100",
+    "Enchantment": "Reflect Spell 10%",
+    "Armor ID": "0A000ECA",
+    "Copy Paste Cheat": "player.additem 0A000ECA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Heavy – Tier 2)",
+    "Rating": "15",
+    "Weight": "16",
+    "Value": "4900",
+    "Enchantment": "Reflect Spell 12%",
+    "Armor ID": "0A000EC2",
+    "Copy Paste Cheat": "player.additem 0A000EC2 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Heavy – Tier 3)",
+    "Rating": "16",
+    "Weight": "18",
+    "Value": "5700",
+    "Enchantment": "Reflect Spell 14%",
+    "Armor ID": "0A000EBC",
+    "Copy Paste Cheat": "player.additem 0A000EBC 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Heavy – Tier 4)",
+    "Rating": "18",
+    "Weight": "21",
+    "Value": "6500",
+    "Enchantment": "Reflect Spell 16%",
+    "Armor ID": "0A000EB6",
+    "Copy Paste Cheat": "player.additem 0A000EB6 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Heavy – Tier 5)",
+    "Rating": "22",
+    "Weight": "24",
+    "Value": "7300",
+    "Enchantment": "Reflect Spell 18%",
+    "Armor ID": "0A000EB0",
+    "Copy Paste Cheat": "player.additem 0A000EB0 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Light – Tier 1)",
+    "Rating": "7",
+    "Weight": "3",
+    "Value": "4100",
+    "Enchantment": "Reflect Spell 10%",
+    "Armor ID": "0A000EAA",
+    "Copy Paste Cheat": "player.additem 0A000EAA 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Light – Tier 2)",
+    "Rating": "9",
+    "Weight": "3",
+    "Value": "4900",
+    "Enchantment": "Reflect Spell 12%",
+    "Armor ID": "0A000EA4",
+    "Copy Paste Cheat": "player.additem 0A000EA4 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Light – Tier 3)",
+    "Rating": "10",
+    "Weight": "4",
+    "Value": "5700",
+    "Enchantment": "Reflect Spell 14%",
+    "Armor ID": "0A000E9E",
+    "Copy Paste Cheat": "player.additem 0A000E9E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Light – Tier 4)",
+    "Rating": "12",
+    "Weight": "5",
+    "Value": "6500",
+    "Enchantment": "Reflect Spell 16%",
+    "Armor ID": "0A000E98",
+    "Copy Paste Cheat": "player.additem 0A000E98 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield of the Crusader (Light – Tier 5)",
+    "Rating": "15",
+    "Weight": "6",
+    "Value": "7300",
+    "Enchantment": "Reflect Spell 18%",
+    "Armor ID": "0A000E92",
+    "Copy Paste Cheat": "player.additem 0A000E92 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Knights of the Nine Cuirass",
+    "Rating": "7",
+    "Weight": "9",
+    "Value": "90",
+    "Enchantment": "–",
+    "Armor ID": "0A000EC9",
+    "Copy Paste Cheat": "player.additem 0A000EC9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Knights of the Nine Shield",
+    "Rating": "9",
+    "Weight": "3",
+    "Value": "45",
+    "Enchantment": "–",
+    "Armor ID": "0A000EC8",
+    "Copy Paste Cheat": "player.additem 0A000EC8 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lord Kelvyn’s Bulwark (Tier 1)",
+    "Rating": "13",
+    "Weight": "11",
+    "Value": "3095",
+    "Enchantment": "Fortify Endurance 3 ptsFortify Health 15 ptsFortify Block 5 pts",
+    "Armor ID": "01011f17",
+    "Copy Paste Cheat": "player.additem 01011f17 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lord Kelvyn’s Bulwark (Tier 2)",
+    "Rating": "14",
+    "Weight": "13",
+    "Value": "4195",
+    "Enchantment": "Fortify Endurance 4 ptsFortify Health 20 ptsFortify Block 7 pts",
+    "Armor ID": "01011f19",
+    "Copy Paste Cheat": "player.additem 01011f19 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lord Kelvyn’s Bulwark (Tier 3)",
+    "Rating": "16",
+    "Weight": "15",
+    "Value": "5360",
+    "Enchantment": "Fortify Endurance 5 ptsFortify Health 25 ptsFortify Block 9 pts",
+    "Armor ID": "01011f1a",
+    "Copy Paste Cheat": "player.additem 01011f1a 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lord Kelvyn’s Bulwark (Tier 4)",
+    "Rating": "17.5",
+    "Weight": "17",
+    "Value": "6660",
+    "Enchantment": "Fortify Endurance 6 ptsFortify Health 30 ptsFortify Block 11 pts",
+    "Armor ID": "01011f1b",
+    "Copy Paste Cheat": "player.additem 01011f1b 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lord Kelvyn’s Bulwark (Tier 5)",
+    "Rating": "19",
+    "Weight": "20",
+    "Value": "8250",
+    "Enchantment": "Fortify Endurance 7 ptsFortify Health 35 ptsFortify Block 13 pts",
+    "Armor ID": "01011f1c",
+    "Copy Paste Cheat": "player.additem 01011f1c 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lord Kelvyn’s Bulwark (Tier 6)",
+    "Rating": "23.5",
+    "Weight": "23",
+    "Value": "10800",
+    "Enchantment": "Fortify Endurance 8 ptsFortify Health 40 ptsFortify Block 15 pts",
+    "Armor ID": "01011f1d",
+    "Copy Paste Cheat": "player.additem 01011f1d 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lord Kelvyn’s Bulwark (Tier 7)",
+    "Rating": "26.5",
+    "Weight": "27",
+    "Value": "13700",
+    "Enchantment": "Fortify Endurance 10 ptsFortify Health 45 ptsFortify Block 17 pts",
+    "Armor ID": "01011f1e",
+    "Copy Paste Cheat": "player.additem 01011f1e 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Lord Kain’s Shield",
+    "Rating": "14",
+    "Weight": "14",
+    "Value": "285",
+    "Enchantment": "Light 10 feet on self",
+    "Armor ID": "010156c9",
+    "Copy Paste Cheat": "player.additem 010156c9 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Shield Of True Horn",
+    "Rating": "13",
+    "Weight": "14",
+    "Value": "150",
+    "Enchantment": "–",
+    "Armor ID": "010097d3",
+    "Copy Paste Cheat": "player.additem 010097d3 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Raiment of the Crimson Scar (Tier 1)",
+    "Rating": "13",
+    "Weight": "9.5",
+    "Value": "6102",
+    "Enchantment": "Fortify Agility, Speed 3 ptsFortify Sneak, Marksman, Blade 5 ptsReflect Damage 10%",
+    "Armor ID": "0900BE65",
+    "Copy Paste Cheat": "player.additem 0900BE65 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Raiment of the Crimson Scar (Tier 2)",
+    "Rating": "16",
+    "Weight": "15",
+    "Value": "9404",
+    "Enchantment": "Fortify Agility, Speed 5 ptsFortify Sneak, Marksman, Blade 8 ptsReflect Damage 15%",
+    "Armor ID": "0900BE66",
+    "Copy Paste Cheat": "player.additem 0900BE66 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Raiment of the Crimson Scar (Tier 3)",
+    "Rating": "18",
+    "Weight": "18",
+    "Value": "12406",
+    "Enchantment": "Fortify Agility, Speed 7 ptsFortify Sneak, Marksman, Blade 10 ptsReflect Damage 20%",
+    "Armor ID": "0900BE67",
+    "Copy Paste Cheat": "player.additem 0900BE67 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Raiment of the Crimson Scar (Tier 4)",
+    "Rating": "21",
+    "Weight": "22",
+    "Value": "16308",
+    "Enchantment": "Fortify Agility, Speed 9 ptsFortify Sneak, Marksman, Blade 15 ptsReflect Damage 25%",
+    "Armor ID": "0900BE68",
+    "Copy Paste Cheat": "player.additem 0900BE68 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Raiment of the Crimson Scar (Tier 5)",
+    "Rating": "24",
+    "Weight": "26",
+    "Value": "20210",
+    "Enchantment": "Fortify Agility, Speed 11 ptsFortify Sneak, Marksman, Blade 20 ptsReflect Damage 30%",
+    "Armor ID": "0900C35E",
+    "Copy Paste Cheat": "player.additem 0900C35E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Raiment of the Crimson Scar (Tier 6)",
+    "Rating": "30",
+    "Weight": "30",
+    "Value": "24512",
+    "Enchantment": "Fortify Agility, Speed 15 ptsFortify Sneak, Marksman, Blade 25 ptsReflect Damage 35%",
+    "Armor ID": "0900BE6A",
+    "Copy Paste Cheat": "player.additem 0900BE6A 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Manhunter (Tier 1)",
+    "Rating": "2",
+    "Weight": "1",
+    "Value": "700",
+    "Enchantment": "Detect Life 20 feetFortify Marksman 2pts",
+    "Armor ID": "0800BF76",
+    "Copy Paste Cheat": "player.additem 0800BF76 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Manhunter (Tier 2)",
+    "Rating": "2",
+    "Weight": "1",
+    "Value": "1050",
+    "Enchantment": "Detect Life 30 feetFortify Marksman 3pts",
+    "Armor ID": "0800BF74",
+    "Copy Paste Cheat": "player.additem 0800BF74 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Manhunter (Tier 3)",
+    "Rating": "3",
+    "Weight": "1",
+    "Value": "1500",
+    "Enchantment": "Detect Life 40 feetFortify Marksman 4pts",
+    "Armor ID": "0800BF78",
+    "Copy Paste Cheat": "player.additem 0800BF78 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Manhunter (Tier 4)",
+    "Rating": "3",
+    "Weight": "2",
+    "Value": "2250",
+    "Enchantment": "Detect Life 50 feetFortify Marksman 5pts",
+    "Armor ID": "0800BF72",
+    "Copy Paste Cheat": "player.additem 0800BF72 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Manhunter (Tier 5)",
+    "Rating": "4",
+    "Weight": "2",
+    "Value": "3500",
+    "Enchantment": "Detect Life 60 feetFortify Marksman 6pts",
+    "Armor ID": "0800BF77",
+    "Copy Paste Cheat": "player.additem 0800BF77 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Gauntlets of the Manhunter (Tier 6)",
+    "Rating": "5",
+    "Weight": "3",
+    "Value": "5000",
+    "Enchantment": "Detect Life 100 feetFortify Marksman 10pts",
+    "Armor ID": "0800BF75",
+    "Copy Paste Cheat": "player.additem 0800BF75 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Boots (Tier 1)",
+    "Rating": "2",
+    "Weight": "1",
+    "Value": "600",
+    "Enchantment": "Fortify Marksman 2pts",
+    "Armor ID": "0800BF59",
+    "Copy Paste Cheat": "player.additem 0800BF59 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Boots (Tier 2)",
+    "Rating": "2",
+    "Weight": "1",
+    "Value": "900",
+    "Enchantment": "Fortify Marksman 3pts",
+    "Armor ID": "0800BF65",
+    "Copy Paste Cheat": "player.additem 0800BF65 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Boots (Tier 3)",
+    "Rating": "3",
+    "Weight": "2",
+    "Value": "1300",
+    "Enchantment": "Fortify Marksman 4pts",
+    "Armor ID": "0800BF5D",
+    "Copy Paste Cheat": "player.additem 0800BF5D 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Boots (Tier 4)",
+    "Rating": "3",
+    "Weight": "3",
+    "Value": "1750",
+    "Enchantment": "Fortify Marksman 5pts",
+    "Armor ID": "0800BF60",
+    "Copy Paste Cheat": "player.additem 0800BF60 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Boots (Tier 5)",
+    "Rating": "4",
+    "Weight": "3",
+    "Value": "2700",
+    "Enchantment": "Fortify Marksman 6pts",
+    "Armor ID": "0800BF64",
+    "Copy Paste Cheat": "player.additem 0800BF64 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Boots (Tier 6)",
+    "Rating": "5",
+    "Weight": "4",
+    "Value": "4500",
+    "Enchantment": "Fortify Marksman 10pts",
+    "Armor ID": "0800BF62",
+    "Copy Paste Cheat": "player.additem 0800BF62 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Gauntlets (Tier 1)",
+    "Rating": "2",
+    "Weight": "1",
+    "Value": "600",
+    "Enchantment": "Fortify Marksman 2pts",
+    "Armor ID": "0800BF5B",
+    "Copy Paste Cheat": "player.additem 0800BF5B 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Gauntlets (Tier 2)",
+    "Rating": "2",
+    "Weight": "1",
+    "Value": "900",
+    "Enchantment": "Fortify Marksman 3pts",
+    "Armor ID": "0800BF5C",
+    "Copy Paste Cheat": "player.additem 0800BF5C 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Gauntlets (Tier 3)",
+    "Rating": "3",
+    "Weight": "1",
+    "Value": "1300",
+    "Enchantment": "Fortify Marksman 4pts",
+    "Armor ID": "0800BF5E",
+    "Copy Paste Cheat": "player.additem 0800BF5E 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Gauntlets (Tier 4)",
+    "Rating": "3",
+    "Weight": "2",
+    "Value": "2000",
+    "Enchantment": "Fortify Marksman 5pts",
+    "Armor ID": "0800BF5F",
+    "Copy Paste Cheat": "player.additem 0800BF5F 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Gauntlets (Tier 5)",
+    "Rating": "4",
+    "Weight": "2",
+    "Value": "3200",
+    "Enchantment": "Fortify Marksman 6pts",
+    "Armor ID": "0800BF63",
+    "Copy Paste Cheat": "player.additem 0800BF63 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Silenced Gauntlets (Tier 6)",
+    "Rating": "5",
+    "Weight": "3",
+    "Value": "4500",
+    "Enchantment": "Fortify Marksman 10pts",
+    "Armor ID": "0800BF61",
+    "Copy Paste Cheat": "player.additem 0800BF61 1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Boots (Tier 1)",
+    "Rating": "2.5",
+    "Weight": "1.5",
+    "Value": "610",
+    "Enchantment": "Fortify Acrobatics 3 ptsFortify Sneak 3 pts",
+    "Armor ID": "04001B8C",
+    "Copy Paste Cheat": "1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Boots (Tier 2)",
+    "Rating": "3",
+    "Weight": "2",
+    "Value": "1025",
+    "Enchantment": "Fortify Acrobatics 5 ptsFortify Sneak 5 pts",
+    "Armor ID": "04002088",
+    "Copy Paste Cheat": "6",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Boots (Tier 3)",
+    "Rating": "3.5",
+    "Weight": "3.3",
+    "Value": "1465",
+    "Enchantment": "Fortify Acrobatics 7 ptsFortify Sneak 7 pts",
+    "Armor ID": "0400208F",
+    "Copy Paste Cheat": "10",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Boots (Tier 4)",
+    "Rating": "4",
+    "Weight": "3.9",
+    "Value": "2170",
+    "Enchantment": "Fortify Acrobatics 10 ptsFortify Sneak 10 pts",
+    "Armor ID": "04002099",
+    "Copy Paste Cheat": "15",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Boots (Tier 5)",
+    "Rating": "5",
+    "Weight": "4.5",
+    "Value": "3500",
+    "Enchantment": "Fortify Acrobatics 15 ptsFortify Sneak 15 pts",
+    "Armor ID": "040020A3",
+    "Copy Paste Cheat": "20",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cowl (Tier 1)",
+    "Rating": "–",
+    "Weight": "5",
+    "Value": "1075",
+    "Enchantment": "Fortify Marksman 3 ptsDetect Life 50 ft",
+    "Armor ID": "04001B42",
+    "Copy Paste Cheat": "1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cowl (Tier 2)",
+    "Rating": "–",
+    "Weight": "5",
+    "Value": "1425",
+    "Enchantment": "Fortify Marksman 5 ptsDetect Life 60 ft",
+    "Armor ID": "04001B92",
+    "Copy Paste Cheat": "6",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cowl (Tier 3)",
+    "Rating": "–",
+    "Weight": "5",
+    "Value": "1935",
+    "Enchantment": "Fortify Marksman 7 ptsDetect Life 80 ft",
+    "Armor ID": "0400208E",
+    "Copy Paste Cheat": "10",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cowl (Tier 4)",
+    "Rating": "–",
+    "Weight": "5",
+    "Value": "2540",
+    "Enchantment": "Fortify Marksman 10 ptsDetect Life 100 ft",
+    "Armor ID": "04002098",
+    "Copy Paste Cheat": "15",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cowl (Tier 5)",
+    "Rating": "–",
+    "Weight": "5",
+    "Value": "3345",
+    "Enchantment": "Fortify Marksman 15 ptsDetect Life 120 ft",
+    "Armor ID": "040020A2",
+    "Copy Paste Cheat": "20",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cuirass (Tier 1)",
+    "Rating": "6.25",
+    "Weight": "7.5",
+    "Value": "2485",
+    "Enchantment": "Fortify Agility 2 ptsResist Magic 5%Resist Normal Weapons 5%",
+    "Armor ID": "04001B89",
+    "Copy Paste Cheat": "1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cuirass (Tier 2)",
+    "Rating": "8",
+    "Weight": "9",
+    "Value": "4990",
+    "Enchantment": "Fortify Agility 4 ptsResist Magic 10%Resist Normal Weapons 10%",
+    "Armor ID": "04002085",
+    "Copy Paste Cheat": "6",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cuirass (Tier 3)",
+    "Rating": "8.75",
+    "Weight": "11",
+    "Value": "7575",
+    "Enchantment": "Fortify Agility 6 ptsResist Magic 15%Resist Normal Weapons 15%",
+    "Armor ID": "04002090",
+    "Copy Paste Cheat": "10",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cuirass (Tier 4)",
+    "Rating": "10",
+    "Weight": "13",
+    "Value": "10500",
+    "Enchantment": "Fortify Agility 9 ptsResist Magic 20%Resist Normal Weapons 20%",
+    "Armor ID": "0400209A",
+    "Copy Paste Cheat": "15",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Cuirass (Tier 5)",
+    "Rating": "12.5",
+    "Weight": "15",
+    "Value": "14350",
+    "Enchantment": "Fortify Agility 13 ptsResist Magic 25%Resist Normal Weapons 25%",
+    "Armor ID": "040020A4",
+    "Copy Paste Cheat": "20",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Gloves (Tier 1)",
+    "Rating": "2.5",
+    "Weight": "1.5",
+    "Value": "510",
+    "Enchantment": "Fortify Luck 2 ptsFortify Security 3 pts",
+    "Armor ID": "04001B8A",
+    "Copy Paste Cheat": "1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Gloves (Tier 2)",
+    "Rating": "3",
+    "Weight": "1.8",
+    "Value": "825",
+    "Enchantment": "Fortify Luck 4 ptsFortify Security 5 pts",
+    "Armor ID": "04002086",
+    "Copy Paste Cheat": "6",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Gloves (Tier 3)",
+    "Rating": "3.5",
+    "Weight": "2.2",
+    "Value": "1365",
+    "Enchantment": "Fortify Luck 6 ptsFortify Security 7 pts",
+    "Armor ID": "04002091",
+    "Copy Paste Cheat": "10",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Gloves (Tier 4)",
+    "Rating": "4",
+    "Weight": "2.6",
+    "Value": "2070",
+    "Enchantment": "Fortify Luck 9 ptsFortify Security 10 pts",
+    "Armor ID": "0400209B",
+    "Copy Paste Cheat": "15",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Gloves (Tier 5)",
+    "Rating": "5",
+    "Weight": "3",
+    "Value": "3300",
+    "Enchantment": "Fortify Luck 13 ptsFortify Security 15 pts",
+    "Armor ID": "040020A5",
+    "Copy Paste Cheat": "20",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Greaves (Tier 1)",
+    "Rating": "3.75",
+    "Weight": "4.5",
+    "Value": "1470",
+    "Enchantment": "Fortify Speed 2 ptsFeather 50 pts",
+    "Armor ID": "04001B8B",
+    "Copy Paste Cheat": "1",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Greaves (Tier 2)",
+    "Rating": "4",
+    "Weight": "5.4",
+    "Value": "1945",
+    "Enchantment": "Fortify Speed 4 ptsFeather 60 pts",
+    "Armor ID": "04002087",
+    "Copy Paste Cheat": "6",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Greaves (Tier 3)",
+    "Rating": "5.25",
+    "Weight": "6.6",
+    "Value": "2590",
+    "Enchantment": "Fortify Speed 6 ptsFeather 75 pts",
+    "Armor ID": "04002092",
+    "Copy Paste Cheat": "10",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Greaves (Tier 4)",
+    "Rating": "6",
+    "Weight": "7.8",
+    "Value": "3215",
+    "Enchantment": "Fortify Speed 9 ptsFeather 80 pts",
+    "Armor ID": "0400209C",
+    "Copy Paste Cheat": "15",
+    "Section": "All Armor IDs"
+  },
+  {
+    "Name": "Morag Tong Greaves (Tier 5)",
+    "Rating": "7.5",
+    "Weight": "9",
+    "Value": "4800",
+    "Enchantment": "Fortify Speed 13 ptsFeather 100 pts",
+    "Armor ID": "040020A6",
+    "Copy Paste Cheat": "20",
+    "Section": "All Armor IDs"
+  }
+]

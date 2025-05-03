@@ -1,0 +1,1490 @@
+[
+  {
+    "Name": "Ale",
+    "Potion ID": "000B1200",
+    "Copy Paste Cheat": "player.additem 000B1200 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Beer",
+    "Potion ID": "000B1202",
+    "Copy Paste Cheat": "player.additem 000B1202 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Cheap Wine",
+    "Potion ID": "00037F7F",
+    "Copy Paste Cheat": "player.additem 00037F7F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Cure for Vampirism",
+    "Potion ID": "000977E4",
+    "Copy Paste Cheat": "player.additem 000977E4 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Cyrodilic Brandy",
+    "Potion ID": "00033569",
+    "Copy Paste Cheat": "player.additem 00033569 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Grand Elixir of Exploration",
+    "Potion ID": "0004E93A",
+    "Copy Paste Cheat": "player.additem 0004E93A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Hist Sap",
+    "Potion ID": "0003356A",
+    "Copy Paste Cheat": "player.additem 0003356A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Human Blood",
+    "Potion ID": "00098309",
+    "Copy Paste Cheat": "player.additem 00098309 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Mead",
+    "Potion ID": "000B1201",
+    "Copy Paste Cheat": "player.additem 000B1201 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Moderate Elixir of Exploration",
+    "Potion ID": "0004E938",
+    "Copy Paste Cheat": "player.additem 0004E938 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Newheim’s Special Brew",
+    "Potion ID": "000B1241",
+    "Copy Paste Cheat": "player.additem 000B1241 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Philter of Frostward",
+    "Potion ID": "0007BCC9",
+    "Copy Paste Cheat": "player.additem 0007BCC9 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Affliction",
+    "Potion ID": "0008DC5C",
+    "Copy Paste Cheat": "player.additem 0008DC5C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Apathy",
+    "Potion ID": "00009283",
+    "Copy Paste Cheat": "player.additem 00009283 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Burden",
+    "Potion ID": "000984A5",
+    "Copy Paste Cheat": "player.additem 000984A5 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Catastrophe",
+    "Potion ID": "00009281",
+    "Copy Paste Cheat": "player.additem 00009281 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Clumsiness",
+    "Potion ID": "0008DC58",
+    "Copy Paste Cheat": "player.additem 0008DC58 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Confusion",
+    "Potion ID": "0008DC5E",
+    "Copy Paste Cheat": "player.additem 0008DC5E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Cowardice",
+    "Potion ID": "00056E54",
+    "Copy Paste Cheat": "player.additem 00056E54 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Debilitation",
+    "Potion ID": "0000927D",
+    "Copy Paste Cheat": "player.additem 0000927D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Fatigue",
+    "Potion ID": "0008DC70",
+    "Copy Paste Cheat": "player.additem 0008DC70 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Feeblemind",
+    "Potion ID": "00009280",
+    "Copy Paste Cheat": "player.additem 00009280 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Frailty",
+    "Potion ID": "00009285",
+    "Copy Paste Cheat": "player.additem 00009285 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Fright",
+    "Potion ID": "0008DC6D",
+    "Copy Paste Cheat": "player.additem 0008DC6D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Fumbling",
+    "Potion ID": "0000927C",
+    "Copy Paste Cheat": "player.additem 0000927C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Illness",
+    "Potion ID": "0008DC73",
+    "Copy Paste Cheat": "player.additem 0008DC73 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Misfortune",
+    "Potion ID": "0008DC61",
+    "Copy Paste Cheat": "player.additem 0008DC61 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Paralysis",
+    "Potion ID": "00009302",
+    "Copy Paste Cheat": "player.additem 00009302 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Repulsion",
+    "Potion ID": "00009282",
+    "Copy Paste Cheat": "player.additem 00009282 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Separation",
+    "Potion ID": "00009284",
+    "Copy Paste Cheat": "player.additem 00009284 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Severing",
+    "Potion ID": "0008DC76",
+    "Copy Paste Cheat": "player.additem 0008DC76 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Sickness",
+    "Potion ID": "0000927F",
+    "Copy Paste Cheat": "player.additem 0000927F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Silence",
+    "Potion ID": "00009320",
+    "Copy Paste Cheat": "player.additem 00009320 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Slowing",
+    "Potion ID": "0008DC67",
+    "Copy Paste Cheat": "player.additem 0008DC67 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of the Fool",
+    "Potion ID": "0008DC64",
+    "Copy Paste Cheat": "player.additem 0008DC64 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Weakness",
+    "Potion ID": "0008DC6A",
+    "Copy Paste Cheat": "player.additem 0008DC6A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Poison of Weariness",
+    "Potion ID": "0000927E",
+    "Copy Paste Cheat": "player.additem 0000927E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Absorption",
+    "Potion ID": "00009321",
+    "Copy Paste Cheat": "player.additem 00009321 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Agility",
+    "Potion ID": "00098471",
+    "Copy Paste Cheat": "player.additem 00098471 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Alacrity",
+    "Potion ID": "0009849B",
+    "Copy Paste Cheat": "player.additem 0009849B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Antivenom",
+    "Potion ID": "00009308",
+    "Copy Paste Cheat": "player.additem 00009308 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Chameleon",
+    "Potion ID": "00088B1C",
+    "Copy Paste Cheat": "player.additem 00088B1C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Charisma",
+    "Potion ID": "0009849A",
+    "Copy Paste Cheat": "player.additem 0009849A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Cure Disease",
+    "Potion ID": "0000920E",
+    "Copy Paste Cheat": "player.additem 0000920E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Cure Paralysis",
+    "Potion ID": "0000922E",
+    "Copy Paste Cheat": "player.additem 0000922E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Cure Poison",
+    "Potion ID": "0000920F",
+    "Copy Paste Cheat": "player.additem 0000920F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Dedication",
+    "Potion ID": "00056E55",
+    "Copy Paste Cheat": "player.additem 00056E55 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Detect Life",
+    "Potion ID": "000984A6",
+    "Copy Paste Cheat": "player.additem 000984A6 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Disbelief",
+    "Potion ID": "00009307",
+    "Copy Paste Cheat": "player.additem 00009307 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Dispel",
+    "Potion ID": "0000927B",
+    "Copy Paste Cheat": "player.additem 0000927B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Endurance",
+    "Potion ID": "00098472",
+    "Copy Paste Cheat": "player.additem 00098472 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Fatigue",
+    "Potion ID": "00098473",
+    "Copy Paste Cheat": "player.additem 00098473 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Feather",
+    "Potion ID": "000092E6",
+    "Copy Paste Cheat": "player.additem 000092E6 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Fire Shield",
+    "Potion ID": "000092E7",
+    "Copy Paste Cheat": "player.additem 000092E7 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Fortitude",
+    "Potion ID": "00098494",
+    "Copy Paste Cheat": "player.additem 00098494 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Fortune",
+    "Potion ID": "00098498",
+    "Copy Paste Cheat": "player.additem 00098498 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Frost Shield",
+    "Potion ID": "000092FE",
+    "Copy Paste Cheat": "player.additem 000092FE 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Grace",
+    "Potion ID": "00098493",
+    "Copy Paste Cheat": "player.additem 00098493 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Grounding",
+    "Potion ID": "00009309",
+    "Copy Paste Cheat": "player.additem 00009309 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Healing",
+    "Potion ID": "00098496",
+    "Copy Paste Cheat": "player.additem 00098496 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Health",
+    "Potion ID": "00098474",
+    "Copy Paste Cheat": "player.additem 00098474 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Insight",
+    "Potion ID": "00098497",
+    "Copy Paste Cheat": "player.additem 00098497 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Insulation",
+    "Potion ID": "00009305",
+    "Copy Paste Cheat": "player.additem 00009305 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Intelligence",
+    "Potion ID": "00098475",
+    "Copy Paste Cheat": "player.additem 00098475 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Invisibility",
+    "Potion ID": "000092FF",
+    "Copy Paste Cheat": "player.additem 000092FF 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Light",
+    "Potion ID": "00009300",
+    "Copy Paste Cheat": "player.additem 00009300 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Luck",
+    "Potion ID": "00098476",
+    "Copy Paste Cheat": "player.additem 00098476 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Magicka",
+    "Potion ID": "00098477",
+    "Copy Paste Cheat": "player.additem 00098477 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Might",
+    "Potion ID": "0009849C",
+    "Copy Paste Cheat": "player.additem 0009849C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Nighteye",
+    "Potion ID": "00009301",
+    "Copy Paste Cheat": "player.additem 00009301 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Personality",
+    "Potion ID": "00098478",
+    "Copy Paste Cheat": "player.additem 00098478 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Reflection",
+    "Potion ID": "00009303",
+    "Copy Paste Cheat": "player.additem 00009303 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Resistance",
+    "Potion ID": "00009304",
+    "Copy Paste Cheat": "player.additem 00009304 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Respite",
+    "Potion ID": "00098495",
+    "Copy Paste Cheat": "player.additem 00098495 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Seastride",
+    "Potion ID": "000984A4",
+    "Copy Paste Cheat": "player.additem 000984A4 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Shock Shield",
+    "Potion ID": "00009AE3",
+    "Copy Paste Cheat": "player.additem 00009AE3 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Sorcery",
+    "Potion ID": "00098499",
+    "Copy Paste Cheat": "player.additem 00098499 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Speed",
+    "Potion ID": "00098479",
+    "Copy Paste Cheat": "player.additem 00098479 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Strength",
+    "Potion ID": "0009847A",
+    "Copy Paste Cheat": "player.additem 0009847A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of the Sea",
+    "Potion ID": "000984A3",
+    "Copy Paste Cheat": "player.additem 000984A3 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Warmth",
+    "Potion ID": "00009306",
+    "Copy Paste Cheat": "player.additem 00009306 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Willpower",
+    "Potion ID": "00056E53",
+    "Copy Paste Cheat": "player.additem 00056E53 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Rosethorn Mead",
+    "Potion ID": "000B97EA",
+    "Copy Paste Cheat": "player.additem 000B97EA 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Shadowbanish Wine",
+    "Potion ID": "00185DCD",
+    "Copy Paste Cheat": "player.additem 00185DCD 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Skooma",
+    "Potion ID": "0004E0A9",
+    "Copy Paste Cheat": "player.additem 0004E0A9 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Elixir of Exploration",
+    "Potion ID": "0004E939",
+    "Copy Paste Cheat": "player.additem 0004E939 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Affliction",
+    "Potion ID": "0008DC5D",
+    "Copy Paste Cheat": "player.additem 0008DC5D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Apathy",
+    "Potion ID": "0009846A",
+    "Copy Paste Cheat": "player.additem 0009846A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Burden",
+    "Potion ID": "0000920D",
+    "Copy Paste Cheat": "player.additem 0000920D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Catastrophe",
+    "Potion ID": "00098464",
+    "Copy Paste Cheat": "player.additem 00098464 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Clumsiness",
+    "Potion ID": "0008DC5A",
+    "Copy Paste Cheat": "player.additem 0008DC5A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Confusion",
+    "Potion ID": "0008DC60",
+    "Copy Paste Cheat": "player.additem 0008DC60 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Cowardice",
+    "Potion ID": "00056E56",
+    "Copy Paste Cheat": "player.additem 00056E56 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Debilitation",
+    "Potion ID": "000984AC",
+    "Copy Paste Cheat": "player.additem 000984AC 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Fatigue",
+    "Potion ID": "0008DC72",
+    "Copy Paste Cheat": "player.additem 0008DC72 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Feeblemind",
+    "Potion ID": "00098462",
+    "Copy Paste Cheat": "player.additem 00098462 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Frailty",
+    "Potion ID": "0009846C",
+    "Copy Paste Cheat": "player.additem 0009846C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Fright",
+    "Potion ID": "0008DC6F",
+    "Copy Paste Cheat": "player.additem 0008DC6F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Fumbling",
+    "Potion ID": "000984AA",
+    "Copy Paste Cheat": "player.additem 000984AA 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Illness",
+    "Potion ID": "0008DC75",
+    "Copy Paste Cheat": "player.additem 0008DC75 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Misfortune",
+    "Potion ID": "0008DC63",
+    "Copy Paste Cheat": "player.additem 0008DC63 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Paralysis",
+    "Potion ID": "00098484",
+    "Copy Paste Cheat": "player.additem 00098484 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Repulsion",
+    "Potion ID": "00098468",
+    "Copy Paste Cheat": "player.additem 00098468 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Separation",
+    "Potion ID": "00098466",
+    "Copy Paste Cheat": "player.additem 00098466 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Severing",
+    "Potion ID": "0008DC78",
+    "Copy Paste Cheat": "player.additem 0008DC78 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Sickness",
+    "Potion ID": "00098460",
+    "Copy Paste Cheat": "player.additem 00098460 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Silence",
+    "Potion ID": "0009849E",
+    "Copy Paste Cheat": "player.additem 0009849E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Slowing",
+    "Potion ID": "0008DC69",
+    "Copy Paste Cheat": "player.additem 0008DC69 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of the Fool",
+    "Potion ID": "0008DC66",
+    "Copy Paste Cheat": "player.additem 0008DC66 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Weakness",
+    "Potion ID": "0008DC6C",
+    "Copy Paste Cheat": "player.additem 0008DC6C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Poison of Weariness",
+    "Potion ID": "000984AE",
+    "Copy Paste Cheat": "player.additem 000984AE 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Absorption",
+    "Potion ID": "000984A0",
+    "Copy Paste Cheat": "player.additem 000984A0 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Agility",
+    "Potion ID": "000092E9",
+    "Copy Paste Cheat": "player.additem 000092E9 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Alacrity",
+    "Potion ID": "00009319",
+    "Copy Paste Cheat": "player.additem 00009319 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Antivenom",
+    "Potion ID": "00098490",
+    "Copy Paste Cheat": "player.additem 00098490 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Chameleon",
+    "Potion ID": "00088B1E",
+    "Copy Paste Cheat": "player.additem 00088B1E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Charisma",
+    "Potion ID": "00009317",
+    "Copy Paste Cheat": "player.additem 00009317 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Dedication",
+    "Potion ID": "00056E58",
+    "Copy Paste Cheat": "player.additem 00056E58 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Detect Life",
+    "Potion ID": "00009230",
+    "Copy Paste Cheat": "player.additem 00009230 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Disbelief",
+    "Potion ID": "0009848E",
+    "Copy Paste Cheat": "player.additem 0009848E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Dispel",
+    "Potion ID": "000984A8",
+    "Copy Paste Cheat": "player.additem 000984A8 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Endurance",
+    "Potion ID": "000092EB",
+    "Copy Paste Cheat": "player.additem 000092EB 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Fatigue",
+    "Potion ID": "000092ED",
+    "Copy Paste Cheat": "player.additem 000092ED 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Feather",
+    "Potion ID": "0009846E",
+    "Copy Paste Cheat": "player.additem 0009846E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Fire Shield",
+    "Potion ID": "00098470",
+    "Copy Paste Cheat": "player.additem 00098470 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Fortitude",
+    "Potion ID": "0000930D",
+    "Copy Paste Cheat": "player.additem 0000930D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Fortune",
+    "Potion ID": "00009315",
+    "Copy Paste Cheat": "player.additem 00009315 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Frost Shield",
+    "Potion ID": "0009847C",
+    "Copy Paste Cheat": "player.additem 0009847C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Grace",
+    "Potion ID": "0000930B",
+    "Copy Paste Cheat": "player.additem 0000930B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Grounding",
+    "Potion ID": "00098492",
+    "Copy Paste Cheat": "player.additem 00098492 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Healing",
+    "Potion ID": "00009311",
+    "Copy Paste Cheat": "player.additem 00009311 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Health",
+    "Potion ID": "000092EF",
+    "Copy Paste Cheat": "player.additem 000092EF 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Insight",
+    "Potion ID": "00009313",
+    "Copy Paste Cheat": "player.additem 00009313 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Insulation",
+    "Potion ID": "00098489",
+    "Copy Paste Cheat": "player.additem 00098489 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Intelligence",
+    "Potion ID": "000092F1",
+    "Copy Paste Cheat": "player.additem 000092F1 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Invisibility",
+    "Potion ID": "0009847E",
+    "Copy Paste Cheat": "player.additem 0009847E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Light",
+    "Potion ID": "00098480",
+    "Copy Paste Cheat": "player.additem 00098480 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Luck",
+    "Potion ID": "000092F3",
+    "Copy Paste Cheat": "player.additem 000092F3 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Magicka",
+    "Potion ID": "000092F9",
+    "Copy Paste Cheat": "player.additem 000092F9 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Might",
+    "Potion ID": "0000931D",
+    "Copy Paste Cheat": "player.additem 0000931D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Nighteye",
+    "Potion ID": "00098482",
+    "Copy Paste Cheat": "player.additem 00098482 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Personality",
+    "Potion ID": "000092F5",
+    "Copy Paste Cheat": "player.additem 000092F5 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Reflection",
+    "Potion ID": "00098486",
+    "Copy Paste Cheat": "player.additem 00098486 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Resistance",
+    "Potion ID": "00098488",
+    "Copy Paste Cheat": "player.additem 00098488 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Respite",
+    "Potion ID": "0000930F",
+    "Copy Paste Cheat": "player.additem 0000930F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Seastride",
+    "Potion ID": "00009327",
+    "Copy Paste Cheat": "player.additem 00009327 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Shock Shield",
+    "Potion ID": "00009AE4",
+    "Copy Paste Cheat": "player.additem 00009AE4 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Sorcery",
+    "Potion ID": "0000931B",
+    "Copy Paste Cheat": "player.additem 0000931B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Speed",
+    "Potion ID": "000092F7",
+    "Copy Paste Cheat": "player.additem 000092F7 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Strength",
+    "Potion ID": "000092FB",
+    "Copy Paste Cheat": "player.additem 000092FB 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of the Sea",
+    "Potion ID": "00009325",
+    "Copy Paste Cheat": "player.additem 00009325 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Warmth",
+    "Potion ID": "0009848C",
+    "Copy Paste Cheat": "player.additem 0009848C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Strong Potion of Willpower",
+    "Potion ID": "00056E57",
+    "Copy Paste Cheat": "player.additem 00056E57 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Surilie Brothers Vintage 399",
+    "Potion ID": "00037F84",
+    "Copy Paste Cheat": "player.additem 00037F84 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Surilie Brothers Vintage 415",
+    "Potion ID": "00037F82",
+    "Copy Paste Cheat": "player.additem 00037F82 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Surilie Brothers Wine",
+    "Potion ID": "00037F80",
+    "Copy Paste Cheat": "player.additem 00037F80 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Tamika Vintage 399",
+    "Potion ID": "00037F7E",
+    "Copy Paste Cheat": "player.additem 00037F7E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Tamika Vintage 415",
+    "Potion ID": "00037F83",
+    "Copy Paste Cheat": "player.additem 00037F83 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Tamika’s West Weald Wine",
+    "Potion ID": "00037F81",
+    "Copy Paste Cheat": "player.additem 00037F81 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Turpentine",
+    "Potion ID": "0018BD5A",
+    "Copy Paste Cheat": "player.additem 0018BD5A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Turpentine",
+    "Potion ID": "000CD2DB",
+    "Copy Paste Cheat": "player.additem 000CD2DB 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Turpentine",
+    "Potion ID": "000CD2DC",
+    "Copy Paste Cheat": "player.additem 000CD2DC 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Turpentine",
+    "Potion ID": "000CD2DD",
+    "Copy Paste Cheat": "player.additem 000CD2DD 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Turpentine",
+    "Potion ID": "000CD2DE",
+    "Copy Paste Cheat": "player.additem 000CD2DE 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Turpentine",
+    "Potion ID": "000CD2DF",
+    "Copy Paste Cheat": "player.additem 000CD2DF 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Elixir of Exploration",
+    "Potion ID": "0004E937",
+    "Copy Paste Cheat": "player.additem 0004E937 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Affliction",
+    "Potion ID": "0008DC5B",
+    "Copy Paste Cheat": "player.additem 0008DC5B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Apathy",
+    "Potion ID": "00098469",
+    "Copy Paste Cheat": "player.additem 00098469 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Burden",
+    "Potion ID": "0000920C",
+    "Copy Paste Cheat": "player.additem 0000920C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Catastrophe",
+    "Potion ID": "00098463",
+    "Copy Paste Cheat": "player.additem 00098463 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Clumsiness",
+    "Potion ID": "0008DC59",
+    "Copy Paste Cheat": "player.additem 0008DC59 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Confusion",
+    "Potion ID": "0008DC5F",
+    "Copy Paste Cheat": "player.additem 0008DC5F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Cowardice",
+    "Potion ID": "00056E59",
+    "Copy Paste Cheat": "player.additem 00056E59 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Debilitation",
+    "Potion ID": "000984AB",
+    "Copy Paste Cheat": "player.additem 000984AB 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Fatigue",
+    "Potion ID": "0008DC71",
+    "Copy Paste Cheat": "player.additem 0008DC71 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Feeblemind",
+    "Potion ID": "00098461",
+    "Copy Paste Cheat": "player.additem 00098461 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Frailty",
+    "Potion ID": "0009846B",
+    "Copy Paste Cheat": "player.additem 0009846B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Fright",
+    "Potion ID": "0008DC6E",
+    "Copy Paste Cheat": "player.additem 0008DC6E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Fumbling",
+    "Potion ID": "000984A9",
+    "Copy Paste Cheat": "player.additem 000984A9 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Illness",
+    "Potion ID": "0008DC74",
+    "Copy Paste Cheat": "player.additem 0008DC74 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Misfortune",
+    "Potion ID": "0008DC62",
+    "Copy Paste Cheat": "player.additem 0008DC62 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Paralysis",
+    "Potion ID": "00098483",
+    "Copy Paste Cheat": "player.additem 00098483 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Repulsion",
+    "Potion ID": "00098467",
+    "Copy Paste Cheat": "player.additem 00098467 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Separation",
+    "Potion ID": "00098465",
+    "Copy Paste Cheat": "player.additem 00098465 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Severing",
+    "Potion ID": "0008DC77",
+    "Copy Paste Cheat": "player.additem 0008DC77 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Sickness",
+    "Potion ID": "000984AF",
+    "Copy Paste Cheat": "player.additem 000984AF 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Silence",
+    "Potion ID": "0009849D",
+    "Copy Paste Cheat": "player.additem 0009849D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Slowing",
+    "Potion ID": "0008DC68",
+    "Copy Paste Cheat": "player.additem 0008DC68 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of the Fool",
+    "Potion ID": "0008DC65",
+    "Copy Paste Cheat": "player.additem 0008DC65 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Weakness",
+    "Potion ID": "0008DC6B",
+    "Copy Paste Cheat": "player.additem 0008DC6B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Poison of Weariness",
+    "Potion ID": "000984AD",
+    "Copy Paste Cheat": "player.additem 000984AD 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Absorption",
+    "Potion ID": "0009849F",
+    "Copy Paste Cheat": "player.additem 0009849F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Agility",
+    "Potion ID": "000092E8",
+    "Copy Paste Cheat": "player.additem 000092E8 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Alacrity",
+    "Potion ID": "00009318",
+    "Copy Paste Cheat": "player.additem 00009318 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Antivenom",
+    "Potion ID": "0009848F",
+    "Copy Paste Cheat": "player.additem 0009848F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Chameleon",
+    "Potion ID": "00088B1D",
+    "Copy Paste Cheat": "player.additem 00088B1D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Charisma",
+    "Potion ID": "00009316",
+    "Copy Paste Cheat": "player.additem 00009316 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Dedication",
+    "Potion ID": "00056E52",
+    "Copy Paste Cheat": "player.additem 00056E52 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Detect Life",
+    "Potion ID": "0000922F",
+    "Copy Paste Cheat": "player.additem 0000922F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Disbelief",
+    "Potion ID": "0009848D",
+    "Copy Paste Cheat": "player.additem 0009848D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Dispel",
+    "Potion ID": "000984A7",
+    "Copy Paste Cheat": "player.additem 000984A7 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Endurance",
+    "Potion ID": "000092EA",
+    "Copy Paste Cheat": "player.additem 000092EA 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Fatigue",
+    "Potion ID": "000092EC",
+    "Copy Paste Cheat": "player.additem 000092EC 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Feather",
+    "Potion ID": "0009846D",
+    "Copy Paste Cheat": "player.additem 0009846D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Fire Shield",
+    "Potion ID": "0009846F",
+    "Copy Paste Cheat": "player.additem 0009846F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Fortitude",
+    "Potion ID": "0000930C",
+    "Copy Paste Cheat": "player.additem 0000930C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Fortune",
+    "Potion ID": "00009314",
+    "Copy Paste Cheat": "player.additem 00009314 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Frost Shield",
+    "Potion ID": "0009847B",
+    "Copy Paste Cheat": "player.additem 0009847B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Grace",
+    "Potion ID": "0000930A",
+    "Copy Paste Cheat": "player.additem 0000930A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Grounding",
+    "Potion ID": "00098491",
+    "Copy Paste Cheat": "player.additem 00098491 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Healing",
+    "Potion ID": "00009310",
+    "Copy Paste Cheat": "player.additem 00009310 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Health",
+    "Potion ID": "000092EE",
+    "Copy Paste Cheat": "player.additem 000092EE 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Insight",
+    "Potion ID": "00009312",
+    "Copy Paste Cheat": "player.additem 00009312 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Insulation",
+    "Potion ID": "0009848A",
+    "Copy Paste Cheat": "player.additem 0009848A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Intelligence",
+    "Potion ID": "000092F0",
+    "Copy Paste Cheat": "player.additem 000092F0 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Invisibility",
+    "Potion ID": "0009847D",
+    "Copy Paste Cheat": "player.additem 0009847D 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Light",
+    "Potion ID": "0009847F",
+    "Copy Paste Cheat": "player.additem 0009847F 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Luck",
+    "Potion ID": "000092F2",
+    "Copy Paste Cheat": "player.additem 000092F2 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Magicka",
+    "Potion ID": "000092F8",
+    "Copy Paste Cheat": "player.additem 000092F8 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Might",
+    "Potion ID": "0000931C",
+    "Copy Paste Cheat": "player.additem 0000931C 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Nighteye",
+    "Potion ID": "00098481",
+    "Copy Paste Cheat": "player.additem 00098481 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Personality",
+    "Potion ID": "000092F4",
+    "Copy Paste Cheat": "player.additem 000092F4 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Reflection",
+    "Potion ID": "00098485",
+    "Copy Paste Cheat": "player.additem 00098485 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Resistance",
+    "Potion ID": "00098487",
+    "Copy Paste Cheat": "player.additem 00098487 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Respite",
+    "Potion ID": "0000930E",
+    "Copy Paste Cheat": "player.additem 0000930E 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Seastride",
+    "Potion ID": "00009326",
+    "Copy Paste Cheat": "player.additem 00009326 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Shock Shield",
+    "Potion ID": "00009AE0",
+    "Copy Paste Cheat": "player.additem 00009AE0 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Sorcery",
+    "Potion ID": "0000931A",
+    "Copy Paste Cheat": "player.additem 0000931A 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Speed",
+    "Potion ID": "000092F6",
+    "Copy Paste Cheat": "player.additem 000092F6 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Strength",
+    "Potion ID": "000092FA",
+    "Copy Paste Cheat": "player.additem 000092FA 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of the Sea",
+    "Potion ID": "00009324",
+    "Copy Paste Cheat": "player.additem 00009324 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Warmth",
+    "Potion ID": "0009848B",
+    "Copy Paste Cheat": "player.additem 0009848B 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Weak Potion of Willpower",
+    "Potion ID": "00056E51",
+    "Copy Paste Cheat": "player.additem 00056E51 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Argonian Bloodwine",
+    "Potion ID": "0100a6a8",
+    "Copy Paste Cheat": "player.additem 0100a6a8 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Colovian Battlecry",
+    "Potion ID": "0100a6a5",
+    "Copy Paste Cheat": "player.additem 0100a6a5 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Frostdew Blanc",
+    "Potion ID": "0100a6a2",
+    "Copy Paste Cheat": "player.additem 0100a6a2 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Julianos Firebelly",
+    "Potion ID": "0100a6ab",
+    "Copy Paste Cheat": "player.additem 0100a6ab 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Numbskin Mead",
+    "Potion ID": "0100a6a9",
+    "Copy Paste Cheat": "player.additem 0100a6a9 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Sparkling Honeydew",
+    "Potion ID": "0100a6ad",
+    "Copy Paste Cheat": "player.additem 0100a6ad 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Stumblefoot’s Reserve",
+    "Potion ID": "0100a6af",
+    "Copy Paste Cheat": "player.additem 0100a6af 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Magnification (Weak)",
+    "Potion ID": "080079CA",
+    "Copy Paste Cheat": "player.additem 080079CA 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Magnification",
+    "Potion ID": "080079CC",
+    "Copy Paste Cheat": "player.additem 080079CC 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Potion of Magnification (Strong)",
+    "Potion ID": "080079C9",
+    "Copy Paste Cheat": "player.additem 080079C9 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Nightmask (Weak)",
+    "Potion ID": "080083AA",
+    "Copy Paste Cheat": "player.additem 080083AA 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Nightmask",
+    "Potion ID": "080083AB",
+    "Copy Paste Cheat": "player.additem 080083AB 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Nightmask (Strong)",
+    "Potion ID": "080083AD",
+    "Copy Paste Cheat": "player.additem 080083AD 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Keen Edge Potion",
+    "Potion ID": "04005654",
+    "Copy Paste Cheat": "player.additem 04005654 1",
+    "Section": "All Potions and Drinks IDs"
+  },
+  {
+    "Name": "Trichobezoar Extract",
+    "Potion ID": "04001493",
+    "Copy Paste Cheat": "player.additem 04001493 1",
+    "Section": "All Potions and Drinks IDs"
+  }
+]

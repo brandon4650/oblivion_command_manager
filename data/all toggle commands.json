@@ -1,0 +1,117 @@
+[
+  {
+    "Command": "Altar.GraphicsOptions.HDR 1",
+    "Description": "Enable HDR support",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "ghost",
+    "Description": "Toggle collision (clipping, noclip). “walk” will disable this one",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "pcb",
+    "Description": "Purge cell buffer",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "showsubtitle",
+    "Description": "Toggles NPC conversation subtitles",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tai",
+    "Description": "Toggle AI",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tcai",
+    "Description": "Toggle combat AI",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tdetect",
+    "Description": "Toggle AI detection",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tdt",
+    "Description": "Toggle debug text",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tfc",
+    "Description": "Freeflying camera",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tfh",
+    "Description": "Toggle full help",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tfow",
+    "Description": "Toggle fog of war",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tg",
+    "Description": "Toggle grass",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tgm",
+    "Description": "Toggle god mode",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tll",
+    "Description": "Toggle land LOD (level of detail)",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tlv",
+    "Description": "Toggle leaves",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tm",
+    "Description": "Toggles menus (HUD)",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tmg",
+    "Description": "Toggle material geometry",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tmmAmount",
+    "Description": "Show(1)/hide(0) all map markers",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "ts",
+    "Description": "Toggle sky",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tt",
+    "Description": "Toggle trees",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "twf",
+    "Description": "Toggle wireframe mode",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "twr",
+    "Description": "Toggle water radius",
+    "Section": "All Toggle Commands"
+  },
+  {
+    "Command": "tws",
+    "Description": "Toggle water rendering",
+    "Section": "All Toggle Commands"
+  }
+]

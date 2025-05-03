@@ -1,0 +1,157 @@
+[
+  {
+    "Command": "additemItemID Amount",
+    "Description": "Add item to inventory. There’s a long list of IDs lower in the guide",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "addspellSpellID",
+    "Description": "Add spell. There’s a long list of IDs lower in the guide",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "createfullactorcopy",
+    "Description": "Clones target actor",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "deletefullactorcopy",
+    "Description": "Deletes a clone of the target actor",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "dispelSpellID",
+    "Description": "Dispel a specific magic effect from target",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "dispelallspells",
+    "Description": "Dispel all spell-based magic effects from target",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "equipitemItemID",
+    "Description": "Equip an Item",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "getavattribute",
+    "Description": "Get value of attribute",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "getBarterGold",
+    "Description": "Gets the target’s shop gold",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "getcrimegold",
+    "Description": "Gets the target’s current bounty.",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "killNPCID",
+    "Description": "Kill NPC. You can also just write “kill” and press the target with your mouse",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "lockAmount",
+    "Description": "Lock doors or chests. The amount is the difficutly from 1 to 99",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "moddispositionNPCID Amount",
+    "Description": "Change NPC disposition",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "movetoID",
+    "Description": "Teleports you to destination. The ID can be either an object or an NPC",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "payfine",
+    "Description": "Pay criminal fines",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "payfinethief",
+    "Description": "Pay criminal fines without removing stolen items",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "placeatmeID",
+    "Description": "Spawns a copy of ID in front of you",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "removeitemItemID Amount",
+    "Description": "Remove item from inventory",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "removespellSpellID",
+    "Description": "Remove spell",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "resurrect 1",
+    "Description": "Resurrects target. NPCs might still refer to the target as dead if you didn’t do it immediately after death",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "SetActorFullNameName",
+    "Description": "Change your name. Use quotation marks if you want to have spaces in your name",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "setavattribute Amount",
+    "Description": "Sets value of attribute",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "setBarterGoldAmount",
+    "Description": "Sets the target’s shop gold.",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "setcrimegoldAmount",
+    "Description": "Sets bounty on target",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "setessentialID Amount",
+    "Description": "Sets the target’s essential flag. 1 is essential, 0 is non-essential",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "setlevelAmount",
+    "Description": "Changes target’s level",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "SetOwnership [ID/FactionID]",
+    "Description": "Changes ownership of targeted item to you (if no ID is specified), or to the specified NPC/Faction",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "setscaleAmount",
+    "Description": "Change target height (1 is human)",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "startcombatNPCID",
+    "Description": "Start target combat",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "stopcombat",
+    "Description": "Stop target combat",
+    "Section": "Target Commands"
+  },
+  {
+    "Command": "unlock",
+    "Description": "Unlock doors or chests",
+    "Section": "Target Commands"
+  }
+]
