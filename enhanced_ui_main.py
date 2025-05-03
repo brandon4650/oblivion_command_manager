@@ -38,8 +38,10 @@ class EnhancedItemSelector(QWidget):
         
         # Description
         desc_label = QLabel(category_info["description"])
+        desc_label.setWordWrap(True)  # ADD THIS LINE
+        desc_label.setMinimumHeight(40)  # ADD THIS LINE
         main_layout.addWidget(desc_label)
-        
+            
         # Search filter
         search_layout = QHBoxLayout()
         search_label = QLabel("Search:")
@@ -53,12 +55,14 @@ class EnhancedItemSelector(QWidget):
         # Item selector
         self.item_combo = QComboBox()
         self.item_combo.setMinimumWidth(300)
+        self.item_combo.setMinimumHeight(30)  # ADD THIS LINE
         self.populate_items()
         self.item_combo.currentIndexChanged.connect(self.update_preview)
         main_layout.addWidget(self.item_combo)
         
         # Item details group
         details_group = QGroupBox("Item Details")
+        details_group.setMinimumHeight(150)  # ADD THIS LINE
         details_layout = QVBoxLayout(details_group)
         
         # Item ID
@@ -123,16 +127,26 @@ class EnhancedItemSelector(QWidget):
             self.update_preview(0)
         
     def populate_items(self, filtered_items=None):
-        """Populate the item dropdown with all or filtered items"""
-        self.item_combo.clear()
-        
-        items_to_show = filtered_items if filtered_items is not None else self.items
-        
-        # Sort items alphabetically by name
-        sorted_items = sorted(items_to_show, key=lambda x: x[1].get("name", ""))
-        
-        for item_key, item_data in sorted_items:
-            self.item_combo.addItem(item_data["name"], item_key)
+       """Populate the item dropdown with all or filtered items"""
+       self.item_combo.clear()
+       
+       items_to_show = filtered_items if filtered_items is not None else self.items
+       
+       # Sort items alphabetically by name
+       sorted_items = sorted(items_to_show, key=lambda x: x[1].get("name", ""))
+       
+       for item_key, item_data in sorted_items:
+           self.item_combo.addItem(item_data["name"], item_key)
+       
+       # Set item height for the combo box
+       self.item_combo.setStyleSheet("""
+           QComboBox {
+               min-height: 25px;
+           }
+           QComboBox QAbstractItemView {
+               min-height: 25px;
+           }
+       """)  # ADD THIS STYLE
     
     def filter_items(self):
         """Filter items based on search text"""
@@ -557,6 +571,134 @@ class MainWindow(QMainWindow):
         self.main_layout = QVBoxLayout(self.central_widget)
         self.main_layout.setSpacing(10)  # Increase spacing between elements
         self.main_layout.setContentsMargins(15, 15, 15, 15)  # Add some padding around the edges
+
+    def create_attribute_skill_commands(self):
+        """Create special UI section for attributes and skills"""
+        # Create main group box
+        group = QGroupBox("Character Attributes & Skills")
+        group.setStyleSheet("""
+            QGroupBox {
+                font-weight: bold;
+                font-size: 12pt;
+                border: 1px solid #34495e;
+                border-radius: 5px;
+                margin-top: 10px;
+                padding-top: 10px;
+            }
+        """)
+        
+        layout = QVBoxLayout()
+        
+        # Attributes section
+        attr_group = QGroupBox("Attributes")
+        attr_layout = QVBoxLayout()
+        
+        # Attributes list
+        attributes = ["Strength", "Intelligence", "Willpower", "Agility", 
+                     "Speed", "Endurance", "Personality", "Luck"]
+        
+        # Create attribute dropdown and value input
+        attr_row = QHBoxLayout()
+        attr_dropdown = QComboBox()
+        attr_dropdown.addItems(attributes)
+        attr_value = QSpinBox()
+        attr_value.setRange(0, 255)
+        attr_value.setValue(50)
+        
+        attr_button = QPushButton("Set Attribute")
+        attr_button.clicked.connect(lambda: self.execute_setav_command(
+            f"player.setav {attr_dropdown.currentText()} {attr_value.value()}"
+        ))
+        
+        attr_row.addWidget(QLabel("Attribute:"))
+        attr_row.addWidget(attr_dropdown)
+        attr_row.addWidget(QLabel("Value:"))
+        attr_row.addWidget(attr_value)
+        attr_row.addWidget(attr_button)
+        
+        attr_layout.addLayout(attr_row)
+        attr_group.setLayout(attr_layout)
+        
+        # Skills section
+        skills_group = QGroupBox("Skills (Major & Minor)")
+        skills_layout = QVBoxLayout()
+        
+        # All skills list (can be major or minor depending on character class)
+        all_skills = [
+            "Acrobatics", "Alchemy", "Alteration", "Armorer", "Athletics", 
+            "Blade", "Block", "Blunt", "Conjuration", "Destruction", 
+            "Hand to Hand", "Heavy Armor", "Illusion", "Light Armor", 
+            "Marksman", "Mercantile", "Mysticism", "Restoration", 
+            "Security", "Sneak", "Speechcraft"
+        ]
+        
+        # Create skill dropdown and value input
+        skill_row = QHBoxLayout()
+        skill_dropdown = QComboBox()
+        skill_dropdown.addItems(sorted(all_skills))  # Sort alphabetically
+        skill_value = QSpinBox()
+        skill_value.setRange(0, 100)
+        skill_value.setValue(50)
+        
+        skill_button = QPushButton("Set Skill")
+        skill_button.clicked.connect(lambda: self.execute_setav_command(
+            f"player.setav {skill_dropdown.currentText()} {skill_value.value()}"
+        ))
+        
+        skill_row.addWidget(QLabel("Skill:"))
+        skill_row.addWidget(skill_dropdown)
+        skill_row.addWidget(QLabel("Value:"))
+        skill_row.addWidget(skill_value)
+        skill_row.addWidget(skill_button)
+        
+        skills_layout.addLayout(skill_row)
+        
+        # Add a note about major/minor skills
+        note = QLabel("Note: Skills can be Major or Minor depending on your character's class")
+        note.setStyleSheet("color: #888; font-style: italic;")
+        skills_layout.addWidget(note)
+        
+        skills_group.setLayout(skills_layout)
+        
+        # Add both groups to main layout
+        layout.addWidget(attr_group)
+        layout.addWidget(skills_group)
+        
+        # Add divider
+        divider = QFrame()
+        divider.setFrameShape(QFrame.Shape.HLine)
+        divider.setFrameShadow(QFrame.Shadow.Sunken)
+        layout.addWidget(divider)
+        
+        # Add modpca command section for attributes
+        modpca_group = QGroupBox("Modify Current Attribute (modpca)")
+        modpca_layout = QVBoxLayout()
+        
+        modpca_row = QHBoxLayout()
+        modpca_dropdown = QComboBox()
+        modpca_dropdown.addItems(attributes)
+        modpca_value = QSpinBox()
+        modpca_value.setRange(-100, 100)
+        modpca_value.setValue(10)
+        
+        modpca_button = QPushButton("Modify Attribute")
+        modpca_button.clicked.connect(lambda: self.execute_setav_command(
+            f'modpca "{modpca_dropdown.currentText()}" {modpca_value.value()}'
+        ))
+        
+        modpca_row.addWidget(QLabel("Attribute:"))
+        modpca_row.addWidget(modpca_dropdown)
+        modpca_row.addWidget(QLabel("Amount (+/-):"))
+        modpca_row.addWidget(modpca_value)
+        modpca_row.addWidget(modpca_button)
+        
+        modpca_layout.addLayout(modpca_row)
+        modpca_group.setLayout(modpca_layout)
+        
+        layout.addWidget(modpca_group)
+        group.setLayout(layout)
+        
+        return group
     
     def setup_ui_contents(self):
         """Set up the actual UI contents in the central widget"""
@@ -616,7 +758,7 @@ class MainWindow(QMainWindow):
         
         # Add the header to the main layout
         self.main_layout.addLayout(header_layout)
-        
+    
         # Command search
         search_layout = QHBoxLayout()
         search_label = QLabel("Search:")
@@ -624,7 +766,7 @@ class MainWindow(QMainWindow):
         
         self.search_box = QLineEdit()
         self.search_box.setPlaceholderText("Search commands and items...")
-        self.search_box.setMinimumHeight(30)  # Make the search box taller
+        self.search_box.setMinimumHeight(30)
         self.search_box.setStyleSheet("""
             QLineEdit {
                 background-color: #333337;
@@ -643,20 +785,24 @@ class MainWindow(QMainWindow):
         search_layout.addWidget(search_label)
         search_layout.addWidget(self.search_box)
         
-        # Add some vertical spacing before and after the search box
         self.main_layout.addSpacing(10)
         self.main_layout.addLayout(search_layout)
         self.main_layout.addSpacing(10)
         
-        # Command tree and details splitter
-        command_splitter = QSplitter(Qt.Orientation.Horizontal)
+        # Create a horizontal layout for the main content
+        main_content_layout = QHBoxLayout()
         
-        # Command tree
+        # Left side: Categories and History (vertical layout)
+        left_panel = QWidget()
+        left_layout = QVBoxLayout(left_panel)
+        left_layout.setContentsMargins(0, 0, 0, 0)
+        left_layout.setSpacing(10)
+        
+        # Categories tree
         tree_widget = QWidget()
         tree_layout = QVBoxLayout(tree_widget)
         tree_layout.setContentsMargins(0, 0, 0, 0)
         
-        # Add a title for the tree
         tree_title = QLabel("Categories")
         tree_title.setStyleSheet("font-weight: bold; font-size: 12pt; padding: 5px; color: #00B050;")
         tree_layout.addWidget(tree_title)
@@ -665,10 +811,8 @@ class MainWindow(QMainWindow):
         self.command_tree.setHeaderLabels(["Commands and Items"])
         self.command_tree.setAnimated(True)
         self.command_tree.setExpandsOnDoubleClick(True)
-        self.command_tree.setAlternatingRowColors(True)  # Striped rows for better readability
-        self.command_tree.setIndentation(15)  # Reduced indentation for a cleaner look
-        
-        # Make sure tree widget has solid background
+        self.command_tree.setAlternatingRowColors(True)
+        self.command_tree.setIndentation(15)
         self.command_tree.setFrameShape(QFrame.Shape.StyledPanel)
         self.command_tree.setFrameShadow(QFrame.Shadow.Sunken)
         self.command_tree.setStyleSheet("""
@@ -700,14 +844,72 @@ class MainWindow(QMainWindow):
         """)
         
         tree_layout.addWidget(self.command_tree)
+        left_layout.addWidget(tree_widget)
         
-        # Set up context menu
-        self.setup_context_menu()
+        # Command History (below categories)
+        history_frame = QFrame()
+        history_frame.setFrameShape(QFrame.Shape.StyledPanel)
+        history_frame.setFrameShadow(QFrame.Shadow.Raised)
+        history_frame.setStyleSheet("""
+            QFrame {
+                background-color: #2D2D30;
+                border: 1px solid #3F3F46;
+                border-radius: 5px;
+            }
+        """)
+        history_layout = QVBoxLayout(history_frame)
         
-        # Populate tree
-        self.populate_command_tree()
-        self.command_tree.itemClicked.connect(self.item_clicked)
-        command_splitter.addWidget(tree_widget)
+        # History header with title and clear button
+        history_header = QHBoxLayout()
+        
+        history_label = QLabel("Command History")
+        history_label.setStyleSheet("font-weight: bold; font-size: 12pt; color: #00B050;")
+        history_header.addWidget(history_label)
+        
+        history_header.addStretch()
+        
+        clear_history_btn = QPushButton("Clear History")
+        clear_history_btn.setStyleSheet("""
+            QPushButton {
+                background-color: #3E3E42;
+                color: white;
+                border: none;
+                border-radius: 3px;
+                padding: 4px 8px;
+            }
+            QPushButton:hover {
+                background-color: #504F52;
+            }
+        """)
+        clear_history_btn.clicked.connect(self.clear_history)
+        history_header.addWidget(clear_history_btn)
+        
+        history_layout.addLayout(history_header)
+        
+        # History text area
+        self.history_text = QTextEdit()
+        self.history_text.setReadOnly(True)
+        self.history_text.setStyleSheet("""
+            QTextEdit {
+                background-color: #1E1E1E;
+                border: 1px solid #3F3F46;
+                border-radius: 3px;
+                color: #E6E6E6;
+                padding: 5px;
+                font-family: Consolas, Monaco, monospace;
+            }
+        """)
+        history_layout.addWidget(self.history_text)
+        
+        left_layout.addWidget(history_frame)
+        
+        # Add the left panel to the main content layout
+        main_content_layout.addWidget(left_panel)
+        
+        # Right side: Command details and stacked widget
+        right_panel = QWidget()
+        right_layout = QVBoxLayout(right_panel)
+        right_layout.setContentsMargins(0, 0, 0, 0)
         
         # Stacked widget for different detail panels
         self.details_stack = QStackedWidget()
@@ -722,7 +924,7 @@ class MainWindow(QMainWindow):
         details_title.setStyleSheet("font-weight: bold; font-size: 12pt; padding: 5px; color: #00B050;")
         details_layout.addWidget(details_title)
         
-        # Create a styled frame for command info
+        # Create the command info frame and other details
         cmd_info_frame = QFrame()
         cmd_info_frame.setFrameShape(QFrame.Shape.StyledPanel)
         cmd_info_frame.setFrameShadow(QFrame.Shadow.Raised)
@@ -737,7 +939,6 @@ class MainWindow(QMainWindow):
         cmd_info_layout = QVBoxLayout(cmd_info_frame)
         
         self.command_title = QLabel("Select a command")
-        # Make title bigger
         font = QFont()
         font.setPointSize(14)
         font.setBold(True)
@@ -746,17 +947,17 @@ class MainWindow(QMainWindow):
         cmd_info_layout.addWidget(self.command_title)
         
         self.command_description = QLabel("")
-        self.command_description.setWordWrap(True)  # Enable word wrapping
+        self.command_description.setWordWrap(True)
         self.command_description.setStyleSheet("padding: 5px 0;")
         cmd_info_layout.addWidget(self.command_description)
         
         self.command_syntax = QLabel("")
-        self.command_syntax.setStyleSheet("color: #CEA139; padding: 5px 0;")  # Gold color for syntax
+        self.command_syntax.setStyleSheet("color: #CEA139; padding: 5px 0;")
         cmd_info_layout.addWidget(self.command_syntax)
         
         details_layout.addWidget(cmd_info_frame)
         
-        # Command builder area - wrap in a styled frame
+        # Command builder area
         builder_frame = QFrame()
         builder_frame.setFrameShape(QFrame.Shape.StyledPanel)
         builder_frame.setFrameShadow(QFrame.Shadow.Raised)
@@ -770,12 +971,10 @@ class MainWindow(QMainWindow):
         """)
         builder_layout = QVBoxLayout(builder_frame)
         
-        # Add a title for the builder
         builder_title = QLabel("Command Builder")
         builder_title.setStyleSheet("font-weight: bold; font-size: 11pt; color: #E6E6E6;")
         builder_layout.addWidget(builder_title)
         
-        # Add the builder widget
         self.builder_widget = CommandBuilderWidget()
         builder_layout.addWidget(self.builder_widget)
         
@@ -786,9 +985,8 @@ class MainWindow(QMainWindow):
         button_frame.setFrameShape(QFrame.Shape.NoFrame)
         button_layout = QHBoxLayout(button_frame)
         
-        # Execute button
         self.execute_button = QPushButton("Execute Command")
-        self.execute_button.setMinimumHeight(35)  # Taller button
+        self.execute_button.setMinimumHeight(35)
         self.execute_button.setStyleSheet("""
             QPushButton {
                 background-color: #0E639C;
@@ -808,9 +1006,8 @@ class MainWindow(QMainWindow):
         self.execute_button.clicked.connect(self.execute_command)
         button_layout.addWidget(self.execute_button)
         
-        # Add to favorites button
         self.favorite_button = QPushButton("Add to Favorites")
-        self.favorite_button.setMinimumHeight(35)  # Taller button
+        self.favorite_button.setMinimumHeight(35)
         self.favorite_button.setStyleSheet("""
             QPushButton {
                 background-color: #3E3E42;
@@ -861,100 +1058,40 @@ class MainWindow(QMainWindow):
         self.details_stack.addWidget(self.command_details)  # Index 0
         self.details_stack.addWidget(self.item_tabs)        # Index 1
         
-        command_splitter.addWidget(self.details_stack)
+        right_layout.addWidget(self.details_stack)
+        main_content_layout.addWidget(right_panel)
         
-        # Set the initial sizes of the splitter
-        command_splitter.setSizes([300, 600])  # Adjust these values as needed
+        # Set stretch factors (30% left, 70% right)
+        main_content_layout.setStretch(0, 3)
+        main_content_layout.setStretch(1, 7)
         
-        self.main_layout.addWidget(command_splitter)
-        
-        # History section
-        history_frame = QFrame()
-        history_frame.setFrameShape(QFrame.Shape.StyledPanel)
-        history_frame.setFrameShadow(QFrame.Shadow.Raised)
-        history_frame.setStyleSheet("""
-            QFrame {
-                background-color: #2D2D30;
-                border: 1px solid #3F3F46;
-                border-radius: 5px;
-                margin-top: 10px;
-            }
-        """)
-        history_layout = QVBoxLayout(history_frame)
-        
-        # History header with title and clear button
-        history_header = QHBoxLayout()
-        
-        history_label = QLabel("Command History")
-        history_label.setStyleSheet("font-weight: bold; font-size: 12pt; color: #00B050;")
-        history_header.addWidget(history_label)
-        
-        # Add spacer to push clear button to the right
-        history_header.addStretch()
-        
-        # Add clear history button
-        clear_history_btn = QPushButton("Clear History")
-        clear_history_btn.setStyleSheet("""
-            QPushButton {
-                background-color: #3E3E42;
-                color: white;
-                border: none;
-                border-radius: 3px;
-                padding: 4px 8px;
-            }
-            QPushButton:hover {
-                background-color: #504F52;
-            }
-        """)
-        clear_history_btn.clicked.connect(self.clear_history)
-        history_header.addWidget(clear_history_btn)
-        
-        history_layout.addLayout(history_header)
-        
-        # History text area
-        self.history_text = QTextEdit()
-        self.history_text.setReadOnly(True)
-        self.history_text.setMaximumHeight(120)
-        self.history_text.setStyleSheet("""
-            QTextEdit {
-                background-color: #1E1E1E;
-                border: 1px solid #3F3F46;
-                border-radius: 3px;
-                color: #E6E6E6;
-                padding: 5px;
-                font-family: Consolas, Monaco, monospace;
-            }
-        """)
-        history_layout.addWidget(self.history_text)
-        
-        self.main_layout.addWidget(history_frame)
+        self.main_layout.addLayout(main_content_layout)
         
         # Status bar with additional info
         status_bar = QHBoxLayout()
         
-        # Version info
         version_label = QLabel("v1.0.0")
         version_label.setStyleSheet("color: #808080; font-size: 9pt;")
         status_bar.addWidget(version_label)
         
-        # Spacer
         status_bar.addStretch()
         
-        # Help text
         help_label = QLabel("Right-click items for more options | Select a command to see details")
         help_label.setStyleSheet("color: #808080; font-size: 9pt;")
         status_bar.addWidget(help_label)
         
         self.main_layout.addLayout(status_bar)
         
-        # Create item selector tabs for each item category
+        # Continue with the rest of your existing code...
+        self.setup_context_menu()
+        self.populate_command_tree()
+        self.command_tree.itemClicked.connect(self.item_clicked)
         self.create_item_selector_tabs()
         
         # Expand all categories by default
         for i in range(self.command_tree.topLevelItemCount()):
             self.command_tree.topLevelItem(i).setExpanded(True)
-            
-        # Check game status
+        
         self.check_game_status()
         
     def setup_context_menu(self):
