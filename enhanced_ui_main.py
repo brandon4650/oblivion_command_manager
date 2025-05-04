@@ -3,7 +3,7 @@ from PyQt6.QtWidgets import (QMainWindow, QTreeWidget, QTreeWidgetItem,
                            QLineEdit, QPushButton, QVBoxLayout, QHBoxLayout, 
                            QWidget, QLabel, QSplitter, QTextEdit, QStackedWidget,
                            QSizePolicy, QFrame, QMenu, QMessageBox, QTabWidget,
-                           QComboBox, QGroupBox, QGraphicsOpacityEffect)
+                           QComboBox, QGroupBox, QGraphicsOpacityEffect, QSpinBox)
 from PyQt6.QtCore import Qt, QSettings, pyqtSignal, QTimer, QPropertyAnimation, QEasingCurve, QPoint, QSize, QRect, QEvent
 from PyQt6.QtGui import QIcon, QFont, QPixmap, QPainter, QColor, QPen, QPolygon, QBrush
 import pyautogui
@@ -385,7 +385,7 @@ class DonateButton(QWidget):
     def open_donate_url(self):
         """Open the donation URL"""
         import webbrowser
-        webbrowser.open("https://cryptocraft.sell.app/product/product-wd")
+        webbrowser.open("https://cryptocraft.sell.app/product/product-ocm")
         
     def show_popup_message(self):
         """Show a one-time popup message"""
@@ -699,6 +699,15 @@ class MainWindow(QMainWindow):
         group.setLayout(layout)
         
         return group
+    
+    def execute_setav_command(self, command):
+        """Execute the setav command with proper formatting"""
+        if is_game_running():
+            send_command_to_game(command)
+            self.history_text.append(f"> {command}")  # Add to history
+        else:
+            QMessageBox.warning(self, "Game Not Running", 
+                              "Oblivion Remastered must be running to execute commands.")
     
     def setup_ui_contents(self):
         """Set up the actual UI contents in the central widget"""
@@ -1498,7 +1507,7 @@ class MainWindow(QMainWindow):
         """Create tabs for each item category"""
         # Categories to include
         item_categories = [
-            "Weapons", "Armor", "Spells", "Potions", "Books", 
+            "Useful Cheats", "Weapons", "Armor", "Spells", "Potions", "Books", 
             "Clothing", "Miscellaneous", "NPCs", "Locations", 
             "Keys", "Horses", "Soul Gems", "Sigil Stones", 
             "Alchemy Equipment", "Alchemy Ingredients", "Arrows"
@@ -1506,13 +1515,33 @@ class MainWindow(QMainWindow):
         
         # Create a tab for each category
         for category in item_categories:
-            selector = EnhancedItemSelector(self.data_loader, category)
-            selector.commandSelected.connect(self.item_command_selected)
-            
-            # Get category info for icon
-            cat_info = self.data_loader.get_category_info(category)
-            
-            self.item_tabs.addTab(selector, f"{cat_info['icon']} {category}")
+            if category == "Useful Cheats":
+                # Create a container widget for useful cheats
+                container = QWidget()
+                container_layout = QVBoxLayout()
+                
+                # Add the existing useful cheats selector
+                selector = EnhancedItemSelector(self.data_loader, category)
+                selector.commandSelected.connect(self.item_command_selected)
+                container_layout.addWidget(selector)
+                
+                # Add our attribute/skill commands section
+                attr_skill_widget = self.create_attribute_skill_commands()
+                container_layout.addWidget(attr_skill_widget)
+                
+                container.setLayout(container_layout)
+                
+                # Get category info for icon
+                cat_info = self.data_loader.get_category_info(category)
+                self.item_tabs.addTab(container, f"{cat_info['icon']} {category}")
+            else:
+                # Regular category tabs
+                selector = EnhancedItemSelector(self.data_loader, category)
+                selector.commandSelected.connect(self.item_command_selected)
+                
+                # Get category info for icon
+                cat_info = self.data_loader.get_category_info(category)
+                self.item_tabs.addTab(selector, f"{cat_info['icon']} {category}")
     
     def show_item_browser(self, category):
         """Show the item browser for a specific category"""
