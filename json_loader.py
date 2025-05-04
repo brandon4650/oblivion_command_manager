@@ -242,7 +242,7 @@ class OblivionDataLoader:
             item_data = {
                 "name": item_name,
                 "id": item_id,
-                "command": command if command else f"player.additem {item_id} 1",
+                "command": command if command else self._get_default_command(category, item_id),
                 "category": category,
                 # Copy all original fields
                 "original_data": {k: v for k, v in item.items()}
@@ -259,6 +259,18 @@ class OblivionDataLoader:
                 self.category_map[category] = []
             
             self.category_map[category].append(item_key)
+    
+    def _get_default_command(self, category, item_id):
+        """Get the default command for an item based on its category"""
+        if category == "NPCs":
+            return f"player.placeatme {item_id}"
+        elif category == "Spells":
+            return f"player.addspell {item_id}"
+        elif category == "Locations":
+            return f"coc {item_id}"
+        else:
+            # Default for items (weapons, armor, etc.)
+            return f"player.additem {item_id} 1"
     
     def get_all_commands(self):
         """Get all commands"""
