@@ -718,6 +718,29 @@ class MainWindow(QMainWindow):
         self.status_label = QLabel("Game Status: Not Detected")
         header_layout.addWidget(self.status_label)
 
+        # Add Discord button (left-middle)
+        self.discord_button = QPushButton("💬 Join Discord")
+        self.discord_button.setStyleSheet("""
+            QPushButton {
+                background-color: #5865F2;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                padding: 8px 16px;
+                font-weight: bold;
+                font-size: 11pt;
+            }
+            QPushButton:hover {
+                background-color: #4752C4;
+            }
+            QPushButton:pressed {
+                background-color: #3C45A5;
+            }
+        """)
+        self.discord_button.setFixedHeight(35)
+        self.discord_button.clicked.connect(self.open_discord)
+        header_layout.addWidget(self.discord_button)
+
         donate_container = QWidget()
         donate_container_layout = QVBoxLayout(donate_container)
         donate_container_layout.setContentsMargins(0, 0, 0, 0)
@@ -1079,7 +1102,7 @@ class MainWindow(QMainWindow):
         # Status bar with additional info
         status_bar = QHBoxLayout()
         
-        version_label = QLabel("v1.0.0")
+        version_label = QLabel("v1.0.2")
         version_label.setStyleSheet("color: #808080; font-size: 9pt;")
         status_bar.addWidget(version_label)
         
@@ -1572,6 +1595,11 @@ class MainWindow(QMainWindow):
         # Store the command data for add to favorites
         self.builder_widget.current_command = command
         self.builder_widget.current_data = cmd_data
+
+    def open_discord(self):
+        """Open Discord invite link"""
+        import webbrowser
+        webbrowser.open("https://discord.gg/92NKqFrM")
             
     def check_game_status(self):
         """Check if the game is running and update status label"""
