@@ -3,9 +3,11 @@ from PyQt6.QtWidgets import (QMainWindow, QTreeWidget, QTreeWidgetItem,
                            QLineEdit, QPushButton, QVBoxLayout, QHBoxLayout, 
                            QWidget, QLabel, QSplitter, QTextEdit, QStackedWidget,
                            QSizePolicy, QFrame, QMenu, QMessageBox, QTabWidget,
-                           QComboBox, QGroupBox, QGraphicsOpacityEffect, QSpinBox, QApplication)
+                           QComboBox, QGroupBox, QGraphicsOpacityEffect, QSpinBox, QApplication,
+                           QListWidget, QListWidgetItem, QScrollArea)
 from PyQt6.QtCore import Qt, QSettings, pyqtSignal, QTimer, QPropertyAnimation, QEasingCurve, QPoint, QSize, QRect, QEvent
-from PyQt6.QtGui import QIcon, QFont, QPixmap, QPainter, QColor, QPen, QPolygon, QBrush
+from PyQt6.QtGui import (QIcon, QFont, QPixmap, QPainter, QColor, QPen, QPolygon, QBrush, 
+                        QTextCursor, QTextCharFormat)
 import pyautogui
 import psutil
 import os
@@ -796,8 +798,8 @@ class MainWindow(QMainWindow):
                 background-color: #45a049;
             }
         """)
-        donate_btn.clicked.connect(self.open_donate_url)
-        actions_layout.addWidget(donate_btn)
+        self.donate_button = DonateButton()
+        actions_layout.addWidget(self.donate_button)
         
         header_layout.addLayout(actions_layout)
         self.main_layout.addLayout(header_layout)
@@ -942,8 +944,110 @@ class MainWindow(QMainWindow):
         
         commands_splitter.addWidget(list_panel)
         
-        # Right panel: Reuse your existing command details widget
-        commands_splitter.addWidget(self.command_details)
+        # Right panel: Command details - Create it here instead of using self.command_details
+        command_details_panel = QFrame()
+        command_details_panel.setFrameShape(QFrame.Shape.StyledPanel)
+        command_details_panel.setStyleSheet("""
+            QFrame {
+                background-color: #252526;
+                border-radius: 5px;
+                padding: 10px;
+            }
+        """)
+        details_layout = QVBoxLayout(command_details_panel)
+        
+        # Create the command details widgets
+        details_title = QLabel("Command Details")
+        details_title.setStyleSheet("font-weight: bold; font-size: 12pt; color: #00B050;")
+        details_layout.addWidget(details_title)
+        
+        # Command info frame
+        cmd_info_frame = QFrame()
+        cmd_info_frame.setFrameShape(QFrame.Shape.StyledPanel)
+        cmd_info_frame.setStyleSheet("""
+            QFrame {
+                background-color: #2D2D30;
+                border: 1px solid #3F3F46;
+                border-radius: 5px;
+                padding: 10px;
+            }
+        """)
+        cmd_info_layout = QVBoxLayout(cmd_info_frame)
+        
+        self.command_title = QLabel("Select a command")
+        font = QFont()
+        font.setPointSize(14)
+        font.setBold(True)
+        self.command_title.setFont(font)
+        self.command_title.setStyleSheet("color: #E6E6E6;")
+        cmd_info_layout.addWidget(self.command_title)
+        
+        self.command_description = QLabel("")
+        self.command_description.setWordWrap(True)
+        self.command_description.setStyleSheet("padding: 5px 0;")
+        cmd_info_layout.addWidget(self.command_description)
+        
+        self.command_syntax = QLabel("")
+        self.command_syntax.setStyleSheet("color: #CEA139; padding: 5px 0;")
+        cmd_info_layout.addWidget(self.command_syntax)
+        
+        details_layout.addWidget(cmd_info_frame)
+        
+        # Command builder
+        self.builder_widget = CommandBuilderWidget()
+        details_layout.addWidget(self.builder_widget)
+        
+        # Buttons
+        button_layout = QHBoxLayout()
+        
+        self.execute_button = QPushButton("Execute Command")
+        self.execute_button.setMinimumHeight(35)
+        self.execute_button.setStyleSheet("""
+            QPushButton {
+                background-color: #0E639C;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                padding: 8px 16px;
+                font-weight: bold;
+            }
+            QPushButton:hover {
+                background-color: #1177BB;
+            }
+            QPushButton:pressed {
+                background-color: #0A4C7C;
+            }
+        """)
+        self.execute_button.clicked.connect(self.execute_command)
+        button_layout.addWidget(self.execute_button)
+        
+        self.favorite_button = QPushButton("Add to Favorites")
+        self.favorite_button.setMinimumHeight(35)
+        self.favorite_button.setStyleSheet("""
+            QPushButton {
+                background-color: #3E3E42;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                padding: 8px 16px;
+                font-weight: bold;
+            }
+            QPushButton:hover {
+                background-color: #504F52;
+            }
+            QPushButton:pressed {
+                background-color: #2D2D30;
+            }
+        """)
+        self.favorite_button.clicked.connect(self.add_to_favorites)
+        button_layout.addWidget(self.favorite_button)
+        
+        details_layout.addLayout(button_layout)
+        
+        commands_splitter.addWidget(command_details_panel)
+        
+        # Store reference to the command details panel
+        self.command_details = command_details_panel
         
         # Set default sizes (1:2 ratio)
         commands_splitter.setSizes([300, 600])
@@ -956,7 +1060,7 @@ class MainWindow(QMainWindow):
             self.on_command_category_clicked("Favorites")
         
         return tab_widget
-    
+        
     def create_items_tab(self):
         """Create the items tab with two rows of category buttons"""
         tab_widget = QWidget()
