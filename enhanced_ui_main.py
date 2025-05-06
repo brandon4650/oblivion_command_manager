@@ -23,12 +23,36 @@ class EnhancedItemSelector(QWidget):
     # Signal emitted when a command is selected
     commandSelected = pyqtSignal(str, dict)
     
-    def __init__(self, data_loader, category):
+    def __init__(self):
         super().__init__()
-        self.data_loader = data_loader
-        self.category = category
-        self.items = data_loader.get_category_items(category)
-        self.setup_ui()
+        self.setWindowTitle("Oblivion Console Manager")
+        self.setMinimumSize(900, 700)
+        
+        # Create settings object first
+        self.settings = QSettings("OblivionConsoleManager", "Settings")
+        
+        # Load data
+        self.data_loader = OblivionDataLoader("data")  # Adjust path as needed
+        if not self.data_loader.load_all_json_data():
+            QMessageBox.critical(self, "Error", "Failed to load data files.")
+            return
+        
+        # Check if icons exist
+        self.check_icons()
+        
+        # Set up the core UI structure
+        self.setup_core_ui()
+        
+        # Setup main UI contents
+        self.setup_ui_contents()
+        
+        # Load settings
+        self.load_settings()
+        
+        # Set up game status checker
+        self.status_timer = QTimer(self)
+        self.status_timer.timeout.connect(self.check_game_status)
+        self.status_timer.start(2000)  # Check every 2 seconds
         
     def setup_ui(self):
         main_layout = QVBoxLayout(self)
@@ -1060,6 +1084,18 @@ class MainWindow(QMainWindow):
             self.on_command_category_clicked("Favorites")
         
         return tab_widget
+
+    def initialize_category_items(self):
+        """Initialize the category items dictionary for favorites"""
+        self.category_items = {}
+        
+        # Create "Favorites" entry
+        self.category_items["Favorites"] = []
+        
+        # Add entries for all other categories
+        for category_data in self.data_loader.categories:
+            category_name = category_data["name"]
+            self.category_items[category_name] = []
         
     def create_items_tab(self):
         """Create the items tab with two rows of category buttons"""
@@ -1982,27 +2018,25 @@ class MainWindow(QMainWindow):
         """Load user settings and favorites"""
         # Load favorites
         favorites_data = self.settings.value("favorites", [])
-        favorites_item = self.category_items["Favorites"]
         
-        for fav_data in favorites_data:
-            # Skip if invalid data
-            if not isinstance(fav_data, dict) or "type" not in fav_data:
-                continue
-                
-            # Add to favorites tree
-            fav_item = QTreeWidgetItem(favorites_item)
+        # Add to command list if it exists
+        if hasattr(self, 'command_list'):
+            self.command_list.clear()
             
-            if fav_data["type"] == "command":
-                # Command favorite
-                cmd_name = fav_data["name"]
-                fav_item.setText(0, cmd_name)
-                fav_item.setData(0, Qt.ItemDataRole.UserRole, fav_data)
+            for fav_data in favorites_data:
+                # Skip if invalid data
+                if not isinstance(fav_data, dict) or "type" not in fav_data:
+                    continue
+                    
+                # Store in category items
+                self.category_items["Favorites"].append(fav_data)
                 
-            elif fav_data["type"] == "item":
-                # Item favorite
-                item_name = fav_data["data"]["name"]
-                fav_item.setText(0, item_name)
-                fav_item.setData(0, Qt.ItemDataRole.UserRole, fav_data)
+                # Add to command list if it exists
+                if hasattr(self, 'command_list') and hasattr(self, 'category_buttons') and "Favorites" in self.category_buttons:
+                    if self.category_buttons["Favorites"].isChecked():
+                        item = QListWidgetItem(fav_data["name"])
+                        item.setData(Qt.ItemDataRole.UserRole, fav_data)
+                        self.command_list.addItem(item)
                 
     def save_settings(self):
         """Save user settings and favorites"""
