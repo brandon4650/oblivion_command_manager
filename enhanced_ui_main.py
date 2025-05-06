@@ -3,7 +3,7 @@ from PyQt6.QtWidgets import (QMainWindow, QTreeWidget, QTreeWidgetItem,
                            QLineEdit, QPushButton, QVBoxLayout, QHBoxLayout, 
                            QWidget, QLabel, QSplitter, QTextEdit, QStackedWidget,
                            QSizePolicy, QFrame, QMenu, QMessageBox, QTabWidget,
-                           QComboBox, QGroupBox, QGraphicsOpacityEffect, QSpinBox)
+                           QComboBox, QGroupBox, QGraphicsOpacityEffect, QSpinBox, QApplication)
 from PyQt6.QtCore import Qt, QSettings, pyqtSignal, QTimer, QPropertyAnimation, QEasingCurve, QPoint, QSize, QRect, QEvent
 from PyQt6.QtGui import QIcon, QFont, QPixmap, QPainter, QColor, QPen, QPolygon, QBrush
 import pyautogui
@@ -711,14 +711,42 @@ class MainWindow(QMainWindow):
                               "Oblivion Remastered must be running to execute commands.")
     
     def setup_ui_contents(self):
-        """Set up the actual UI contents in the central widget"""
+        """Set up the actual UI contents in the central widget with improved layout"""
         # Header area with logo and game status
-        header_layout = QHBoxLayout()
+        header_container = QFrame()
+        header_container.setFrameShape(QFrame.Shape.StyledPanel)
+        header_container.setFrameShadow(QFrame.Shadow.Raised)
+        header_container.setStyleSheet("""
+            QFrame {
+                background-color: #252526;
+                border: 1px solid #3F3F46;
+                border-radius: 8px;
+                padding: 15px;
+                margin-bottom: 10px;
+            }
+        """)
+        
+        header_layout = QHBoxLayout(header_container)
+        header_layout.setContentsMargins(10, 10, 10, 10)
         
         # Game status indicator (left)
+        status_frame = QFrame()
+        status_frame.setFrameShape(QFrame.Shape.StyledPanel)
+        status_frame.setStyleSheet("""
+            QFrame {
+                background-color: #2D2D30;
+                border-radius: 5px;
+                padding: 8px;
+            }
+        """)
+        status_layout = QVBoxLayout(status_frame)
+        
         self.status_label = QLabel("Game Status: Not Detected")
-        header_layout.addWidget(self.status_label)
-
+        self.status_label.setStyleSheet("font-weight: bold; font-size: 12pt;")
+        status_layout.addWidget(self.status_label)
+        
+        header_layout.addWidget(status_frame)
+    
         # Add Discord button (left-middle)
         self.discord_button = QPushButton("💬 Join Discord")
         self.discord_button.setStyleSheet("""
@@ -730,6 +758,7 @@ class MainWindow(QMainWindow):
                 padding: 8px 16px;
                 font-weight: bold;
                 font-size: 11pt;
+                min-height: 40px;
             }
             QPushButton:hover {
                 background-color: #4752C4;
@@ -738,34 +767,8 @@ class MainWindow(QMainWindow):
                 background-color: #3C45A5;
             }
         """)
-        self.discord_button.setFixedHeight(35)
         self.discord_button.clicked.connect(self.open_discord)
         header_layout.addWidget(self.discord_button)
-
-        donate_container = QWidget()
-        donate_container_layout = QVBoxLayout(donate_container)
-        donate_container_layout.setContentsMargins(0, 0, 0, 0)
-        donate_container_layout.setSpacing(5)  # Spacing between button and arrow
-        
-        # First add the donate button to the container
-        self.donate_button = DonateButton()
-        donate_container_layout.addWidget(self.donate_button, 0, Qt.AlignmentFlag.AlignHCenter)
-        
-        # Create a label for the "Support" text with an arrow
-        support_label = QLabel("▲ Support")
-        support_label.setStyleSheet("""
-            color: #4CAF50;
-            font-weight: bold;
-            font-size: 10pt;
-        """)
-        support_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
-        donate_container_layout.addWidget(support_label, 0, Qt.AlignmentFlag.AlignHCenter)
-        
-        # Add the container to the main layout, aligned to the right
-        donate_layout = QHBoxLayout()
-        donate_layout.addStretch()  # Push everything to the right
-        donate_layout.addWidget(donate_container)
-        self.main_layout.addLayout(donate_layout)
         
         # Oblivion logo (center)
         logo_label = QLabel()
@@ -780,34 +783,55 @@ class MainWindow(QMainWindow):
             logo_label.setMinimumHeight(150)
         else:
             logo_label.setText("Oblivion Console Manager")
-            logo_label.setStyleSheet("font-size: 18pt; font-weight: bold; color: #C0C0C0;")
+            logo_label.setStyleSheet("font-size: 22pt; font-weight: bold; color: #C0C0C0;")
             logo_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         
         header_layout.addWidget(logo_label, 1)  # Give the logo more space
         
-        # Empty spacer to balance the layout (right)
-        spacer_label = QLabel("")
-        header_layout.addWidget(spacer_label)
+        # Donate button (right)
+        donate_container = QWidget()
+        donate_layout = QVBoxLayout(donate_container)
+        donate_layout.setContentsMargins(0, 0, 0, 0)
+        
+        self.donate_button = DonateButton()
+        donate_layout.addWidget(self.donate_button, 0, Qt.AlignmentFlag.AlignRight)
+        
+        header_layout.addWidget(donate_container)
         
         # Add the header to the main layout
-        self.main_layout.addLayout(header_layout)
-    
-        # Command search
-        search_layout = QHBoxLayout()
+        self.main_layout.addWidget(header_container)
+        
+        # Search container
+        search_container = QFrame()
+        search_container.setFrameShape(QFrame.Shape.StyledPanel)
+        search_container.setFrameShadow(QFrame.Shadow.Raised)
+        search_container.setStyleSheet("""
+            QFrame {
+                background-color: #252526;
+                border: 1px solid #3F3F46;
+                border-radius: 8px;
+                padding: 15px;
+                margin-bottom: 10px;
+            }
+        """)
+        
+        search_layout = QHBoxLayout(search_container)
+        search_layout.setContentsMargins(10, 10, 10, 10)
+        
         search_label = QLabel("Search:")
-        search_label.setStyleSheet("font-weight: bold; font-size: 11pt;")
+        search_label.setStyleSheet("font-weight: bold; font-size: 12pt;")
         
         self.search_box = QLineEdit()
         self.search_box.setPlaceholderText("Search commands and items...")
-        self.search_box.setMinimumHeight(30)
+        self.search_box.setMinimumHeight(40)
         self.search_box.setStyleSheet("""
             QLineEdit {
                 background-color: #333337;
                 border: 1px solid #555555;
                 border-radius: 5px;
                 color: #E6E6E6;
-                padding: 5px 10px;
-                font-size: 11pt;
+                padding: 5px 15px;
+                font-size: 12pt;
             }
             QLineEdit:focus {
                 border: 1px solid #007ACC;
@@ -818,26 +842,49 @@ class MainWindow(QMainWindow):
         search_layout.addWidget(search_label)
         search_layout.addWidget(self.search_box)
         
-        self.main_layout.addSpacing(10)
-        self.main_layout.addLayout(search_layout)
-        self.main_layout.addSpacing(10)
+        self.main_layout.addWidget(search_container)
         
         # Create a horizontal layout for the main content
-        main_content_layout = QHBoxLayout()
+        main_content_container = QFrame()
+        main_content_container.setFrameShape(QFrame.Shape.StyledPanel)
+        main_content_container.setFrameShadow(QFrame.Shadow.Raised)
+        main_content_container.setStyleSheet("""
+            QFrame {
+                background-color: #252526;
+                border: 1px solid #3F3F46;
+                border-radius: 8px;
+                padding: 15px;
+            }
+        """)
+        
+        main_content_layout = QHBoxLayout(main_content_container)
+        main_content_layout.setContentsMargins(10, 10, 10, 10)
+        main_content_layout.setSpacing(15)
         
         # Left side: Categories and History (vertical layout)
         left_panel = QWidget()
         left_layout = QVBoxLayout(left_panel)
         left_layout.setContentsMargins(0, 0, 0, 0)
-        left_layout.setSpacing(10)
+        left_layout.setSpacing(15)
         
         # Categories tree
-        tree_widget = QWidget()
-        tree_layout = QVBoxLayout(tree_widget)
-        tree_layout.setContentsMargins(0, 0, 0, 0)
+        tree_container = QFrame()
+        tree_container.setFrameShape(QFrame.Shape.StyledPanel)
+        tree_container.setFrameShadow(QFrame.Shadow.Raised)
+        tree_container.setStyleSheet("""
+            QFrame {
+                background-color: #2D2D30;
+                border: 1px solid #3F3F46;
+                border-radius: 5px;
+                padding: 10px;
+            }
+        """)
+        
+        tree_layout = QVBoxLayout(tree_container)
+        tree_layout.setContentsMargins(10, 10, 10, 10)
         
         tree_title = QLabel("Categories")
-        tree_title.setStyleSheet("font-weight: bold; font-size: 12pt; padding: 5px; color: #00B050;")
+        tree_title.setStyleSheet("font-weight: bold; font-size: 14pt; padding: 5px; color: #00B050;")
         tree_layout.addWidget(tree_title)
         
         self.command_tree = QTreeWidget()
@@ -858,8 +905,8 @@ class MainWindow(QMainWindow):
                 border-radius: 5px;
             }
             QTreeWidget::item {
-                padding: 4px;
-                min-height: 25px;
+                padding: 6px;
+                min-height: 30px;
             }
             QTreeWidget::item:hover {
                 background-color: #3E3E40;
@@ -877,26 +924,29 @@ class MainWindow(QMainWindow):
         """)
         
         tree_layout.addWidget(self.command_tree)
-        left_layout.addWidget(tree_widget)
+        left_layout.addWidget(tree_container, 3) # Tree gets 3 parts of the space
         
         # Command History (below categories)
-        history_frame = QFrame()
-        history_frame.setFrameShape(QFrame.Shape.StyledPanel)
-        history_frame.setFrameShadow(QFrame.Shadow.Raised)
-        history_frame.setStyleSheet("""
+        history_container = QFrame()
+        history_container.setFrameShape(QFrame.Shape.StyledPanel)
+        history_container.setFrameShadow(QFrame.Shadow.Raised)
+        history_container.setStyleSheet("""
             QFrame {
                 background-color: #2D2D30;
                 border: 1px solid #3F3F46;
                 border-radius: 5px;
+                padding: 10px;
             }
         """)
-        history_layout = QVBoxLayout(history_frame)
+        
+        history_layout = QVBoxLayout(history_container)
+        history_layout.setContentsMargins(10, 10, 10, 10)
         
         # History header with title and clear button
         history_header = QHBoxLayout()
         
         history_label = QLabel("Command History")
-        history_label.setStyleSheet("font-weight: bold; font-size: 12pt; color: #00B050;")
+        history_label.setStyleSheet("font-weight: bold; font-size: 14pt; color: #00B050;")
         history_header.addWidget(history_label)
         
         history_header.addStretch()
@@ -907,11 +957,15 @@ class MainWindow(QMainWindow):
                 background-color: #3E3E42;
                 color: white;
                 border: none;
-                border-radius: 3px;
-                padding: 4px 8px;
+                border-radius: 4px;
+                padding: 6px 12px;
+                font-weight: bold;
             }
             QPushButton:hover {
                 background-color: #504F52;
+            }
+            QPushButton:pressed {
+                background-color: #2D2D30;
             }
         """)
         clear_history_btn.clicked.connect(self.clear_history)
@@ -926,23 +980,25 @@ class MainWindow(QMainWindow):
             QTextEdit {
                 background-color: #1E1E1E;
                 border: 1px solid #3F3F46;
-                border-radius: 3px;
+                border-radius: 4px;
                 color: #E6E6E6;
-                padding: 5px;
+                padding: 10px;
                 font-family: Consolas, Monaco, monospace;
+                font-size: 11pt;
             }
         """)
         history_layout.addWidget(self.history_text)
         
-        left_layout.addWidget(history_frame)
+        left_layout.addWidget(history_container, 2) # History gets 2 parts of the space
         
         # Add the left panel to the main content layout
-        main_content_layout.addWidget(left_panel)
+        main_content_layout.addWidget(left_panel, 3) # Left panel gets 3 parts of width
         
         # Right side: Command details and stacked widget
         right_panel = QWidget()
         right_layout = QVBoxLayout(right_panel)
         right_layout.setContentsMargins(0, 0, 0, 0)
+        right_layout.setSpacing(15)
         
         # Stacked widget for different detail panels
         self.details_stack = QStackedWidget()
@@ -950,84 +1006,112 @@ class MainWindow(QMainWindow):
         # Command details widget
         self.command_details = QWidget()
         self.command_details.setAutoFillBackground(True)
-        details_layout = QVBoxLayout(self.command_details)
+        self.details_layout = QVBoxLayout(self.command_details)
+        self.details_layout.setContentsMargins(0, 0, 0, 0)
+        self.details_layout.setSpacing(15)
         
-        # Add a title for the details area
-        details_title = QLabel("Command Details")
-        details_title.setStyleSheet("font-weight: bold; font-size: 12pt; padding: 5px; color: #00B050;")
-        details_layout.addWidget(details_title)
-        
-        # Create the command info frame and other details
-        cmd_info_frame = QFrame()
-        cmd_info_frame.setFrameShape(QFrame.Shape.StyledPanel)
-        cmd_info_frame.setFrameShadow(QFrame.Shadow.Raised)
-        cmd_info_frame.setStyleSheet("""
+        # Create a default view for the details panel
+        default_detail_container = QFrame()
+        default_detail_container.setFrameShape(QFrame.Shape.StyledPanel)
+        default_detail_container.setFrameShadow(QFrame.Shadow.Raised)
+        default_detail_container.setStyleSheet("""
             QFrame {
                 background-color: #2D2D30;
                 border: 1px solid #3F3F46;
                 border-radius: 5px;
-                padding: 10px;
+                padding: 20px;
             }
         """)
-        cmd_info_layout = QVBoxLayout(cmd_info_frame)
+        default_detail_layout = QVBoxLayout(default_detail_container)
+        
+        default_title = QLabel("Command Details")
+        default_title.setStyleSheet("font-weight: bold; font-size: 14pt; color: #00B050;")
+        default_detail_layout.addWidget(default_title)
         
         self.command_title = QLabel("Select a command")
         font = QFont()
-        font.setPointSize(14)
+        font.setPointSize(16)
         font.setBold(True)
         self.command_title.setFont(font)
-        self.command_title.setStyleSheet("color: #E6E6E6;")
-        cmd_info_layout.addWidget(self.command_title)
+        self.command_title.setStyleSheet("color: #E6E6E6; margin-top: 10px;")
+        default_detail_layout.addWidget(self.command_title)
         
         self.command_description = QLabel("")
         self.command_description.setWordWrap(True)
-        self.command_description.setStyleSheet("padding: 5px 0;")
-        cmd_info_layout.addWidget(self.command_description)
+        self.command_description.setStyleSheet("padding: 10px 0; font-size: 11pt;")
+        default_detail_layout.addWidget(self.command_description)
         
         self.command_syntax = QLabel("")
-        self.command_syntax.setStyleSheet("color: #CEA139; padding: 5px 0;")
-        cmd_info_layout.addWidget(self.command_syntax)
+        self.command_syntax.setStyleSheet("""
+            color: #CEA139; 
+            padding: 10px; 
+            background-color: #1E1E1E; 
+            border-radius: 5px;
+            font-family: Consolas, Monaco, monospace;
+            margin: 10px 0;
+        """)
+        default_detail_layout.addWidget(self.command_syntax)
         
-        details_layout.addWidget(cmd_info_frame)
+        # Add default panel to details layout
+        self.details_layout.addWidget(default_detail_container)
         
         # Command builder area
-        builder_frame = QFrame()
-        builder_frame.setFrameShape(QFrame.Shape.StyledPanel)
-        builder_frame.setFrameShadow(QFrame.Shadow.Raised)
-        builder_frame.setStyleSheet("""
+        builder_container = QFrame()
+        builder_container.setFrameShape(QFrame.Shape.StyledPanel)
+        builder_container.setFrameShadow(QFrame.Shape.Raised)
+        builder_container.setStyleSheet("""
             QFrame {
                 background-color: #2D2D30;
                 border: 1px solid #3F3F46;
                 border-radius: 5px;
-                padding: 10px;
+                padding: 20px;
             }
         """)
-        builder_layout = QVBoxLayout(builder_frame)
+        builder_layout = QVBoxLayout(builder_container)
         
         builder_title = QLabel("Command Builder")
-        builder_title.setStyleSheet("font-weight: bold; font-size: 11pt; color: #E6E6E6;")
+        builder_title.setStyleSheet("font-weight: bold; font-size: 14pt; color: #00B050;")
         builder_layout.addWidget(builder_title)
         
         self.builder_widget = CommandBuilderWidget()
+        self.builder_widget.setStyleSheet("""
+            QLineEdit, QSpinBox, QComboBox {
+                background-color: #333337;
+                border: 1px solid #555555;
+                border-radius: 4px;
+                color: #E6E6E6;
+                padding: 5px 10px;
+                min-height: 30px;
+            }
+            QLineEdit:focus, QSpinBox:focus, QComboBox:focus {
+                border: 1px solid #007ACC;
+            }
+            QLabel {
+                font-size: 11pt;
+            }
+        """)
         builder_layout.addWidget(self.builder_widget)
         
-        details_layout.addWidget(builder_frame)
+        self.details_layout.addWidget(builder_container)
         
         # Button area
-        button_frame = QFrame()
-        button_frame.setFrameShape(QFrame.Shape.NoFrame)
-        button_layout = QHBoxLayout(button_frame)
+        button_container = QFrame()
+        button_container.setFrameShape(QFrame.Shape.NoFrame)
+        button_layout = QHBoxLayout(button_container)
+        button_layout.setContentsMargins(0, 10, 0, 0)
+        button_layout.setSpacing(15)
         
         self.execute_button = QPushButton("Execute Command")
-        self.execute_button.setMinimumHeight(35)
+        self.execute_button.setMinimumHeight(45)
         self.execute_button.setStyleSheet("""
             QPushButton {
                 background-color: #0E639C;
                 color: white;
                 border: none;
                 border-radius: 5px;
-                padding: 8px 16px;
+                padding: 10px 20px;
                 font-weight: bold;
+                font-size: 12pt;
             }
             QPushButton:hover {
                 background-color: #1177BB;
@@ -1040,15 +1124,16 @@ class MainWindow(QMainWindow):
         button_layout.addWidget(self.execute_button)
         
         self.favorite_button = QPushButton("Add to Favorites")
-        self.favorite_button.setMinimumHeight(35)
+        self.favorite_button.setMinimumHeight(45)
         self.favorite_button.setStyleSheet("""
             QPushButton {
                 background-color: #3E3E42;
                 color: white;
                 border: none;
                 border-radius: 5px;
-                padding: 8px 16px;
+                padding: 10px 20px;
                 font-weight: bold;
+                font-size: 12pt;
             }
             QPushButton:hover {
                 background-color: #504F52;
@@ -1060,60 +1145,48 @@ class MainWindow(QMainWindow):
         self.favorite_button.clicked.connect(self.add_to_favorites)
         button_layout.addWidget(self.favorite_button)
         
-        details_layout.addWidget(button_frame)
+        self.details_layout.addWidget(button_container)
         
-        # Item selector tab container
-        self.item_tabs = QTabWidget()
-        self.item_tabs.setStyleSheet("""
-            QTabWidget::pane {
+        # Add command details to stacked widget
+        self.details_stack.addWidget(self.command_details)  # Index 0
+        
+        # Item selector tab container will be added in create_item_selector_tabs()
+        # This method will add the tab container to index 1 of the details_stack
+        
+        right_layout.addWidget(self.details_stack)
+        main_content_layout.addWidget(right_panel, 7) # Right panel gets 7 parts of width
+        
+        # Add the main content container to the layout
+        self.main_layout.addWidget(main_content_container, 1) # Give it all remaining space
+        
+        # Status bar with additional info
+        footer_container = QFrame()
+        footer_container.setFrameShape(QFrame.Shape.StyledPanel)
+        footer_container.setFrameShadow(QFrame.Shape.Raised)
+        footer_container.setStyleSheet("""
+            QFrame {
+                background-color: #252526;
                 border: 1px solid #3F3F46;
-                background-color: #2D2D30;
-                border-radius: 5px;
-            }
-            QTabBar::tab {
-                background-color: #3E3E42;
-                color: #E6E6E6;
-                padding: 8px 16px;
-                border-top-left-radius: 4px;
-                border-top-right-radius: 4px;
-                min-width: 100px;
-            }
-            QTabBar::tab:selected {
-                background-color: #0E639C;
-                color: white;
-            }
-            QTabBar::tab:hover:!selected {
-                background-color: #504F52;
+                border-radius: 8px;
+                padding: 10px;
+                margin-top: 10px;
             }
         """)
         
-        # Add both panels to stacked widget
-        self.details_stack.addWidget(self.command_details)  # Index 0
-        self.details_stack.addWidget(self.item_tabs)        # Index 1
-        
-        right_layout.addWidget(self.details_stack)
-        main_content_layout.addWidget(right_panel)
-        
-        # Set stretch factors (30% left, 70% right)
-        main_content_layout.setStretch(0, 3)
-        main_content_layout.setStretch(1, 7)
-        
-        self.main_layout.addLayout(main_content_layout)
-        
-        # Status bar with additional info
-        status_bar = QHBoxLayout()
+        footer_layout = QHBoxLayout(footer_container)
+        footer_layout.setContentsMargins(10, 5, 10, 5)
         
         version_label = QLabel("v1.0.2")
-        version_label.setStyleSheet("color: #808080; font-size: 9pt;")
-        status_bar.addWidget(version_label)
+        version_label.setStyleSheet("color: #808080; font-size: 10pt;")
+        footer_layout.addWidget(version_label)
         
-        status_bar.addStretch()
+        footer_layout.addStretch()
         
         help_label = QLabel("Right-click items for more options | Select a command to see details")
-        help_label.setStyleSheet("color: #808080; font-size: 9pt;")
-        status_bar.addWidget(help_label)
+        help_label.setStyleSheet("color: #808080; font-size: 10pt;")
+        footer_layout.addWidget(help_label)
         
-        self.main_layout.addLayout(status_bar)
+        self.main_layout.addWidget(footer_container)
         
         # Continue with the rest of your existing code...
         self.setup_context_menu()
@@ -1190,6 +1263,108 @@ class MainWindow(QMainWindow):
         
         # Show the menu
         menu.exec(self.command_tree.mapToGlobal(position))
+
+    def max_all_skills_attributes(self):
+        """Max all attributes to 255 and all skills to 100"""
+        # Check if game is running first
+        if not is_game_running():
+            QMessageBox.warning(self, "Game Not Running", 
+                              "Oblivion must be running to execute commands.")
+            return
+        
+        # Ask for confirmation
+        reply = QMessageBox.question(self, "Max All Skills & Attributes", 
+                                   "This will set ALL attributes to 255 and ALL skills to 100.\n\n"
+                                   "This is a 'god mode' change and may affect game balance.\n\n"
+                                   "Do you want to continue?",
+                                   QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No)
+        
+        if reply == QMessageBox.StandardButton.No:
+            return
+        
+        # Prepare command lists
+        attributes = ["Strength", "Intelligence", "Willpower", "Agility", 
+                     "Speed", "Endurance", "Personality", "Luck"]
+        
+        skills = [
+            "Acrobatics", "Alchemy", "Alteration", "Armorer", "Athletics", 
+            "Blade", "Block", "Blunt", "Conjuration", "Destruction", 
+            "HandtoHand", "HeavyArmor", "Illusion", "LightArmor", 
+            "Marksman", "Mercantile", "Mysticism", "Restoration", 
+            "Security", "Sneak", "Speechcraft"
+        ]
+        
+        # Build command list
+        commands = []
+        # Add attribute commands
+        for attribute in attributes:
+            commands.append(f'player.setav "{attribute}" 255')
+        
+        # Add skill commands
+        for skill in skills:
+            commands.append(f'player.setav "{skill}" 100')
+        
+        # Show instructions dialog
+        QMessageBox.information(self, "Instructions", 
+                              "1. Click OK on this message\n"
+                              "2. Switch to Oblivion (Alt+Tab)\n"
+                              "3. Wait while commands are executed (10-15 seconds)\n"
+                              "4. You'll see a completion message when done")
+        
+        # Get the game window and activate it
+        import time
+        
+        # Find and switch to the Oblivion window
+        # This uses the game_connector's approach for sending commands
+        try:
+            # Find the Oblivion process
+            for process in psutil.process_iter(['pid', 'name']):
+                # Check for Oblivion process
+                if "oblivion" in process.info['name'].lower():
+                    # Switch to it using Alt+Tab
+                    pyautogui.keyDown('alt')
+                    pyautogui.press('tab')
+                    pyautogui.keyUp('alt')
+                    time.sleep(1)  # Give it time to switch
+                    break
+                    
+            # Wait briefly to ensure the game window is active
+            time.sleep(0.5)
+            
+            # Open console
+            pyautogui.press('`')
+            time.sleep(0.3)
+            
+            # Execute all commands
+            for command in commands:
+                # Type command
+                pyautogui.write(command)
+                time.sleep(0.1)
+                # Press Enter
+                pyautogui.press('enter')
+                # Record in history
+                self.history_text.append(f"> {command}")
+                # Small delay between commands
+                time.sleep(0.1)
+            
+            # Close console
+            time.sleep(0.3)
+            pyautogui.press('`')
+            
+            # Switch back to the app
+            time.sleep(0.5)
+            pyautogui.keyDown('alt')
+            pyautogui.press('tab')
+            pyautogui.keyUp('alt')
+            
+            # Show completion message
+            QMessageBox.information(self, "Operation Complete", 
+                                "All attributes set to 255 and all skills set to 100!")
+                                
+        except Exception as e:
+            QMessageBox.critical(self, "Error", 
+                               f"Failed to apply settings: {str(e)}\n\n"
+                               "Try using individual commands instead.")
     
     def populate_command_tree(self):
         """Populate command tree with categories and commands"""
@@ -1288,29 +1463,69 @@ class MainWindow(QMainWindow):
             return
             
     def command_selected(self, item_data):
-        """Display command details"""
+        """Display command details with improved layout"""
         cmd_name = item_data["name"]
         cmd_data = item_data["data"]
         
+        # Update command information
         self.command_title.setText(f"{cmd_name}")
         self.command_description.setText(cmd_data["description"])
         self.command_syntax.setText(f"<b>Syntax:</b> {cmd_data['syntax']}")
         
         # Update builder with command parameters
         self.builder_widget.set_command(cmd_name, cmd_data)
+        
+        # Enable buttons
+        self.execute_button.setEnabled(True)
+        self.favorite_button.setEnabled(True)
     
     def item_selected(self, item_data):
-        """Display item details"""
+        """Display item details with improved layout"""
         item_key = item_data["name"]
         item_data = item_data["data"]
         
+        # Update item information
         self.command_title.setText(f"{item_data['name']}")
-        self.command_description.setText(f"ID: {item_data['id']}")
+        
+        # Create a detailed description with item ID
+        description = f"""
+        <div style="margin-bottom: 10px;">
+            <span style="font-weight: bold;">ID:</span> {item_data['id']}
+        </div>
+        """
+        
+        # Add any additional item properties if available
+        if "weight" in item_data:
+            description += f"""
+            <div style="margin-bottom: 10px;">
+                <span style="font-weight: bold;">Weight:</span> {item_data['weight']}
+            </div>
+            """
+        
+        if "value" in item_data:
+            description += f"""
+            <div style="margin-bottom: 10px;">
+                <span style="font-weight: bold;">Value:</span> {item_data['value']}
+            </div>
+            """
+            
+        if "damage" in item_data:
+            description += f"""
+            <div style="margin-bottom: 10px;">
+                <span style="font-weight: bold;">Damage:</span> {item_data['damage']}
+            </div>
+            """
+        
+        self.command_description.setText(description)
         self.command_syntax.setText(f"<b>Command:</b> {item_data['command']}")
         
         # Set the builder to manual mode with the command
         self.builder_widget.manual_checkbox.setChecked(True)
         self.builder_widget.manual_edit.setText(item_data["command"])
+        
+        # Enable buttons
+        self.execute_button.setEnabled(True)
+        self.favorite_button.setEnabled(True)
             
     def filter_commands(self):
         """Filter commands and items based on search text"""
@@ -1528,21 +1743,60 @@ class MainWindow(QMainWindow):
                               "All favorites have been cleared.")
     
     def create_item_selector_tabs(self):
-        """Create tabs for each item category"""
-        # Categories to include
-        item_categories = [
-            "Useful Cheats", "Weapons", "Armor", "Spells", "Potions", "Books", 
-            "Clothing", "Miscellaneous", "NPCs", "Locations", 
-            "Keys", "Horses", "Soul Gems", "Sigil Stones", 
-            "Alchemy Equipment", "Alchemy Ingredients", "Arrows"
+        """Create tabs for each item category in two rows"""
+        # Categories to include in top and bottom rows
+        top_row_categories = [
+            "Useful Cheats", "Weapons", "Armor", "Spells", 
+            "Potions", "Books", "Clothing", "Miscellaneous"
         ]
         
-        # Create a tab for each category
-        for category in item_categories:
+        bottom_row_categories = [
+            "NPCs", "Locations", "Keys", "Horses", 
+            "Soul Gems", "Sigil Stones", "Alchemy Equipment", "Alchemy Ingredients"
+        ]
+        
+        # Create a container widget for the tab rows
+        tab_container = QWidget()
+        tab_container_layout = QVBoxLayout(tab_container)
+        tab_container_layout.setSpacing(10)
+        
+        # Create top row tabs
+        self.top_tabs = QTabWidget()
+        self.top_tabs.setTabPosition(QTabWidget.TabPosition.North)
+        self.top_tabs.setStyleSheet("""
+            QTabWidget::pane {
+                border: 1px solid #3F3F46;
+                background-color: #2D2D30;
+                border-radius: 5px;
+            }
+            QTabBar::tab {
+                background-color: #3E3E42;
+                color: #E6E6E6;
+                padding: 8px 16px;
+                border-top-left-radius: 4px;
+                border-top-right-radius: 4px;
+                min-width: 100px;
+            }
+            QTabBar::tab:selected {
+                background-color: #0E639C;
+                color: white;
+            }
+            QTabBar::tab:hover:!selected {
+                background-color: #504F52;
+            }
+        """)
+        
+        # Create bottom row tabs
+        self.bottom_tabs = QTabWidget()
+        self.bottom_tabs.setTabPosition(QTabWidget.TabPosition.North)
+        self.bottom_tabs.setStyleSheet(self.top_tabs.styleSheet())
+        
+        # Add tabs to the top row
+        for category in top_row_categories:
             if category == "Useful Cheats":
                 # Create a container widget for useful cheats
                 container = QWidget()
-                container_layout = QVBoxLayout()
+                container_layout = QVBoxLayout(container)
                 
                 # Add the existing useful cheats selector
                 selector = EnhancedItemSelector(self.data_loader, category)
@@ -1553,11 +1807,9 @@ class MainWindow(QMainWindow):
                 attr_skill_widget = self.create_attribute_skill_commands()
                 container_layout.addWidget(attr_skill_widget)
                 
-                container.setLayout(container_layout)
-                
                 # Get category info for icon
                 cat_info = self.data_loader.get_category_info(category)
-                self.item_tabs.addTab(container, f"{cat_info['icon']} {category}")
+                self.top_tabs.addTab(container, f"{cat_info['icon']} {category}")
             else:
                 # Regular category tabs
                 selector = EnhancedItemSelector(self.data_loader, category)
@@ -1565,20 +1817,324 @@ class MainWindow(QMainWindow):
                 
                 # Get category info for icon
                 cat_info = self.data_loader.get_category_info(category)
-                self.item_tabs.addTab(selector, f"{cat_info['icon']} {category}")
+                self.top_tabs.addTab(selector, f"{cat_info['icon']} {category}")
+        
+        # Add tabs to the bottom row
+        for category in bottom_row_categories:
+            # Regular category tabs
+            selector = EnhancedItemSelector(self.data_loader, category)
+            selector.commandSelected.connect(self.item_command_selected)
+            
+            # Get category info for icon
+            cat_info = self.data_loader.get_category_info(category)
+            self.bottom_tabs.addTab(selector, f"{cat_info['icon']} {category}")
+        
+        # Add both tab widgets to the container
+        tab_container_layout.addWidget(self.top_tabs)
+        tab_container_layout.addWidget(self.bottom_tabs)
+        
+        # Add the container to the details stack
+        self.details_stack.addWidget(tab_container)  # Index 1
     
     def show_item_browser(self, category):
-        """Show the item browser for a specific category"""
+        """Show the item browser for a specific category with improved layout"""
+        # Update the UI to show we're browsing items
+        self.status_label.setText(f"Browsing: {category}")
+        
         # Find the tab index for this category
-        for i in range(self.item_tabs.count()):
-            tab_text = self.item_tabs.tabText(i)
+        tab_index = -1
+        
+        # First check top tabs
+        for i in range(self.top_tabs.count()):
+            tab_text = self.top_tabs.tabText(i)
             if category in tab_text:
-                self.item_tabs.setCurrentIndex(i)
+                self.top_tabs.setCurrentIndex(i)
+                tab_index = i
                 break
-                
+        
+        # If not found in top tabs, check bottom tabs
+        if tab_index == -1:
+            for i in range(self.bottom_tabs.count()):
+                tab_text = self.bottom_tabs.tabText(i)
+                if category in tab_text:
+                    self.bottom_tabs.setCurrentIndex(i)
+                    # Make sure bottom tabs are visible
+                    break
+        
         # Switch to the item tabs
         self.details_stack.setCurrentIndex(1)
-    
+        
+        # Add a back button to return to command details if not already present
+        if not hasattr(self, 'back_button'):
+            self.back_button = QPushButton("← Back to Commands")
+            self.back_button.setStyleSheet("""
+                QPushButton {
+                    background-color: #3E3E42;
+                    color: white;
+                    border: none;
+                    border-radius: 5px;
+                    padding: 8px 16px;
+                    font-weight: bold;
+                    font-size: 11pt;
+                }
+                QPushButton:hover {
+                    background-color: #504F52;
+                }
+                QPushButton:pressed {
+                    background-color: #2D2D30;
+                }
+            """)
+            self.back_button.clicked.connect(self.show_command_details)
+            
+            # Find the tab layouts to add the back button
+            top_layout = self.top_tabs.findChild(QVBoxLayout)
+            if top_layout:
+                top_layout.insertWidget(0, self.back_button)
+            else:
+                # If we can't find the layout, create a new container
+                back_container = QWidget()
+                back_layout = QHBoxLayout(back_container)
+                back_layout.addWidget(self.back_button)
+                back_layout.addStretch()
+                
+                # Add it directly to the tab container
+                tab_container = self.details_stack.widget(1)
+                if isinstance(tab_container, QWidget):
+                    tab_container_layout = tab_container.layout()
+                    if tab_container_layout:
+                        tab_container_layout.insertWidget(0, back_container)
+
+    def apply_global_styles(self):
+        """Apply consistent styling throughout the application"""
+        # Main application styles
+        self.setStyleSheet("""
+            /* Main UI */
+            QMainWindow, QWidget {
+                background-color: #1E1E1E;
+                color: #E6E6E6;
+                font-family: "Segoe UI", Arial, sans-serif;
+            }
+            
+            /* Frames and Cards */
+            QFrame {
+                background-color: #252526;
+                border: 1px solid #3F3F46;
+                border-radius: 8px;
+            }
+            
+            /* Text inputs */
+            QLineEdit, QTextEdit, QSpinBox {
+                background-color: #333337;
+                border: 1px solid #555555;
+                border-radius: 5px;
+                color: #E6E6E6;
+                padding: 5px 10px;
+                selection-background-color: #264F78;
+            }
+            
+            QLineEdit:focus, QTextEdit:focus, QSpinBox:focus {
+                border: 1px solid #007ACC;
+            }
+            
+            /* Combo boxes */
+            QComboBox {
+                background-color: #333337;
+                border: 1px solid #555555;
+                border-radius: 5px;
+                color: #E6E6E6;
+                padding: 5px 10px;
+                min-height: 30px;
+            }
+            
+            QComboBox:on {
+                border-color: #007ACC;
+            }
+            
+            QComboBox::drop-down {
+                subcontrol-origin: padding;
+                subcontrol-position: top right;
+                width: 20px;
+                border-left-width: 1px;
+                border-left-color: #555555;
+                border-left-style: solid;
+                border-top-right-radius: 5px;
+                border-bottom-right-radius: 5px;
+            }
+            
+            QComboBox::down-arrow {
+                image: url(icons/down_arrow.png);
+            }
+            
+            QComboBox QAbstractItemView {
+                background-color: #333337;
+                border: 1px solid #555555;
+                border-radius: 0px;
+                selection-background-color: #007ACC;
+                outline: 0;
+            }
+            
+            /* Push buttons */
+            QPushButton {
+                background-color: #3E3E42;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                padding: 8px 16px;
+                font-weight: bold;
+                min-height: 30px;
+            }
+            
+            QPushButton:hover {
+                background-color: #504F52;
+            }
+            
+            QPushButton:pressed {
+                background-color: #2D2D30;
+            }
+            
+            /* Primary buttons */
+            QPushButton[role="primary"] {
+                background-color: #0E639C;
+                color: white;
+            }
+            
+            QPushButton[role="primary"]:hover {
+                background-color: #1177BB;
+            }
+            
+            QPushButton[role="primary"]:pressed {
+                background-color: #0A4C7C;
+            }
+            
+            /* Tab widgets */
+            QTabWidget::pane {
+                border: 1px solid #3F3F46;
+                border-radius: 5px;
+                background-color: #2D2D30;
+            }
+            
+            QTabBar::tab {
+                background-color: #3E3E42;
+                color: #E6E6E6;
+                padding: 10px 20px;
+                border-top-left-radius: 5px;
+                border-top-right-radius: 5px;
+                margin-right: 2px;
+                font-weight: bold;
+            }
+            
+            QTabBar::tab:selected {
+                background-color: #0E639C;
+                color: white;
+            }
+            
+            QTabBar::tab:hover:!selected {
+                background-color: #504F52;
+            }
+            
+            /* Tree widget */
+            QTreeWidget {
+                background-color: #252526;
+                alternate-background-color: #2A2A2B;
+                border: 1px solid #3F3F46;
+                border-radius: 5px;
+                padding: 5px;
+            }
+            
+            QTreeWidget::item {
+                padding: 6px;
+                min-height: 30px;
+            }
+            
+            QTreeWidget::item:selected {
+                background-color: #0E639C;
+                color: white;
+            }
+            
+            QTreeWidget::item:hover {
+                background-color: #3E3E42;
+            }
+            
+            /* Scroll bars */
+            QScrollBar:vertical {
+                background-color: #252526;
+                width: 12px;
+                margin: 0px;
+            }
+            
+            QScrollBar::handle:vertical {
+                background-color: #3E3E42;
+                min-height: 30px;
+                border-radius: 6px;
+            }
+            
+            QScrollBar::handle:vertical:hover {
+                background-color: #504F52;
+            }
+            
+            QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+                height: 0px;
+            }
+            
+            QScrollBar:horizontal {
+                background-color: #252526;
+                height: 12px;
+                margin: 0px;
+            }
+            
+            QScrollBar::handle:horizontal {
+                background-color: #3E3E42;
+                min-width: 30px;
+                border-radius: 6px;
+            }
+            
+            QScrollBar::handle:horizontal:hover {
+                background-color: #504F52;
+            }
+            
+            QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal {
+                width: 0px;
+            }
+            
+            /* Labels */
+            QLabel[role="heading"] {
+                font-size: 16pt;
+                font-weight: bold;
+                color: #E6E6E6;
+                padding: 5px 0;
+            }
+            
+            QLabel[role="subheading"] {
+                font-size: 12pt;
+                font-weight: bold;
+                color: #00B050;
+                padding: 5px 0;
+            }
+            
+            /* Checkboxes */
+            QCheckBox {
+                spacing: 8px;
+            }
+            
+            QCheckBox::indicator {
+                width: 18px;
+                height: 18px;
+                background-color: #333337;
+                border: 1px solid #555555;
+                border-radius: 3px;
+            }
+            
+            QCheckBox::indicator:checked {
+                background-color: #007ACC;
+                border-color: #007ACC;
+                image: url(icons/checkmark.png);
+            }
+            
+            QCheckBox::indicator:hover {
+                border-color: #007ACC;
+            }
+        """)
+        
     def item_command_selected(self, command, cmd_data):
         """Handle item commands from the item selector"""
         # Switch to the command details panel
