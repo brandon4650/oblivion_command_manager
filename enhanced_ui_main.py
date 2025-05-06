@@ -14,6 +14,7 @@ from json_loader import OblivionDataLoader
 from game_connector import send_command_to_game, is_game_running
 from ui_builder import CommandBuilderWidget
 
+
 class EnhancedItemSelector(QWidget):
     """Enhanced widget for selecting items from all available categories"""
     
