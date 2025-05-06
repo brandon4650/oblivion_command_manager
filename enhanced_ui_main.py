@@ -4,7 +4,7 @@ from PyQt6.QtWidgets import (QMainWindow, QTreeWidget, QTreeWidgetItem,
                            QWidget, QLabel, QSplitter, QTextEdit, QStackedWidget,
                            QSizePolicy, QFrame, QMenu, QMessageBox, QTabWidget,
                            QComboBox, QGroupBox, QGraphicsOpacityEffect, QSpinBox, QApplication,
-                           QListWidget, QListWidgetItem, QScrollArea)
+                           QListWidget, QListWidgetItem, QScrollArea, QCheckbox)
 from PyQt6.QtCore import Qt, QSettings, pyqtSignal, QTimer, QPropertyAnimation, QEasingCurve, QPoint, QSize, QRect, QEvent
 from PyQt6.QtGui import (QIcon, QFont, QPixmap, QPainter, QColor, QPen, QPolygon, QBrush, 
                         QTextCursor, QTextCharFormat)
@@ -775,7 +775,7 @@ class MainWindow(QMainWindow):
         
         QMessageBox.information(self, "Changes Applied", 
                               f"{len(commands)} attributes/skills have been updated.")
-
+    
     def max_selected_attributes_skills(self):
         """Max all selected attributes and skills"""
         # Set attributes to max (255)
@@ -799,15 +799,6 @@ class MainWindow(QMainWindow):
         for skill, slider in self.skill_sliders.items():
             slider.setValue(50)
             self.skill_checkboxes[skill].setChecked(True)
-        
-        def execute_setav_command(self, command):
-            """Execute the setav command with proper formatting"""
-            if is_game_running():
-                send_command_to_game(command)
-                self.history_text.append(f"> {command}")  # Add to history
-            else:
-                QMessageBox.warning(self, "Game Not Running", 
-                                  "Oblivion Remastered must be running to execute commands.")
     
     # Replace your current setup_ui_contents method with this updated version
     def setup_ui_contents(self):
@@ -1252,6 +1243,30 @@ class MainWindow(QMainWindow):
             row2_layout.addWidget(button)
             self.item_category_buttons[category] = button
         
+        # Add "Character" button - NEW
+        character_button = QPushButton("👤 Character")
+        character_button.setProperty("category", "Character")
+        character_button.setCheckable(True)
+        character_button.setStyleSheet("""
+            QPushButton {
+                background-color: #3E3E42;
+                color: #E6E6E6;
+                border: none;
+                border-radius: 5px;
+                padding: 8px 12px;
+            }
+            QPushButton:hover {
+                background-color: #505050;
+            }
+            QPushButton:checked {
+                background-color: #0E639C;
+                color: white;
+            }
+        """)
+        character_button.clicked.connect(lambda checked: self.on_item_category_clicked("Character"))
+        row2_layout.addWidget(character_button)
+        self.item_category_buttons["Character"] = character_button
+        
         category_layout.addLayout(row2_layout)
         tab_layout.addWidget(category_frame)
         
@@ -1265,6 +1280,28 @@ class MainWindow(QMainWindow):
             selector = EnhancedItemSelector(self.data_loader, category)
             selector.commandSelected.connect(self.item_command_selected)
             self.item_content.addWidget(selector)
+        
+        # Add the Character tab with attribute/skill sliders - NEW
+        character_widget = QWidget()
+        character_layout = QVBoxLayout(character_widget)
+        character_layout.setContentsMargins(10, 10, 10, 10)
+        
+        # Add a title
+        title_label = QLabel("Character Attributes & Skills Editor")
+        title_label.setStyleSheet("font-weight: bold; font-size: 14px;")
+        character_layout.addWidget(title_label)
+        
+        # Add a description
+        desc_label = QLabel("Adjust your character's attributes and skills with these sliders. Use the checkboxes to select which ones to modify.")
+        desc_label.setWordWrap(True)
+        character_layout.addWidget(desc_label)
+        
+        # Add the attribute/skill slider panel
+        attr_skill_widget = self.create_attribute_skill_commands()
+        character_layout.addWidget(attr_skill_widget)
+        
+        # Add to item content
+        self.item_content.addWidget(character_widget)
         
         # Select the first category by default
         if item_categories_row1:
@@ -1429,7 +1466,8 @@ class MainWindow(QMainWindow):
             "Weapons", "Armor", "Spells", "Potions", 
             "Books", "Clothing", "Miscellaneous", "NPCs",
             "Locations", "Keys", "Horses", "Soul Gems", 
-            "Sigil Stones", "Alchemy Equipment", "Alchemy Ingredients", "Arrows"
+            "Sigil Stones", "Alchemy Equipment", "Alchemy Ingredients", "Arrows",
+            "Character"  # Add the Character category
         ]
         
         if category in all_categories:
