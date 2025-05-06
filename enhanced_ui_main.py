@@ -578,7 +578,7 @@ class MainWindow(QMainWindow):
         self.main_layout.setContentsMargins(15, 15, 15, 15)  # Add some padding around the edges
 
     def create_attribute_skill_commands(self):
-        """Create special UI section for attributes and skills"""
+        """Create special UI section for attributes and skills with sliders"""
         # Create main group box
         group = QGroupBox("Character Attributes & Skills")
         group.setStyleSheet("""
@@ -592,7 +592,13 @@ class MainWindow(QMainWindow):
             }
         """)
         
-        layout = QVBoxLayout()
+        # Create scrollable layout for all sliders
+        scroll_area = QScrollArea()
+        scroll_area.setWidgetResizable(True)
+        scroll_area.setStyleSheet("border: none;")
+        
+        scroll_content = QWidget()
+        layout = QVBoxLayout(scroll_content)
         
         # Attributes section
         attr_group = QGroupBox("Attributes")
@@ -602,33 +608,51 @@ class MainWindow(QMainWindow):
         attributes = ["Strength", "Intelligence", "Willpower", "Agility", 
                      "Speed", "Endurance", "Personality", "Luck"]
         
-        # Create attribute dropdown and value input
-        attr_row = QHBoxLayout()
-        attr_dropdown = QComboBox()
-        attr_dropdown.addItems(attributes)
-        attr_value = QSpinBox()
-        attr_value.setRange(0, 255)
-        attr_value.setValue(50)
+        self.attr_sliders = {}
+        self.attr_checkboxes = {}
         
-        attr_button = QPushButton("Set Attribute")
-        attr_button.clicked.connect(lambda: self.execute_setav_command(
-            f"player.setav {attr_dropdown.currentText()} {attr_value.value()}"
-        ))
+        for attr in attributes:
+            attr_row = QWidget()
+            row_layout = QHBoxLayout(attr_row)
+            row_layout.setContentsMargins(0, 0, 0, 0)
+            
+            # Enable/disable checkbox
+            checkbox = QCheckBox()
+            checkbox.setChecked(True)
+            self.attr_checkboxes[attr] = checkbox
+            
+            # Attribute name
+            name_label = QLabel(attr)
+            name_label.setMinimumWidth(100)
+            
+            # Slider
+            slider = QSlider(Qt.Orientation.Horizontal)
+            slider.setRange(0, 255)
+            slider.setValue(50)
+            slider.setTickPosition(QSlider.TickPosition.TicksBelow)
+            slider.setTickInterval(25)
+            self.attr_sliders[attr] = slider
+            
+            # Value display
+            value_label = QLabel("50")
+            value_label.setMinimumWidth(30)
+            slider.valueChanged.connect(lambda v, lbl=value_label: lbl.setText(str(v)))
+            
+            row_layout.addWidget(checkbox)
+            row_layout.addWidget(name_label)
+            row_layout.addWidget(slider, 1)
+            row_layout.addWidget(value_label)
+            
+            attr_layout.addWidget(attr_row)
         
-        attr_row.addWidget(QLabel("Attribute:"))
-        attr_row.addWidget(attr_dropdown)
-        attr_row.addWidget(QLabel("Value:"))
-        attr_row.addWidget(attr_value)
-        attr_row.addWidget(attr_button)
-        
-        attr_layout.addLayout(attr_row)
         attr_group.setLayout(attr_layout)
+        layout.addWidget(attr_group)
         
         # Skills section
-        skills_group = QGroupBox("Skills (Major & Minor)")
+        skills_group = QGroupBox("Skills")
         skills_layout = QVBoxLayout()
         
-        # All skills list (can be major or minor depending on character class)
+        # All skills list
         all_skills = [
             "Acrobatics", "Alchemy", "Alteration", "Armorer", "Athletics", 
             "Blade", "Block", "Blunt", "Conjuration", "Destruction", 
@@ -637,82 +661,153 @@ class MainWindow(QMainWindow):
             "Security", "Sneak", "Speechcraft"
         ]
         
-        # Create skill dropdown and value input
-        skill_row = QHBoxLayout()
-        skill_dropdown = QComboBox()
-        skill_dropdown.addItems(sorted(all_skills))  # Sort alphabetically
-        skill_value = QSpinBox()
-        skill_value.setRange(0, 100)
-        skill_value.setValue(50)
+        self.skill_sliders = {}
+        self.skill_checkboxes = {}
         
-        skill_button = QPushButton("Set Skill")
-        skill_button.clicked.connect(lambda: self.execute_setav_command(
-            f"player.setav {skill_dropdown.currentText()} {skill_value.value()}"
-        ))
-        
-        skill_row.addWidget(QLabel("Skill:"))
-        skill_row.addWidget(skill_dropdown)
-        skill_row.addWidget(QLabel("Value:"))
-        skill_row.addWidget(skill_value)
-        skill_row.addWidget(skill_button)
-        
-        skills_layout.addLayout(skill_row)
-        
-        # Add a note about major/minor skills
-        note = QLabel("Note: Skills can be Major or Minor depending on your character's class")
-        note.setStyleSheet("color: #888; font-style: italic;")
-        skills_layout.addWidget(note)
+        for skill in sorted(all_skills):  # Sort alphabetically
+            skill_row = QWidget()
+            row_layout = QHBoxLayout(skill_row)
+            row_layout.setContentsMargins(0, 0, 0, 0)
+            
+            # Enable/disable checkbox
+            checkbox = QCheckBox()
+            checkbox.setChecked(True)
+            self.skill_checkboxes[skill] = checkbox
+            
+            # Skill name
+            name_label = QLabel(skill)
+            name_label.setMinimumWidth(100)
+            
+            # Slider
+            slider = QSlider(Qt.Orientation.Horizontal)
+            slider.setRange(0, 100)
+            slider.setValue(50)
+            slider.setTickPosition(QSlider.TickPosition.TicksBelow)
+            slider.setTickInterval(10)
+            self.skill_sliders[skill] = slider
+            
+            # Value display
+            value_label = QLabel("50")
+            value_label.setMinimumWidth(30)
+            slider.valueChanged.connect(lambda v, lbl=value_label: lbl.setText(str(v)))
+            
+            row_layout.addWidget(checkbox)
+            row_layout.addWidget(name_label)
+            row_layout.addWidget(slider, 1)
+            row_layout.addWidget(value_label)
+            
+            skills_layout.addWidget(skill_row)
         
         skills_group.setLayout(skills_layout)
-        
-        # Add both groups to main layout
-        layout.addWidget(attr_group)
         layout.addWidget(skills_group)
         
-        # Add divider
-        divider = QFrame()
-        divider.setFrameShape(QFrame.Shape.HLine)
-        divider.setFrameShadow(QFrame.Shadow.Sunken)
-        layout.addWidget(divider)
+        # Button panel
+        button_layout = QHBoxLayout()
         
-        # Add modpca command section for attributes
-        modpca_group = QGroupBox("Modify Current Attribute (modpca)")
-        modpca_layout = QVBoxLayout()
+        # Apply selected button
+        apply_btn = QPushButton("Apply Selected Changes")
+        apply_btn.setStyleSheet("""
+            QPushButton {
+                background-color: #0E639C;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                padding: 8px 16px;
+                font-weight: bold;
+            }
+            QPushButton:hover {
+                background-color: #1177BB;
+            }
+        """)
+        apply_btn.clicked.connect(self.apply_attribute_skill_changes)
+        button_layout.addWidget(apply_btn)
         
-        modpca_row = QHBoxLayout()
-        modpca_dropdown = QComboBox()
-        modpca_dropdown.addItems(attributes)
-        modpca_value = QSpinBox()
-        modpca_value.setRange(-100, 100)
-        modpca_value.setValue(10)
+        # Max all button
+        max_all_btn = QPushButton("Max All Selected")
+        max_all_btn.clicked.connect(self.max_selected_attributes_skills)
+        button_layout.addWidget(max_all_btn)
         
-        modpca_button = QPushButton("Modify Attribute")
-        modpca_button.clicked.connect(lambda: self.execute_setav_command(
-            f'modpca "{modpca_dropdown.currentText()}" {modpca_value.value()}'
-        ))
+        # Reset button
+        reset_btn = QPushButton("Reset to Defaults")
+        reset_btn.clicked.connect(self.reset_attribute_skill_sliders)
+        button_layout.addWidget(reset_btn)
         
-        modpca_row.addWidget(QLabel("Attribute:"))
-        modpca_row.addWidget(modpca_dropdown)
-        modpca_row.addWidget(QLabel("Amount (+/-):"))
-        modpca_row.addWidget(modpca_value)
-        modpca_row.addWidget(modpca_button)
+        layout.addLayout(button_layout)
         
-        modpca_layout.addLayout(modpca_row)
-        modpca_group.setLayout(modpca_layout)
-        
-        layout.addWidget(modpca_group)
-        group.setLayout(layout)
+        scroll_area.setWidget(scroll_content)
+        group.setLayout(QVBoxLayout())
+        group.layout().addWidget(scroll_area)
         
         return group
-    
-    def execute_setav_command(self, command):
-        """Execute the setav command with proper formatting"""
-        if is_game_running():
-            send_command_to_game(command)
-            self.history_text.append(f"> {command}")  # Add to history
-        else:
+
+    def apply_attribute_skill_changes(self):
+        """Apply the selected attribute and skill changes"""
+        if not is_game_running():
             QMessageBox.warning(self, "Game Not Running", 
-                              "Oblivion Remastered must be running to execute commands.")
+                              "Oblivion must be running to execute commands.")
+            return
+        
+        # Prepare commands
+        commands = []
+        
+        # Add attribute commands
+        for attr, slider in self.attr_sliders.items():
+            if self.attr_checkboxes[attr].isChecked():
+                value = slider.value()
+                commands.append(f'player.setav "{attr}" {value}')
+        
+        # Add skill commands
+        for skill, slider in self.skill_sliders.items():
+            if self.skill_checkboxes[skill].isChecked():
+                value = slider.value()
+                commands.append(f'player.setav "{skill}" {value}')
+        
+        if not commands:
+            QMessageBox.information(self, "No Changes", 
+                                  "No attributes or skills are selected for change.")
+            return
+        
+        # Execute commands
+        for command in commands:
+            success = send_command_to_game(command)
+            if success:
+                self.history_text.append(f"> {command}")
+        
+        QMessageBox.information(self, "Changes Applied", 
+                              f"{len(commands)} attributes/skills have been updated.")
+
+    def max_selected_attributes_skills(self):
+        """Max all selected attributes and skills"""
+        # Set attributes to max (255)
+        for attr, slider in self.attr_sliders.items():
+            if self.attr_checkboxes[attr].isChecked():
+                slider.setValue(255)
+        
+        # Set skills to max (100)
+        for skill, slider in self.skill_sliders.items():
+            if self.skill_checkboxes[skill].isChecked():
+                slider.setValue(100)
+    
+    def reset_attribute_skill_sliders(self):
+        """Reset all sliders to default values"""
+        # Reset attributes to 50
+        for attr, slider in self.attr_sliders.items():
+            slider.setValue(50)
+            self.attr_checkboxes[attr].setChecked(True)
+        
+        # Reset skills to 50
+        for skill, slider in self.skill_sliders.items():
+            slider.setValue(50)
+            self.skill_checkboxes[skill].setChecked(True)
+        
+        def execute_setav_command(self, command):
+            """Execute the setav command with proper formatting"""
+            if is_game_running():
+                send_command_to_game(command)
+                self.history_text.append(f"> {command}")  # Add to history
+            else:
+                QMessageBox.warning(self, "Game Not Running", 
+                                  "Oblivion Remastered must be running to execute commands.")
     
     # Replace your current setup_ui_contents method with this updated version
     def setup_ui_contents(self):
@@ -1664,80 +1759,290 @@ class MainWindow(QMainWindow):
         self.builder_widget.manual_edit.setText(item_data["command"])
             
     def filter_commands(self):
-        """Filter both commands and items based on search text"""
+        """Global search across all tabs and content"""
         search_text = self.search_box.text().lower()
         
-        # Get current tab
-        current_tab = self.main_tabs.currentIndex()
+        # Create search results panel if not exists
+        if not hasattr(self, 'search_results_frame'):
+            self.create_search_results_panel()
         
+        if not search_text:
+            # Hide the search results
+            self.search_results_frame.setVisible(False)
+            
+            # Just apply the current tab's filtering
+            current_tab = self.main_tabs.currentIndex()
+            if current_tab == 0:  # Commands tab
+                self.filter_command_list("")
+            elif current_tab == 1:  # Items tab
+                # Clear item filter in current selector
+                current_selector = self.item_content.currentWidget()
+                if isinstance(current_selector, EnhancedItemSelector):
+                    current_selector.search_box.setText("")
+            elif current_tab == 2:  # History tab
+                # Clear history highlights
+                self.clear_history_highlights()
+            
+            return
+        
+        # Perform search across all content
+        commands_results = []
+        items_results = []
+        
+        # Search in commands
+        for category in self.data_loader.category_map:
+            if category in ["Weapons", "Armor", "Spells", "Potions", "Books", 
+                          "Clothing", "Miscellaneous", "NPCs", "Locations", 
+                          "Keys", "Horses", "Soul Gems", "Sigil Stones", 
+                          "Alchemy Equipment", "Alchemy Ingredients", "Arrows"]:
+                # Search in items
+                category_items = self.data_loader.get_category_items(category)
+                for item_key, item_data in category_items:
+                    if (search_text in item_data["name"].lower() or 
+                        search_text in item_data["id"].lower()):
+                        items_results.append({
+                            "type": "item",
+                            "name": item_data["name"],
+                            "category": category,
+                            "data": item_data
+                        })
+            else:
+                # Search in commands
+                category_commands = self.data_loader.get_category_commands(category)
+                for cmd_name, cmd_data in category_commands:
+                    if (search_text in cmd_name.lower() or 
+                        search_text in cmd_data["description"].lower()):
+                        commands_results.append({
+                            "type": "command",
+                            "name": cmd_name,
+                            "category": category,
+                            "data": cmd_data
+                        })
+        
+        # Clear previous results
+        self.search_results_list.clear()
+        
+        # Add commands to results
+        if commands_results:
+            commands_header = QListWidgetItem("COMMANDS")
+            commands_header.setFlags(Qt.ItemFlag.NoItemFlags)
+            commands_header.setBackground(QColor("#333337"))
+            self.search_results_list.addItem(commands_header)
+            
+            for result in commands_results:
+                cat_info = self.data_loader.get_category_info(result["category"])
+                item = QListWidgetItem(f"{cat_info['icon']} {result['name']}")
+                item.setToolTip(f"Command in {result['category']}")
+                item.setData(Qt.ItemDataRole.UserRole, result)
+                self.search_results_list.addItem(item)
+        
+        # Add items to results
+        if items_results:
+            items_header = QListWidgetItem("ITEMS")
+            items_header.setFlags(Qt.ItemFlag.NoItemFlags)
+            items_header.setBackground(QColor("#333337"))
+            self.search_results_list.addItem(items_header)
+            
+            for result in items_results:
+                cat_info = self.data_loader.get_category_info(result["category"])
+                item = QListWidgetItem(f"{cat_info['icon']} {result['name']}")
+                item.setToolTip(f"Item in {result['category']}: {result['data']['id']}")
+                item.setData(Qt.ItemDataRole.UserRole, result)
+                self.search_results_list.addItem(item)
+        
+        # Show results count
+        total_results = len(commands_results) + len(items_results)
+        self.search_results_label.setText(f"Found {total_results} results for '{search_text}'")
+        
+        # Show search results panel
+        self.search_results_frame.setVisible(total_results > 0)
+        
+        # Also handle filtering for the current tab
+        current_tab = self.main_tabs.currentIndex()
         if current_tab == 0:  # Commands tab
-            # Filter command list
-            for i in range(self.command_list.count()):
-                item = self.command_list.item(i)
-                item_data = item.data(Qt.ItemDataRole.UserRole)
-                
-                if not item_data:
-                    continue
-                    
-                if search_text:
-                    if item_data["type"] == "command":
-                        # Search in command name and description
-                        name = item_data["name"].lower()
-                        desc = item_data["data"]["description"].lower()
-                        
-                        item.setHidden(search_text not in name and search_text not in desc)
-                    elif item_data["type"] == "item":
-                        # Search in item name and ID
-                        name = item_data["data"]["name"].lower()
-                        item_id = item_data["data"]["id"].lower()
-                        
-                        item.setHidden(search_text not in name and search_text not in item_id)
-                else:
-                    item.setHidden(False)
+            self.filter_command_list(search_text)
         elif current_tab == 1:  # Items tab
-            # Get current item category widget
+            # Update item filter in current selector
             current_selector = self.item_content.currentWidget()
             if isinstance(current_selector, EnhancedItemSelector):
-                # Use the selector's filter method
                 current_selector.search_box.setText(search_text)
         elif current_tab == 2:  # History tab
-            # For history tab, just highlight matching text if any
+            # Highlight matching text
+            self.highlight_history_text(search_text)
+    
+    def create_search_results_panel(self):
+        """Create the search results dropdown panel"""
+        self.search_results_frame = QFrame()
+        self.search_results_frame.setFrameShape(QFrame.Shape.StyledPanel)
+        self.search_results_frame.setStyleSheet("""
+            QFrame {
+                background-color: #252526;
+                border: 1px solid #3F3F46;
+                border-radius: 5px;
+            }
+        """)
+        
+        # Position the frame below the search box
+        # We'll need to insert it into the main layout
+        search_pos = self.main_layout.indexOf(self.search_box.parentWidget())
+        
+        results_layout = QVBoxLayout(self.search_results_frame)
+        
+        # Results header
+        header_layout = QHBoxLayout()
+        self.search_results_label = QLabel("Search Results")
+        self.search_results_label.setStyleSheet("font-weight: bold;")
+        header_layout.addWidget(self.search_results_label)
+        
+        # Close button
+        close_btn = QPushButton("×")
+        close_btn.setFixedSize(20, 20)
+        close_btn.setStyleSheet("""
+            QPushButton {
+                background-color: transparent;
+                color: #808080;
+                border: none;
+                font-weight: bold;
+                font-size: 16px;
+            }
+            QPushButton:hover {
+                color: white;
+            }
+        """)
+        close_btn.clicked.connect(lambda: self.search_results_frame.setVisible(False))
+        header_layout.addWidget(close_btn)
+        
+        results_layout.addLayout(header_layout)
+        
+        # Results list
+        self.search_results_list = QListWidget()
+        self.search_results_list.setStyleSheet("""
+            QListWidget {
+                background-color: #1E1E1E;
+                border: none;
+                max-height: 300px;
+            }
+            QListWidget::item {
+                padding: 4px;
+            }
+            QListWidget::item:hover {
+                background-color: #333333;
+            }
+            QListWidget::item:selected {
+                background-color: #0E639C;
+            }
+        """)
+        self.search_results_list.itemClicked.connect(self.on_search_result_clicked)
+        results_layout.addWidget(self.search_results_list)
+        
+        # Insert after search layout
+        self.main_layout.insertWidget(search_pos + 1, self.search_results_frame)
+        self.search_results_frame.setVisible(False)
+    
+    def on_search_result_clicked(self, item):
+        """Handle clicking on a search result"""
+        result_data = item.data(Qt.ItemDataRole.UserRole)
+        if not result_data:
+            return
+        
+        if result_data["type"] == "command":
+            # Switch to commands tab
+            self.main_tabs.setCurrentIndex(0)
+            
+            # Find and select the category
+            category = result_data["category"]
+            if category in self.category_buttons:
+                self.category_buttons[category].setChecked(True)
+                self.on_command_category_clicked(category)
+                
+                # Find and select the command in the list
+                for i in range(self.command_list.count()):
+                    list_item = self.command_list.item(i)
+                    item_data = list_item.data(Qt.ItemDataRole.UserRole)
+                    if (item_data and item_data["type"] == "command" and 
+                        item_data["name"] == result_data["name"]):
+                        self.command_list.setCurrentItem(list_item)
+                        self.on_command_selected(list_item)
+                        break
+        
+        elif result_data["type"] == "item":
+            # Switch to items tab and navigate to the category
+            self.show_item_browser(result_data["category"])
+            
+            # Get the selector widget and find the item
+            current_selector = self.item_content.currentWidget()
+            if isinstance(current_selector, EnhancedItemSelector):
+                # Find the item in the combo box
+                item_name = result_data["name"]
+                for i in range(current_selector.item_combo.count()):
+                    if current_selector.item_combo.itemText(i) == item_name:
+                        current_selector.item_combo.setCurrentIndex(i)
+                        break
+        
+        # Hide the search results
+        self.search_results_frame.setVisible(False)
+    
+    def filter_command_list(self, search_text):
+        """Filter the command list in the commands tab"""
+        for i in range(self.command_list.count()):
+            item = self.command_list.item(i)
+            item_data = item.data(Qt.ItemDataRole.UserRole)
+            
+            if not item_data:
+                continue
+                
             if search_text:
-                # Using QTextDocument's find functionality
-                cursor = self.history_text.textCursor()
-                cursor.movePosition(QTextCursor.MoveOperation.Start)
-                self.history_text.setTextCursor(cursor)
-                
-                # Set text format for highlighting (yellow background)
-                format = QTextCharFormat()
-                format.setBackground(QColor(Qt.GlobalColor.yellow))
-                
-                # Clear previous highlighting
-                cursor = self.history_text.textCursor()
-                cursor.select(QTextCursor.SelectionType.Document)
-                cursor.setCharFormat(QTextCharFormat())
-                
-                # Search and highlight
-                cursor.movePosition(QTextCursor.MoveOperation.Start)
-                self.history_text.setTextCursor(cursor)
-                
-                # Find all occurrences
-                found = self.history_text.find(search_text)
-                while found:
-                    # Apply highlight format
-                    cursor = self.history_text.textCursor()
-                    cursor.mergeCharFormat(format)
+                if item_data["type"] == "command":
+                    # Search in command name and description
+                    name = item_data["name"].lower()
+                    desc = item_data["data"]["description"].lower()
                     
-                    # Find next
-                    found = self.history_text.find(search_text)
+                    item.setHidden(search_text not in name and search_text not in desc)
+                elif item_data["type"] == "item":
+                    # Search in item name and ID
+                    name = item_data["data"]["name"].lower()
+                    item_id = item_data["data"]["id"].lower()
+                    
+                    item.setHidden(search_text not in name and search_text not in item_id)
             else:
-                # Clear highlighting
-                cursor = self.history_text.textCursor()
-                cursor.select(QTextCursor.SelectionType.Document)
-                cursor.setCharFormat(QTextCharFormat())
-                cursor.clearSelection()
-                self.history_text.setTextCursor(cursor)
-                
+                item.setHidden(False)
+    
+    def highlight_history_text(self, search_text):
+        """Highlight matching text in history tab"""
+        if not search_text:
+            self.clear_history_highlights()
+            return
+            
+        # Using QTextDocument's find functionality
+        cursor = self.history_text.textCursor()
+        cursor.movePosition(QTextCursor.MoveOperation.Start)
+        self.history_text.setTextCursor(cursor)
+        
+        # Set text format for highlighting (yellow background)
+        format = QTextCharFormat()
+        format.setBackground(QColor(Qt.GlobalColor.yellow))
+        
+        # Clear previous highlighting
+        self.clear_history_highlights()
+        
+        # Find all occurrences
+        found = self.history_text.find(search_text)
+        while found:
+            # Apply highlight format
+            cursor = self.history_text.textCursor()
+            cursor.mergeCharFormat(format)
+            
+            # Find next
+            found = self.history_text.find(search_text)
+    
+    def clear_history_highlights(self):
+        """Clear highlights in history text"""
+        cursor = self.history_text.textCursor()
+        cursor.select(QTextCursor.SelectionType.Document)
+        cursor.setCharFormat(QTextCharFormat())
+        cursor.clearSelection()
+        self.history_text.setTextCursor(cursor)
+                    
     def execute_command(self):
         """Execute the command from the command builder"""
         # Get command from builder
