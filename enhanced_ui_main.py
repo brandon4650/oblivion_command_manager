@@ -23,36 +23,12 @@ class EnhancedItemSelector(QWidget):
     # Signal emitted when a command is selected
     commandSelected = pyqtSignal(str, dict)
     
-    def __init__(self):
+    def __init__(self, data_loader, category):
         super().__init__()
-        self.setWindowTitle("Oblivion Console Manager")
-        self.setMinimumSize(900, 700)
-        
-        # Create settings object first
-        self.settings = QSettings("OblivionConsoleManager", "Settings")
-        
-        # Load data
-        self.data_loader = OblivionDataLoader("data")  # Adjust path as needed
-        if not self.data_loader.load_all_json_data():
-            QMessageBox.critical(self, "Error", "Failed to load data files.")
-            return
-        
-        # Check if icons exist
-        self.check_icons()
-        
-        # Set up the core UI structure
-        self.setup_core_ui()
-        
-        # Setup main UI contents
-        self.setup_ui_contents()
-        
-        # Load settings
-        self.load_settings()
-        
-        # Set up game status checker
-        self.status_timer = QTimer(self)
-        self.status_timer.timeout.connect(self.check_game_status)
-        self.status_timer.start(2000)  # Check every 2 seconds
+        self.data_loader = data_loader
+        self.category = category
+        self.items = data_loader.get_category_items(category)
+        self.setup_ui()
         
     def setup_ui(self):
         main_layout = QVBoxLayout(self)
@@ -540,6 +516,9 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("Oblivion Console Manager")
         self.setMinimumSize(900, 700)
         
+        # Create settings object first
+        self.settings = QSettings("OblivionConsoleManager", "Settings")
+        
         # Load data
         self.data_loader = OblivionDataLoader("data")  # Adjust path as needed
         if not self.data_loader.load_all_json_data():
@@ -556,7 +535,6 @@ class MainWindow(QMainWindow):
         self.setup_ui_contents()
         
         # Load settings
-        self.settings = QSettings("OblivionConsoleManager", "Settings")
         self.load_settings()
         
         # Set up game status checker
